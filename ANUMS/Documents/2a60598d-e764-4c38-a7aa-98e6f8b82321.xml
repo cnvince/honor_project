@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Asia and the Pacific
+Intellectual Property Law, Globalisation And Culture, Law And Society</string>
+  </void>
+  <void property="docID">
+   <string>2a60598d-e764-4c38-a7aa-98e6f8b82321</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/drahos-pf</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Asia and the Pacific
+Intellectual Property Law, Globalisation And Culture, Law And Society</string>
+  </void>
+  <void property="title">
+   <string>Professor Peter Drahos</string>
+  </void>
+ </object>
+</java>

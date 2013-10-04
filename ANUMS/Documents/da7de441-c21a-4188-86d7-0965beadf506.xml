@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Ball, D 2010, &apos;CSCAP&apos;s Foundation and Achievements&apos;, in Desmond Ball and Kwa ...</string>
+  </void>
+  <void property="docID">
+   <string>da7de441-c21a-4188-86d7-0965beadf506</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/21799</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Ball, D 2010, &apos;CSCAP&apos;s Foundation and Achievements&apos;, in Desmond Ball and Kwa ...</string>
+  </void>
+  <void property="title">
+   <string>CSCAP&apos;s Foundation and Achievements</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Afghanistan Channels ( 1).  abc • afghanistan • anu • australia • belgium • china • cuba • dubai • france • germany • greece • hd • hungary • india • indonesia • iran • iraq • italy • japan • korea • kurdistan</string>
+  </void>
+  <void property="docID">
+   <string>c5e915e0-6a9f-4790-80fc-d7976ffbdf0f</string>
+  </void>
+  <void property="link">
+   <string>http://tv.anu.edu.au/channels/?tag=afghanistan</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Afghanistan Channels ( 1).  abc • afghanistan • anu • australia • belgium • china • cuba • dubai • france • germany • greece • hd • hungary • india • indonesia • iran • iraq • italy • japan • korea • kurdistan</string>
+  </void>
+  <void property="title">
+   <string>ANUTV - Campus Network</string>
+  </void>
+ </object>
+</java>

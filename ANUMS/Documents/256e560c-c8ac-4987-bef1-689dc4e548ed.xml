@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Kuhnen, J 2007, Australian vessels and objects, Australian vessels and object...</string>
+  </void>
+  <void property="docID">
+   <string>256e560c-c8ac-4987-bef1-689dc4e548ed</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/40060</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Kuhnen, J 2007, Australian vessels and objects, Australian vessels and object...</string>
+  </void>
+  <void property="title">
+   <string>Australian vessels and objects (Contemporary forms vessels and objects portfolio)</string>
+  </void>
+ </object>
+</java>

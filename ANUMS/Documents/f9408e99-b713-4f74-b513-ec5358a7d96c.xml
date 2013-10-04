@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string> 
+ 
+Sydney : Economic Research and Financial Stability Departments, Reserve Bank of Australia, 2008</string>
+  </void>
+  <void property="docID">
+   <string>f9408e99-b713-4f74-b513-ec5358a7d96c</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YH.+C.+Coombs&amp;SORT=D/YH.+C.+Coombs&amp;SORT=D&amp;SUBKEY=H.+C.+Coombs/1%2C86%2C86%2CB/frameset&amp;FF=YH.+C.+Coombs&amp;SORT=D&amp;6%2C6%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string> 
+ 
+Sydney : Economic Research and Financial Stability Departments, Reserve Bank of Australia, 2008</string>
+  </void>
+  <void property="title">
+   <string>Lessons from the financial turmoil of 2007 and 2008 : proceedings of a conference held at the H. C.</string>
+  </void>
+ </object>
+</java>

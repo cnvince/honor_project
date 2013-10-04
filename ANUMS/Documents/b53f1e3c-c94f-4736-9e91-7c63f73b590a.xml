@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Physical and Mathematical Sciences
+Cosmology And Extragalactic Astronomy, Stellar Astronomy And Planetary System...</string>
+  </void>
+  <void property="docID">
+   <string>b53f1e3c-c94f-4736-9e91-7c63f73b590a</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/schmidt-bp</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Physical and Mathematical Sciences
+Cosmology And Extragalactic Astronomy, Stellar Astronomy And Planetary System...</string>
+  </void>
+  <void property="title">
+   <string>Professor Brian Schmidt</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>1. Citations. [ S9] IGI. John SALTER. M, 6620, b. 18 August 1791, d. ... 9 February 1877. John SALTER| b. 18 Aug 1791 nd. 9 Feb 1877| p597.htm i6620| Edward SALTER| b.</string>
+  </void>
+  <void property="docID">
+   <string>d93a56aa-3439-4698-94f8-f385cb81d8ad</string>
+  </void>
+  <void property="link">
+   <string>http://wiltshire.anu.edu.au/p597.htm</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>1. Citations. [ S9] IGI. John SALTER. M, 6620, b. 18 August 1791, d. ... 9 February 1877. John SALTER| b. 18 Aug 1791 nd. 9 Feb 1877| p597.htm i6620| Edward SALTER| b.</string>
+  </void>
+  <void property="title">
+   <string>Stourton, Kilmington and Mere Genealogies - Person Page 597</string>
+  </void>
+ </object>
+</java>

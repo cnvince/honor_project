@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Centenary of Canberra. In 2013, we mark 100 years since the naming of Canberra, our national capital and home of the Australian story. ... This event is a partnership between the Australian National University, Craft and ACT: Craft and Design Centres and</string>
+  </void>
+  <void property="docID">
+   <string>3b0c442c-1d00-4131-b39d-57f760640adb</string>
+  </void>
+  <void property="link">
+   <string>http://soa.anu.edu.au/canberra100</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Centenary of Canberra. In 2013, we mark 100 years since the naming of Canberra, our national capital and home of the Australian story. ... This event is a partnership between the Australian National University, Craft and ACT: Craft and Design Centres and</string>
+  </void>
+  <void property="title">
+   <string>Centenary of Canberra - School of Art - ANU</string>
+  </void>
+ </object>
+</java>

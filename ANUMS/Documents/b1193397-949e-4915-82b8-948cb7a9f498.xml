@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Programs: (1-3 of 13920 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Programs: (1-3 of 13920 matches)</string>
+  </void>
+  <void property="docID">
+   <string>b1193397-949e-4915-82b8-948cb7a9f498</string>
+  </void>
+  <void property="link">
+   <string>http://studyat.anu.edu.au/courses/LING3021;all.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>LING3021 - LING3021 Child Language Acquisition</string>
+  </void>
+ </object>
+</java>

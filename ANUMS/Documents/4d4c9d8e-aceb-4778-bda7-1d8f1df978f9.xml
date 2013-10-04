@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences
+Literature In Italian, Literary Studies, Italian Language, Applied Linguistic...</string>
+  </void>
+  <void property="docID">
+   <string>4d4c9d8e-aceb-4778-bda7-1d8f1df978f9</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/carroli-p</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences
+Literature In Italian, Literary Studies, Italian Language, Applied Linguistic...</string>
+  </void>
+  <void property="title">
+   <string>Dr Piera Carroli</string>
+  </void>
+ </object>
+</java>

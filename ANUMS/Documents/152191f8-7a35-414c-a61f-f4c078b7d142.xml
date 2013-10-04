@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Hancock and the physicist Mark Oliphant on the proposed Australian National University. ... Sir Mark Oliphant appointed Director of the RSPhysS. First ANU Site Plan prepared by Professor Brian Lewis of Melbourne University.</string>
+  </void>
+  <void property="docID">
+   <string>152191f8-7a35-414c-a61f-f4c078b7d142</string>
+  </void>
+  <void property="link">
+   <string>http://heritage.anu.edu.au/?pid=11</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Hancock and the physicist Mark Oliphant on the proposed Australian National University. ... Sir Mark Oliphant appointed Director of the RSPhysS. First ANU Site Plan prepared by Professor Brian Lewis of Melbourne University.</string>
+  </void>
+  <void property="title">
+   <string>Timeline of Events - Heritage</string>
+  </void>
+ </object>
+</java>

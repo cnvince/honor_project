@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Home » climate change. climate change. ... Description. The conference will be the nexus between the research community and the users of climate change adaptation information in Australia.</string>
+  </void>
+  <void property="docID">
+   <string>2d9312fe-3775-4b7c-a1e1-650bd4232f92</string>
+  </void>
+  <void property="link">
+   <string>http://www.nirra.anu.edu.au/category/tags/climate-change</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Home » climate change. climate change. ... Description. The conference will be the nexus between the research community and the users of climate change adaptation information in Australia.</string>
+  </void>
+  <void property="title">
+   <string>climate change - National Institute for Rural and Regional Australia...</string>
+  </void>
+ </object>
+</java>

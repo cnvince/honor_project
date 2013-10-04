@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>-</string>
+  </void>
+  <void property="date">
+   <string>2002-12-04</string>
+  </void>
+  <void property="displaySummary">
+   <string>2002-12-04 -</string>
+  </void>
+  <void property="docID">
+   <string>96c1a972-73af-4e82-84a6-949d90ed0da8</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/43419</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>View of British Legation &amp; Canal before Siege</string>
+  </void>
+ </object>
+</java>

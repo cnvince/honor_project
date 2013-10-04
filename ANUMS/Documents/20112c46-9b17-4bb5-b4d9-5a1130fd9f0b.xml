@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>QMath11 Conference (2010 : Hradec KrÃ¡lovÃ©, Czech Republic) 
+Hackensack :  World Scientific Publishing Company, Incorporated May 2011</string>
+  </void>
+  <void property="docID">
+   <string>20112c46-9b17-4bb5-b4d9-5a1130fd9f0b</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Yquantum+physics&amp;SORT=D/Yquantum+physics&amp;SORT=D&amp;SUBKEY=quantum+physics/1%2C1782%2C1782%2CB/frameset&amp;FF=Yquantum+physics&amp;SORT=D&amp;3%2C3%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>QMath11 Conference (2010 : Hradec KrÃ¡lovÃ©, Czech Republic) 
+Hackensack :  World Scientific Publishing Company, Incorporated May 2011</string>
+  </void>
+  <void property="title">
+   <string>Mathematical Results in Quantum Physics Proceedings of the QMath11 Conference</string>
+  </void>
+ </object>
+</java>

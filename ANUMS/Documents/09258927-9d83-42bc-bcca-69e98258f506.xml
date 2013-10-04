@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Wang, J &amp; Young, I 2007, &apos;Eosinophilic inflammation: mechanisms regulating IL...</string>
+  </void>
+  <void property="docID">
+   <string>09258927-9d83-42bc-bcca-69e98258f506</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/14934</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Wang, J &amp; Young, I 2007, &apos;Eosinophilic inflammation: mechanisms regulating IL...</string>
+  </void>
+  <void property="title">
+   <string>Eosinophilic inflammation: mechanisms regulating IL-5 transcription in human T lymphocytes</string>
+  </void>
+ </object>
+</java>

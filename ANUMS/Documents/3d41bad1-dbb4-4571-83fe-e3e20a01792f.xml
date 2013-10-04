@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Wagner, M, Tran, D, Togneri, R et al 2010, &apos;The Big Australian Speech Corpus ...</string>
+  </void>
+  <void property="docID">
+   <string>3d41bad1-dbb4-4571-83fe-e3e20a01792f</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/52842</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Wagner, M, Tran, D, Togneri, R et al 2010, &apos;The Big Australian Speech Corpus ...</string>
+  </void>
+  <void property="title">
+   <string>The Big Australian Speech Corpus (The Big ASC)</string>
+  </void>
+ </object>
+</java>

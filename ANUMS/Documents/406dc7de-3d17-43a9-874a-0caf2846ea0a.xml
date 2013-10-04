@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Physical and Mathematical Sciences</string>
+  </void>
+  <void property="docID">
+   <string>406dc7de-3d17-43a9-874a-0caf2846ea0a</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/doherty-mmw</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Physical and Mathematical Sciences</string>
+  </void>
+  <void property="title">
+   <string>Mr Marcus Doherty</string>
+  </void>
+ </object>
+</java>

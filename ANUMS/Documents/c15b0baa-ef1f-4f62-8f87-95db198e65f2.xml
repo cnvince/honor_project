@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Acceptance Environment. Palaeoclimate Studies Relevant to Natural Resource Management in the Murray-Darling Basin. ... Citation. Gell, P, Gergis, J, Mills, K et al 2009, Palaeoclimate Studies Relevant to Natural Resource Management in the Murray-Darling</string>
+  </void>
+  <void property="docID">
+   <string>c15b0baa-ef1f-4f62-8f87-95db198e65f2</string>
+  </void>
+  <void property="link">
+   <string>http://researchers-acep.anu.edu.au/publications/41078</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Acceptance Environment. Palaeoclimate Studies Relevant to Natural Resource Management in the Murray-Darling Basin. ... Citation. Gell, P, Gergis, J, Mills, K et al 2009, Palaeoclimate Studies Relevant to Natural Resource Management in the Murray-Darling</string>
+  </void>
+  <void property="title">
+   <string>Palaeoclimate Studies Relev... - Researchers - ANU</string>
+  </void>
+ </object>
+</java>

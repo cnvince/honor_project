@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences
+Education Policy, Aboriginal And Torres Strait Islander Education, Linguistic...</string>
+  </void>
+  <void property="docID">
+   <string>f9627d8c-ac5b-4ee7-8b56-096a669a1f85</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/kral-ib</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences
+Education Policy, Aboriginal And Torres Strait Islander Education, Linguistic...</string>
+  </void>
+  <void property="title">
+   <string>Dr Inge Kral</string>
+  </void>
+ </object>
+</java>

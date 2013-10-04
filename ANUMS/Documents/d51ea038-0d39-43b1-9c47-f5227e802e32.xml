@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Medicine, Biology and Environment</string>
+  </void>
+  <void property="docID">
+   <string>d51ea038-0d39-43b1-9c47-f5227e802e32</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/beveridge-nj</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Medicine, Biology and Environment</string>
+  </void>
+  <void property="title">
+   <string>Dr Natalie Beveridge</string>
+  </void>
+ </object>
+</java>

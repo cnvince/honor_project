@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Majors: (1-1 of 1 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Majors: (1-1 of 1 matches)</string>
+  </void>
+  <void property="docID">
+   <string>f2d0235e-bcfe-425a-b326-d8bd180d7a2f</string>
+  </void>
+  <void property="link">
+   <string>http://studyat.anu.edu.au/majors/PERS-MAJ;all.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>Persian Major (PERS-MAJ)</string>
+  </void>
+ </object>
+</java>

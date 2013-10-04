@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>The Phantom Public: The Discourse on Public Opinion and the Public Radio in J...</string>
+  </void>
+  <void property="docID">
+   <string>ee090c4f-3083-4ccf-94e5-54db9ed441c2</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/1752</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>The Phantom Public: The Discourse on Public Opinion and the Public Radio in J...</string>
+  </void>
+  <void property="title">
+   <string>The Phantom Public: The Discourse on Public Opinion and the Public Radio in Japan in 1925-52</string>
+  </void>
+ </object>
+</java>

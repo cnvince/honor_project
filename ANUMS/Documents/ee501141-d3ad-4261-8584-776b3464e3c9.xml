@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>THE STATE OF PLAY CONSULTANTS Stockholm International Peace Research Institute CONTRIBUTORS John Carlson Peter Hooton John Page EDITORS Ramesh Thakur Gareth Evans NUCLEAR WEAPONS: 2013 Centre for Nuclear Non-Proliferation and Disarmament All rights</string>
+  </void>
+  <void property="docID">
+   <string>ee501141-d3ad-4261-8584-776b3464e3c9</string>
+  </void>
+  <void property="link">
+   <string>http://cnnd.anu.edu.au/files/2013/state-of-play-report/12305-State-of-Play-report-1-internals-contents-FA-B.pdf</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>THE STATE OF PLAY CONSULTANTS Stockholm International Peace Research Institute CONTRIBUTORS John Carlson Peter Hooton John Page EDITORS Ramesh Thakur Gareth Evans NUCLEAR WEAPONS: 2013 Centre for Nuclear Non-Proliferation and Disarmament All rights</string>
+  </void>
+  <void property="title">
+   <string>[PDF]
+          
+          
+          
+          
+          
+            cnnd.anu.edu.au/files/2013/state-of-play-report/12305-State-of-Play-re...</string>
+  </void>
+ </object>
+</java>

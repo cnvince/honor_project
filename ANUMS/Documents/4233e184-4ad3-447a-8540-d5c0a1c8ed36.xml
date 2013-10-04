@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>DÃ¼rr, Detlef, Prof. Dr 
+Berlin ; New York : Springer, c2013</string>
+  </void>
+  <void property="docID">
+   <string>4233e184-4ad3-447a-8540-d5c0a1c8ed36</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Yquantum+physics&amp;SORT=D/Yquantum+physics&amp;SORT=D&amp;SUBKEY=quantum+physics/1%2C1782%2C1782%2CB/frameset&amp;FF=Yquantum+physics&amp;SORT=D&amp;1%2C1%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>DÃ¼rr, Detlef, Prof. Dr 
+Berlin ; New York : Springer, c2013</string>
+  </void>
+  <void property="title">
+   <string>Quantum Physics Without Quantum Philosophy</string>
+  </void>
+ </object>
+</java>

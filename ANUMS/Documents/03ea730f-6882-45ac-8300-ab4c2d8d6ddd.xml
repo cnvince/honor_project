@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences
+Australian History (Excl. Aboriginal And Torres Strait Islander History), Abo...</string>
+  </void>
+  <void property="docID">
+   <string>03ea730f-6882-45ac-8300-ab4c2d8d6ddd</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/kleinert-sj</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences
+Australian History (Excl. Aboriginal And Torres Strait Islander History), Abo...</string>
+  </void>
+  <void property="title">
+   <string>Dr Sylvia Kleinert</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Programs: (1-4 of 12 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Programs: (1-4 of 12 matches)</string>
+  </void>
+  <void property="docID">
+   <string>cefbe82d-c858-42d3-80c5-9307a957c851</string>
+  </void>
+  <void property="link">
+   <string>http://studyat.anu.edu.au/programs/7023XAHCSR;all.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>Master of Art History and Curatorial Studies (Research) (7023XAHCSR)</string>
+  </void>
+ </object>
+</java>

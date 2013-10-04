@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Smart, Sustainable and Inclusive: Researching the EU from Australia and New Zealand.</string>
+  </void>
+  <void property="docID">
+   <string>95d180d9-f19f-4be0-85a3-71dc7547aa1d</string>
+  </void>
+  <void property="link">
+   <string>http://rsha.anu.edu.au/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Smart, Sustainable and Inclusive: Researching the EU from Australia and New Zealand.</string>
+  </void>
+  <void property="title">
+   <string>Research School of Humanities and the Arts - Research School of...</string>
+  </void>
+ </object>
+</java>

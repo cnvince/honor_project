@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Graham, J, Jerjen, H &amp; Guzman, R 2003, &apos;Hubble Space Telescope detection of S...</string>
+  </void>
+  <void property="docID">
+   <string>c6cd3402-c6a6-447d-96ec-777d80867dbf</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/28511</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Graham, J, Jerjen, H &amp; Guzman, R 2003, &apos;Hubble Space Telescope detection of S...</string>
+  </void>
+  <void property="title">
+   <string>Hubble Space Telescope detection of Spiral Structure in Two Coma Cluster Dwarf Galaxies</string>
+  </void>
+ </object>
+</java>

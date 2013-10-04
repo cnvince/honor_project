@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Burton, Adrian; McNamara, Paul</string>
+  </void>
+  <void property="date">
+   <string>-</string>
+  </void>
+  <void property="displaySummary">
+   <string>- Burton, Adrian; McNamara, Paul</string>
+  </void>
+  <void property="docID">
+   <string>ce39f7a9-a841-4f92-b96c-543defa83320</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/46663</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Submission to NHMRC in response to the second consultation draft of the Australian code for the responsible conduct of research</string>
+  </void>
+ </object>
+</java>

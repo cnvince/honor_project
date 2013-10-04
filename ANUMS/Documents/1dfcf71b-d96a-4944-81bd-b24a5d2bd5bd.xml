@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Gupta, A. L </string>
+  </void>
+  <void property="docID">
+   <string>1dfcf71b-d96a-4944-81bd-b24a5d2bd5bd</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Ynational+botanical+gardens&amp;SORT=D/Ynational+botanical+gardens&amp;SORT=D&amp;SUBKEY=national+botanical+gardens/1%2C8%2C8%2CB/frameset&amp;FF=Ynational+botanical+gardens&amp;SORT=D&amp;1%2C1%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Gupta, A. L </string>
+  </void>
+  <void property="title">
+   <string>Clematis - 1.</string>
+  </void>
+ </object>
+</java>

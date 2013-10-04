@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Coram, Paul James</string>
+  </void>
+  <void property="date">
+   <string>2005-11</string>
+  </void>
+  <void property="displaySummary">
+   <string>2005-11 Coram, Paul James</string>
+  </void>
+  <void property="docID">
+   <string>f830a2d4-64e6-4402-9bb5-bf8972e06345</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/7463</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>The effect of voluntary disclosure of non-financial performance: indicators on company valuation judgements: an experimental analysis</string>
+  </void>
+ </object>
+</java>

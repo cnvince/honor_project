@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Engineering and Computer Science
+Information Systems, Business Information Systems, Administrative Law</string>
+  </void>
+  <void property="docID">
+   <string>3c06cb44-aee3-4234-a2e2-5ef6a371f514</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/clarke-ra</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Engineering and Computer Science
+Information Systems, Business Information Systems, Administrative Law</string>
+  </void>
+  <void property="title">
+   <string>Mr Roger Clarke</string>
+  </void>
+ </object>
+</java>

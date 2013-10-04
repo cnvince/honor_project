@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences
+Historical Studies</string>
+  </void>
+  <void property="docID">
+   <string>c5394dab-0368-4aa6-a6d2-59bbc7740e52</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/barton-ga</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences
+Historical Studies</string>
+  </void>
+  <void property="title">
+   <string>Dr Gregory Barton</string>
+  </void>
+ </object>
+</java>

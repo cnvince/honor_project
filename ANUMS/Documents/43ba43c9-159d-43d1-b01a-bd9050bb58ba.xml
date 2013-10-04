@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Rimmer, Matthew</string>
+  </void>
+  <void property="date">
+   <string>2002</string>
+  </void>
+  <void property="displaySummary">
+   <string>2002 Rimmer, Matthew</string>
+  </void>
+  <void property="docID">
+   <string>43ba43c9-159d-43d1-b01a-bd9050bb58ba</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/41119</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Crystal Palaces: Copyright Law And Public Architecture</string>
+  </void>
+ </object>
+</java>

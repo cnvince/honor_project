@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>it was an opportunity that Pakistan&apos;s leadership fumbled spectacularly by seeking to promote Islamic extremists to mle Afghanistan, first the Hezb-e Islami headed by Gulbuddin Hekmatyar, and then the</string>
+  </void>
+  <void property="docID">
+   <string>f6792c49-2ddd-44a8-b2d3-d1c4f179fddf</string>
+  </void>
+  <void property="link">
+   <string>http://epress.anu.edu.au/wp-content/uploads/2013/05/ch113.pdf</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>it was an opportunity that Pakistan&apos;s leadership fumbled spectacularly by seeking to promote Islamic extremists to mle Afghanistan, first the Hezb-e Islami headed by Gulbuddin Hekmatyar, and then the</string>
+  </void>
+  <void property="title">
+   <string>[PDF]
+          
+          
+          
+          
+          
+            epress.anu.edu.au/wp-content/uploads/2013/05/ch113.pdf</string>
+  </void>
+ </object>
+</java>

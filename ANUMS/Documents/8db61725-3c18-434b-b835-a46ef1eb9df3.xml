@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>We may think we live in a 3D world, but the latest advances in theoretical physics suggest we may occupy just a small slice of reality with many more dimensions. One consequence of these theories is that huge amounts of mini black holes may be formed by collisions at the Large Hadron Collider (LHC) at the European Organization for Nuclear Research (CERN). In this talk, Professor Elizabeth Winstanley will describe how these mini black holes are created, and what happens to them once they have been produced. In particular, she will discuss why these black holes will not swallow up the entire Earth.Professor Winstanley studied undergraduate mathematics at St Hugh&apos;s College, Oxford University. She then continued to study a PhD in theoretical physics at Oxford University. After her doctoral studies, she was appointed as Fellow and Lecturer in Applied Mathematics at Oriel College, Oxford University, teaching a wide range of mathematics and theoretical physics courses. In September 2000, she was appointed as a Lecturer in the Department of Applied Mathematics at the University of Sheffield, where she has worked ever since. She was promoted to Professor of Mathematical Physics in January 2009. Professor Winstanley&apos;s research interests include general relativity, quantum gravity and quantum field theory in curved space-time. Her research focuses on the physics of black holes, particularly black holes in general relativity and the Hawking radiation of black holes as might be produced at the Large Hadron Collider at CERN in Switzerland. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>8db61725-3c18-434b-b835-a46ef1eb9df3</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=IULjmY7ZqFM</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>We may think we live in a 3D world, but the latest advances in theoretical physics suggest we may occupy just a small slice of reality with many more dimensions. One consequence of these theories is that huge amounts of mini black holes may be formed by collisions at the Large Hadron Collider (LHC) at the European Organization for Nuclear Research (CERN). In this talk, Professor Elizabeth Winstanley will describe how these mini black holes are created, and what happens to them once they have been produced. In particular, she will discuss why these black holes will not swallow up the entire Earth.Professor Winstanley studied undergraduate mathematics at St Hugh&apos;s College, Oxford University. She then continued to study a PhD in theoretical physics at Oxford University. After her doctoral studies, she was appointed as Fellow and Lecturer in Applied Mathematics at Oriel College, Oxford University, teaching a wide range of mathematics and theoretical physics courses. In September 2000, she was appointed as a Lecturer in the Department of Applied Mathematics at the University of Sheffield, where she has worked ever since. She was promoted to Professor of Mathematical Physics in January 2009. Professor Winstanley&apos;s research interests include general relativity, quantum gravity and quantum field theory in curved space-time. Her research focuses on the physics of black holes, particularly black holes in general relativity and the Hawking radiation of black holes as might be produced at the Large Hadron Collider at CERN in Switzerland.</string>
+  </void>
+  <void property="title">
+   <string>Black Holes at the Large Hadron Collider - Prof Elizabeth Winstanley at ANU</string>
+  </void>
+ </object>
+</java>

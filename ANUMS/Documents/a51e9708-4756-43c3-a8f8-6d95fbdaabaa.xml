@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>P Bouwknegt and D Ridout. A Note on the Equality of Algebraic and Geometric D...</string>
+  </void>
+  <void property="docID">
+   <string>a51e9708-4756-43c3-a8f8-6d95fbdaabaa</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/51915</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>P Bouwknegt and D Ridout. A Note on the Equality of Algebraic and Geometric D...</string>
+  </void>
+  <void property="title">
+   <string>A Note on the Equality of Algebraic and Geometric D-Brane Charges in WZW Models.</string>
+  </void>
+ </object>
+</java>

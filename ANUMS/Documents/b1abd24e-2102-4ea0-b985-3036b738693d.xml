@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>About ANU. Search site. search. Search About ANU. Search query. Search. ... The Australian National University ( ANU) is a celebrated place of intensive research, education and policy engagement.</string>
+  </void>
+  <void property="docID">
+   <string>b1abd24e-2102-4ea0-b985-3036b738693d</string>
+  </void>
+  <void property="link">
+   <string>http://about.anu.edu.au/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>About ANU. Search site. search. Search About ANU. Search query. Search. ... The Australian National University ( ANU) is a celebrated place of intensive research, education and policy engagement.</string>
+  </void>
+  <void property="title">
+   <string>Home - About ANU - ANU</string>
+  </void>
+ </object>
+</java>

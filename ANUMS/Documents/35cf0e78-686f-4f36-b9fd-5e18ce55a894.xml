@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Azadeh, Atri</string>
+  </void>
+  <void property="date">
+   <string>2009</string>
+  </void>
+  <void property="displaySummary">
+   <string>2009 Azadeh, Atri</string>
+  </void>
+  <void property="docID">
+   <string>35cf0e78-686f-4f36-b9fd-5e18ce55a894</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/8989</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>20 Short Piano Pieces of Pedagogic Intent, Using Aspects of Traditional Persian Sources</string>
+  </void>
+ </object>
+</java>

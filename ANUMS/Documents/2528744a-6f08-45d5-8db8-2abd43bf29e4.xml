@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ContactResult">
+  <void property="address">
+   <string> Australian Centre on China in the WorldANU College of Asia &amp; the PacificBuilding 9,   H.C.Coombs BldThe Australian National UniversityACT 0200 Australia</string>
+  </void>
+  <void property="displaySummary">
+   <string> 57088  (6125 7088)   Australian Centre on China in the WorldANU College of Asia &amp; the PacificBuilding 9,   H.C.Coombs BldThe Australian National UniversityACT 0200 Australia </string>
+  </void>
+  <void property="docID">
+   <string>2528744a-6f08-45d5-8db8-2abd43bf29e4</string>
+  </void>
+  <void property="link">
+   <string>http://www.anu.edu.au/dirs/search.php?stype=Staff+Directory&amp;querytext=China</string>
+  </void>
+  <void property="phone">
+   <string>57088  (6125 7088)</string>
+  </void>
+  <void property="title">
+   <string>Australian Centre on China in the World</string>
+  </void>
+ </object>
+</java>

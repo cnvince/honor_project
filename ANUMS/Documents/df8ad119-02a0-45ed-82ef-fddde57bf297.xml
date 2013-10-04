@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Requirements:. Honours I or IIA degree in a computing-related discipline ( or equivalent qualification). Preferable attributes include experience in any of the following areas: high performance computing, grid computing MPI programming, ... Links and Key</string>
+  </void>
+  <void property="docID">
+   <string>df8ad119-02a0-45ed-82ef-fddde57bf297</string>
+  </void>
+  <void property="link">
+   <string>http://cs.anu.edu.au/~Peter.Strazdins/projects/HPNumSOA/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Requirements:. Honours I or IIA degree in a computing-related discipline ( or equivalent qualification). Preferable attributes include experience in any of the following areas: high performance computing, grid computing MPI programming, ... Links and Key</string>
+  </void>
+  <void property="title">
+   <string>High Performance Numerical Computing on Service-Oriented...</string>
+  </void>
+ </object>
+</java>

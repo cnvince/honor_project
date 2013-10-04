@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>China in the Pacific ( recent journal articles). Several journals have recently featured articles on China’s emerging role in the Pacific Islands, including the special issue of Pacific Affairs( Volume 86 ... No.2, June 2013) on ‘Global Perspectives</string>
+  </void>
+  <void property="docID">
+   <string>f1e360a9-41ed-43d9-bf45-d5c367463ffd</string>
+  </void>
+  <void property="link">
+   <string>http://pacificinstitute.anu.edu.au/outrigger/tag/china/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>China in the Pacific ( recent journal articles). Several journals have recently featured articles on China’s emerging role in the Pacific Islands, including the special issue of Pacific Affairs( Volume 86 ... No.2, June 2013) on ‘Global Perspectives</string>
+  </void>
+  <void property="title">
+   <string>China | Outrigger: Blog of the Pacific Institute</string>
+  </void>
+ </object>
+</java>

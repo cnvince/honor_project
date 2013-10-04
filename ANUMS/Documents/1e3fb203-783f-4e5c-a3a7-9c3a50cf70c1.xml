@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string> 
+Collingwood, Vic. : CSIRO Publishing, 2011</string>
+  </void>
+  <void property="docID">
+   <string>1e3fb203-783f-4e5c-a3a7-9c3a50cf70c1</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Ymurray+darling+basin&amp;SORT=D/Ymurray+darling+basin&amp;SORT=D&amp;SUBKEY=murray+darling+basin/1%2C149%2C149%2CB/frameset&amp;FF=Ymurray+darling+basin&amp;SORT=D&amp;1%2C1%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string> 
+Collingwood, Vic. : CSIRO Publishing, 2011</string>
+  </void>
+  <void property="title">
+   <string>Floodplain wetland biota in the Murray-Darling basin : water and habitat requirements</string>
+  </void>
+ </object>
+</java>

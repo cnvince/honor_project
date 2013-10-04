@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>The rare Murray River crayfish has become an unlikely movie star, thanks to a new underwater video surveying technique that has revealed the species may be more prevalent in clear-water rivers than we thought. The new method, developed by Dr Chris Fulton at The Australian National University, will give researchers more accurate estimates of crayfish populations to ensure future efforts to conserve this icon of the Murray-Darling Basin are as effective as possible. Read the full story at: http://news.anu.edu.au/2013/01/29/good-news-for-murray-ri... viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>e9cd9f70-fd90-457a-8d7d-ed1f5f8eb61f</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=4dHfIQZnttY</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>The rare Murray River crayfish has become an unlikely movie star, thanks to a new underwater video surveying technique that has revealed the species may be more prevalent in clear-water rivers than we thought. The new method, developed by Dr Chris Fulton at The Australian National University, will give researchers more accurate estimates of crayfish populations to ensure future efforts to conserve this icon of the Murray-Darling Basin are as effective as possible. Read the full story at: http://news.anu.edu.au/2013/01/29/good-news-for-murray-ri...</string>
+  </void>
+  <void property="title">
+   <string>Murray River crayfish interacting with baited camera</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Physical and Mathematical Sciences
+Geochronology, Isotope Geochemistry, Geology, Tectonics, Igneous And Metamorp...</string>
+  </void>
+  <void property="docID">
+   <string>5af70ad5-cf4e-4be6-9e94-2ef0e102c62a</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/fanning-cm</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Physical and Mathematical Sciences
+Geochronology, Isotope Geochemistry, Geology, Tectonics, Igneous And Metamorp...</string>
+  </void>
+  <void property="title">
+   <string>Mr Christopher Mark Fanning</string>
+  </void>
+ </object>
+</java>

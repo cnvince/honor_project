@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Photographer: ANU Photographic Services</string>
+  </void>
+  <void property="date">
+   <string>11 May 1961</string>
+  </void>
+  <void property="displaySummary">
+   <string>11 May 1961 Photographer: ANU Photographic Services</string>
+  </void>
+  <void property="docID">
+   <string>68505174-aaf6-424c-8a5e-76f8d9458652</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/7319</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Proceeding to the laying of foundation stone ceremony for R.G. Menzies Building of the University Library</string>
+  </void>
+ </object>
+</java>

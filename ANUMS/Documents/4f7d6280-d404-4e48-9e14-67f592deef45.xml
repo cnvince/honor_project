@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Asia and the Pacific
+Public Policy, Comparative Government And Politics, Pacific History (Excl. Ne...</string>
+  </void>
+  <void property="docID">
+   <string>4f7d6280-d404-4e48-9e14-67f592deef45</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/hegarty-dw</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Asia and the Pacific
+Public Policy, Comparative Government And Politics, Pacific History (Excl. Ne...</string>
+  </void>
+  <void property="title">
+   <string>Mr David Hegarty</string>
+  </void>
+ </object>
+</java>

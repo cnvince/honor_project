@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Kipnis, A, Tomba, L &amp; Unger, J, eds, 2009, Contemporary Chinese Society a...</string>
+  </void>
+  <void property="docID">
+   <string>1ddfbf00-291a-4d09-8575-8103361b8425</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/25334</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Kipnis, A, Tomba, L &amp; Unger, J, eds, 2009, Contemporary Chinese Society a...</string>
+  </void>
+  <void property="title">
+   <string>Contemporary Chinese Society and Politics</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Political Activisms. Rural Properties. Stately Homes. Oliphant, Sir Marcus Laurence ( Mark) ( 1901– 2000). Oliphant, Sir Marcus Laurence ( Mark) ( 1901– 2000). Born.</string>
+  </void>
+  <void property="docID">
+   <string>a8094a7e-ba7b-4fe3-b905-2c9819c1ade8</string>
+  </void>
+  <void property="link">
+   <string>http://oa.anu.edu.au/lifesummary/oliphant-sir-marcus-laurence-mark-782</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Political Activisms. Rural Properties. Stately Homes. Oliphant, Sir Marcus Laurence ( Mark) ( 1901– 2000). Oliphant, Sir Marcus Laurence ( Mark) ( 1901– 2000). Born.</string>
+  </void>
+  <void property="title">
+   <string>Life Summary - Sir Marcus Laurence  (Mark) Oliphant - Obituaries...</string>
+  </void>
+ </object>
+</java>

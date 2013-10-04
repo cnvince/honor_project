@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Kerzendorf, W, Schmidt, B, Asplund, M et al 2009, &apos;Subaru High-Resolution Spe...</string>
+  </void>
+  <void property="docID">
+   <string>dbda5bc3-52e1-4865-8750-d459618cbeb4</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/13059</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Kerzendorf, W, Schmidt, B, Asplund, M et al 2009, &apos;Subaru High-Resolution Spe...</string>
+  </void>
+  <void property="title">
+   <string>Subaru High-Resolution Spectroscopy of Star G in the Tycho Supernova Remnant</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Climate change impacts on workplace heat extremes: Health risk estimates and ...</string>
+  </void>
+  <void property="docID">
+   <string>e0e3f331-3470-44d3-88d8-df9764c85672</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/2398</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Climate change impacts on workplace heat extremes: Health risk estimates and ...</string>
+  </void>
+  <void property="title">
+   <string>Climate change impacts on workplace heat extremes: Health risk estimates and adaptive options</string>
+  </void>
+ </object>
+</java>

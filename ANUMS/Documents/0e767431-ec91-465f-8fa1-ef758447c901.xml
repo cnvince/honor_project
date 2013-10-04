@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Homes for the people: A study of the Peter Lalor Housing Co-Operative, 1974-2004</string>
+  </void>
+  <void property="docID">
+   <string>0e767431-ec91-465f-8fa1-ef758447c901</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/2428</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Homes for the people: A study of the Peter Lalor Housing Co-Operative, 1974-2004</string>
+  </void>
+  <void property="title">
+   <string>Homes for the people: A study of the Peter Lalor Housing Co-Operative, 1974-2004</string>
+  </void>
+ </object>
+</java>

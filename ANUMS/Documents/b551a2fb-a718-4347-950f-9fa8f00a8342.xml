@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Johansson, Sheila Ryan</string>
+  </void>
+  <void property="date">
+   <string>1996</string>
+  </void>
+  <void property="displaySummary">
+   <string>1996 Johansson, Sheila Ryan</string>
+  </void>
+  <void property="docID">
+   <string>b551a2fb-a718-4347-950f-9fa8f00a8342</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/41418</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Doing &apos;health&apos; research in an unhealthy research environment</string>
+  </void>
+ </object>
+</java>

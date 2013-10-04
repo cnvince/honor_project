@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Low, L, Anstey, K &amp; Sachdev, P 2008, &apos;Use of medication : with anticholinergi...</string>
+  </void>
+  <void property="docID">
+   <string>87e5c3b2-41de-4765-ae64-8b2f3cccfb55</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/42719</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Low, L, Anstey, K &amp; Sachdev, P 2008, &apos;Use of medication : with anticholinergi...</string>
+  </void>
+  <void property="title">
+   <string>Use of medication : with anticholinergic properties and cognitive function in a young -old community sample.</string>
+  </void>
+ </object>
+</java>

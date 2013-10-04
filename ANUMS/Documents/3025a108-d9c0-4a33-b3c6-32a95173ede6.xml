@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Professor Ian Young. ANU College of Medicine, Biology and Environment. E: ig.young@anu.edu.au. ... Publications.  Yao S, Young IG, Norton R et al, 2011, &apos;Murine interleukin 3: Structure, dynamics and conformation in solution&apos;, Biochemistry, vol 50, pp2464</string>
+  </void>
+  <void property="docID">
+   <string>3025a108-d9c0-4a33-b3c6-32a95173ede6</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/young-ig</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Professor Ian Young. ANU College of Medicine, Biology and Environment. E: ig.young@anu.edu.au. ... Publications.  Yao S, Young IG, Norton R et al, 2011, &apos;Murine interleukin 3: Structure, dynamics and conformation in solution&apos;, Biochemistry, vol 50, pp2464</string>
+  </void>
+  <void property="title">
+   <string>Professor Ian Young - Researchers - ANU</string>
+  </void>
+ </object>
+</java>

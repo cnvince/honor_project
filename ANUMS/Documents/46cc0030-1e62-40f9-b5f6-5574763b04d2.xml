@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>On 13 November 2012, the newly established Mongolia Institute at The Australian National University hosted the inaugural Mongolia Update in Canberra. The event, hosted by ANU and supported by the Embassy of Mongolia, was aimed at informing Australian government, business and academic specialists, as well as the general public, of recent developments and trends in Mongolia&apos;s politics, economics, society, culture and environment.Part 7 features an introduction by Dr Jack Fenner, from the School of Culture, History and Language at the ANU College of Asia and Pacific, and speaking is PhD candidate Undargaa Sandagsuren from the Crawford School at the ANU College of Asia and Pacific, who provides an analysis on land reform.The 2012 Mongolia Update is sponsored by the ANU College of Asia and the Pacific; the College&apos;s School of Culture, History and Language and Crawford School of Public Policy; and the Embassy of Mongolia in Australia. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>46cc0030-1e62-40f9-b5f6-5574763b04d2</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=Q_loMghmxNI</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>On 13 November 2012, the newly established Mongolia Institute at The Australian National University hosted the inaugural Mongolia Update in Canberra. The event, hosted by ANU and supported by the Embassy of Mongolia, was aimed at informing Australian government, business and academic specialists, as well as the general public, of recent developments and trends in Mongolia&apos;s politics, economics, society, culture and environment.Part 7 features an introduction by Dr Jack Fenner, from the School of Culture, History and Language at the ANU College of Asia and Pacific, and speaking is PhD candidate Undargaa Sandagsuren from the Crawford School at the ANU College of Asia and Pacific, who provides an analysis on land reform.The 2012 Mongolia Update is sponsored by the ANU College of Asia and the Pacific; the College&apos;s School of Culture, History and Language and Crawford School of Public Policy; and the Embassy of Mongolia in Australia.</string>
+  </void>
+  <void property="title">
+   <string>2012 Mongolian Update - Part 7</string>
+  </void>
+ </object>
+</java>

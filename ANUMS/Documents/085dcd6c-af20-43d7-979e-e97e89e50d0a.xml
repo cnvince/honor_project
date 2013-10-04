@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ContactResult">
+  <void property="displaySummary">
+   <string>    Admissions Office, Student Administration Services</string>
+  </void>
+  <void property="docID">
+   <string>085dcd6c-af20-43d7-979e-e97e89e50d0a</string>
+  </void>
+  <void property="link">
+   <string>http://www.anu.edu.au/dirs/c5a_search.php?submit=Search&amp;querytext=9</string>
+  </void>
+  <void property="summary">
+   <string>Admissions Office, Student Administration Services</string>
+  </void>
+  <void property="title">
+   <string>Fax - Admissions Student Administrative Services</string>
+  </void>
+ </object>
+</java>

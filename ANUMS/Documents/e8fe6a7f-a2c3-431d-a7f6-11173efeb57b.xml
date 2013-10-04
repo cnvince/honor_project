@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Law
+Legal Theory, Jurisprudence And Legal Interpretation, Comparative Law, Law An...</string>
+  </void>
+  <void property="docID">
+   <string>e8fe6a7f-a2c3-431d-a7f6-11173efeb57b</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/cheema-mh</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Law
+Legal Theory, Jurisprudence And Legal Interpretation, Comparative Law, Law An...</string>
+  </void>
+  <void property="title">
+   <string>Mr Moeen Cheema</string>
+  </void>
+ </object>
+</java>

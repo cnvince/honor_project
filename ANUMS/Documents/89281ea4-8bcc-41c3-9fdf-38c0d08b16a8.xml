@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Australian Societies, Observatories, Planetariums and Holiday Spots. This is partial list of amateur and professional societies, public planetariums and holiday spots that offer accommodation with astronomical tours and/or hire of ... Anglo-Australian</string>
+  </void>
+  <void property="docID">
+   <string>89281ea4-8bcc-41c3-9fdf-38c0d08b16a8</string>
+  </void>
+  <void property="link">
+   <string>http://www.mso.anu.edu.au/cas/specialinterest.html</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Australian Societies, Observatories, Planetariums and Holiday Spots. This is partial list of amateur and professional societies, public planetariums and holiday spots that offer accommodation with astronomical tours and/or hire of ... Anglo-Australian</string>
+  </void>
+  <void property="title">
+   <string>Canberra Astronomical Society - Activities</string>
+  </void>
+ </object>
+</java>

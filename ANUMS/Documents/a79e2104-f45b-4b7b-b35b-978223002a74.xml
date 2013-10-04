@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Asia and the Pacific
+Comparative Government And Politics, Studies Of Asian Society, Government And...</string>
+  </void>
+  <void property="docID">
+   <string>a79e2104-f45b-4b7b-b35b-978223002a74</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/kim-hx</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Asia and the Pacific
+Comparative Government And Politics, Studies Of Asian Society, Government And...</string>
+  </void>
+  <void property="title">
+   <string>Associate Professor Hyung-A Kim</string>
+  </void>
+ </object>
+</java>

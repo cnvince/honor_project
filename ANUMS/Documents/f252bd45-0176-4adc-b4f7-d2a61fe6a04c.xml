@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>ANU  international alliance partners are the International Alliance of Research Universities (IARU) and the Association of Pacific Rim Universities (APRU).</string>
+  </void>
+  <void property="docID">
+   <string>f252bd45-0176-4adc-b4f7-d2a61fe6a04c</string>
+  </void>
+  <void property="link">
+   <string>http://drss.anu.edu.au/isa/alliances.php</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>ANU  international alliance partners are the International Alliance of Research Universities (IARU) and the Association of Pacific Rim Universities (APRU).</string>
+  </void>
+  <void property="title">
+   <string>Alliances - ISAP - ANU</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Lindenmayer, D &amp; Gibbons, P 2012, &apos;Can we make biodiversity monitoring happen...</string>
+  </void>
+  <void property="docID">
+   <string>cd43339a-2c74-49de-bae0-dc9843bed581</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/76336</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Lindenmayer, D &amp; Gibbons, P 2012, &apos;Can we make biodiversity monitoring happen...</string>
+  </void>
+  <void property="title">
+   <string>Can we make biodiversity monitoring happen in Australia? Moving beyond &apos;it&apos;s the thought that counts&apos;</string>
+  </void>
+ </object>
+</java>

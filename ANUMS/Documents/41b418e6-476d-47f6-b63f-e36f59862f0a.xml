@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Photographer: Australian News and Information Bureau</string>
+  </void>
+  <void property="date">
+   <string>7 Jul 1966</string>
+  </void>
+  <void property="displaySummary">
+   <string>7 Jul 1966 Photographer: Australian News and Information Bureau</string>
+  </void>
+  <void property="docID">
+   <string>41b418e6-476d-47f6-b63f-e36f59862f0a</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/7489</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>L to R: Pro-Chancellor, Dr H C Coombs, The Rt Hon Lord Florey and Vice-Chancellor, Professor Leonard Huxley conversing after the ceremony for the installation of Lord Florey as Chancellor, The Austalian National University, Canberra</string>
+  </void>
+ </object>
+</java>

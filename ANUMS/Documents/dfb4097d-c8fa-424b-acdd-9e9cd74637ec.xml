@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Mao, M Y, Sharp, R, Norris, R P, et al., 2012, &apos;The Australia Telescope Large...</string>
+  </void>
+  <void property="docID">
+   <string>dfb4097d-c8fa-424b-acdd-9e9cd74637ec</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/73898</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Mao, M Y, Sharp, R, Norris, R P, et al., 2012, &apos;The Australia Telescope Large...</string>
+  </void>
+  <void property="title">
+   <string>The Australia Telescope Large Area Survey: spectroscopic catalogue and radio luminosity functions</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Towards Oligoclusters: Chemistry Properties and Applications</string>
+  </void>
+  <void property="docID">
+   <string>9b08df63-7340-417d-af27-93bd1685b0cb</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/327</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Towards Oligoclusters: Chemistry Properties and Applications</string>
+  </void>
+  <void property="title">
+   <string>Towards Oligoclusters: Chemistry Properties and Applications</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Munoz, Arturo, 1949- 
+Santa Monica, CA : RAND, 2012.</string>
+  </void>
+  <void property="docID">
+   <string>7223482b-4c4e-4b9a-9f75-8cc5db2f5a41</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Yafghanistan&amp;SORT=D/Yafghanistan&amp;SORT=D&amp;SUBKEY=afghanistan/1%2C1147%2C1147%2CB/frameset&amp;FF=Yafghanistan&amp;SORT=D&amp;10%2C10%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Munoz, Arturo, 1949- 
+Santa Monica, CA : RAND, 2012.</string>
+  </void>
+  <void property="title">
+   <string>U.S. military information operations in Afghanistan effectiveness of psychological operations 2001-2</string>
+  </void>
+ </object>
+</java>

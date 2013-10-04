@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Media conference at The Australian National University to announce the appointment of Professor Ian Young as the new Vice-Chancellor. Professor Young is joined at the media conference by Chancellor Professor Gareth Evans. This video was recorded on</string>
+  </void>
+  <void property="docID">
+   <string>8429d169-7235-49e2-b4fb-d6e17d9043ca</string>
+  </void>
+  <void property="link">
+   <string>http://www.anu.edu.au/vision/videos/1731/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Media conference at The Australian National University to announce the appointment of Professor Ian Young as the new Vice-Chancellor. Professor Young is joined at the media conference by Chancellor Professor Gareth Evans. This video was recorded on</string>
+  </void>
+  <void property="title">
+   <string>New ANU Vice-Chancellor Professor Ian Young - media conference, 1 Oct...</string>
+  </void>
+ </object>
+</java>

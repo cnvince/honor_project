@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Fogarty, William; Kral, Inge</string>
+  </void>
+  <void property="date">
+   <string>-</string>
+  </void>
+  <void property="displaySummary">
+   <string>- Fogarty, William; Kral, Inge</string>
+  </void>
+  <void property="docID">
+   <string>9f05ed5e-fef1-439e-bd76-5f00060e050e</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/9737</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Indigenous language education in remote communities</string>
+  </void>
+ </object>
+</java>

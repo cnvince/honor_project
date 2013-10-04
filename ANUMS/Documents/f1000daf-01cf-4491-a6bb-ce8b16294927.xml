@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>McMichael, A &amp; Dear, K 2007, &apos;Environment and disease&apos;, in Alan Wright, Nicho...</string>
+  </void>
+  <void property="docID">
+   <string>f1000daf-01cf-4491-a6bb-ce8b16294927</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/14311</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>McMichael, A &amp; Dear, K 2007, &apos;Environment and disease&apos;, in Alan Wright, Nicho...</string>
+  </void>
+  <void property="title">
+   <string>Environment and disease</string>
+  </void>
+ </object>
+</java>

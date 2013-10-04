@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences
+International Relations, Political Theory And Political Philosophy</string>
+  </void>
+  <void property="docID">
+   <string>aecf42fa-024f-4be0-8057-bbd1d91f6502</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/huynh-kt</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences
+International Relations, Political Theory And Political Philosophy</string>
+  </void>
+  <void property="title">
+   <string>Dr Kim Huynh</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>ALLEN, JOHN R. 
+Washington :  Center for a New American Security, 2013</string>
+  </void>
+  <void property="docID">
+   <string>35af7181-2b58-4f2d-adc3-5e0eedc0f524</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Yafghanistan&amp;SORT=D/Yafghanistan&amp;SORT=D&amp;SUBKEY=afghanistan/1%2C1147%2C1147%2CB/frameset&amp;FF=Yafghanistan&amp;SORT=D&amp;4%2C4%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>ALLEN, JOHN R. 
+Washington :  Center for a New American Security, 2013</string>
+  </void>
+  <void property="title">
+   <string>Toward a Successful Outcome in Afghanistan</string>
+  </void>
+ </object>
+</java>

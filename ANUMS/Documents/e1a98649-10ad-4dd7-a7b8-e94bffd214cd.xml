@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Collins, Joseph J 
+New York : Skyhorse Pub., 2013.</string>
+  </void>
+  <void property="docID">
+   <string>e1a98649-10ad-4dd7-a7b8-e94bffd214cd</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Yafghanistan&amp;SORT=D/Yafghanistan&amp;SORT=D&amp;SUBKEY=afghanistan/1%2C1147%2C1147%2CB/frameset&amp;FF=Yafghanistan&amp;SORT=D&amp;2%2C2%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Collins, Joseph J 
+New York : Skyhorse Pub., 2013.</string>
+  </void>
+  <void property="title">
+   <string>Understanding the war in Afghanistan : a guide to the land, the people, and the conflict</string>
+  </void>
+ </object>
+</java>

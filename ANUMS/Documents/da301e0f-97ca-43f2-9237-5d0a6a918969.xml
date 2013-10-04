@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>J.C. Altman, K. Jordan, S. Kerins, G. Buchanan, N. Biddle, E.J. Ens &amp; K. May ...</string>
+  </void>
+  <void property="docID">
+   <string>da301e0f-97ca-43f2-9237-5d0a6a918969</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/53914</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>J.C. Altman, K. Jordan, S. Kerins, G. Buchanan, N. Biddle, E.J. Ens &amp; K. May ...</string>
+  </void>
+  <void property="title">
+   <string>Indigenous interests in land and water</string>
+  </void>
+ </object>
+</java>

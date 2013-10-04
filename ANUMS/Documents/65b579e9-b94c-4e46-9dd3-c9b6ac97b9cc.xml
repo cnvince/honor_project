@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Chan, A &amp; Unger, J 2009, &apos;A Chinese State Enterprise under the Reforms: What ...</string>
+  </void>
+  <void property="docID">
+   <string>65b579e9-b94c-4e46-9dd3-c9b6ac97b9cc</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/15312</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Chan, A &amp; Unger, J 2009, &apos;A Chinese State Enterprise under the Reforms: What ...</string>
+  </void>
+  <void property="title">
+   <string>A Chinese State Enterprise under the Reforms: What Model of Capitalism?</string>
+  </void>
+ </object>
+</java>

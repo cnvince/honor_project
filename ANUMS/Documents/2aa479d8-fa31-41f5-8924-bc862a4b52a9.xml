@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Butfoy, Andrew</string>
+  </void>
+  <void property="date">
+   <string>1996</string>
+  </void>
+  <void property="displaySummary">
+   <string>1996 Butfoy, Andrew</string>
+  </void>
+  <void property="docID">
+   <string>2aa479d8-fa31-41f5-8924-bc862a4b52a9</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/41678</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Ameliorating the security dilemma: structural and perceptual approaches to strategic reform</string>
+  </void>
+ </object>
+</java>

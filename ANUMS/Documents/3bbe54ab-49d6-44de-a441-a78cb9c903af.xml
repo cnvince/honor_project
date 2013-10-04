@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Engineering and Computer Science
+Science, Technology And Engineering Curriculum And Pedagogy, Numerical Comput...</string>
+  </void>
+  <void property="docID">
+   <string>3bbe54ab-49d6-44de-a441-a78cb9c903af</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/strazdins-pe</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Engineering and Computer Science
+Science, Technology And Engineering Curriculum And Pedagogy, Numerical Comput...</string>
+  </void>
+  <void property="title">
+   <string>Dr Peter Strazdins</string>
+  </void>
+ </object>
+</java>

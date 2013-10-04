@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Professor Brian Schmidt receives the Nobel Prize for Physics from Sweden&apos;s King Carl Gustaf. ... Photo by Frida Westhorn, Nobel Foundation. Professor Brian Schmidt was awarded the Nobel Prize for Physics in a formal ceremony in Stockholm on the weekend.</string>
+  </void>
+  <void property="docID">
+   <string>8f2d3c4a-fe9e-429a-bb22-83262eccd01e</string>
+  </void>
+  <void property="link">
+   <string>http://vcdesk.anu.edu.au/2011/12/13/brian-receives-his-nobel-prize/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Professor Brian Schmidt receives the Nobel Prize for Physics from Sweden&apos;s King Carl Gustaf. ... Photo by Frida Westhorn, Nobel Foundation. Professor Brian Schmidt was awarded the Nobel Prize for Physics in a formal ceremony in Stockholm on the weekend.</string>
+  </void>
+  <void property="title">
+   <string>Brian Schmidt receives his Nobel Prize - From the...</string>
+  </void>
+ </object>
+</java>

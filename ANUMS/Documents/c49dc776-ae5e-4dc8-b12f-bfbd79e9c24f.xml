@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Kay, A &amp; Ackrill, R 2006, &apos;The EU Budget and the CAP: An agenda for review?&apos;,...</string>
+  </void>
+  <void property="docID">
+   <string>c49dc776-ae5e-4dc8-b12f-bfbd79e9c24f</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/44739</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Kay, A &amp; Ackrill, R 2006, &apos;The EU Budget and the CAP: An agenda for review?&apos;,...</string>
+  </void>
+  <void property="title">
+   <string>The EU Budget and the CAP: An agenda for review?</string>
+  </void>
+ </object>
+</java>

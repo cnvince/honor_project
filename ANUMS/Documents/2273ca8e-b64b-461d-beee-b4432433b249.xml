@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>ANU undergraduate current scholarships for domestic students</string>
+  </void>
+  <void property="docID">
+   <string>2273ca8e-b64b-461d-beee-b4432433b249</string>
+  </void>
+  <void property="link">
+   <string>http://students.anu.edu.au/scholarships/ug/cur/dom/judith-wright.php</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>ANU undergraduate current scholarships for domestic students</string>
+  </void>
+  <void property="title">
+   <string>Judith Wright Scholarship - Students - ANU</string>
+  </void>
+ </object>
+</java>

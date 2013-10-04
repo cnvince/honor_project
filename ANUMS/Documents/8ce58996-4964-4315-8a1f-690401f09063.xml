@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Hansson, Sven Ove 1951- 
+New York :  Cambridge University Press July 2001</string>
+  </void>
+  <void property="docID">
+   <string>8ce58996-4964-4315-8a1f-690401f09063</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YJohn+C+Harsanyi&amp;SORT=D/YJohn+C+Harsanyi&amp;SORT=D&amp;SUBKEY=John+C+Harsanyi/1%2C11%2C11%2CB/frameset&amp;FF=YJohn+C+Harsanyi&amp;SORT=D&amp;10%2C10%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Hansson, Sven Ove 1951- 
+New York :  Cambridge University Press July 2001</string>
+  </void>
+  <void property="title">
+   <string>The Structure of Values and Norms</string>
+  </void>
+ </object>
+</java>

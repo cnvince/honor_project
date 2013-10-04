@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Cho, Sang Woo 
+c2011</string>
+  </void>
+  <void property="docID">
+   <string>4b913f20-45b5-428f-9a55-fe4e6bc4308e</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YSouth+Korea&amp;SORT=D/YSouth+Korea&amp;SORT=D&amp;SUBKEY=South+Korea/1%2C1959%2C1959%2CB/frameset&amp;FF=YSouth+Korea&amp;SORT=D&amp;3%2C3%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Cho, Sang Woo 
+c2011</string>
+  </void>
+  <void property="title">
+   <string>The evangelization of secular young adults in South Korea : effective principles for conversion grow</string>
+  </void>
+ </object>
+</java>

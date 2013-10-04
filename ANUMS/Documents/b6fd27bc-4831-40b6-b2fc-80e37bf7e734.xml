@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>3D structure determination of biomolecular assemblies from sparse data of dif...</string>
+  </void>
+  <void property="docID">
+   <string>b6fd27bc-4831-40b6-b2fc-80e37bf7e734</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/2420</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>3D structure determination of biomolecular assemblies from sparse data of dif...</string>
+  </void>
+  <void property="title">
+   <string>3D structure determination of biomolecular assemblies from sparse data of different length scales</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>d484f5ca-9c00-48a2-8705-c3c617189e24</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/49946006221103105</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>ANU Vice-Chancellor Professor Ian Young will be on 666ABC very soon. Listen live here: http://www.abc.net.au/canberra/</string>
+  </void>
+ </object>
+</java>

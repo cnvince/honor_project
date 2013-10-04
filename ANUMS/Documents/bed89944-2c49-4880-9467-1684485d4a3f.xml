@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>Professor Thomas Faunce presents a public lecture, Global artificial photosynthesis for a sustainable world: Overcoming scientific and public policy challenges, at The Australian National University.For three billion years the photosynthetic process has powered the sustainability of life on earth. Nanotechnology and molecular approaches by many large nationally-funded research groups are now on the threshold of producing practical devices that not only improve the efficiency of the photosynthetic process, but allow it to be engineered into every human structure.Such technology will assist our buildings, roads and vehicles to generate hydrogen by using sunlight to split water as well as reduce carbon dioxide. This permits humanity to develop public policy supporting a billion-year Sustaincoene epoch characterised by our stewardship over the biosphere and decentralised modes of governance. Achieving such goals requires innovative approaches to distinct scientific and policy challenges, including not only light harvesting, electron transport and catalysis, but those related to international trade and investment law, such as whether photosynthesis should be considered &apos;common heritage of humanity&apos; under international law. Professor Thomas Faunce is an Australian Research Council Future Fellow who holds a joint appointment in the ANU College of Medicine, Biology and the Environment and the ANU College of Law. He is the leading international scholar on governance of global solar fuels. In 2011 he organised the first international Conference on Global Artificial Photosynthesis and in 2012 published the papers in a special open-source edition of the Australian Journal of Chemistry. He has been an invited speaker at numerous related conferences and his many publications have shaped this emerging field. His latest book, with Edward Elgar, is Nanotechnology for a Sustainable World: Global Artificial Photosynthesis as the Moral Culmination of Nanotechnology (2012). viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>bed89944-2c49-4880-9467-1684485d4a3f</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=dZ8qFS0kcbU</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>Professor Thomas Faunce presents a public lecture, Global artificial photosynthesis for a sustainable world: Overcoming scientific and public policy challenges, at The Australian National University.For three billion years the photosynthetic process has powered the sustainability of life on earth. Nanotechnology and molecular approaches by many large nationally-funded research groups are now on the threshold of producing practical devices that not only improve the efficiency of the photosynthetic process, but allow it to be engineered into every human structure.Such technology will assist our buildings, roads and vehicles to generate hydrogen by using sunlight to split water as well as reduce carbon dioxide. This permits humanity to develop public policy supporting a billion-year Sustaincoene epoch characterised by our stewardship over the biosphere and decentralised modes of governance. Achieving such goals requires innovative approaches to distinct scientific and policy challenges, including not only light harvesting, electron transport and catalysis, but those related to international trade and investment law, such as whether photosynthesis should be considered &apos;common heritage of humanity&apos; under international law. Professor Thomas Faunce is an Australian Research Council Future Fellow who holds a joint appointment in the ANU College of Medicine, Biology and the Environment and the ANU College of Law. He is the leading international scholar on governance of global solar fuels. In 2011 he organised the first international Conference on Global Artificial Photosynthesis and in 2012 published the papers in a special open-source edition of the Australian Journal of Chemistry. He has been an invited speaker at numerous related conferences and his many publications have shaped this emerging field. His latest book, with Edward Elgar, is Nanotechnology for a Sustainable World: Global Artificial Photosynthesis as the Moral Culmination of Nanotechnology (2012).</string>
+  </void>
+  <void property="title">
+   <string>Global artificial photosynthesis: Overcoming scientific and public policy challenges</string>
+  </void>
+ </object>
+</java>

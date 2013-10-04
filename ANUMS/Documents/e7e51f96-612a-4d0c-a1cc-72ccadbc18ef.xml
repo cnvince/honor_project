@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Robin, L, Moore, J, Willoughby, S et al 2011, &apos;Aliens from the Garden&apos;, S...</string>
+  </void>
+  <void property="docID">
+   <string>e7e51f96-612a-4d0c-a1cc-72ccadbc18ef</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/68379</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Robin, L, Moore, J, Willoughby, S et al 2011, &apos;Aliens from the Garden&apos;, S...</string>
+  </void>
+  <void property="title">
+   <string>Aliens from the Garden</string>
+  </void>
+ </object>
+</java>

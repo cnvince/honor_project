@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Young, I, Zieger, S &amp; Babanin, A 2011, &apos;Global Trends in Wind Speed and Wave ...</string>
+  </void>
+  <void property="docID">
+   <string>aaad3e43-03e7-4ea5-9c40-6372e2c9ebfd</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/64241</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Young, I, Zieger, S &amp; Babanin, A 2011, &apos;Global Trends in Wind Speed and Wave ...</string>
+  </void>
+  <void property="title">
+   <string>Global Trends in Wind Speed and Wave Height</string>
+  </void>
+ </object>
+</java>

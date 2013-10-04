@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Nyika, Edna</string>
+  </void>
+  <void property="date">
+   <string>-</string>
+  </void>
+  <void property="displaySummary">
+   <string>- Nyika, Edna</string>
+  </void>
+  <void property="docID">
+   <string>9a71251a-1c23-46cb-98b6-7863342d1bcb</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/46951</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Development of an African Marine Science Repository for Electronic Publication (OdinPubAfrica): Experience of the Institute of Marine Sciences, University of Dar es Salaam, Tanzania</string>
+  </void>
+ </object>
+</java>

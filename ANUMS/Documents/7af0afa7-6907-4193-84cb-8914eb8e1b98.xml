@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Home » The End of the Asian Century. Implications of EU-US Trade Negotiations for Asia and Australia. ... The End of the Asian Century. Implications of EU-US Trade Negotiations for Asia and Australia.</string>
+  </void>
+  <void property="docID">
+   <string>7af0afa7-6907-4193-84cb-8914eb8e1b98</string>
+  </void>
+  <void property="link">
+   <string>http://eutrade.anu.edu.au/node/531</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Home » The End of the Asian Century. Implications of EU-US Trade Negotiations for Asia and Australia. ... The End of the Asian Century. Implications of EU-US Trade Negotiations for Asia and Australia.</string>
+  </void>
+  <void property="title">
+   <string>The End of the ‘Asian Century’? Implications of EU-US Trade...</string>
+  </void>
+ </object>
+</java>

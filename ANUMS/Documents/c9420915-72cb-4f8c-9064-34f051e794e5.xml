@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Wang, Guang-zhen. 
+Farnham, Surrey ; Burlington, VT : Ashgate, c2010.</string>
+  </void>
+  <void property="docID">
+   <string>c9420915-72cb-4f8c-9064-34f051e794e5</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Ygender+equality&amp;SORT=D/Ygender+equality&amp;SORT=D&amp;SUBKEY=gender+equality/1%2C382%2C382%2CB/frameset&amp;FF=Ygender+equality&amp;SORT=D&amp;6%2C6%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Wang, Guang-zhen. 
+Farnham, Surrey ; Burlington, VT : Ashgate, c2010.</string>
+  </void>
+  <void property="title">
+   <string>Reproductive health and gender equality method, measurement, and implications</string>
+  </void>
+ </object>
+</java>

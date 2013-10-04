@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Researching the super heavy elements: a quantitative understanding through in...</string>
+  </void>
+  <void property="docID">
+   <string>e8d9fc64-bcdf-40f6-b6f7-7ead4b3443bf</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/1376</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Researching the super heavy elements: a quantitative understanding through in...</string>
+  </void>
+  <void property="title">
+   <string>Researching the super heavy elements: a quantitative understanding through integrating new reaction time measurements with theoretical models</string>
+  </void>
+ </object>
+</java>

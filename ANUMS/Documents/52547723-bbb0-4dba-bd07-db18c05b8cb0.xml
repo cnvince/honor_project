@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>This jury was conducted by Gavin Mooney, Professor of Health Economics at Curtin University,  who has run 8 citizen&apos;s juries in health care in Australia and has published widely on this process. The ACT report is available here</string>
+  </void>
+  <void property="docID">
+   <string>52547723-bbb0-4dba-bd07-db18c05b8cb0</string>
+  </void>
+  <void property="link">
+   <string>http://i2s.anu.edu.au/forum/citizens-jury-health-priorities-2010-report-act-health-council</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>This jury was conducted by Gavin Mooney, Professor of Health Economics at Curtin University,  who has run 8 citizen&apos;s juries in health care in Australia and has published widely on this process. The ACT report is available here</string>
+  </void>
+  <void property="title">
+   <string>&apos;Citizens&apos; Jury on Health Priorities 2010 - Report by the ACT...</string>
+  </void>
+ </object>
+</java>

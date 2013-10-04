@@ -1,0 +1,444 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+
+<title>Real-Time &amp; Embedded Systems</title>
+
+<meta name="DC.title" content="Introduction to Programming and Algorithms" />
+<meta name="DC.identifier" scheme="URI" content="http://cs.anu.edu.au/student/comp1100" />
+<meta name="DC.description" content="COMP1100" />
+<meta name="DC.subject" content="Introduction to Programming and Algorithms" />
+<!--dateupdated-->
+<meta name="DC.date.modified" scheme="ISO8601" content="2010-07-19" />
+<meta name="DC.date.review" scheme="ISO8601" content="2011-07-19" />
+<!--end dateupdated-->
+<meta name="DC.creator" content="COMP1100 webmaster" />
+<meta name="DC.creator.email" content="uwe.zimmer@anu.edu.au" />
+<meta name="description" content="ANU Research School of Computer Science, Course COMP1100" />
+<meta name="subject" content="Introduction to Programming and Algorithms" />
+<meta name="keywords" content="computer science, algorithms, programming" />
+<meta name="google-site-verification" content="SoybgErk78TWknyuuzot_ry9TYxSwtSaHUnrcHEMV6I" />
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="template" content="ANU-W1-3" />
+<meta name="DC.publisher" content="The Australian National University" />
+<meta name="DC.publisher.email" content="webmaster@anu.edu.au" />
+<meta name="DC.rights" scheme="URI" content="http://www.anu.edu.au/legal/content/copyright" />
+<link href="Style_framework/Images/anu.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="Style_framework/Images/anu_logo_fb.png" rel="image_src" />
+<link href="Style_framework/Images/anu-app-57.png" rel="apple-touch-icon"/>
+<link href="Style_framework/Style_sheets/anu-common.css" rel="stylesheet" type="text/css" media="screen"/>
+<link href="Style_framework/Style_sheets/anu-content.css" rel="stylesheet" type="text/css" media="screen"/>
+<link href="Style_framework/Style_sheets/anu-menu.css" rel="stylesheet" type="text/css" media="screen"/>
+<link href="Style_framework/Style_sheets/anu-college.css" rel="stylesheet" type="text/css" media="screen"/>
+<link href="Style_framework/Style_sheets/anu-features.css" rel="stylesheet" type="text/css" media="screen"/>
+<link href="Style_framework/Style_sheets/anu-grid.css" rel="stylesheet" type="text/css" media="screen"/>
+<link href="Style_framework/Style_sheets/anu-forms.css" rel="stylesheet" type="text/css" media="screen"/>
+<link href="Style_framework/Style_sheets/anu-cecs.css" rel="stylesheet" type="text/css" media="screen"/>
+<link href="Style_framework/Style_sheets/anu-colours.css" rel="stylesheet" type="text/css" media="screen"/>
+<link href="Style_framework/Style_sheets/anu-print.css" rel="stylesheet" type="text/css" media="print"/>
+<link href="Style_framework/Style_sheets/anu-handheld.css" rel="stylesheet" type="text/css" media="handheld" />
+<!-- jq -->
+<script src="Style_framework/Scripts/jquery.js" type="text/javascript"></script>
+<script type="text/javascript"> var $anujq = jQuery.noConflict(); </script>
+<script src="Style_framework/Scripts/jquery.hoverIntent.js" type="text/javascript"></script>
+<script src="Style_framework/Scripts/anu-common.js" type="text/javascript"></script>
+<!-- ejq -->
+<!--[if IE]><link href="http://styles.anu.edu.au/_anu/3/style/anu-ie.css" rel="stylesheet" type="text/css" media="screen"/><![endif]-->
+<!--[if lt IE 7]><link href="http://styles.anu.edu.au/_anu/3/style/anu-ie-lt7.css" rel="stylesheet" type="text/css" media="screen"/><![endif]-->
+<!--[if gt IE 7]><link href="http://styles.anu.edu.au/_anu/3/style/anu-ie-gt7.css" rel="stylesheet" type="text/css" media="screen"/><![endif]-->
+
+
+<link href="Style_framework/Style_sheets/style.ANU2009.css"  rel="StyleSheet" type="text/css" />
+
+<!--[if lt IE 7]>    <link href="http://cecs.anu.edu.au/styles/postnuke_style/styleIEfix.css" rel="stylesheet" type="text/css" /> <![endif]-->
+
+<!--extra_headers-->
+
+
+    <script type="text/javascript">
+    <!--
+    function writeit(data,extratag) {
+    var idx=0, n=data[data.length-1];
+    var fields=0, i;
+    for (i=0; i<data.length; i++) { if (data[i]==n) { fields++; } }
+    if (fields>1) { document.write('<a href="'); }
+    while( data[idx]!=n ) { document.write('&#'+(data[idx++]^n)+';'); }
+    idx++;
+    if (fields>2) {
+    document.write('" title="');
+    while( data[idx]!=n ) { document.write('&#'+(data[idx++]^n)+';'); }
+    idx++;
+    }
+    if (fields>1) {
+    document.write('">');
+    if (extratag != "") {
+    document.write('<' + extratag + '>');
+    }
+    
+    while( data[idx]!=n ) { document.write('&#'+(data[idx++]^n)+';'); }
+    idx++;
+    if (extratag != "") {
+    document.write('<\/' + extratag + '>');
+    }
+    
+    
+    document.write('<\/a>');
+    }
+    }
+    //-->
+    </script>
+    
+
+<style type="text/css">
+h1 {
+	font-size: 2em;
+}
+h4 {
+	font-size: 1em;
+}
+</style>
+<link href="Site-css/Site.css" rel="stylesheet" type="text/css" /></head>
+<body><!-- #BeginLibraryItem "/Library/ANU_header.lbi" --><!-- noindex -->
+<div id="skipnavholder"><a id="skipnav" href="#content">Skip navigation</a></div>
+<div id="print-hdr">
+	<div class="left"><img src="Style_framework/Images/anu_logo_print.png" alt="The Australian National University" /></div>
+	<div class="right">
+		<div class="bnr-line-1">Computer Science Courses</div>		<div class="bnr-line-2">ANU College of Engineering &amp; Computer Science</div>
+	</div>
+	<div class="blockline"></div>
+</div>
+<div id="explore-wrap">
+	<div id="explore">
+		<div id="explore-hdr">
+			<ul>
+				<li id="explore-li-1" ><a href="http://www.anu.edu.au/about/explore.php">EXPLORE ANU <em>&raquo;</em></a>
+					<ul class="explore-hdr-drop explore-hdr-jqshow">
+						<li class="noprint">&nbsp;</li>
+						<li><a href="http://www.anu.edu.au/index.html">Home</a></li>
+						<li><a href="http://www.anu.edu.au/future_students/">Future Students</a></li>
+						<li><a href="http://www.anu.edu.au/students/">Current Students</a></li>
+						<li><a href="http://www.anu.edu.au/research/">Research</a></li>
+						<li><a href="http://www.anu.edu.au/education/">Education</a></li>
+						<li><a href="http://www.anu.edu.au/about/">About ANU</a></li>
+						<li class="padbottom2"><a href="http://www.anu.edu.au/staff/">Staff</a></li>
+						<li><a href="http://news.anu.edu.au/?page_id=1753">Journalists &amp; Media</a></li>
+						<li><a href="http://innovation.anu.edu.au/">Business &amp; Government</a></li>
+						<li><a href="http://anulib.anu.edu.au">Library</a></li>
+						<li><a href="http://www.anu.edu.au/alumni/index.php">Alumni</a></li>
+						<li><a href="http://www.anu.edu.au/endowment/content/how_you_can_help/">Giving to ANU</a></li>
+						<li class="padbottom2"><a href="http://info.anu.edu.au/hr/Jobs/">Job Opportunities</a></li>
+						<li class="noprint">&nbsp;</li>
+						<li class="noprint">&nbsp;</li>
+						<li class="noprint">&nbsp;</li>
+						<li class="noprint">&nbsp;</li>
+					</ul>
+					<ul class="explore-hdr-drop-right explore-hdr-jqshow">
+						<li class="noprint">&nbsp;</li>
+						<li><a href="http://cass.anu.edu.au" class="h-cass"><em>ANU College of</em><br/>
+						Arts &amp; Social Sciences</a></li>
+						<li><a href="http://asiapacific.anu.edu.au/" class="h-cap"><em>ANU College of</em><br/>
+						Asia &amp; the Pacific</a></li>
+						<li><a href="http://cbe.anu.edu.au/" class="h-cbe"><em>ANU College of</em><br/>
+						Business &amp; Economics</a></li>
+						<li><a href="http://cecs.anu.edu.au/" class="h-cecs"><em>ANU College of</em><br/>
+						Engineering &amp; Computer Science</a></li>
+						<li><a href="http://law.anu.edu.au/" class="h-cl"><em>ANU College of</em><br/>
+						Law</a></li>
+						<li><a href="http://cmbe.anu.edu.au/" class="h-cmbe"><em>ANU College of</em><br/>
+						Medicine, Biology &amp; Environment</a></li>
+						<li><a href="http://cops.anu.edu.au/" class="h-cps"><em>ANU College of</em><br/>
+						Physical &amp; Mathematical Sciences</a></li>
+						<li><a href="http://publicpolicy.anu.edu.au/" class="h-uni">Public Policy</a></li>
+						<li><a href="http://nsc.anu.edu.au/" class="h-uni">National Security College</a></li>	
+						<li><a href="http://info.anu.edu.au/ovc/Executive/040PP_University_Structure/academic_structure"><small>&raquo; more academic areas</small></a></li>
+					</ul>
+				</li>
+				<li  id="explore-li-2"><a href="http://www.anu.edu.au/a-z/">A-Z INDEX <em>&raquo;</em></a>
+					<ul class="explore-hdr-drop azdrop  explore-hdr-az-jqshow">
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=a">A</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=b">B</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=c">C</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=d">D</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=e">E</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=f">F</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=g">G</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=h">H</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=i">I</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=j">J</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=k">K</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=l">L</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=m">M</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=n">N</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=o">O</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=p">P</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=q">Q</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=r">R</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=s">S</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=t">T</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=u">U</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=v">V</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=w">W</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=x">X</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=y">Y</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=z">Z</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+		<div id="srch-hdr">
+			<form action="http://www.anu.edu.au/search.php" method="post" id="SearchForm">
+				<div>
+				<input type="hidden" name="submit" value="Search"/>
+				<input type="hidden" name="url" value=""/>
+				<label for="qt"><span class="nodisplay">Search query</span></label><input class="txt" name="querytext" id="qt" type="text" size="30" value="Search ANU..." onfocus="javascript:clearInput(this);" onblur="javascript:defaultInput(this);" />
+				<input class="rdo" type="radio" id="stype1" name="stype" value="ANU Web" checked="checked" /> <label for="stype1">Web</label>
+				<input class="rdo" type="radio" id="stype2" name="stype" value="Staff Directory" /> <label for="stype2">Contacts</label>
+				<input class="rdo" type="radio" id="stype3" name="stype" value="Campus Map" /> <label for="stype3">Map</label>
+				<label for="search1"><span class="nodisplay">Search button</span></label><input class="s-btn" id="search1" type="image" alt="GO" src="Style_framework/Images/btn-search.gif" onclick="return checkInput('qt','You must enter search terms');" onmouseover="javascript:this.src='Style_framework/Images/btn-search-over.gif'" onmouseout="javascript:this.src='Style_framework/Images/btn-search.gif'"/>
+				</div> 
+			</form>
+		</div>
+	</div>
+</div>
+<div id="bnr-wrap">
+	<div id="bnr">
+		<div id="bnr-left">
+
+
+<a href="http://www.anu.edu.au/" class="anu-logo-png">
+<img src="Style_framework/Images/anu_logo_small.png" 
+onmouseover="this.src='Style_framework/Images/anu_logo_small_over.png';"
+onmouseout="this.src='Style_framework/Images/anu_logo_small.png'" 
+alt="The Australian National University"  />
+</a>
+<a href="http://www.anu.edu.au/" class="anu-logo-gif" style="display:none">
+<img src="Style_framework/Images/anu_logo_small.jpg" 
+onmouseover="this.src='Style_framework/Images/anu_logo_small_over.jpg';" 
+onmouseout="this.src='Style_framework/Images/anu_logo_small.jpg'"
+alt="The Australian National University"  />
+</a>
+
+
+</div>
+		<div id="bnr-right">
+<div class="bnr-line-1  bnr-2line"><h1><a href="http://cs.anu.edu.au/study/currentstudents/courseInformation">Computer Science Courses</a></h1></div><div class="bnr-line-2 lnk-cecs"><a href="http://cecs.anu.edu.au">ANU College of Engineering &amp; Computer Science</a></div>
+
+
+		</div>
+	</div>
+	<div id="bnr-underline"></div>
+</div>
+<!--<div id="skipnavtarget"><a id="main-content" class="skip" tabindex="32767"></a></div>-->
+
+
+<!-- endnoindex --> <!-- #EndLibraryItem --><div id="body-wrap">
+	<div id="body">
+
+
+
+<!--SPECIAL HEADER--><!-- #BeginLibraryItem "/Library/Site_menu.lbi" --><!--noindex--> <!-- stops ANU search from treating the menu as content-->
+<div id="menu">
+<div class="narrow">
+
+<!--ANU SEARCH BOX-->
+
+<!-- BEGIN SITE TREE --><div class="menu-flat menu-blue">
+<p>Computer Science Courses</p>
+<ul id='nav-1'>
+<li><a href='http://cs.anu.edu.au'>School of Computer Science</a></li>
+<li><a href='http://cs.anu.edu.au/study/currentstudents'>Current students</a></li>
+<li><a href='http://cs.anu.edu.au/study/currentstudents/courseInformation'>Courses list</a></li>
+</ul></div>
+
+<div class="menu-flat menu-blue">
+<p><a href="index.html">Real-Time and Embedded Systems</a></p>
+<ul id='nav-2'>
+
+<li><a href='1-Lectures-Schedule.html'>Lectures</a>
+  <ul>
+<li><a href='1-Lectures-Schedule.html'>Schedule</a></li>
+<li><a href='1-Lectures-Contents.html'>Contents</a></li>
+</ul>
+
+<li><a href="1-Labs-Weekly.html">Labs &amp; Assignments</a>
+  <ul>
+  <li><a href="1-Labs-Weekly.html">Weekly labs</a></li>
+<li><a href="1-Labs-Assignments.html">Assignments</a></li>
+<li><a href="1-Laboratories-Setup.html">Setup</a></li>
+</ul>
+
+<li><a href="1-Assessment-Examinations.html">Assessment</a>
+<ul>
+  <li><a href="1-Assessment-Examinations.html">Examinations</a></li>
+</ul>
+
+<li><a href='1-Resources-References.html'>Resources</a>
+<ul>
+<li><a href='1-Resources-References.html'>References</a></li>
+<li><a href="1-Resources-Sources.html">Sources</a></li>
+<li><a href="1-Resources-Policies.html">Policies</a></li>
+<li><a href="https://cs.anu.edu.au/streams/forum.php?ForumID=499">Forum</a></li>
+</ul>
+</li>
+
+</ul></div>
+
+<div class="menu-flat menu-blue">
+<p>Related sites</p>
+<ul id='nav-3'>
+<li><a href='http://cs.anu.edu.au/streams/forum.php'>Forums</a></li>
+<li><a href='http://cecs.anu.edu.au'>ANU College of Engineering &amp; Computer Science</a></li>
+<li><a href='http://students.anu.edu.au'>Current students (ANU)</a></li>
+</ul></div>
+
+   <!-- END SITE TREE -->
+
+</div>
+</div>
+
+<!--endnoindex-->
+<script type="text/javascript" src="Style_framework/Scripts/anu-menu.js"></script><!-- #EndLibraryItem --><div id="content">		
+  <!-- BEGIN DOCUMENT CONTENT =================================================-->
+  
+  <!--80--><div class='doublewide'><!--auto inserted div-->
+
+
+
+ <h1 class="centre"><span class="doublewide">Real-Time and Embedded Systems</span></h1>
+ 
+ <div class="w-narrow right">
+ <div class="box-header bg-gold bdr-gold text-center">Mini news board</div>
+
+<div class="box-solid bg-gold50 bdr-gold">
+  <p>In case you haven't found the <a href="https://cs.anu.edu.au/streams/forum.php?ForumID=499">forums: check them now</a>.</p>
+  <p>Week four will be the start of &quot;Sensors&quot; followed by &quot;Interfaces&quot; in the same week. The labs stay on the coding side and we will re-unite labs and lectures in week six.</p>
+</div>
+</div>
+
+ <h3 class="text-center"> 2013 edition</h3>
+ 
+
+
+ <h4 class="center">Course code: Comp4330 &amp; Comp6433</h4>
+
+
+
+
+<p>&nbsp;</p>
+<div class="text-right"></div>
+
+
+
+<h2>Welcome</h2>
+
+
+
+
+
+
+
+
+<p>
+
+to the main ANU course for Real-Time and Embedded Systems. The focus of this course is to communicate all basic real-time concepts and how they relate to phyiscal devices. You will learn how to design a real-world system which can be relied upon under any foreseeable circumstances.</p>
+<div align="center">
+  <table width="200" border="0" cellspacing="0" class="borderless-table">
+  <tr>
+    <td><img src="Images/Pulsar 4m wide.jpg" alt="Proteus (NASA)" width="600" height="360" /></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td align="right" >Logic based, sustainable, autonomous flight. Research at the Australian National University 2013 (Ben Coughlan). On-board control, energy harvesting &amp; management, navigation and telemetry   implemented  in programmable logic (no CPUs).  Airframe based on a commercial, 4-m-wingspan glider (Pulsar).</td>
+  </tr>
+</table>
+</div>
+<p align="center">&nbsp;</p>
+<h3 align="left">Help and support is provided on many levels:</h3>
+<ul>
+  <li>Attend all the <a href="1-Lectures-Schedule.html">lectures</a> (come with a clear head and an empty note-pad).</li>
+  <li>Do all the <a href="1-Labs-Weekly.html">labs</a> - our tutors are experienced and will always listen and point you towards a productive direction.</li>
+  <li>Talk to your classmates. Form a learning group with your friends.</li>
+  <li>Use the forums - chances are you are not the only one with this question.</li>
+  <li>Contact us - any of us (e-mail addresses below). We won't be sitting on the phone 24/7, but most of us are electronically reachable most of the time. All e-mails will be answered - mostly surprisingly fast, but please keep in mind that this is a n-to-1 communication form and n is large. </li>
+  <li><span class="keyword">Most importantly</span>: if you feel that you are or might be getting into trouble then see us <span class="keyword">straight away</span>. If you hit a wall, neither staring at it, nor ignoring it will make it go away -&gt; you will need to become active and talk to somebody. Almost anything can be put back on track, <span class="keyword">if</span> you give us a chance to suggest a solution in time.</li>
+</ul>
+<h3>Lecturer in charge:</h3>
+<blockquote>
+  <p><a href="http://www.transit-port.net/Uwe.Zimmer/" class="keyword"><span class="keyword">Uwe R. Zimmer</span></a> | <a href="mailto:uwe.zimmer@anu.edu.au">e-mail</a></p>
+  </blockquote>
+<h3>Second examiner:</h3>
+<blockquote>
+  <p><span class="keyword"><a href="http://people.cecs.anu.edu.au/user/3756">Shayne Flint</a></span> | <a href="mailto:shayne.flint@anu.edu.au">e-mail</a></p>
+  </blockquote>
+<h3>Tutor:</h3>
+<ul>
+  <li><span class="keyword">Ben Coughlan</span> | <a href="mailto:ben.coughlan@anu.edu.au">e-mail</a>
+
+
+
+<!--auto inserted /div--></li>
+</ul>
+  </div>
+<!-- END DOCUMENT CONTENT ===================================================-->
+</div><!-- #BeginLibraryItem "/Library/ANU_footer.lbi" -->
+<div id="body-wrap">
+  <div id="body">
+    <!-- noindex -->
+    <div id="update-wrap">
+      <div id="update-details">
+        <p class="sml-hdr"> Updated:&nbsp;&nbsp;<strong>
+          <!-- #BeginDate format:fSw1m -->Tuesday 13 August, 2013  12:49<!-- #EndDate -->
+        </strong>
+          <!--wasupdate-->
+          <span class="hpad">/</span>
+          <!--/wasupdate-->
+          Responsible Officer:&nbsp;&nbsp; <span id='noscript-1'>JavaScript must be enabled to display this email address.</span>
+          <script type="text/javascript">
+    <!--
+    var nos = document.getElementById('noscript-1');
+    nos.parentNode.removeChild(nos);
+    
+    var data=new Array (
+    610,622,614,611,635,608,565,615,
+    618,622,619,545,620,636,591,620,
+    618,620,636,545,622,609,634,545,
+    618,619,634,545,622,634,527,583,
+    618,622,619,559,608,617,559,604,
+    620,615,608,608,611,527
+  ); 
+    writeit (data, 'strong');    
+    //-->
+    </script>
+        <span class="hpad">/</span> Page Contact:&nbsp;&nbsp;<a href="mailto:uwe.zimmer@anu.edu.au"> Course Webmaster</a></p>
+      </div>
+    </div>
+    <!-- endnoindex -->
+    <!--ANU FOOTER INCLUDE -->
+  </div>
+</div>
+<!-- noindex -->
+<div id="footer-wrap">
+  <div id="anu-footer">
+    <div id="anu-detail">
+      <ul>
+        <li><a href="http://www.anu.edu.au/contact/">Contact ANU</a></li>
+        <li><a href="http://campusmap.anu.edu.au/">Campus Map</a></li>
+        <li><a href="http://www.anu.edu.au/legal/content/copyright">Copyright</a></li>
+        <li><a href="http://www.anu.edu.au/legal/content/copyright#DISCLAIMER">Disclaimer</a></li>
+        <li><a href="http://www.anu.edu.au/legal/content/copyright#PRIVACY">Privacy</a></li>
+        <li><a href="http://foi.anu.edu.au/">Freedom of Information</a></li>
+      </ul>
+    </div>
+    <div id="anu-address">
+      <p>+61 2 6125 5111<br/>
+        The Australian National University, Canberra<br/>
+        CRICOS Provider : 00120C &nbsp; &nbsp; &nbsp; ABN : 52 234 063 906</p>
+    </div>
+    <div id="anu-groups"> <a href="http://www.go8.edu.au/"><img src="Style_framework/Images/GroupOf8.gif" alt="Group of Eight Member" width="173" height="32"/></a> <span class="hpad"> </span> <a href="http://info.anu.edu.au/ovc/Executive/020PP_Strategies,_Initiatives_and_Alliances/IARU"><img src="Style_framework/Images/IARU.gif" alt="IARU" width="113" height="32"/></a> </div>
+  </div>
+</div>
+<!-- endnoindex --><!-- #EndLibraryItem --></body>
+</html>

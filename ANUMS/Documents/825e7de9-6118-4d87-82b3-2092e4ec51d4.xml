@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string> 
+[S.l.] : European Communities, 2012.</string>
+  </void>
+  <void property="docID">
+   <string>825e7de9-6118-4d87-82b3-2092e4ec51d4</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YEU&amp;SORT=D/YEU&amp;SORT=D&amp;SUBKEY=EU/1%2C1122%2C1122%2CB/frameset&amp;FF=YEU&amp;SORT=D&amp;4%2C4%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string> 
+[S.l.] : European Communities, 2012.</string>
+  </void>
+  <void property="title">
+   <string>Assessment of the implementation of the EU Drugs Strategy 2005?2012 and its Action Plans</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Dasgupta, Mahananda; Hinde, David; Diaz-Torres, Alexis; Bouriquet, Bertrand; Low, Catherine; Milburn, Gerard James; Newton, J</string>
+  </void>
+  <void property="date">
+   <string>-</string>
+  </void>
+  <void property="displaySummary">
+   <string>- Dasgupta, Mahananda; Hinde, David; Diaz-Torres, Alexis; Bouriquet, Bertrand; Low, Catherine; Milburn, Gerard James; Newton, J</string>
+  </void>
+  <void property="docID">
+   <string>0f041635-5bb5-4390-83b7-3494e2bd71b9</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/10440/768</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Beyond the coherent coupled channels description of nuclear fusion</string>
+  </void>
+ </object>
+</java>

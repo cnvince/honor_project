@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>Like many problems in number theory, the questions that arise from packing the plane with mutually tangent circles are easy to formulate but difficult to answer. In this video, Professor Peter Sarnak explains the fundamental features of such packings and how modern tools from number theory to algebra are being used to answer someof these old questions. This video was recorded at The Australian National University on 17 August 2011.Professor Peter Sarnak grew up in South Africa and moved to the US to study at Stanford University, where he obtained his PhD in mathematics in 1980. After appointments at the Courant Institute, New York, and Stanford, he moved to Princeton in 1991 where he has been ever since. Currently he is both the Eugene Higgins Professor of Mathematics at Princeton University and Professor at the Institute for Advanced Study in Princeton. In 2002, he was made a member of the National Academy of Sciences in the USA and a Fellow of the Royal Society.Peter Sarnak is a major figure in modern analytic number theory, with research interests also in analysis and mathematical physics. He has received many awards for his research including the Polya prize in 1998, the Ostrowski prize in 2001, the Conant prize in 2003 and the Cole prize in 2005. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>455bb159-591f-4f3a-a609-554e696c32a8</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=isjv7VT73Nw</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>Like many problems in number theory, the questions that arise from packing the plane with mutually tangent circles are easy to formulate but difficult to answer. In this video, Professor Peter Sarnak explains the fundamental features of such packings and how modern tools from number theory to algebra are being used to answer someof these old questions. This video was recorded at The Australian National University on 17 August 2011.Professor Peter Sarnak grew up in South Africa and moved to the US to study at Stanford University, where he obtained his PhD in mathematics in 1980. After appointments at the Courant Institute, New York, and Stanford, he moved to Princeton in 1991 where he has been ever since. Currently he is both the Eugene Higgins Professor of Mathematics at Princeton University and Professor at the Institute for Advanced Study in Princeton. In 2002, he was made a member of the National Academy of Sciences in the USA and a Fellow of the Royal Society.Peter Sarnak is a major figure in modern analytic number theory, with research interests also in analysis and mathematical physics. He has received many awards for his research including the Polya prize in 1998, the Ostrowski prize in 2001, the Conant prize in 2003 and the Cole prize in 2005.</string>
+  </void>
+  <void property="title">
+   <string>Number theory and the circle packings of Apollonius - Peter Sarnak</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Stewart, Ian, 1945- 
+New York : Basic Books, A Member of the Perseus Books Group, c2006</string>
+  </void>
+  <void property="docID">
+   <string>827bf660-0fe6-469c-bd04-9705743a1116</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YIan+Young&amp;SORT=D/YIan+Young&amp;SORT=D&amp;SUBKEY=Ian+Young/1%2C120%2C120%2CB/frameset&amp;FF=YIan+Young&amp;SORT=D&amp;8%2C8%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Stewart, Ian, 1945- 
+New York : Basic Books, A Member of the Perseus Books Group, c2006</string>
+  </void>
+  <void property="title">
+   <string>Letters to a young mathematician</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Ball, D 2006, &apos;Silent Witness: Australian Intelligence and East Timor&apos;, in Ri...</string>
+  </void>
+  <void property="docID">
+   <string>e441f1c2-0e0c-4815-8c45-ff41f5c70a55</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/26963</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Ball, D 2006, &apos;Silent Witness: Australian Intelligence and East Timor&apos;, in Ri...</string>
+  </void>
+  <void property="title">
+   <string>Silent Witness: Australian Intelligence and East Timor</string>
+  </void>
+ </object>
+</java>

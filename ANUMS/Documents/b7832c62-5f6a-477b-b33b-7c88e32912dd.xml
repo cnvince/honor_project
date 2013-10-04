@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>If so, how can we explain the increasing number of illegal immigrants, the resilience of ethnic tensions, and the emergence of home grown radicalization? ... viewed as terrorists ( 15), ignorance about Islam ( 14) and stereotyping ( 12) CLASH OF</string>
+  </void>
+  <void property="docID">
+   <string>b7832c62-5f6a-477b-b33b-7c88e32912dd</string>
+  </void>
+  <void property="link">
+   <string>http://ces.anu.edu.au/sites/ces.anu.edu.au/files/Chebel%20d%27Appoloniia%20presentation.pdf</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>If so, how can we explain the increasing number of illegal immigrants, the resilience of ethnic tensions, and the emergence of home grown radicalization? ... viewed as terrorists ( 15), ignorance about Islam ( 14) and stereotyping ( 12) CLASH OF</string>
+  </void>
+  <void property="title">
+   <string>[PDF]
+          
+          
+          
+          
+          
+            Chebel d&apos;Appoloniia presentation</string>
+  </void>
+ </object>
+</java>

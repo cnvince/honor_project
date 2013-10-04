@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Denise Fisher is a Visiting Fellow with the ANU Centre for European Studies. She has just completed a thesis on France in the South Pacific: Power and Politics. A former Australian diplomat, she has served in Australian diplomatic missions in Burma,</string>
+  </void>
+  <void property="docID">
+   <string>0cc42e2b-77cb-4fa3-93f9-c4b471975caa</string>
+  </void>
+  <void property="link">
+   <string>http://ces.anu.edu.au/events/france-eu-and-south-pacific</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Denise Fisher is a Visiting Fellow with the ANU Centre for European Studies. She has just completed a thesis on France in the South Pacific: Power and Politics. A former Australian diplomat, she has served in Australian diplomatic missions in Burma,</string>
+  </void>
+  <void property="title">
+   <string>France, the EU and the South Pacific - ANU Centre for European...</string>
+  </void>
+ </object>
+</java>

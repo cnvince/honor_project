@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>The Buddhist Roots of Neo-Confucian Philosophy</string>
+  </void>
+  <void property="docID">
+   <string>4a1cff41-782b-4826-8d21-c68b9bfca63b</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/2763</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>The Buddhist Roots of Neo-Confucian Philosophy</string>
+  </void>
+  <void property="title">
+   <string>The Buddhist Roots of Neo-Confucian Philosophy</string>
+  </void>
+ </object>
+</java>

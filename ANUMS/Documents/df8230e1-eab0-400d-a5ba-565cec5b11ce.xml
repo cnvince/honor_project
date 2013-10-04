@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>2012 marks 50 years of European Union and Australian relations. In a series of discussions Ambassadors and/or High Commissioners from EU Member States, together with Australian Ambassadors to Europe and other experts, gather at the ANU Centre for</string>
+  </void>
+  <void property="docID">
+   <string>df8230e1-eab0-400d-a5ba-565cec5b11ce</string>
+  </void>
+  <void property="link">
+   <string>http://www.anu.edu.au/vision/videos/7381/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>2012 marks 50 years of European Union and Australian relations. In a series of discussions Ambassadors and/or High Commissioners from EU Member States, together with Australian Ambassadors to Europe and other experts, gather at the ANU Centre for</string>
+  </void>
+  <void property="title">
+   <string>Australia and Europe in conversation: 50 years of EU-Australia...</string>
+  </void>
+ </object>
+</java>

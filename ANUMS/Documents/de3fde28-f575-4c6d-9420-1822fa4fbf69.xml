@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Ejournal examining issues of Gender, History &amp; Culture in the Asian Context</string>
+  </void>
+  <void property="docID">
+   <string>de3fde28-f575-4c6d-9420-1822fa4fbf69</string>
+  </void>
+  <void property="link">
+   <string>http://intersections.anu.edu.au/issue10/mathieu_review.html</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Ejournal examining issues of Gender, History &amp; Culture in the Asian Context</string>
+  </void>
+  <void property="title">
+   <string>Intersections Review: Shanshan Du, Chopsticks only work in Pairs:...</string>
+  </void>
+ </object>
+</java>

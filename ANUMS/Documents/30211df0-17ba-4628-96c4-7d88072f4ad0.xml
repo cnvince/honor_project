@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>large format music to a place like Canberra The energy of the student ensemble is hard to beat It just brings so much life into it His colleague Ryan Ritchie felt ... edu.au/2013/08/07/student-forum-on-administration-processes/ http://news.anu.edu.au/2013</string>
+  </void>
+  <void property="docID">
+   <string>30211df0-17ba-4628-96c4-7d88072f4ad0</string>
+  </void>
+  <void property="link">
+   <string>http://news.anu.edu.au/feed/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>large format music to a place like Canberra The energy of the student ensemble is hard to beat It just brings so much life into it His colleague Ryan Ritchie felt ... edu.au/2013/08/07/student-forum-on-administration-processes/ http://news.anu.edu.au/2013</string>
+  </void>
+  <void property="title">
+   <string>ANU News</string>
+  </void>
+ </object>
+</java>

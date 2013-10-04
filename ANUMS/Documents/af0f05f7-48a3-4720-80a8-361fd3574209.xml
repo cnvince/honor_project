@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ContactResult">
+  <void property="displaySummary">
+   <string>    ANU College of Law</string>
+  </void>
+  <void property="docID">
+   <string>af0f05f7-48a3-4720-80a8-361fd3574209</string>
+  </void>
+  <void property="link">
+   <string>http://www.anu.edu.au/dirs/c5a_search.php?submit=Search&amp;querytext=2</string>
+  </void>
+  <void property="summary">
+   <string>ANU College of Law</string>
+  </void>
+  <void property="title">
+   <string>Interview Desk Student Admin</string>
+  </void>
+ </object>
+</java>

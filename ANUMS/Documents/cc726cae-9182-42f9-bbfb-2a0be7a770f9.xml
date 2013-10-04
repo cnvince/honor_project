@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Ormella, R 2010, Wilderness Society drawings (Contested Australian Landscapes).</string>
+  </void>
+  <void property="docID">
+   <string>cc726cae-9182-42f9-bbfb-2a0be7a770f9</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/62265</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Ormella, R 2010, Wilderness Society drawings (Contested Australian Landscapes).</string>
+  </void>
+  <void property="title">
+   <string>Wilderness Society drawings (Contested Australian Landscapes)</string>
+  </void>
+ </object>
+</java>

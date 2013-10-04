@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Tiffin Talks ( Australia-India Institute, University of Melbourne).  India s challenges in Afghanistan post-2014. ... August 9, 2013. Posted by southasiamasala in :  Afghanistan,  Guest authors,  India ,  Comment.</string>
+  </void>
+  <void property="docID">
+   <string>f31fa8f1-dd8c-4a33-905a-fbf9c5d2f450</string>
+  </void>
+  <void property="link">
+   <string>http://asiapacific.anu.edu.au/blogs/southasiamasala/tag/afghanistan/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Tiffin Talks ( Australia-India Institute, University of Melbourne).  India s challenges in Afghanistan post-2014. ... August 9, 2013. Posted by southasiamasala in :  Afghanistan,  Guest authors,  India ,  Comment.</string>
+  </void>
+  <void property="title">
+   <string>South Asia Masala » Afghanistan</string>
+  </void>
+ </object>
+</java>

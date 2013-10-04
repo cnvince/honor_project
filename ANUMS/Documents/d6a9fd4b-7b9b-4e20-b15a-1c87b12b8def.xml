@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Medicine, Biology and Environment
+Haematology, Cellular Immunology, Biomedical Engineering, Regenerative Medici...</string>
+  </void>
+  <void property="docID">
+   <string>d6a9fd4b-7b9b-4e20-b15a-1c87b12b8def</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/tan-jkh</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Medicine, Biology and Environment
+Haematology, Cellular Immunology, Biomedical Engineering, Regenerative Medici...</string>
+  </void>
+  <void property="title">
+   <string>Dr Jonathan Tan</string>
+  </void>
+ </object>
+</java>

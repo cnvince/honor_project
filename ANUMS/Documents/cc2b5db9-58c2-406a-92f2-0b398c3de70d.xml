@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Colless, Matthew; Dalton, Gavin; Maddox, Steve; Sutherland, Will; Jackson, Carole; Peterson, B.A; Price, Ian</string>
+  </void>
+  <void property="date">
+   <string>2001</string>
+  </void>
+  <void property="displaySummary">
+   <string>2001 Colless, Matthew; Dalton, Gavin; Maddox, Steve; Sutherland, Will; Jackson, Carole; Peterson, B.A; Price, Ian</string>
+  </void>
+  <void property="docID">
+   <string>cc2b5db9-58c2-406a-92f2-0b398c3de70d</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/39993</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>The 2dF Galaxy Redshift Survey: spectra and redshifts</string>
+  </void>
+ </object>
+</java>

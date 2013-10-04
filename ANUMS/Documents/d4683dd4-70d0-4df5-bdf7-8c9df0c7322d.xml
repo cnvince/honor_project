@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Schreider, S, Jakeman, A, Letcher, R et al 2002, &apos;Detecting changes in stream...</string>
+  </void>
+  <void property="docID">
+   <string>d4683dd4-70d0-4df5-bdf7-8c9df0c7322d</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/8768</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Schreider, S, Jakeman, A, Letcher, R et al 2002, &apos;Detecting changes in stream...</string>
+  </void>
+  <void property="title">
+   <string>Detecting changes in streamflow response to changes in non-climatic conditions: farm dam development in the Murray-Darling Basin, Australia</string>
+  </void>
+ </object>
+</java>

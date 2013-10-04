@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences
+Other Literatures In English, Middle Eastern And African History</string>
+  </void>
+  <void property="docID">
+   <string>057b9804-67b0-4eda-9ea1-b1a36af06a16</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/torabi-sm</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences
+Other Literatures In English, Middle Eastern And African History</string>
+  </void>
+  <void property="title">
+   <string>Dr Seyed Torabi</string>
+  </void>
+ </object>
+</java>

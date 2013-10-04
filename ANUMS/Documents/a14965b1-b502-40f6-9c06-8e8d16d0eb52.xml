@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string> 
+New York : Routledge, 2013</string>
+  </void>
+  <void property="docID">
+   <string>a14965b1-b502-40f6-9c06-8e8d16d0eb52</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YChina&amp;SORT=D/YChina&amp;SORT=D&amp;SUBKEY=China/1%2C32000%2C32000%2CB/frameset&amp;FF=YChina&amp;SORT=D&amp;10%2C10%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string> 
+New York : Routledge, 2013</string>
+  </void>
+  <void property="title">
+   <string>Thoughts on economic development in China</string>
+  </void>
+ </object>
+</java>

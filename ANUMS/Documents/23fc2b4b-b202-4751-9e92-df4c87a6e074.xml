@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>This page lists all references used to write the content of this site. References, specific to a webpage, are specified on that page. ANU students and staff can access journal articles for free when they login with their ANU username and password.</string>
+  </void>
+  <void property="docID">
+   <string>23fc2b4b-b202-4751-9e92-df4c87a6e074</string>
+  </void>
+  <void property="link">
+   <string>http://researchsuper.chelt.anu.edu.au/references</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>This page lists all references used to write the content of this site. References, specific to a webpage, are specified on that page. ANU students and staff can access journal articles for free when they login with their ANU username and password.</string>
+  </void>
+  <void property="title">
+   <string>References - Research Supervision - ANU</string>
+  </void>
+ </object>
+</java>

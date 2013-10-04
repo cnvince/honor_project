@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>Ever wondered what goes into the research behind creating an unmanned aerial vehicle for surveillance, search and rescue, civil infrastructure maintenance and so on, that can be used by almost anyone with minimal training? The Computer Vision and Robotics group at the ANU College of Engineering and Computer Science is doing just that in collaboration with the University of Twente in the Netherlands.The project is postgraduate research funded by an ARC Discovery Grant. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>5270a1f2-7355-416a-b7fe-8e1f3b0328f2</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=SRON42OPUZ0</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>Ever wondered what goes into the research behind creating an unmanned aerial vehicle for surveillance, search and rescue, civil infrastructure maintenance and so on, that can be used by almost anyone with minimal training? The Computer Vision and Robotics group at the ANU College of Engineering and Computer Science is doing just that in collaboration with the University of Twente in the Netherlands.The project is postgraduate research funded by an ARC Discovery Grant.</string>
+  </void>
+  <void property="title">
+   <string>Flying Smarts</string>
+  </void>
+ </object>
+</java>

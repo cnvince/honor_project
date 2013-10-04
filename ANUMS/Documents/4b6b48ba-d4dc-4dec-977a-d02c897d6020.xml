@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Gell, P, Gergis, J, Mills, K et al 2009, Palaeoclimate Studies Relevant to Na...</string>
+  </void>
+  <void property="docID">
+   <string>4b6b48ba-d4dc-4dec-977a-d02c897d6020</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/41078</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Gell, P, Gergis, J, Mills, K et al 2009, Palaeoclimate Studies Relevant to Na...</string>
+  </void>
+  <void property="title">
+   <string>Palaeoclimate Studies Relevant to Natural Resource Management in the Murray-Darling Basin</string>
+  </void>
+ </object>
+</java>

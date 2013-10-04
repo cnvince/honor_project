@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Kalandyk-Gallagher, J 2008  Small business - a big issue, Sydney: Internation...</string>
+  </void>
+  <void property="docID">
+   <string>35c9538c-4b39-48df-8c8b-ed69d1cc37e5</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/69435</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Kalandyk-Gallagher, J 2008  Small business - a big issue, Sydney: Internation...</string>
+  </void>
+  <void property="title">
+   <string>Small business - a big issue</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Asia and the Pacific
+Studies Of Pacific Peoples&apos; Societies, Social Policy, Social And Cultural Geo...</string>
+  </void>
+  <void property="docID">
+   <string>ba0bcae5-86eb-46e7-b36a-2c4bed952a33</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/thomas-pm</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Asia and the Pacific
+Studies Of Pacific Peoples&apos; Societies, Social Policy, Social And Cultural Geo...</string>
+  </void>
+  <void property="title">
+   <string>Dr Pamela Thomas</string>
+  </void>
+ </object>
+</java>

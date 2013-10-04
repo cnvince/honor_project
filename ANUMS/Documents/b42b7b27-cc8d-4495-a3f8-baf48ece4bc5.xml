@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Horner, D 2000, Defence Supremo: Sir Frederick Shedden and the making of ...</string>
+  </void>
+  <void property="docID">
+   <string>b42b7b27-cc8d-4495-a3f8-baf48ece4bc5</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/5851</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Horner, D 2000, Defence Supremo: Sir Frederick Shedden and the making of ...</string>
+  </void>
+  <void property="title">
+   <string>Defence Supremo: Sir Frederick Shedden and the making of Australian defence policy</string>
+  </void>
+ </object>
+</java>

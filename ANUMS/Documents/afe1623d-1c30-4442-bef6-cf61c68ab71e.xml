@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>AIATSIS Australian Indigenous Languages Collection ( AILEC) in the AIATSIS Library. ... National Indigenous Languages Survey Report 2005. &quot;The Australian Institute of Aboriginal and Torres Strait Islander Studies ( AIATSIS) conducted the survey, in</string>
+  </void>
+  <void property="docID">
+   <string>afe1623d-1c30-4442-bef6-cf61c68ab71e</string>
+  </void>
+  <void property="link">
+   <string>http://www.anu.edu.au/linguistics/nash/aust/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>AIATSIS Australian Indigenous Languages Collection ( AILEC) in the AIATSIS Library. ... National Indigenous Languages Survey Report 2005. &quot;The Australian Institute of Aboriginal and Torres Strait Islander Studies ( AIATSIS) conducted the survey, in</string>
+  </void>
+  <void property="title">
+   <string>Australian languages</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Engineering and Computer Science
+Pattern Recognition And Data Mining</string>
+  </void>
+  <void property="docID">
+   <string>44fa084a-3a6f-4a99-b6a9-bfa2eec31f4b</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/liang-phd-h</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Engineering and Computer Science
+Pattern Recognition And Data Mining</string>
+  </void>
+  <void property="title">
+   <string>Dr Huizhi Liang</string>
+  </void>
+ </object>
+</java>

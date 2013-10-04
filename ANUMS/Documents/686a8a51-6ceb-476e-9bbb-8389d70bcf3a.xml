@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string> 
+Wayville, S. Aust. : The Board, c1996</string>
+  </void>
+  <void property="docID">
+   <string>686a8a51-6ceb-476e-9bbb-8389d70bcf3a</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Yindigenous+languages&amp;SORT=D/Yindigenous+languages&amp;SORT=D&amp;SUBKEY=indigenous+languages/1%2C92%2C92%2CB/frameset&amp;FF=Yindigenous+languages&amp;SORT=D&amp;8%2C8%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string> 
+Wayville, S. Aust. : The Board, c1996</string>
+  </void>
+  <void property="title">
+   <string>Australia&apos;s indigenous languages</string>
+  </void>
+ </object>
+</java>

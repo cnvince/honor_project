@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences
+Language Studies Not Elsewhere Classified, Middle Eastern Literature, Histori...</string>
+  </void>
+  <void property="docID">
+   <string>b0577227-ccd6-493f-baaf-ff5fc48c2efa</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/ilhan-mm</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences
+Language Studies Not Elsewhere Classified, Middle Eastern Literature, Histori...</string>
+  </void>
+  <void property="title">
+   <string>Dr Mehmet Mehdi Ilhan</string>
+  </void>
+ </object>
+</java>

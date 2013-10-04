@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Thanks are also due to Masahiko Aoki, Douglas Bernheim, Marcelo Clerci-Arias, Avner Grief, Jonathan Levin, John McMillan, Rod Tyers and the participants of the comparative institutional analysis seminar at Stanford ... But this notion may also have</string>
+  </void>
+  <void property="docID">
+   <string>d9613d56-cbaf-495a-8840-0af34d5c0f5f</string>
+  </void>
+  <void property="link">
+   <string>http://cbe.anu.edu.au/media/13057/427.pdf</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Thanks are also due to Masahiko Aoki, Douglas Bernheim, Marcelo Clerci-Arias, Avner Grief, Jonathan Levin, John McMillan, Rod Tyers and the participants of the comparative institutional analysis seminar at Stanford ... But this notion may also have</string>
+  </void>
+  <void property="title">
+   <string>[PDF]
+          
+          
+          
+          
+          
+            Institutional Complementarities and Institutional Adaptation*</string>
+  </void>
+ </object>
+</java>

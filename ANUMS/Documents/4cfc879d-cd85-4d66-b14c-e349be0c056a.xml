@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Ricci, R 2010, &apos;ISLAMIC LITERARY NETWORKS IN SOUTH AND SOUTHEAST ASIA&apos;, Journ...</string>
+  </void>
+  <void property="docID">
+   <string>4cfc879d-cd85-4d66-b14c-e349be0c056a</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/58247</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Ricci, R 2010, &apos;ISLAMIC LITERARY NETWORKS IN SOUTH AND SOUTHEAST ASIA&apos;, Journ...</string>
+  </void>
+  <void property="title">
+   <string>ISLAMIC LITERARY NETWORKS IN SOUTH AND SOUTHEAST ASIA</string>
+  </void>
+ </object>
+</java>

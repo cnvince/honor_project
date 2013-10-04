@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Other Pages: (1-3 of 5 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Other Pages: (1-3 of 5 matches)</string>
+  </void>
+  <void property="docID">
+   <string>28a5e412-8253-4b6c-9580-5ae052b1d30b</string>
+  </void>
+  <void property="link">
+   <string>https://studyat.anu.edu.au/interests/undergraduate/11</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>Study at ANU Interest: Anthropology - Undergraduate</string>
+  </void>
+ </object>
+</java>

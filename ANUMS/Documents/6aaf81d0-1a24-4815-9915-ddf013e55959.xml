@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>Emeritus Professor Paul Dibb, Professor William Maley and David Templeman take part in this panel discussion entitled &apos;National security: Suggested priorities for the incoming government&apos; at The Australian National University on 6 October 2010. The event was moderated by Director of the National Security College Professor Michael L&apos;Estrange.About the panellists:Emeritus Professor Paul Dibb AM, Chairman of the Advisory Board with the School of International,Political and Strategic Studies, ANU College of Asia and the Pacific.Professor William Maley AM, Foundation Director of the Asia-Pacific College of Diplomacy,ANU College of Asia and the Pacific.Mr David Templeman, Former Director General of Emergency Management Australia. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>6aaf81d0-1a24-4815-9915-ddf013e55959</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=5eUGXNQARFc</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>Emeritus Professor Paul Dibb, Professor William Maley and David Templeman take part in this panel discussion entitled &apos;National security: Suggested priorities for the incoming government&apos; at The Australian National University on 6 October 2010. The event was moderated by Director of the National Security College Professor Michael L&apos;Estrange.About the panellists:Emeritus Professor Paul Dibb AM, Chairman of the Advisory Board with the School of International,Political and Strategic Studies, ANU College of Asia and the Pacific.Professor William Maley AM, Foundation Director of the Asia-Pacific College of Diplomacy,ANU College of Asia and the Pacific.Mr David Templeman, Former Director General of Emergency Management Australia.</string>
+  </void>
+  <void property="title">
+   <string>National security: Suggested priorities for the incoming government forum at ANU</string>
+  </void>
+ </object>
+</java>

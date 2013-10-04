@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Chapman, B &amp; Lounkaew, K 2010, &apos;Income contingent student loans for Thailand:...</string>
+  </void>
+  <void property="docID">
+   <string>1d4c684a-c023-4c36-bcb7-d4c620253839</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/52230</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Chapman, B &amp; Lounkaew, K 2010, &apos;Income contingent student loans for Thailand:...</string>
+  </void>
+  <void property="title">
+   <string>Income contingent student loans for Thailand: Alternatives compared</string>
+  </void>
+ </object>
+</java>

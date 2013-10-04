@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Asia and the Pacific|Other ANU Non-College Academic
+Asian History, Arts And Cultural Policy, Film And Television, Performance And...</string>
+  </void>
+  <void property="docID">
+   <string>00da7b9c-e2a5-4673-9e4a-13fe1fa82aba</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/barme-gr</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Asia and the Pacific|Other ANU Non-College Academic
+Asian History, Arts And Cultural Policy, Film And Television, Performance And...</string>
+  </void>
+  <void property="title">
+   <string>Dr Geremie Barme</string>
+  </void>
+ </object>
+</java>

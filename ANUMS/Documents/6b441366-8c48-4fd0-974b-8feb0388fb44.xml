@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Buchhorn, Markus</string>
+  </void>
+  <void property="date">
+   <string>-</string>
+  </void>
+  <void property="displaySummary">
+   <string>- Buchhorn, Markus</string>
+  </void>
+  <void property="docID">
+   <string>6b441366-8c48-4fd0-974b-8feb0388fb44</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/46942</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Sustainability Issues for Australian Research Data: the Australian e-Research Sustainability Survey</string>
+  </void>
+ </object>
+</java>

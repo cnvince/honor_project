@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>Dr Heather Keith presents on overview of research by the speakers recently published in the Proceedings of the National Academy of Sciences USA. Prof David Lindenmayer discusses the contribution of long term monitoring to understand ecosystem dynamics and how this enables new insights into the relationships between forest carbon and fire. Professor Brendan Mackey concludes the presentation with an overview of the role of forests in the global carbon cycle, and the implications of their research for climate change policy.Professor Mackey has a PhD in plant ecology from The Australian National University. He has worked as a research scientist with the CSIRO and the Canadian Forest Service. Mackey is member of the IUCN Council in his role as a regional councillor for Oceania. He is also a member of the Earth Charter International Council; the Cape York Region Scientific and Cultural Advisory Committee; and the advisor committee of the TRIN CERF Hub.Professor David Lindenmayer has made a major and sustained long-term contribution to the conservation of Australia&apos;s biodiversity and the ecologically sustainable management of Australia&apos;s natural environment over the past 25 years. He has established and maintained four large-scale research programs on biodiversity conservation and natural resource management in south-eastern Australia spanning forests, plantations, woodlands, and agricultural areas.Dr Keith has a BSc with First Class Honours in Physical Geography and the University Medal from UNSW and a PhD in forest and fire ecology from RSBS Ecosystems Dynamics Group, ANU. She has worked at the Waite Agricultural Research Institute in Adelaide, CSIRO Forestry in Canberra and Hobart, and the Institute of Terrestrial Ecology in England. Her experience in experimental studies in the laboratory and field covers a range of forest ecosystems. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>135c812e-3dc7-48b2-8d68-e7d7c5571b1c</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=mRIkngrFMgY</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>Dr Heather Keith presents on overview of research by the speakers recently published in the Proceedings of the National Academy of Sciences USA. Prof David Lindenmayer discusses the contribution of long term monitoring to understand ecosystem dynamics and how this enables new insights into the relationships between forest carbon and fire. Professor Brendan Mackey concludes the presentation with an overview of the role of forests in the global carbon cycle, and the implications of their research for climate change policy.Professor Mackey has a PhD in plant ecology from The Australian National University. He has worked as a research scientist with the CSIRO and the Canadian Forest Service. Mackey is member of the IUCN Council in his role as a regional councillor for Oceania. He is also a member of the Earth Charter International Council; the Cape York Region Scientific and Cultural Advisory Committee; and the advisor committee of the TRIN CERF Hub.Professor David Lindenmayer has made a major and sustained long-term contribution to the conservation of Australia&apos;s biodiversity and the ecologically sustainable management of Australia&apos;s natural environment over the past 25 years. He has established and maintained four large-scale research programs on biodiversity conservation and natural resource management in south-eastern Australia spanning forests, plantations, woodlands, and agricultural areas.Dr Keith has a BSc with First Class Honours in Physical Geography and the University Medal from UNSW and a PhD in forest and fire ecology from RSBS Ecosystems Dynamics Group, ANU. She has worked at the Waite Agricultural Research Institute in Adelaide, CSIRO Forestry in Canberra and Hobart, and the Institute of Terrestrial Ecology in England. Her experience in experimental studies in the laboratory and field covers a range of forest ecosystems.</string>
+  </void>
+  <void property="title">
+   <string>Re-evaluating forest biomass carbon stocks - June 2009</string>
+  </void>
+ </object>
+</java>

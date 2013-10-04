@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>The Mathematical Analysis of Ultracold Quantum Gases</string>
+  </void>
+  <void property="docID">
+   <string>f58d4465-7db6-43ce-ade1-38d396f640ec</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/603</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>The Mathematical Analysis of Ultracold Quantum Gases</string>
+  </void>
+  <void property="title">
+   <string>The Mathematical Analysis of Ultracold Quantum Gases</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Other Pages: (1-2 of 2 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Other Pages: (1-2 of 2 matches)</string>
+  </void>
+  <void property="docID">
+   <string>e6139f08-811a-4d8e-b738-43e04ed30450</string>
+  </void>
+  <void property="link">
+   <string>https://studyat.anu.edu.au/2013/honours.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>Study at ANU Honours</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Zhao, Z 2011, &apos;Adult mortality in Asia&apos;, in Rogers, Richard G.; Crimmins, Eil...</string>
+  </void>
+  <void property="docID">
+   <string>c348d79c-e477-4e25-86da-e7c54c7f676a</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/62774</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Zhao, Z 2011, &apos;Adult mortality in Asia&apos;, in Rogers, Richard G.; Crimmins, Eil...</string>
+  </void>
+  <void property="title">
+   <string>Adult mortality in Asia</string>
+  </void>
+ </object>
+</java>

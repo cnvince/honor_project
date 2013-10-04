@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Fison, Lorimer, 1832-1907 </string>
+  </void>
+  <void property="docID">
+   <string>8951290d-1dd9-4282-87fd-ca1f28ed6567</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YANU+Library&amp;SORT=D/YANU+Library&amp;SORT=D&amp;SUBKEY=ANU+Library/1%2C37%2C37%2CB/frameset&amp;FF=YANU+Library&amp;SORT=D&amp;9%2C9%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Fison, Lorimer, 1832-1907 </string>
+  </void>
+  <void property="title">
+   <string>Kamilaroi and Kurnai: group-marriage and relationship, and marriage by elopement, drawn chiefly from</string>
+  </void>
+ </object>
+</java>

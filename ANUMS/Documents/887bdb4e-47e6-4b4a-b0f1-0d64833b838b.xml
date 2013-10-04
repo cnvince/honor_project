@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>No Image Available. NICTA RECEPTION. Phone:. 58802. Groups:. NICTA.</string>
+  </void>
+  <void property="docID">
+   <string>887bdb4e-47e6-4b4a-b0f1-0d64833b838b</string>
+  </void>
+  <void property="link">
+   <string>http://people.cecs.anu.edu.au/user/242</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>No Image Available. NICTA RECEPTION. Phone:. 58802. Groups:. NICTA.</string>
+  </void>
+  <void property="title">
+   <string>NICTA RECEPTION  - CECS People - ANU</string>
+  </void>
+ </object>
+</java>

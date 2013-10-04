@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Within the framework of the Council for Australian Governments (COAG) requirements for benchmarking Indigenous disadvantage and reporting on strategies and performance towards redress, the Murray–Darling Basin Ministerial Council has moved to</string>
+  </void>
+  <void property="docID">
+   <string>ab03b8f5-b9ab-4ff4-8e2d-bdb9a4a57739</string>
+  </void>
+  <void property="link">
+   <string>http://caepr.anu.edu.au/Publications/DP/2004DP264.php</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Within the framework of the Council for Australian Governments (COAG) requirements for benchmarking Indigenous disadvantage and reporting on strategies and performance towards redress, the Murray–Darling Basin Ministerial Council has moved to</string>
+  </void>
+  <void property="title">
+   <string>Indigenous people in the Murray–Darling Basin: A statistical profile...</string>
+  </void>
+ </object>
+</java>

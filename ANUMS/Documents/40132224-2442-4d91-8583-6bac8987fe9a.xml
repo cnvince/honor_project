@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Courses: (1-10 of 14 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Courses: (1-10 of 14 matches)</string>
+  </void>
+  <void property="docID">
+   <string>40132224-2442-4d91-8583-6bac8987fe9a</string>
+  </void>
+  <void property="link">
+   <string>https://studyat.anu.edu.au/2013/courses/EURO2011.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>EURO2011 - EURO2011 Nationalism in Europe: History, Politics, Theory</string>
+  </void>
+ </object>
+</java>

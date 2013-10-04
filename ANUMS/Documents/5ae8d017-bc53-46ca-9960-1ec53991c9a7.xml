@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string> 
+[Melbourne] : Economic Group, Reserve Bank of Australia, 1994</string>
+  </void>
+  <void property="docID">
+   <string>5ae8d017-bc53-46ca-9960-1ec53991c9a7</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YH.+C.+Coombs&amp;SORT=D/YH.+C.+Coombs&amp;SORT=D&amp;SUBKEY=H.+C.+Coombs/1%2C86%2C86%2CB/frameset&amp;FF=YH.+C.+Coombs&amp;SORT=D&amp;2%2C2%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string> 
+[Melbourne] : Economic Group, Reserve Bank of Australia, 1994</string>
+  </void>
+  <void property="title">
+   <string>Proceedings of a conference held at the H.C. Coombs Centre for Financial Studies, Kirribilli on 11-1</string>
+  </void>
+ </object>
+</java>

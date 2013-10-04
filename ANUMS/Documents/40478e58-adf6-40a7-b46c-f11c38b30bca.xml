@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>A. D. Hope, by Loui Seselja, 1991. ... A. D. Hope, by Loui Seselja, 1991.</string>
+  </void>
+  <void property="docID">
+   <string>40478e58-adf6-40a7-b46c-f11c38b30bca</string>
+  </void>
+  <void property="link">
+   <string>http://peopleaustralia.anu.edu.au/biography/hope-alec-derwent-a-d-503</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>A. D. Hope, by Loui Seselja, 1991. ... A. D. Hope, by Loui Seselja, 1991.</string>
+  </void>
+  <void property="title">
+   <string>Biography - Alec Derwent (A. D.) Hope - People Australia</string>
+  </void>
+ </object>
+</java>

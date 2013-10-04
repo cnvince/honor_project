@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>ANU College of Engineering &amp; Computer Science</string>
+  </void>
+  <void property="docID">
+   <string>bc0f14b3-1c84-41d3-9ff3-3054d3317490</string>
+  </void>
+  <void property="link">
+   <string>http://cecs.anu.edu.au/seminars/more/SID/3193</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Engineering &amp; Computer Science</string>
+  </void>
+  <void property="title">
+   <string>Seminar Details: Dimitrios Georgakopoulos 2012-11-15  - CECS - ANU</string>
+  </void>
+ </object>
+</java>

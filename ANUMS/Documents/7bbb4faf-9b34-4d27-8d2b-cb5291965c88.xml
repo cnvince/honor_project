@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string> viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>7bbb4faf-9b34-4d27-8d2b-cb5291965c88</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=kh-8TGLcSBo&amp;list=PL14101C9E71F17207</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string></string>
+  </void>
+  <void property="title">
+   <string>Health &amp; Medical</string>
+  </void>
+ </object>
+</java>

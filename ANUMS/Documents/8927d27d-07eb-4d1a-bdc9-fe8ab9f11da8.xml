@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Young, I 2006, &apos;Directional spectra of hurricane wind-waves&apos;, Journal of Geop...</string>
+  </void>
+  <void property="docID">
+   <string>8927d27d-07eb-4d1a-bdc9-fe8ab9f11da8</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/63965</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Young, I 2006, &apos;Directional spectra of hurricane wind-waves&apos;, Journal of Geop...</string>
+  </void>
+  <void property="title">
+   <string>Directional spectra of hurricane wind-waves</string>
+  </void>
+ </object>
+</java>

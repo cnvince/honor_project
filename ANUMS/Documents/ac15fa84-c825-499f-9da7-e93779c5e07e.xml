@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Research Services » Sponsored research » Program management » Funding opportunities » NHMRC programs. ... NHMRC programs. The National Health and Medical Research Council ( NHMRC) is Australia&apos;s peak body for supporting health and medical research;</string>
+  </void>
+  <void property="docID">
+   <string>ac15fa84-c825-499f-9da7-e93779c5e07e</string>
+  </void>
+  <void property="link">
+   <string>https://researchservices.anu.edu.au/osr/programs/nhmrc/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Research Services » Sponsored research » Program management » Funding opportunities » NHMRC programs. ... NHMRC programs. The National Health and Medical Research Council ( NHMRC) is Australia&apos;s peak body for supporting health and medical research;</string>
+  </void>
+  <void property="title">
+   <string>NHMRC programs - Research Services - ANU</string>
+  </void>
+ </object>
+</java>

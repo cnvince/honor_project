@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Saikal, A &amp; Cheng, J 2011, &apos;Conclusion: The Afghanistan Conflict and Australi...</string>
+  </void>
+  <void property="docID">
+   <string>71fe5b96-f273-44fd-896f-aad138232098</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/70388</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Saikal, A &amp; Cheng, J 2011, &apos;Conclusion: The Afghanistan Conflict and Australi...</string>
+  </void>
+  <void property="title">
+   <string>Conclusion: The Afghanistan Conflict and Australia&apos;s Role</string>
+  </void>
+ </object>
+</java>

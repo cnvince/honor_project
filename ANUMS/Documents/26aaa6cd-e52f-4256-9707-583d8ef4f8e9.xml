@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string> 
+Chichester, West Sussex, UK ; Hoboken, NJ : Wiley-Blackwell, 2013</string>
+  </void>
+  <void property="docID">
+   <string>26aaa6cd-e52f-4256-9707-583d8ef4f8e9</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Ybiodiversity&amp;SORT=D/Ybiodiversity&amp;SORT=D&amp;SUBKEY=biodiversity/1%2C32000%2C32000%2CB/frameset&amp;FF=Ybiodiversity&amp;SORT=D&amp;2%2C2%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string> 
+Chichester, West Sussex, UK ; Hoboken, NJ : Wiley-Blackwell, 2013</string>
+  </void>
+  <void property="title">
+   <string>Biodiversity conservation and poverty alleviation exploring the evidence for a link</string>
+  </void>
+ </object>
+</java>

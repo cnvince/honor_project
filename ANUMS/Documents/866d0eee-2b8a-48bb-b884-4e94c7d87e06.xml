@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Courses: (1-4 of 14 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Courses: (1-4 of 14 matches)</string>
+  </void>
+  <void property="docID">
+   <string>866d0eee-2b8a-48bb-b884-4e94c7d87e06</string>
+  </void>
+  <void property="link">
+   <string>http://studyat.anu.edu.au/courses/INTR2020;all.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>INTR2020 - INTR2020 Security and Stabillity on the Korean Peninsula</string>
+  </void>
+ </object>
+</java>

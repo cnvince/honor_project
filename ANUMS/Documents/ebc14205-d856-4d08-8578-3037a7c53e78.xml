@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Brown, M, Phillips, C, Ciszek, K et al 2010, &apos;Children in the ACT with Asthma...</string>
+  </void>
+  <void property="docID">
+   <string>ebc14205-d856-4d08-8578-3037a7c53e78</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/13850</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Brown, M, Phillips, C, Ciszek, K et al 2010, &apos;Children in the ACT with Asthma...</string>
+  </void>
+  <void property="title">
+   <string>Children in the ACT with Asthma: Are they taking preventer medication according to guidelines?</string>
+  </void>
+ </object>
+</java>

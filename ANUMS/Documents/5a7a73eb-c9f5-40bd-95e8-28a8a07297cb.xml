@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Gray, G 2008, &apos;Institutional, incremental and enduring: Women&apos;s health action...</string>
+  </void>
+  <void property="docID">
+   <string>5a7a73eb-c9f5-40bd-95e8-28a8a07297cb</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/20381</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Gray, G 2008, &apos;Institutional, incremental and enduring: Women&apos;s health action...</string>
+  </void>
+  <void property="title">
+   <string>Institutional, incremental and enduring: Women&apos;s health action in Canada and Australia</string>
+  </void>
+ </object>
+</java>

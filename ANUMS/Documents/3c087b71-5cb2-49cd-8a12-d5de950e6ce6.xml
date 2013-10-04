@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string> 
+Cambridge : Cambridge University Press, 2006</string>
+  </void>
+  <void property="docID">
+   <string>3c087b71-5cb2-49cd-8a12-d5de950e6ce6</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YPeter+Doherty&amp;SORT=D/YPeter+Doherty&amp;SORT=D&amp;SUBKEY=Peter+Doherty/1%2C13%2C13%2CB/frameset&amp;FF=YPeter+Doherty&amp;SORT=D&amp;2%2C2%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string> 
+Cambridge : Cambridge University Press, 2006</string>
+  </void>
+  <void property="title">
+   <string>Olfaction and the brain</string>
+  </void>
+ </object>
+</java>

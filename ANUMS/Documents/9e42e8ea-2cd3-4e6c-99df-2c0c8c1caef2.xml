@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Understanding the World: Domei Tsushin (United News Agency), the Japanese Sta...</string>
+  </void>
+  <void property="docID">
+   <string>9e42e8ea-2cd3-4e6c-99df-2c0c8c1caef2</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/2303</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Understanding the World: Domei Tsushin (United News Agency), the Japanese Sta...</string>
+  </void>
+  <void property="title">
+   <string>Understanding the World: Domei Tsushin (United News Agency), the Japanese State and International Politics 1936-52</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Medicine, Biology and Environment</string>
+  </void>
+  <void property="docID">
+   <string>cc4252a2-6f82-4132-a55b-52d3d2fac053</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/potas-jr</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Medicine, Biology and Environment</string>
+  </void>
+  <void property="title">
+   <string>Dr Jason Potas</string>
+  </void>
+ </object>
+</java>

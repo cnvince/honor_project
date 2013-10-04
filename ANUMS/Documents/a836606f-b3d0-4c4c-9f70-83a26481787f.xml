@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Intimate Relationships and the Politics of Personhood in the Philippines</string>
+  </void>
+  <void property="docID">
+   <string>a836606f-b3d0-4c4c-9f70-83a26481787f</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/2660</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Intimate Relationships and the Politics of Personhood in the Philippines</string>
+  </void>
+  <void property="title">
+   <string>Intimate Relationships and the Politics of Personhood in the Philippines</string>
+  </void>
+ </object>
+</java>

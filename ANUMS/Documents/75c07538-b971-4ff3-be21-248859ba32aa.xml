@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Nobel Prize Laureate Brian Schmidt and textile artist Valerie Kirk stand with the newly unveiled Schmidt Tapestry. ... Within the cotton warp and woollen weft, Kirk has captured the research of ANU Nobel Laureate Professor Brian Schmidt.</string>
+  </void>
+  <void property="docID">
+   <string>75c07538-b971-4ff3-be21-248859ba32aa</string>
+  </void>
+  <void property="link">
+   <string>http://news.anu.edu.au/2013/06/14/weaving-brian-schmidts-universe/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Nobel Prize Laureate Brian Schmidt and textile artist Valerie Kirk stand with the newly unveiled Schmidt Tapestry. ... Within the cotton warp and woollen weft, Kirk has captured the research of ANU Nobel Laureate Professor Brian Schmidt.</string>
+  </void>
+  <void property="title">
+   <string>Weaving Brian Schmidt’s Universe - News &amp; events - ANU</string>
+  </void>
+ </object>
+</java>

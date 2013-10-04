@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Physical and Mathematical Sciences
+Quantum Physics, Mathematical Aspects Of Classical Mechanics, Quantum Mechani...</string>
+  </void>
+  <void property="docID">
+   <string>cb055eb8-fe81-498e-ba73-250251af3666</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/riggs-pj</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Physical and Mathematical Sciences
+Quantum Physics, Mathematical Aspects Of Classical Mechanics, Quantum Mechani...</string>
+  </void>
+  <void property="title">
+   <string>Dr Peter J. Riggs</string>
+  </void>
+ </object>
+</java>

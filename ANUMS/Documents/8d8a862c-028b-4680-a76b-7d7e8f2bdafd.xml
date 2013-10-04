@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string> 
+Canberra : Anglo-Australian Telescope Board, 1974</string>
+  </void>
+  <void property="docID">
+   <string>8d8a862c-028b-4680-a76b-7d7e8f2bdafd</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Yanglo-australian+telescope&amp;SORT=D/Yanglo-australian+telescope&amp;SORT=D&amp;SUBKEY=anglo-australian+telescope/1%2C7%2C7%2CB/frameset&amp;FF=Yanglo-australian+telescope&amp;SORT=D&amp;5%2C5%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string> 
+Canberra : Anglo-Australian Telescope Board, 1974</string>
+  </void>
+  <void property="title">
+   <string>The Anglo-Australian 3.9 m telescope</string>
+  </void>
+ </object>
+</java>

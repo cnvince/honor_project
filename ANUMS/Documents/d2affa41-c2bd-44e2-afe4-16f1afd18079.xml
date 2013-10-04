@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>The Centre will take the next big step in optical systems by transforming photonic integrated circuits into a technology that will have a profound effect on economies and lifestyles around the ... world. This will enable the Internet to transfer vast</string>
+  </void>
+  <void property="docID">
+   <string>d2affa41-c2bd-44e2-afe4-16f1afd18079</string>
+  </void>
+  <void property="link">
+   <string>http://laserspark.anu.edu.au/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>The Centre will take the next big step in optical systems by transforming photonic integrated circuits into a technology that will have a profound effect on economies and lifestyles around the ... world. This will enable the Internet to transfer vast</string>
+  </void>
+  <void property="title">
+   <string>ANU - Laser Physics Centre - LPC</string>
+  </void>
+ </object>
+</java>

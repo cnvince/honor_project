@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Saha, L &amp; Print, M 2010, &apos;Student school elections and political engagement: ...</string>
+  </void>
+  <void property="docID">
+   <string>8ad78595-ce0d-4e06-b959-5092009e0137</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/52270</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Saha, L &amp; Print, M 2010, &apos;Student school elections and political engagement: ...</string>
+  </void>
+  <void property="title">
+   <string>Student school elections and political engagement: A cradle of democracy?</string>
+  </void>
+ </object>
+</java>

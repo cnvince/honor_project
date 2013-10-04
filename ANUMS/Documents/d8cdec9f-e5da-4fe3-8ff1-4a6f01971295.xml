@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>Dr David Molden, Director General of the International Centre for Integrated Mountain Development (ICIMOD), based in Kathmandu, Nepal presents a public lecture at The Australian National University on development challenges in the Himalayan region. The frequency of floods and droughts seems to be on the rise, as is the demand for water, food and energy. In the region&apos;s fragile mountain environments the effects of climate change are particularly worrisome, especially the potential impact on the region&apos;s supply of water, which serves over 1.3 billion people living downstream. Along with challenges, these changes also bring opportunities. There are new possibilities for the production of high-value mountain products and improved access to markets for local communities. There are also budding prospects for regional cooperation, which is essential for addressing biodiversity and transboundary water issues, an area where the International Centre for Integrated Mountain Development (ICIMOD) is working with AusAID, CSIRO and The Australian National University. Dr Molden is a researcher and development specialist with more than 30 years experience in the area of water and natural resource management. Prior to joining ICIMOD, Dr Molden was Deputy Director General for Research at the International Water Management Institute (Stockholm Water Prize 2012 and International Water Resources Association Crystal Drop Award 2011). He was awarded the International Society of Paddy and Water Environment Engineering International Award and the Outstanding Scientist Award of the Consultative Group on International Agricultural Research in 2009. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>d8cdec9f-e5da-4fe3-8ff1-4a6f01971295</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=AtlPX50EX8Q</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>Dr David Molden, Director General of the International Centre for Integrated Mountain Development (ICIMOD), based in Kathmandu, Nepal presents a public lecture at The Australian National University on development challenges in the Himalayan region. The frequency of floods and droughts seems to be on the rise, as is the demand for water, food and energy. In the region&apos;s fragile mountain environments the effects of climate change are particularly worrisome, especially the potential impact on the region&apos;s supply of water, which serves over 1.3 billion people living downstream. Along with challenges, these changes also bring opportunities. There are new possibilities for the production of high-value mountain products and improved access to markets for local communities. There are also budding prospects for regional cooperation, which is essential for addressing biodiversity and transboundary water issues, an area where the International Centre for Integrated Mountain Development (ICIMOD) is working with AusAID, CSIRO and The Australian National University. Dr Molden is a researcher and development specialist with more than 30 years experience in the area of water and natural resource management. Prior to joining ICIMOD, Dr Molden was Deputy Director General for Research at the International Water Management Institute (Stockholm Water Prize 2012 and International Water Resources Association Crystal Drop Award 2011). He was awarded the International Society of Paddy and Water Environment Engineering International Award and the Outstanding Scientist Award of the Consultative Group on International Agricultural Research in 2009.</string>
+  </void>
+  <void property="title">
+   <string>The changing face of the Himalayas: Finding opportunities amidst uncertainties</string>
+  </void>
+ </object>
+</java>

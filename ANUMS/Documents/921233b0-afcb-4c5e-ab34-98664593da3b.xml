@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Thornton, M 2008, CALD/ARC - Journal Rankings, ARC.</string>
+  </void>
+  <void property="docID">
+   <string>921233b0-afcb-4c5e-ab34-98664593da3b</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/50359</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Thornton, M 2008, CALD/ARC - Journal Rankings, ARC.</string>
+  </void>
+  <void property="title">
+   <string>CALD/ARC - Journal Rankings</string>
+  </void>
+ </object>
+</java>

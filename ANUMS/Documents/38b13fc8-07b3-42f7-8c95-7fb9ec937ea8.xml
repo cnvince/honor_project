@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Home Sustainable construction in the EU. Sustainable construction in the EU.</string>
+  </void>
+  <void property="docID">
+   <string>38b13fc8-07b3-42f7-8c95-7fb9ec937ea8</string>
+  </void>
+  <void property="link">
+   <string>http://regnet.anu.edu.au/news/sustainable-construction-eu</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Home Sustainable construction in the EU. Sustainable construction in the EU.</string>
+  </void>
+  <void property="title">
+   <string>Sustainable construction in the EU - RegNet - ANU</string>
+  </void>
+ </object>
+</java>

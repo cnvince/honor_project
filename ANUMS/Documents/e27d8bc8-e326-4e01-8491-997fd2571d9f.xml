@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Courses: (1-4 of 4 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Courses: (1-4 of 4 matches)</string>
+  </void>
+  <void property="docID">
+   <string>e27d8bc8-e326-4e01-8491-997fd2571d9f</string>
+  </void>
+  <void property="link">
+   <string>https://studyat.anu.edu.au/2013/courses/HUMN8011.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>HUMN8011 - HUMN8011 Writing, World Histories and Lives: Key concepts</string>
+  </void>
+ </object>
+</java>

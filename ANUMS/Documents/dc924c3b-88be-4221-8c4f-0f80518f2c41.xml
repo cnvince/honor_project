@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Obesity, overweight and hospitalisation: Identifying targets for intervention...</string>
+  </void>
+  <void property="docID">
+   <string>dc924c3b-88be-4221-8c4f-0f80518f2c41</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/1310</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Obesity, overweight and hospitalisation: Identifying targets for intervention...</string>
+  </void>
+  <void property="title">
+   <string>Obesity, overweight and hospitalisation: Identifying targets for interventions to prevent adverse health outcomes</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Southeast Asia&apos;s Global Economy, Climate and the Impact of Natural Hazards fr...</string>
+  </void>
+  <void property="docID">
+   <string>4c8176a9-9a37-4afc-acc7-46daf4b5ee5b</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/2484</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Southeast Asia&apos;s Global Economy, Climate and the Impact of Natural Hazards fr...</string>
+  </void>
+  <void property="title">
+   <string>Southeast Asia&apos;s Global Economy, Climate and the Impact of Natural Hazards from the 10th to 21st Centuries (Externally led by Murdoch University)</string>
+  </void>
+ </object>
+</java>

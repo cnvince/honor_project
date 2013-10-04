@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Garnaut, R, Song, L &amp; Yao, Y 2008, &apos;Impact and significance of state-owned en...</string>
+  </void>
+  <void property="docID">
+   <string>59e4eba6-5d93-4f00-95af-1afee3a6303e</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/14440</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Garnaut, R, Song, L &amp; Yao, Y 2008, &apos;Impact and significance of state-owned en...</string>
+  </void>
+  <void property="title">
+   <string>Impact and significance of state-owned enterprise restructuring in China</string>
+  </void>
+ </object>
+</java>

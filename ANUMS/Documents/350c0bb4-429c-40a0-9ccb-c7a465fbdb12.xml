@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Asia and the Pacific
+Environment And Resource Economics, Econometric And Statistical Methods, Inte...</string>
+  </void>
+  <void property="docID">
+   <string>350c0bb4-429c-40a0-9ccb-c7a465fbdb12</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/song-lx</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Asia and the Pacific
+Environment And Resource Economics, Econometric And Statistical Methods, Inte...</string>
+  </void>
+  <void property="title">
+   <string>Mr Ligang Song</string>
+  </void>
+ </object>
+</java>

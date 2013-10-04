@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Christensen, H, Aiken, A, Batterham, P et al 2011, &apos;No clear potentiation of ...</string>
+  </void>
+  <void property="docID">
+   <string>52360e94-27b0-4a69-bae2-9d579dcc0ba0</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/52258</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Christensen, H, Aiken, A, Batterham, P et al 2011, &apos;No clear potentiation of ...</string>
+  </void>
+  <void property="title">
+   <string>No clear potentiation of antidepressant medication effects by folic acid + vitamin B12 in a large community sample</string>
+  </void>
+ </object>
+</java>

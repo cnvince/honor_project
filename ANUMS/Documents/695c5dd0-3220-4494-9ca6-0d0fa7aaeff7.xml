@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Chapman, B, Lounkaew, K, Polsiri, P et al 2010, &apos;Thailands Student Loans Fund...</string>
+  </void>
+  <void property="docID">
+   <string>695c5dd0-3220-4494-9ca6-0d0fa7aaeff7</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/57945</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Chapman, B, Lounkaew, K, Polsiri, P et al 2010, &apos;Thailands Student Loans Fund...</string>
+  </void>
+  <void property="title">
+   <string>Thailands Student Loans Fund: Interest rate subsidies and repayment burdens</string>
+  </void>
+ </object>
+</java>

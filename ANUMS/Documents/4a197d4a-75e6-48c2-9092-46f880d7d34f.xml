@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>French, D, Jang, S, Tait, R et al 2012, &apos;Cross-national gender differences in...</string>
+  </void>
+  <void property="docID">
+   <string>4a197d4a-75e6-48c2-9092-46f880d7d34f</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/76063</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>French, D, Jang, S, Tait, R et al 2012, &apos;Cross-national gender differences in...</string>
+  </void>
+  <void property="title">
+   <string>Cross-national gender differences in the socioeconomic factors associated with smoking in Australia, the United States of America and South Korea</string>
+  </void>
+ </object>
+</java>

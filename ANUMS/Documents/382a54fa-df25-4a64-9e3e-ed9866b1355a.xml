@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>382a54fa-df25-4a64-9e3e-ed9866b1355a</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/339914788127789057</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>China is not the only state involved in cyber-espionage says ANU Professor of National Security http://bit.ly/10B5wun , via @abcnews</string>
+  </void>
+ </object>
+</java>

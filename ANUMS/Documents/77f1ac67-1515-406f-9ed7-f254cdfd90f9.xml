@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Pearson, Dan 
+London : Fuel : Distributed by Thames &amp; Hudson/D.A.P., 2009</string>
+  </void>
+  <void property="docID">
+   <string>77f1ac67-1515-406f-9ed7-f254cdfd90f9</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Ynational+botanical+gardens&amp;SORT=D/Ynational+botanical+gardens&amp;SORT=D&amp;SUBKEY=national+botanical+gardens/1%2C8%2C8%2CB/frameset&amp;FF=Ynational+botanical+gardens&amp;SORT=D&amp;3%2C3%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Pearson, Dan 
+London : Fuel : Distributed by Thames &amp; Hudson/D.A.P., 2009</string>
+  </void>
+  <void property="title">
+   <string>Spirit : garden inspiration</string>
+  </void>
+ </object>
+</java>

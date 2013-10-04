@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Courses: (1-5 of 5 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Courses: (1-5 of 5 matches)</string>
+  </void>
+  <void property="docID">
+   <string>3f27dd07-003f-40e1-9246-f0d08c5d4d51</string>
+  </void>
+  <void property="link">
+   <string>https://studyat.anu.edu.au/2013/courses/INDG3001.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>INDG3001 - INDG3001 Public policy development and implementation and Indigenous Australians</string>
+  </void>
+ </object>
+</java>

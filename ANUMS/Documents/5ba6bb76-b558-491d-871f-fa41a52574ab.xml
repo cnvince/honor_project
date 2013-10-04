@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Hui, Shek-wai. 
+Ottawa, Ontario : Statistics Canada, Human Resources, [2003]</string>
+  </void>
+  <void property="docID">
+   <string>5ba6bb76-b558-491d-871f-fa41a52574ab</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YAdult+education&amp;SORT=D/YAdult+education&amp;SORT=D&amp;SUBKEY=Adult+education/1%2C834%2C834%2CB/frameset&amp;FF=YAdult+education&amp;SORT=D&amp;6%2C6%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Hui, Shek-wai. 
+Ottawa, Ontario : Statistics Canada, Human Resources, [2003]</string>
+  </void>
+  <void property="title">
+   <string>Issues in the design of Canada&apos;s Adult Education and Training Survey</string>
+  </void>
+ </object>
+</java>

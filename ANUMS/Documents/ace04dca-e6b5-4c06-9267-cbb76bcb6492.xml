@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Fan, D, Hope, A, Jia, H et al 2008, &apos;Separation of light-induced linear, cycl...</string>
+  </void>
+  <void property="docID">
+   <string>ace04dca-e6b5-4c06-9267-cbb76bcb6492</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/48683</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Fan, D, Hope, A, Jia, H et al 2008, &apos;Separation of light-induced linear, cycl...</string>
+  </void>
+  <void property="title">
+   <string>Separation of light-induced linear, cyclic and stroma-sourced electron fluxes to P700+ in cucumber leaf discs after pre-illumination at a chilling temperature</string>
+  </void>
+ </object>
+</java>

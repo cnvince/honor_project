@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>ANU Nobel Laureate Professor Brian Schmidt gives a Vice-Chancellor&apos;s Public Lecture. The talk is titled &apos;The accelerating Universe&apos;.In 1998 two teams traced back the expansion of the universe over billions of years and discovered that it was accelerating. It was a startling discovery that suggests that more than 70 per cent of the cosmos is contained in a previously unknown form of matter, called Dark Energy. In this talk, Brian Schmidt, leader of the High-Redshift Supernova Search Team, describes this discovery and explains how astronomers have used observations to trace our universe&apos;s history back more than 13 billion years, leading them to ponder the ultimate fate of the cosmos.Professor Brian Schmidt joined the staff of The Australian National University in 1995, and was awarded the Australian Government&apos;s inaugural Malcolm McIntosh award for achievement in the Physical Sciences in 2000, The Australian Academy of Sciences Pawsey Medal in 2001, the Astronomical Society of India&apos;s Vainu Bappu Medal in 2002, and an Australian Research Council Federation Fellowship in 2005. In 2008 he was elected a Fellow of the Australian Academy of Sciences, a Fellow of the United States National Academy, and Foreign Member of the Spanish Royal Academy of Sciences.Brian&apos;s work on the accelerating universe was awarded the 2011 Nobel Prize in Physics, jointly with Adam Riess and Saul Perlmutter. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>54e6cd5f-43fc-430b-a2e9-9b12e873702c</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=55pcpTjd3BY</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>ANU Nobel Laureate Professor Brian Schmidt gives a Vice-Chancellor&apos;s Public Lecture. The talk is titled &apos;The accelerating Universe&apos;.In 1998 two teams traced back the expansion of the universe over billions of years and discovered that it was accelerating. It was a startling discovery that suggests that more than 70 per cent of the cosmos is contained in a previously unknown form of matter, called Dark Energy. In this talk, Brian Schmidt, leader of the High-Redshift Supernova Search Team, describes this discovery and explains how astronomers have used observations to trace our universe&apos;s history back more than 13 billion years, leading them to ponder the ultimate fate of the cosmos.Professor Brian Schmidt joined the staff of The Australian National University in 1995, and was awarded the Australian Government&apos;s inaugural Malcolm McIntosh award for achievement in the Physical Sciences in 2000, The Australian Academy of Sciences Pawsey Medal in 2001, the Astronomical Society of India&apos;s Vainu Bappu Medal in 2002, and an Australian Research Council Federation Fellowship in 2005. In 2008 he was elected a Fellow of the Australian Academy of Sciences, a Fellow of the United States National Academy, and Foreign Member of the Spanish Royal Academy of Sciences.Brian&apos;s work on the accelerating universe was awarded the 2011 Nobel Prize in Physics, jointly with Adam Riess and Saul Perlmutter.</string>
+  </void>
+  <void property="title">
+   <string>Brian Schmidt: The accelerating Universe - Vice-Chancellor&apos;s Lecture Series</string>
+  </void>
+ </object>
+</java>

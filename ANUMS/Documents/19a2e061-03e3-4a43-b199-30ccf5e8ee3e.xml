@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Home » biodiversity. biodiversity. ... It is one more demand on the landscape, competing with production of energy, water, food, fibre, minerals, and human settlement, and with the need to maintain biodiversity to underpin the ecological</string>
+  </void>
+  <void property="docID">
+   <string>19a2e061-03e3-4a43-b199-30ccf5e8ee3e</string>
+  </void>
+  <void property="link">
+   <string>http://www.nirra.anu.edu.au/category/tags/biodiversity</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Home » biodiversity. biodiversity. ... It is one more demand on the landscape, competing with production of energy, water, food, fibre, minerals, and human settlement, and with the need to maintain biodiversity to underpin the ecological</string>
+  </void>
+  <void property="title">
+   <string>biodiversity - National Institute for Rural and Regional Australia -...</string>
+  </void>
+ </object>
+</java>

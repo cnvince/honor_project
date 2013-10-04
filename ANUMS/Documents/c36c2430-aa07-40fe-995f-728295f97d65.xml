@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Desmond Ball, Professor, Strategic and Defence Studies Centre, Research School of Pacific and Asian Studies. Research interests are Australian defence; nuclear strategy; Asia-Pacific security.</string>
+  </void>
+  <void property="docID">
+   <string>c36c2430-aa07-40fe-995f-728295f97d65</string>
+  </void>
+  <void property="link">
+   <string>http://asiapacific.anu.edu.au/people/personal/balld_sdsc.php</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Desmond Ball, Professor, Strategic and Defence Studies Centre, Research School of Pacific and Asian Studies. Research interests are Australian defence; nuclear strategy; Asia-Pacific security.</string>
+  </void>
+  <void property="title">
+   <string>ANU College of Asia and the Pacific - Desmond Ball - CAP - ANU</string>
+  </void>
+ </object>
+</java>

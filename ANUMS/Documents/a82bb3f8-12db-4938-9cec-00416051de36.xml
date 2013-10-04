@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Golley, J &amp; Song, L 2011, &apos;China&apos;s Rise in a Changing World&apos;, in Jane Golley ...</string>
+  </void>
+  <void property="docID">
+   <string>a82bb3f8-12db-4938-9cec-00416051de36</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/67727</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Golley, J &amp; Song, L 2011, &apos;China&apos;s Rise in a Changing World&apos;, in Jane Golley ...</string>
+  </void>
+  <void property="title">
+   <string>China&apos;s Rise in a Changing World</string>
+  </void>
+ </object>
+</java>

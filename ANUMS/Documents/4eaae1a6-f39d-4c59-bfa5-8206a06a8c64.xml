@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>RSSS, Research School of Social Sciences, Australian National University, womens electoral lobby, social science research Australia</string>
+  </void>
+  <void property="docID">
+   <string>4eaae1a6-f39d-4c59-bfa5-8206a06a8c64</string>
+  </void>
+  <void property="link">
+   <string>http://wel.anu.edu.au/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>RSSS, Research School of Social Sciences, Australian National University, womens electoral lobby, social science research Australia</string>
+  </void>
+  <void property="title">
+   <string>Women&apos;s Electoral Lobby at the ANU</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Novel techniques for statistical and mathematical analyses of sequence data</string>
+  </void>
+  <void property="docID">
+   <string>ee498b31-3776-404a-865b-64c5eb065765</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/2371</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Novel techniques for statistical and mathematical analyses of sequence data</string>
+  </void>
+  <void property="title">
+   <string>Novel techniques for statistical and mathematical analyses of sequence data</string>
+  </void>
+ </object>
+</java>

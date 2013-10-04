@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>Adjunct Professor Steven Lewis gives this public lecture entitled &apos;Value for money in health care: Why it&apos;s so hard to achieve and what to do about it&apos; at The Australian National University on 11 November 2010. There is abundant evidence that in conventional economic terms, health care in prosperous nations delivers very little additional benefit at the margins of spending. This presentation explores the reasons why diminishing marginal returns are the norm in health care. It examines how scientific evidence, price, volumes, and incentives affect costs and marginal returns, and highlight areas that are particularly prone to high costs and low returns. Drawing on lessons from population health, health services research, and quality improvement, it concludes with potential strategies to improve value for money in health care, recognising the political and interest-based realities of contemporary systems and the need to build professional and public support for change.Steven Lewis is a health policy and research consultant based in Saskatoon, and Adjunct Professor of Health Policy at the University of Calgary and Simon Fraser University. Prior to resuming a full-time consulting practice he headed a health research granting agency and spent 7 years as CEO of the Health Services Utilization and Research Commission in Saskatchewan. He has served on various boards and committees, including the Governing Council of the Canadian Institutes of Health Research, the Saskatchewan Health Quality Council, the Health Council of Canada, and the editorial boards of several journals, including Open Medicine. He writes frequently on topics such as reforming and strengthening medicare, improving health care quality, primary health care, regionalisation, and health policy and politics. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>a98a66de-be0c-474d-9858-8ae064ec6a42</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=HaqyTySv8WE</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>Adjunct Professor Steven Lewis gives this public lecture entitled &apos;Value for money in health care: Why it&apos;s so hard to achieve and what to do about it&apos; at The Australian National University on 11 November 2010. There is abundant evidence that in conventional economic terms, health care in prosperous nations delivers very little additional benefit at the margins of spending. This presentation explores the reasons why diminishing marginal returns are the norm in health care. It examines how scientific evidence, price, volumes, and incentives affect costs and marginal returns, and highlight areas that are particularly prone to high costs and low returns. Drawing on lessons from population health, health services research, and quality improvement, it concludes with potential strategies to improve value for money in health care, recognising the political and interest-based realities of contemporary systems and the need to build professional and public support for change.Steven Lewis is a health policy and research consultant based in Saskatoon, and Adjunct Professor of Health Policy at the University of Calgary and Simon Fraser University. Prior to resuming a full-time consulting practice he headed a health research granting agency and spent 7 years as CEO of the Health Services Utilization and Research Commission in Saskatchewan. He has served on various boards and committees, including the Governing Council of the Canadian Institutes of Health Research, the Saskatchewan Health Quality Council, the Health Council of Canada, and the editorial boards of several journals, including Open Medicine. He writes frequently on topics such as reforming and strengthening medicare, improving health care quality, primary health care, regionalisation, and health policy and politics.</string>
+  </void>
+  <void property="title">
+   <string>Adjunct Professor Steven Lewis presents: Value for money in health care</string>
+  </void>
+ </object>
+</java>

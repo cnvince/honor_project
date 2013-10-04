@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Ormella, R 2010, Walking through clear fells #2 (contested Australian landsca...</string>
+  </void>
+  <void property="docID">
+   <string>a4a3612e-b27a-4870-a07c-6e471d545ce2</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/57898</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Ormella, R 2010, Walking through clear fells #2 (contested Australian landsca...</string>
+  </void>
+  <void property="title">
+   <string>Walking through clear fells #2 (contested Australian landscapes)</string>
+  </void>
+ </object>
+</java>

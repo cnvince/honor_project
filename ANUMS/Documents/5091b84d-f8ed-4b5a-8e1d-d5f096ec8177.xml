@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Open information management toolkit</string>
+  </void>
+  <void property="docID">
+   <string>5091b84d-f8ed-4b5a-8e1d-d5f096ec8177</string>
+  </void>
+  <void property="link">
+   <string>http://archivescollection.anu.edu.au/index.php/oliphant-sir-mark-2;isad</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Open information management toolkit</string>
+  </void>
+  <void property="title">
+   <string>OLIPHANT Sir Mark - ANU Archives</string>
+  </void>
+ </object>
+</java>

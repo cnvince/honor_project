@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Cohen, Joshua, 1951- 
+Cambridge, Mass. : Harvard University Press, 2010</string>
+  </void>
+  <void property="docID">
+   <string>01aab754-13a4-4eea-8a17-e1f84002fa37</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YARC&amp;SORT=D/YARC&amp;SORT=D&amp;SUBKEY=ARC/1%2C510%2C510%2CB/frameset&amp;FF=YARC&amp;SORT=D&amp;8%2C8%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Cohen, Joshua, 1951- 
+Cambridge, Mass. : Harvard University Press, 2010</string>
+  </void>
+  <void property="title">
+   <string>The arc of the moral universe and other essays</string>
+  </void>
+ </object>
+</java>

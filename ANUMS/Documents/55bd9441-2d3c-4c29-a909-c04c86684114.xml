@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences|ANU College of Asia and the Pacific
+Chinese Languages, Police Administration, Procedures And Practice, Stochastic...</string>
+  </void>
+  <void property="docID">
+   <string>55bd9441-2d3c-4c29-a909-c04c86684114</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/rose-pj</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences|ANU College of Asia and the Pacific
+Chinese Languages, Police Administration, Procedures And Practice, Stochastic...</string>
+  </void>
+  <void property="title">
+   <string>Dr Philip Rose</string>
+  </void>
+ </object>
+</java>

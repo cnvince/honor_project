@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>J., Black, M., Colhoun, E., D&apos;Costa, D., Dodson, J., Haberle, S.G., Hope, G.S., Kershaw, P. ... Professor Geoffrey Hope.</string>
+  </void>
+  <void property="docID">
+   <string>e5918791-1cc9-4fc9-b767-2b60646cc7b7</string>
+  </void>
+  <void property="link">
+   <string>http://researchers-acep.anu.edu.au/publications/53368</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>J., Black, M., Colhoun, E., D&apos;Costa, D., Dodson, J., Haberle, S.G., Hope, G.S., Kershaw, P. ... Professor Geoffrey Hope.</string>
+  </void>
+  <void property="title">
+   <string>Late Quaternary fire regime... - Researchers - ANU</string>
+  </void>
+ </object>
+</java>

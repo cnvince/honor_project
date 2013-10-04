@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Mosko, M 2009, &apos;The fractal yam: botanical imagery and human agency in the Tr...</string>
+  </void>
+  <void property="docID">
+   <string>df916c02-3d33-454b-8e93-523c7721d338</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/50794</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Mosko, M 2009, &apos;The fractal yam: botanical imagery and human agency in the Tr...</string>
+  </void>
+  <void property="title">
+   <string>The fractal yam: botanical imagery and human agency in the Trobriands</string>
+  </void>
+ </object>
+</java>

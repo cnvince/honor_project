@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string> 
+Collingwood Vic. : CSIRO Publishing, c1998</string>
+  </void>
+  <void property="docID">
+   <string>31298cbb-f512-4c05-998d-9614feee070b</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YCSIRO&amp;SORT=D/YCSIRO&amp;SORT=D&amp;SUBKEY=CSIRO/1%2C851%2C851%2CB/frameset&amp;FF=YCSIRO&amp;SORT=D&amp;12%2C12%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string> 
+Collingwood Vic. : CSIRO Publishing, c1998</string>
+  </void>
+  <void property="title">
+   <string>CSIRO list of Australian vertebrates : a reference with conservation status</string>
+  </void>
+ </object>
+</java>

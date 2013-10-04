@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Biddle, N 2006, &apos;The age at which Indigenous Australians undertake qualificat...</string>
+  </void>
+  <void property="docID">
+   <string>7ac57c1e-c46a-4a8b-8075-07ed0431754f</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/21453</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Biddle, N 2006, &apos;The age at which Indigenous Australians undertake qualificat...</string>
+  </void>
+  <void property="title">
+   <string>The age at which Indigenous Australians undertake qualifications: A descriptive analysis</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>V. I. Lenin. Speech At The Second Conference Of. Heads Of Adult Education Divisions Of Gubernia Education Departments. ... No. 2-3, February-March 1919; Published according to the journal. Adult Education.</string>
+  </void>
+  <void property="docID">
+   <string>e8514c7c-a79d-4f21-b133-1a3d6215de2b</string>
+  </void>
+  <void property="link">
+   <string>http://marxists.anu.edu.au/archive/lenin/works/1919/jan/24.htm</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>V. I. Lenin. Speech At The Second Conference Of. Heads Of Adult Education Divisions Of Gubernia Education Departments. ... No. 2-3, February-March 1919; Published according to the journal. Adult Education.</string>
+  </void>
+  <void property="title">
+   <string>Speech At The Second Conference Of Heads Of Adult Education Divisions...</string>
+  </void>
+ </object>
+</java>

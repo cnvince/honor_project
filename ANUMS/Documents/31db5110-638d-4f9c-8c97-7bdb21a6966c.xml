@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>In the first panel from the specially convened workshop, &quot;The South Pacific: from &apos;arc of instability&apos; to &apos;arc of opportunity&apos;&quot;, a range of experts outline and examine various Australian perspectives on the South Pacific.Kicking off the conversation, Dr Stewart Firth (ANU) looks at some of the questionable assumptions tempering Australian perspectives on the Pacific. Emeritus Professor Paul Dibb re-examines his famous &apos;arc of instability&apos; concept, as well as the importance of an inner arc to Australian defence policy. Mr Graeme Dobell (ASPI and Radio Australia) than looks at how Australia can move from viewing the Pacific as an arc of instability to an arc of responsibility, while Dr Quentin Hanich (Australian National Centre for Ocean Resources and Security) outlines maritime issues facing the region. This video is the first panel discussion from the workshop &quot;The South Pacific: from &apos;arc of instability&apos; to &apos;arc of opportunity&apos;&quot; taking place at ANU on 8 February 2013. The workshop was co-convened by Dr Joanne Wallis and Dr Sinclair Dinnen, and presented by the Research School of Asia and the Pacific. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>31db5110-638d-4f9c-8c97-7bdb21a6966c</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=r53pAwEegqE</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>In the first panel from the specially convened workshop, &quot;The South Pacific: from &apos;arc of instability&apos; to &apos;arc of opportunity&apos;&quot;, a range of experts outline and examine various Australian perspectives on the South Pacific.Kicking off the conversation, Dr Stewart Firth (ANU) looks at some of the questionable assumptions tempering Australian perspectives on the Pacific. Emeritus Professor Paul Dibb re-examines his famous &apos;arc of instability&apos; concept, as well as the importance of an inner arc to Australian defence policy. Mr Graeme Dobell (ASPI and Radio Australia) than looks at how Australia can move from viewing the Pacific as an arc of instability to an arc of responsibility, while Dr Quentin Hanich (Australian National Centre for Ocean Resources and Security) outlines maritime issues facing the region. This video is the first panel discussion from the workshop &quot;The South Pacific: from &apos;arc of instability&apos; to &apos;arc of opportunity&apos;&quot; taking place at ANU on 8 February 2013. The workshop was co-convened by Dr Joanne Wallis and Dr Sinclair Dinnen, and presented by the Research School of Asia and the Pacific.</string>
+  </void>
+  <void property="title">
+   <string>Australian perspectives on the South Pacific</string>
+  </void>
+ </object>
+</java>

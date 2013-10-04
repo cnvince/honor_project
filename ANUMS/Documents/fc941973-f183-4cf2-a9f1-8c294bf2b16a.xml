@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Harley, D, Swaminathan, A &amp; McMichael, A 2011, &apos;Climate change and the geogra...</string>
+  </void>
+  <void property="docID">
+   <string>fc941973-f183-4cf2-a9f1-8c294bf2b16a</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/70391</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Harley, D, Swaminathan, A &amp; McMichael, A 2011, &apos;Climate change and the geogra...</string>
+  </void>
+  <void property="title">
+   <string>Climate change and the geographical distribution of infectious diseases</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Madame Sochon Park Young-Hi was born in Seoul in 1935 and majored in mathematics in the College of Education at Seoul National University. ... As I had lived in Korea as a child up until I was nine years old, it was a strange feeling to return after over</string>
+  </void>
+  <void property="docID">
+   <string>e132232d-e432-4b8c-b253-83912891153d</string>
+  </void>
+  <void property="link">
+   <string>http://chl.anu.edu.au/publications/ksnewsletter/ksnewsletter_201110.pdf</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Madame Sochon Park Young-Hi was born in Seoul in 1935 and majored in mathematics in the College of Education at Seoul National University. ... As I had lived in Korea as a child up until I was nine years old, it was a strange feeling to return after over</string>
+  </void>
+  <void property="title">
+   <string>[PDF]
+          
+          
+          
+          
+          
+            chl.anu.edu.au/publications/ksnewsletter/ksnewsletter_201110.pdf</string>
+  </void>
+ </object>
+</java>

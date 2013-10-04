@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>WANDERING ISLANDS: A.D. Hope and Australian Poetry. Dates: 17-20 July 2007. ... Hope with three days of papers and readings from major Australian and international scholars and poets, one day devoted to discussions of Hope’s work, another to Hope’s</string>
+  </void>
+  <void property="docID">
+   <string>dc48df88-2831-48db-9dd9-926129424002</string>
+  </void>
+  <void property="link">
+   <string>http://www.anu.edu.au/hrc/conferences/conferences_2007/ADHOPE.php</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>WANDERING ISLANDS: A.D. Hope and Australian Poetry. Dates: 17-20 July 2007. ... Hope with three days of papers and readings from major Australian and international scholars and poets, one day devoted to discussions of Hope’s work, another to Hope’s</string>
+  </void>
+  <void property="title">
+   <string>HRC Conference-Wandering Islands: A.D. Hope Centenary Conference</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Hughes Henry, A 2012, Hold the line: Afghanistan and the ABC, Independent Aus...</string>
+  </void>
+  <void property="docID">
+   <string>dc8e6064-57d0-4939-9105-9f3b59fb5372</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/75010</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Hughes Henry, A 2012, Hold the line: Afghanistan and the ABC, Independent Aus...</string>
+  </void>
+  <void property="title">
+   <string>Hold the line: Afghanistan and the ABC</string>
+  </void>
+ </object>
+</java>

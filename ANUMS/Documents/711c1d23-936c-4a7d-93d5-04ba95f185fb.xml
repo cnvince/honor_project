@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Coombs, H. C. (Herbert Cole), 1906-1997 
+Canberra : Instructional Resources Unit, c1984</string>
+  </void>
+  <void property="docID">
+   <string>711c1d23-936c-4a7d-93d5-04ba95f185fb</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YH.+C.+Coombs&amp;SORT=D/YH.+C.+Coombs&amp;SORT=D&amp;SUBKEY=H.+C.+Coombs/1%2C86%2C86%2CB/frameset&amp;FF=YH.+C.+Coombs&amp;SORT=D&amp;3%2C3%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Coombs, H. C. (Herbert Cole), 1906-1997 
+Canberra : Instructional Resources Unit, c1984</string>
+  </void>
+  <void property="title">
+   <string>Dr. H. C. Coombs</string>
+  </void>
+ </object>
+</java>

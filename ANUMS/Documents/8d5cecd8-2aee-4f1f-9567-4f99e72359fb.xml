@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences
+British And Irish Literature, North American Literature, Literary Theory, Lit...</string>
+  </void>
+  <void property="docID">
+   <string>8d5cecd8-2aee-4f1f-9567-4f99e72359fb</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/ford-th</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences
+British And Irish Literature, North American Literature, Literary Theory, Lit...</string>
+  </void>
+  <void property="title">
+   <string>Dr Thomas Ford</string>
+  </void>
+ </object>
+</java>

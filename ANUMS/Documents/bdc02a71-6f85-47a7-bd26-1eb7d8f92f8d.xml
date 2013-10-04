@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Multi-Array, Multi-Frequency Probing of the Earth&apos;s Heterogeneity</string>
+  </void>
+  <void property="docID">
+   <string>bdc02a71-6f85-47a7-bd26-1eb7d8f92f8d</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/2813</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Multi-Array, Multi-Frequency Probing of the Earth&apos;s Heterogeneity</string>
+  </void>
+  <void property="title">
+   <string>Multi-Array, Multi-Frequency Probing of the Earth&apos;s Heterogeneity</string>
+  </void>
+ </object>
+</java>

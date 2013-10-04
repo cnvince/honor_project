@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Bauer, W, Jacobs, J, Fanning, C et al 2003, &apos;Late Mesoproterozoic Arc and Bac...</string>
+  </void>
+  <void property="docID">
+   <string>62fef20f-9115-48fb-b7c9-bc2a3da73289</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/35266</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Bauer, W, Jacobs, J, Fanning, C et al 2003, &apos;Late Mesoproterozoic Arc and Bac...</string>
+  </void>
+  <void property="title">
+   <string>Late Mesoproterozoic Arc and Back-arc Volcanism in the Heimefrontfjella (East Antarctica) and Implications for the Palaeogeography at the Southeastern Margin of the Kaapvaal-Grunehogna Craton</string>
+  </void>
+ </object>
+</java>

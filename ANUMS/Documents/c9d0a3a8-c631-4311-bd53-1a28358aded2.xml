@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Medicine, Biology and Environment
+Mental Health, Social And Community Psychology, Health, Clinical And Counsell...</string>
+  </void>
+  <void property="docID">
+   <string>c9d0a3a8-c631-4311-bd53-1a28358aded2</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/gee-al</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Medicine, Biology and Environment
+Mental Health, Social And Community Psychology, Health, Clinical And Counsell...</string>
+  </void>
+  <void property="title">
+   <string>Dr Alison Gee</string>
+  </void>
+ </object>
+</java>

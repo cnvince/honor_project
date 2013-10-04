@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Wong, V, Dalal, R &amp; Greene, R 2009, &apos;Carbon dynamics of sodic and saline soil...</string>
+  </void>
+  <void property="docID">
+   <string>fd8e11a5-7c33-456d-9bc0-0adbc6912bc3</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/18173</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Wong, V, Dalal, R &amp; Greene, R 2009, &apos;Carbon dynamics of sodic and saline soil...</string>
+  </void>
+  <void property="title">
+   <string>Carbon dynamics of sodic and saline soils following gypsum and organic material additions: A laboratory incubation</string>
+  </void>
+ </object>
+</java>

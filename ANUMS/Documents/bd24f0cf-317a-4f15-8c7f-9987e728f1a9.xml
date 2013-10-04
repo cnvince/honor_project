@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Sterelny, K 2011, &apos;Darwinian spaces: Peter Godfrey-Smith on selection and evo...</string>
+  </void>
+  <void property="docID">
+   <string>bd24f0cf-317a-4f15-8c7f-9987e728f1a9</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/58819</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Sterelny, K 2011, &apos;Darwinian spaces: Peter Godfrey-Smith on selection and evo...</string>
+  </void>
+  <void property="title">
+   <string>Darwinian spaces: Peter Godfrey-Smith on selection and evolution</string>
+  </void>
+ </object>
+</java>

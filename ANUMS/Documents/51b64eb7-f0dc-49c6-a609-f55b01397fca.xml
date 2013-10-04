@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Majors: (1-1 of 1 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Majors: (1-1 of 1 matches)</string>
+  </void>
+  <void property="docID">
+   <string>51b64eb7-f0dc-49c6-a609-f55b01397fca</string>
+  </void>
+  <void property="link">
+   <string>http://studyat.anu.edu.au/majors/FREN-MAJ;all.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>French Language and Culture Major (FREN-MAJ)</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Social Adaptation to Climate Change in the Australian Public Sphere: A compar...</string>
+  </void>
+  <void property="docID">
+   <string>23f4c824-7f76-4d29-88df-1a9cef101b5d</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/2084</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Social Adaptation to Climate Change in the Australian Public Sphere: A compar...</string>
+  </void>
+  <void property="title">
+   <string>Social Adaptation to Climate Change in the Australian Public Sphere: A comparison of individual and group deliberative responses to scenarios of future climate change</string>
+  </void>
+ </object>
+</java>

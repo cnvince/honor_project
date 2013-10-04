@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Lindenmayer, D, Wood, J, Montague-Drake, R et al 2012, &apos;Is biodiversity manag...</string>
+  </void>
+  <void property="docID">
+   <string>18f4693c-1f18-4f47-bcf2-96ec939e3d23</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/72187</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Lindenmayer, D, Wood, J, Montague-Drake, R et al 2012, &apos;Is biodiversity manag...</string>
+  </void>
+  <void property="title">
+   <string>Is biodiversity management effective? Cross-sectional relationships between management, bird response and vegetation attributes in an Australian agri-environment scheme</string>
+  </void>
+ </object>
+</java>

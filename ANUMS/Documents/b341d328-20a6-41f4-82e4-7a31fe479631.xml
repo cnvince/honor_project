@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Wanna, J &amp; Williams, P 2005, &apos;Peter Beattie: The Boy from Atherton made good&apos;...</string>
+  </void>
+  <void property="docID">
+   <string>b341d328-20a6-41f4-82e4-7a31fe479631</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/2186</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Wanna, J &amp; Williams, P 2005, &apos;Peter Beattie: The Boy from Atherton made good&apos;...</string>
+  </void>
+  <void property="title">
+   <string>Peter Beattie: The Boy from Atherton made good</string>
+  </void>
+ </object>
+</java>

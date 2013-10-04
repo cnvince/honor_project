@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Razzaque, A, Carmichael, G &amp; Streatfield, P 2009, &apos;Adult mortality in Matlab,...</string>
+  </void>
+  <void property="docID">
+   <string>e4628a2b-6cda-4884-95cd-126eb8efd6e7</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/46462</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Razzaque, A, Carmichael, G &amp; Streatfield, P 2009, &apos;Adult mortality in Matlab,...</string>
+  </void>
+  <void property="title">
+   <string>Adult mortality in Matlab, Bangladesh: levels, trends, socio-domographic differentials and causes of death</string>
+  </void>
+ </object>
+</java>

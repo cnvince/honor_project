@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Straughn, A, Kuntschner, H, Kummel, M et al 2011, &apos;Hubble Space Telescope</string>
+  </void>
+  <void property="docID">
+   <string>15a835f3-006c-42ba-9731-fdeb41e7cbca</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/57395</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Straughn, A, Kuntschner, H, Kummel, M et al 2011, &apos;Hubble Space Telescope</string>
+  </void>
+  <void property="title">
+   <string>Hubble Space Telescope WFC3 Early Release Science: Emission-line galaxies from infrared grism observations</string>
+  </void>
+ </object>
+</java>

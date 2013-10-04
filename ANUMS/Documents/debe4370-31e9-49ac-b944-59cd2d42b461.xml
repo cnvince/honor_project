@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>In this lecture Adjunct Professor Clive Williams MG looks at the current security situation in Syria, the main players, the activities of the international community, and prospects for the future. The lecture is entitled &apos;Bashar al-Assad&apos;s dilemma - a review of the security situation in Syria&apos; and was recorded at The Australian National University on 28 May 2012.Clive Williams is a Visiting Professor at the Australian Centre for Military Law and Security at the ANU, and is an Adjunct Professor at the Centre for Policing, Intelligence and Counter Terrorism (PICT) at Macquarie University.Clive has a career background in Defence intelligence and has worked in the Middle East. His specialist academic area is terrorism/insurgency. He is a member of the International Association of Bomb Technicians and Investigators (IABTI), the International Association of Chiefs of Police (IACP), the Australian Institute of Professional Intelligence Officers (AIPIO), and the International Academy of Investigative Psychology (AIAIP). viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>debe4370-31e9-49ac-b944-59cd2d42b461</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=kfBXKcsD1Ws</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>In this lecture Adjunct Professor Clive Williams MG looks at the current security situation in Syria, the main players, the activities of the international community, and prospects for the future. The lecture is entitled &apos;Bashar al-Assad&apos;s dilemma - a review of the security situation in Syria&apos; and was recorded at The Australian National University on 28 May 2012.Clive Williams is a Visiting Professor at the Australian Centre for Military Law and Security at the ANU, and is an Adjunct Professor at the Centre for Policing, Intelligence and Counter Terrorism (PICT) at Macquarie University.Clive has a career background in Defence intelligence and has worked in the Middle East. His specialist academic area is terrorism/insurgency. He is a member of the International Association of Bomb Technicians and Investigators (IABTI), the International Association of Chiefs of Police (IACP), the Australian Institute of Professional Intelligence Officers (AIPIO), and the International Academy of Investigative Psychology (AIAIP).</string>
+  </void>
+  <void property="title">
+   <string>Clive Williams: Bashar al-Assad&apos;s dilemma - the security situation in Syria</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>McKinnon, Merryn Clare</string>
+  </void>
+  <void property="date">
+   <string>2010-11-20</string>
+  </void>
+  <void property="displaySummary">
+   <string>2010-11-20 McKinnon, Merryn Clare</string>
+  </void>
+  <void property="docID">
+   <string>906e2369-19a4-4546-b7de-f6e57725c208</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/9148</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Influences on the science teaching self efficacy beliefs of Australian primary school teachers</string>
+  </void>
+ </object>
+</java>

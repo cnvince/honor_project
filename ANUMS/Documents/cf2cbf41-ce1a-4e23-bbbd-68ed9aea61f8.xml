@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Friel, S, Dangour, A, Garnett, T et al 2009. &apos;Health and Climate Change 4: Pu...</string>
+  </void>
+  <void property="docID">
+   <string>cf2cbf41-ce1a-4e23-bbbd-68ed9aea61f8</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/45251</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Friel, S, Dangour, A, Garnett, T et al 2009. &apos;Health and Climate Change 4: Pu...</string>
+  </void>
+  <void property="title">
+   <string>Health and Climate Change 4: Public health benefits of strategies to reduce greenhouse-gas emissions: food and agriculture</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string> viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>9ba6df61-7e83-4120-a9d5-bfd84c85039b</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=HEG0AyLZjik&amp;list=PL9C779E9790954D25</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string></string>
+  </void>
+  <void property="title">
+   <string>Asia and the Pacific</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Asia and the Pacific
+Labour Economics, Applied Economics, Other Economics</string>
+  </void>
+  <void property="docID">
+   <string>4105d27d-6ccc-43c0-a37d-68e664cc5c57</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/liu-yc-c</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Asia and the Pacific
+Labour Economics, Applied Economics, Other Economics</string>
+  </void>
+  <void property="title">
+   <string>Dr Amy Y.C. Liu</string>
+  </void>
+ </object>
+</java>

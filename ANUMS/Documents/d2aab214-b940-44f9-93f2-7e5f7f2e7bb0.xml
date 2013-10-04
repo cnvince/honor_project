@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences</string>
+  </void>
+  <void property="docID">
+   <string>d2aab214-b940-44f9-93f2-7e5f7f2e7bb0</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/black-ja</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences</string>
+  </void>
+  <void property="title">
+   <string>John Black</string>
+  </void>
+ </object>
+</java>

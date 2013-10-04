@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Brown, N 2002, &apos;Till, Peter Leonard (1937 - 1976)&apos;, Australian Dictionary of ...</string>
+  </void>
+  <void property="docID">
+   <string>3e330fa4-1d53-43a0-b8fa-89ff246b3b32</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/16450</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Brown, N 2002, &apos;Till, Peter Leonard (1937 - 1976)&apos;, Australian Dictionary of ...</string>
+  </void>
+  <void property="title">
+   <string>Till, Peter Leonard (1937 - 1976)</string>
+  </void>
+ </object>
+</java>

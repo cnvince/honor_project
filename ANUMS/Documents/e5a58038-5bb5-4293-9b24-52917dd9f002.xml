@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Anglo-Australian Observatory 
+[Siding Spring, N.S.W.?] : The Observatory</string>
+  </void>
+  <void property="docID">
+   <string>e5a58038-5bb5-4293-9b24-52917dd9f002</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Yanglo-australian+telescope&amp;SORT=D/Yanglo-australian+telescope&amp;SORT=D&amp;SUBKEY=anglo-australian+telescope/1%2C7%2C7%2CB/frameset&amp;FF=Yanglo-australian+telescope&amp;SORT=D&amp;7%2C7%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Anglo-Australian Observatory 
+[Siding Spring, N.S.W.?] : The Observatory</string>
+  </void>
+  <void property="title">
+   <string>Combined list of charts, atlases and catalogues held at the AAO, ANU and UK STU Libraries</string>
+  </void>
+ </object>
+</java>

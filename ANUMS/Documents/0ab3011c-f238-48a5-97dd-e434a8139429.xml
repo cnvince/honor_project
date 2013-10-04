@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Courses: (1-3 of 15 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Courses: (1-3 of 15 matches)</string>
+  </void>
+  <void property="docID">
+   <string>0ab3011c-f238-48a5-97dd-e434a8139429</string>
+  </void>
+  <void property="link">
+   <string>http://studyat.anu.edu.au/courses/PHYS3031;all.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>PHYS3031 - PHYS3031 Atomic Physics: Atom-light interactions</string>
+  </void>
+ </object>
+</java>

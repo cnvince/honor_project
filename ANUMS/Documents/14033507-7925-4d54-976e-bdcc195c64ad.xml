@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string> 
+London ; New York : Routledge, c2010</string>
+  </void>
+  <void property="docID">
+   <string>14033507-7925-4d54-976e-bdcc195c64ad</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Ychinese+politics&amp;SORT=D/Ychinese+politics&amp;SORT=D&amp;SUBKEY=chinese+politics/1%2C1600%2C1600%2CB/frameset&amp;FF=Ychinese+politics&amp;SORT=D&amp;4%2C4%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string> 
+London ; New York : Routledge, c2010</string>
+  </void>
+  <void property="title">
+   <string>Chinese politics : state, society and the market</string>
+  </void>
+ </object>
+</java>

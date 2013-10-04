@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>4dbfb4c2-09ee-4ce3-9439-2ea9e931d340</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/332042442733924352</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>ANU Vice-Chancellor Prof Ian Young greets the crowd at the ANU Sydney showcase #alumni #innovation pic.twitter.com/IuCBXL5Dmw</string>
+  </void>
+ </object>
+</java>

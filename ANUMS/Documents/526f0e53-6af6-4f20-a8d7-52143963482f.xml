@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Figure 1. Artists impression of the GRACE satellites in orbit ( source: http://www.csr.utexas.edu/grace). Figure 2. Time series of total water storage, integrated over the Murray-Darling Basin, ... Monitoring groundwater variations in the Murray-Darling</string>
+  </void>
+  <void property="docID">
+   <string>526f0e53-6af6-4f20-a8d7-52143963482f</string>
+  </void>
+  <void property="link">
+   <string>http://rses.anu.edu.au/highlights/view.php?article=101</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Figure 1. Artists impression of the GRACE satellites in orbit ( source: http://www.csr.utexas.edu/grace). Figure 2. Time series of total water storage, integrated over the Murray-Darling Basin, ... Monitoring groundwater variations in the Murray-Darling</string>
+  </void>
+  <void property="title">
+   <string>rses.anu.edu.au/highlights/view.php?article=101</string>
+  </void>
+ </object>
+</java>

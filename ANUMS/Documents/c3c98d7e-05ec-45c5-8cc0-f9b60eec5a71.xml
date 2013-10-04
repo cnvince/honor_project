@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Engineering and Computer Science
+Control Systems, Robotics And Automation, Automation And Control Engineering,...</string>
+  </void>
+  <void property="docID">
+   <string>c3c98d7e-05ec-45c5-8cc0-f9b60eec5a71</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/anderson-bdo</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Engineering and Computer Science
+Control Systems, Robotics And Automation, Automation And Control Engineering,...</string>
+  </void>
+  <void property="title">
+   <string>Professor Brian Anderson</string>
+  </void>
+ </object>
+</java>

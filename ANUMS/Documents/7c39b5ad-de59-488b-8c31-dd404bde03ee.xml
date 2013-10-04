@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Windsor, T, Anstey, K &amp; Rodgers, B 2008, &apos;Volunteering and psychological Well...</string>
+  </void>
+  <void property="docID">
+   <string>7c39b5ad-de59-488b-8c31-dd404bde03ee</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/16862</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Windsor, T, Anstey, K &amp; Rodgers, B 2008, &apos;Volunteering and psychological Well...</string>
+  </void>
+  <void property="title">
+   <string>Volunteering and psychological Wellbeing among young-old adults: How much is too much?</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>5b8940b5-bd07-4e7f-9c27-e93fca248c7c</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/306628287004815361</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>Public lecture: UN Under-Secretary-General Terje RÃ¸d-Larsen draws on experience from his time in the Middle East http://bit.ly/XBgbDh </string>
+  </void>
+ </object>
+</java>

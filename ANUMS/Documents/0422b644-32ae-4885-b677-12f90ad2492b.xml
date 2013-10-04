@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Overseas Chinese Water Frontier of Southeast Asia, 1700-1900</string>
+  </void>
+  <void property="docID">
+   <string>0422b644-32ae-4885-b677-12f90ad2492b</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/2261</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Overseas Chinese Water Frontier of Southeast Asia, 1700-1900</string>
+  </void>
+  <void property="title">
+   <string>Overseas Chinese Water Frontier of Southeast Asia, 1700-1900</string>
+  </void>
+ </object>
+</java>

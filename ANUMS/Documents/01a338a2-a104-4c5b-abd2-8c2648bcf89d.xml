@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>The Centre for Arab &amp;Islamic Studies ( Middle East &amp;Central Asia) forms part of the ANU College of Arts &amp;Social Sciences at The Australian National University and is Australia’s premier location ... ties with the Middle Eastern and Central Asian</string>
+  </void>
+  <void property="docID">
+   <string>01a338a2-a104-4c5b-abd2-8c2648bcf89d</string>
+  </void>
+  <void property="link">
+   <string>http://cais.anu.edu.au/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>The Centre for Arab &amp;Islamic Studies ( Middle East &amp;Central Asia) forms part of the ANU College of Arts &amp;Social Sciences at The Australian National University and is Australia’s premier location ... ties with the Middle Eastern and Central Asian</string>
+  </void>
+  <void property="title">
+   <string>Centre for Arab &amp; Islamic Studies - Centre for Arab &amp; Islamic...</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Courses: (1-6 of 6 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Courses: (1-6 of 6 matches)</string>
+  </void>
+  <void property="docID">
+   <string>0b16003d-7977-48df-925e-848d2d363b66</string>
+  </void>
+  <void property="link">
+   <string>http://studyat.anu.edu.au/courses/CRWF8003;all.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>CRWF8003 - CRWF8003 International Water Politics</string>
+  </void>
+ </object>
+</java>

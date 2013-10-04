@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>a4da636b-c2b5-4a8b-9768-0ee0e96ed07d</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/355128410592395264</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>China&apos;s next top model http://bit.ly/14JVCqQ </string>
+  </void>
+ </object>
+</java>

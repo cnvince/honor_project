@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>HUMANITIES RESEARCH CENTRE in the RESEARCH SCHOOL OF HUMANITIES VISITING FELLOWS WORK-IN-PROGRESS SEMINAR SERIES Lives we love do not know: Reading Intimacy in the Work of Judith Wright DR ... McKinney, Patricia Clarke, and Veronica Brady) on Judith</string>
+  </void>
+  <void property="docID">
+   <string>1e6618e1-f18e-4d31-8731-2089449d2446</string>
+  </void>
+  <void property="link">
+   <string>http://www.anu.edu.au/hrc/seminars/2007/Vickery.pdf</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>HUMANITIES RESEARCH CENTRE in the RESEARCH SCHOOL OF HUMANITIES VISITING FELLOWS WORK-IN-PROGRESS SEMINAR SERIES Lives we love do not know: Reading Intimacy in the Work of Judith Wright DR ... McKinney, Patricia Clarke, and Veronica Brady) on Judith</string>
+  </void>
+  <void property="title">
+   <string>[PDF]
+          
+          
+          
+          
+          
+            Microsoft Word - Vickery flyer</string>
+  </void>
+ </object>
+</java>

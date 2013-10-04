@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Yun, Tae-gyu 
+Seoul, South Korea : Institute for Far Eastern Studies, Kyungnam University ; Boulder, CO : Distributed outside of North and South Korea by Lynne Rienner Publishers, c2010</string>
+  </void>
+  <void property="docID">
+   <string>1f1283ef-a4be-4bcc-b053-4d869619e289</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YSouth+Korea&amp;SORT=D/YSouth+Korea&amp;SORT=D&amp;SUBKEY=South+Korea/1%2C1959%2C1959%2CB/frameset&amp;FF=YSouth+Korea&amp;SORT=D&amp;5%2C5%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Yun, Tae-gyu 
+Seoul, South Korea : Institute for Far Eastern Studies, Kyungnam University ; Boulder, CO : Distributed outside of North and South Korea by Lynne Rienner Publishers, c2010</string>
+  </void>
+  <void property="title">
+   <string>Law and democracy in South Korea : democratic development since 1987</string>
+  </void>
+ </object>
+</java>

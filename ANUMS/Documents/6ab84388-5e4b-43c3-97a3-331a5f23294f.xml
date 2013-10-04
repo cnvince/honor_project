@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences</string>
+  </void>
+  <void property="docID">
+   <string>6ab84388-5e4b-43c3-97a3-331a5f23294f</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/keller-c</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences</string>
+  </void>
+  <void property="title">
+   <string>Dr Christiane Keller</string>
+  </void>
+ </object>
+</java>

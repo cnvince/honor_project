@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Golley, J &amp; Tyers, R 2007, &apos;China&apos;s real exchange rate&apos;, in Ross Garnaut &amp; Li...</string>
+  </void>
+  <void property="docID">
+   <string>f76d3531-15b4-42f1-84e7-1cb0b8b0f763</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/24410</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Golley, J &amp; Tyers, R 2007, &apos;China&apos;s real exchange rate&apos;, in Ross Garnaut &amp; Li...</string>
+  </void>
+  <void property="title">
+   <string>China&apos;s real exchange rate</string>
+  </void>
+ </object>
+</java>

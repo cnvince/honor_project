@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>c99cd8e5-8236-4db5-8928-5c35dab52faa</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/213095241144737793</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>In the 2012 Morrison Lecture, Mark Elliott discusses the Manchu people in 21st century China: http://bit.ly/LUqBDI </string>
+  </void>
+ </object>
+</java>

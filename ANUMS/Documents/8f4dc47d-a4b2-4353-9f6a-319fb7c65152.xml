@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Kim, S, Oh, C, Ryu, I et al 2006, &apos;Neoproterozoic bimodal volcanism in the Ok...</string>
+  </void>
+  <void property="docID">
+   <string>8f4dc47d-a4b2-4353-9f6a-319fb7c65152</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/41475</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Kim, S, Oh, C, Ryu, I et al 2006, &apos;Neoproterozoic bimodal volcanism in the Ok...</string>
+  </void>
+  <void property="title">
+   <string>Neoproterozoic bimodal volcanism in the Okcheon Belt, South Korea, and its comparison with the Nanhua Rift, South China: implications for rifting in Rodinia</string>
+  </void>
+ </object>
+</java>

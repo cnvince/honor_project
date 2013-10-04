@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Aubert, M, Williams, I, Sporcic, K et al 2012, &apos;In situ oxygen isotope micro-...</string>
+  </void>
+  <void property="docID">
+   <string>3e887765-567b-478b-a1dc-3e016511f0aa</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/77025</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Aubert, M, Williams, I, Sporcic, K et al 2012, &apos;In situ oxygen isotope micro-...</string>
+  </void>
+  <void property="title">
+   <string>In situ oxygen isotope micro-analysis of faunal material and human teeth using a SHRIMP II: A new tool for palaeo-ecology and archaeology</string>
+  </void>
+ </object>
+</java>

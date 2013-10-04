@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>ASIA2063 Development Dilemmas in Chinese Politics. ... In this upper-level seminar course, students will examine debates about theories and concepts of development, the politics of development policy making and implementation, and distribution of the</string>
+  </void>
+  <void property="docID">
+   <string>9fc59522-1e2d-4978-8c70-20d4f838c648</string>
+  </void>
+  <void property="link">
+   <string>https://studyat.anu.edu.au/courses/ASIA2063;details.html</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>ASIA2063 Development Dilemmas in Chinese Politics. ... In this upper-level seminar course, students will examine debates about theories and concepts of development, the politics of development policy making and implementation, and distribution of the</string>
+  </void>
+  <void property="title">
+   <string>Study at ANU ASIA2063 Development Dilemmas in Chinese Politics</string>
+  </void>
+ </object>
+</java>

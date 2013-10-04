@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Taylor, E. (2008) Tackling School Gang Culture. Education Business Magazine.</string>
+  </void>
+  <void property="docID">
+   <string>009aa821-e287-40e5-8535-017a91f789ed</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/68847</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Taylor, E. (2008) Tackling School Gang Culture. Education Business Magazine.</string>
+  </void>
+  <void property="title">
+   <string>Tackling School Gang Culture</string>
+  </void>
+ </object>
+</java>

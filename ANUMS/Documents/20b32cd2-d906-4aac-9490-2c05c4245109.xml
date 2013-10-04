@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Giacon, G &amp; Simpson, J 2012, &apos;Teaching Indigenous languages at universities&apos;,...</string>
+  </void>
+  <void property="docID">
+   <string>20b32cd2-d906-4aac-9490-2c05c4245109</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/75126</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Giacon, G &amp; Simpson, J 2012, &apos;Teaching Indigenous languages at universities&apos;,...</string>
+  </void>
+  <void property="title">
+   <string>Teaching Indigenous languages at universities</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Barnes, R 2000, &apos;Cloistered Bookworms in the Chicken-Coup of the Muses: The A...</string>
+  </void>
+  <void property="docID">
+   <string>6e29ee02-0bc7-4a1b-a470-b97682dcd77e</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/4679</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Barnes, R 2000, &apos;Cloistered Bookworms in the Chicken-Coup of the Muses: The A...</string>
+  </void>
+  <void property="title">
+   <string>Cloistered Bookworms in the Chicken-Coup of the Muses: The Ancient Library of Alexandria</string>
+  </void>
+ </object>
+</java>

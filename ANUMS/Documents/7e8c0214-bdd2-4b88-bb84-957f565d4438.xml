@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>&quot;The Enlightenment to China of E-government Application in Rural Areas from Japan, South Korea and India&quot;</string>
+  </void>
+  <void property="docID">
+   <string>7e8c0214-bdd2-4b88-bb84-957f565d4438</string>
+  </void>
+  <void property="link">
+   <string>http://cs.anu.edu.au/iojs/index.php/ifip/article/view/10413</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>&quot;The Enlightenment to China of E-government Application in Rural Areas from Japan, South Korea and India&quot;</string>
+  </void>
+  <void property="title">
+   <string>&quot;The Enlightenment to China of E-government Application in Rural...</string>
+  </void>
+ </object>
+</java>

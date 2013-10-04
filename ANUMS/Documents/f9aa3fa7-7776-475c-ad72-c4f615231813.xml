@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Paull, John</string>
+  </void>
+  <void property="date">
+   <string>2007</string>
+  </void>
+  <void property="displaySummary">
+   <string>2007 Paull, John</string>
+  </void>
+  <void property="docID">
+   <string>f9aa3fa7-7776-475c-ad72-c4f615231813</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/47629</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Review: Global Development of Organic Agriculture - Challenges and Prospects</string>
+  </void>
+ </object>
+</java>

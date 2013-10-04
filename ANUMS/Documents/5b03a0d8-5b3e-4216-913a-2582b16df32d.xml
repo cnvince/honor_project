@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Physical and Mathematical Sciences
+Condensed Matter Physics, Elemental Semiconductors, Surfaces And Structural P...</string>
+  </void>
+  <void property="docID">
+   <string>5b03a0d8-5b3e-4216-913a-2582b16df32d</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/jagadish-c</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Physical and Mathematical Sciences
+Condensed Matter Physics, Elemental Semiconductors, Surfaces And Structural P...</string>
+  </void>
+  <void property="title">
+   <string>Professor Chennupati Jagadish</string>
+  </void>
+ </object>
+</java>

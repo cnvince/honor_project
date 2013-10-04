@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Programs: (1-4 of 5 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Programs: (1-4 of 5 matches)</string>
+  </void>
+  <void property="docID">
+   <string>e3199f47-8c78-4226-995c-c03b079ef8fc</string>
+  </void>
+  <void property="link">
+   <string>http://studyat.anu.edu.au/programs/6651XGCFST;all.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>Graduate Certificate in Forestry (6651XGCFST)</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Engineering and Computer Science
+Photodetectors, Optical Sensors And Solar Cells, Renewable Power And Energy S...</string>
+  </void>
+  <void property="docID">
+   <string>7f46a659-8528-4e50-bb0c-3bd95c0ede23</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/zin-nsj</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Engineering and Computer Science
+Photodetectors, Optical Sensors And Solar Cells, Renewable Power And Energy S...</string>
+  </void>
+  <void property="title">
+   <string>Dr Ngwe Zin</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>A major workshop was held in the ANU&apos;s College of Asia &amp;amp; the Pacific on 8 Feb 2013, to challenge the highly influential (although controversial) characterisation of the region as an &apos;arc of instability&apos;. This workshop proposes that although</string>
+  </void>
+  <void property="docID">
+   <string>6becc1b7-5fdf-4a87-a91d-aa55b0bbf073</string>
+  </void>
+  <void property="link">
+   <string>http://www.anu.edu.au/vision/videos/7881/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>A major workshop was held in the ANU&apos;s College of Asia &amp;amp; the Pacific on 8 Feb 2013, to challenge the highly influential (although controversial) characterisation of the region as an &apos;arc of instability&apos;. This workshop proposes that although</string>
+  </void>
+  <void property="title">
+   <string>The South Pacific: from &apos;arc of instability&apos; to &apos;arc of...</string>
+  </void>
+ </object>
+</java>

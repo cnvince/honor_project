@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Medicine, Biology and Environment
+Historical Studies, History And Philosophy Of Specific Fields, Environmental ...</string>
+  </void>
+  <void property="docID">
+   <string>1b694319-8e56-4833-a193-479bf92f1e78</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/robin-ladq</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Medicine, Biology and Environment
+Historical Studies, History And Philosophy Of Specific Fields, Environmental ...</string>
+  </void>
+  <void property="title">
+   <string>Professor Libby Robin</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Learning How to Age Well from Australian Longitudinal Studies of Ageing</string>
+  </void>
+  <void property="docID">
+   <string>9135b8f8-ca92-4345-aad6-7a92f4c01c37</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/728</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Learning How to Age Well from Australian Longitudinal Studies of Ageing</string>
+  </void>
+  <void property="title">
+   <string>Learning How to Age Well from Australian Longitudinal Studies of Ageing</string>
+  </void>
+ </object>
+</java>

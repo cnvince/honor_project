@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Ackrill, R &amp; Kay, A 2011, &apos;Multiple streams in EU policy-making: the case of ...</string>
+  </void>
+  <void property="docID">
+   <string>ec8af3e1-11ef-44a5-aefa-6c80abd20a81</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/58010</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Ackrill, R &amp; Kay, A 2011, &apos;Multiple streams in EU policy-making: the case of ...</string>
+  </void>
+  <void property="title">
+   <string>Multiple streams in EU policy-making: the case of the 2005 sugar reform</string>
+  </void>
+ </object>
+</java>

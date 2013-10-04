@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Asia and the Pacific
+Economic Development And Growth, Heterodox Economics, Finance, Agricultural E...</string>
+  </void>
+  <void property="docID">
+   <string>40ecbcf4-2324-4e4a-9bbc-f41cc6358035</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/chen-c</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Asia and the Pacific
+Economic Development And Growth, Heterodox Economics, Finance, Agricultural E...</string>
+  </void>
+  <void property="title">
+   <string>Dr Chunlai Chen</string>
+  </void>
+ </object>
+</java>

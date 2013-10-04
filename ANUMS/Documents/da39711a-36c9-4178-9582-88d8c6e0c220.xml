@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>The Australian National University will be holding the second in its National Health Reform Series at the John Curtin School of Medical Research, ANU, on Wednesday 24 February at 10am (AEDST). The topic of the event is, Are GP Super Clinics the answer to the access problems?The event will be facilitated by Bob Wells, Director of the Australian Primary Health Care Research Institute and feature speakers:Professor Mark HarrisExecutive Director, Centre for Primary Health Care and Equity at the University of New South WalesExternal Reference Group member, National Primary Health Care Strategy Dr Steve Hambleton Federal Vice President, Australian Medical AssociationDr Rashmi Sharma President, ACT Division of General PracticeMr Russell McGowanExecutive Committee member, Health Care Consumers Association Consumer Commissioner, Australian Commission for Safety and Quality in Health CareDeputy Chairman, ACT Health CouncilThe event will be streamed at www.livestream.com/anuchannel from 10am (AEDST), Wednesday 24 February 2010. For more information visit www.anu.edu.au viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>da39711a-36c9-4178-9582-88d8c6e0c220</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=-UrNGLxQ3TI</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>The Australian National University will be holding the second in its National Health Reform Series at the John Curtin School of Medical Research, ANU, on Wednesday 24 February at 10am (AEDST). The topic of the event is, Are GP Super Clinics the answer to the access problems?The event will be facilitated by Bob Wells, Director of the Australian Primary Health Care Research Institute and feature speakers:Professor Mark HarrisExecutive Director, Centre for Primary Health Care and Equity at the University of New South WalesExternal Reference Group member, National Primary Health Care Strategy Dr Steve Hambleton Federal Vice President, Australian Medical AssociationDr Rashmi Sharma President, ACT Division of General PracticeMr Russell McGowanExecutive Committee member, Health Care Consumers Association Consumer Commissioner, Australian Commission for Safety and Quality in Health CareDeputy Chairman, ACT Health CouncilThe event will be streamed at www.livestream.com/anuchannel from 10am (AEDST), Wednesday 24 February 2010. For more information visit www.anu.edu.au</string>
+  </void>
+  <void property="title">
+   <string>Bob Wells - National Health Reform Series - ANU: Feb 10</string>
+  </void>
+ </object>
+</java>

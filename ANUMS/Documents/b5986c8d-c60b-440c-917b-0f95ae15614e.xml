@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string> 
+[Australia] : Wentworth Group of Concerned Scientists, 2010</string>
+  </void>
+  <void property="docID">
+   <string>b5986c8d-c60b-440c-917b-0f95ae15614e</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Ymurray+darling+basin&amp;SORT=D/Ymurray+darling+basin&amp;SORT=D&amp;SUBKEY=murray+darling+basin/1%2C149%2C149%2CB/frameset&amp;FF=Ymurray+darling+basin&amp;SORT=D&amp;3%2C3%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string> 
+[Australia] : Wentworth Group of Concerned Scientists, 2010</string>
+  </void>
+  <void property="title">
+   <string>Sustainable diversions in the Murray-Darling Basin : an analysis of the options for achieving a sust</string>
+  </void>
+ </object>
+</java>

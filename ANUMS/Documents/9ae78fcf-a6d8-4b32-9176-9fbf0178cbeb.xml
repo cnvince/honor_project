@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string> </string>
+  </void>
+  <void property="docID">
+   <string>9ae78fcf-a6d8-4b32-9176-9fbf0178cbeb</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YANU+Library&amp;SORT=D/YANU+Library&amp;SORT=D&amp;SUBKEY=ANU+Library/1%2C37%2C37%2CB/frameset&amp;FF=YANU+Library&amp;SORT=D&amp;3%2C3%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string> </string>
+  </void>
+  <void property="title">
+   <string>ANU Library occasional paper</string>
+  </void>
+ </object>
+</java>

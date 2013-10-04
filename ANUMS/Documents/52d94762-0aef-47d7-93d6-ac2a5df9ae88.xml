@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Building Schrodinger&apos;s cat: large-scale entanglement of trapped ions (externa...</string>
+  </void>
+  <void property="docID">
+   <string>52d94762-0aef-47d7-93d6-ac2a5df9ae88</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/2782</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Building Schrodinger&apos;s cat: large-scale entanglement of trapped ions (externa...</string>
+  </void>
+  <void property="title">
+   <string>Building Schrodinger&apos;s cat: large-scale entanglement of trapped ions (externally led by Griffith University)</string>
+  </void>
+ </object>
+</java>

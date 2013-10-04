@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Programming Paradigms, Tools and Algorithms for the Spectral Solution of the ...</string>
+  </void>
+  <void property="docID">
+   <string>348ae072-d1bb-49f0-be45-451ab93b4fda</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/196</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Programming Paradigms, Tools and Algorithms for the Spectral Solution of the ...</string>
+  </void>
+  <void property="title">
+   <string>Programming Paradigms, Tools and Algorithms for the Spectral Solution of the Electronic Schroedinger Equation on Non-Uniform Memory Parallel Processors</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>3266f043-f3cb-4676-a927-1b51226bb5ad</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/352318479749226496</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>Rising CO2 levels are â€˜greeningâ€™ deserts http://bit.ly/14MOyso , via @CSIROnews</string>
+  </void>
+ </object>
+</java>

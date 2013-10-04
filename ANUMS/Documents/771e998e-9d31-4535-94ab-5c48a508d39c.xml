@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>N.N. Lal, BBC Radio Naked Scientists Article online, &quot;Catching energy from th...</string>
+  </void>
+  <void property="docID">
+   <string>771e998e-9d31-4535-94ab-5c48a508d39c</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/73110</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>N.N. Lal, BBC Radio Naked Scientists Article online, &quot;Catching energy from th...</string>
+  </void>
+  <void property="title">
+   <string>Catching energy from the sun</string>
+  </void>
+ </object>
+</java>

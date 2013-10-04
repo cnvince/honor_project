@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>The land of the cherry blossom is brightening the ANU campus, with an exhibition of artwork inspired by Japan - &apos;Seeing Japan&apos; - currently on display.In this video we talk to exhibition organiser Jill Mowbray-Tsutsumi and artist Michael Le Grand about what inspires them about Japan, as well as showcasing some of the eye-popping items and talent on display.&apos;Seeing Japan&apos; is an exhibition exploring the artists&apos; interaction and engagement with the diversity of the Japanese experience. The exhibition showcases a collection of works including sculpture, ceramics, textiles, photography and jewellery by ANU students, staff and alumni who have been influenced by Japan in their lives and works.&apos;Seeing Japan&apos; forms part of the Japan Studies Association of Australia 2013 conference. The exhibition is hosted by the ANU School of Art and organised by the Japan Institute in the ANU College of Asia and the Pacific.Filming by James Walsh. Story and production by James Giggacher / Belinda Cranston. Music by rocovaco on ccmixter.org viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>4cfd8021-1e53-4450-bcd5-0dd2cf812e72</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=lwHYwcHNKz4</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>The land of the cherry blossom is brightening the ANU campus, with an exhibition of artwork inspired by Japan - &apos;Seeing Japan&apos; - currently on display.In this video we talk to exhibition organiser Jill Mowbray-Tsutsumi and artist Michael Le Grand about what inspires them about Japan, as well as showcasing some of the eye-popping items and talent on display.&apos;Seeing Japan&apos; is an exhibition exploring the artists&apos; interaction and engagement with the diversity of the Japanese experience. The exhibition showcases a collection of works including sculpture, ceramics, textiles, photography and jewellery by ANU students, staff and alumni who have been influenced by Japan in their lives and works.&apos;Seeing Japan&apos; forms part of the Japan Studies Association of Australia 2013 conference. The exhibition is hosted by the ANU School of Art and organised by the Japan Institute in the ANU College of Asia and the Pacific.Filming by James Walsh. Story and production by James Giggacher / Belinda Cranston. Music by rocovaco on ccmixter.org</string>
+  </void>
+  <void property="title">
+   <string>Seeing Japan</string>
+  </void>
+ </object>
+</java>

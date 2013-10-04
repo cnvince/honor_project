@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Engineering and Computer Science
+Applied Mathematics, Dynamical Systems In Applications, Operations Research, ...</string>
+  </void>
+  <void property="docID">
+   <string>a647d8aa-b702-469b-bef3-dba0d9e672aa</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/gao-d</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Engineering and Computer Science
+Applied Mathematics, Dynamical Systems In Applications, Operations Research, ...</string>
+  </void>
+  <void property="title">
+   <string>Professor David Y Gao</string>
+  </void>
+ </object>
+</java>

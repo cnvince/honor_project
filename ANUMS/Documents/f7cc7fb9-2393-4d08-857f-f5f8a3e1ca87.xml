@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Azizkhani, M., G. Monroe., and G. Shailer. 2010. &quot;The value of Big 4 audits i...</string>
+  </void>
+  <void property="docID">
+   <string>f7cc7fb9-2393-4d08-857f-f5f8a3e1ca87</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/79249</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Azizkhani, M., G. Monroe., and G. Shailer. 2010. &quot;The value of Big 4 audits i...</string>
+  </void>
+  <void property="title">
+   <string>The value of Big 4 audits in Australia</string>
+  </void>
+ </object>
+</java>

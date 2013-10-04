@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences
+Epistemology, Philosophy Of Language, Philosophy Of Mind (Excl. Cognition), M...</string>
+  </void>
+  <void property="docID">
+   <string>48fd20cf-474e-42a1-a5f8-91c62cbd5e40</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/garrett-bj</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences
+Epistemology, Philosophy Of Language, Philosophy Of Mind (Excl. Cognition), M...</string>
+  </void>
+  <void property="title">
+   <string>Dr Brian Garrett</string>
+  </void>
+ </object>
+</java>

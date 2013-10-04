@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Grafton, R &amp; Connell, D 2008, &apos;Planning for Water Security in the Murray-Darl...</string>
+  </void>
+  <void property="docID">
+   <string>b0e99d38-aef8-4a93-b65e-a1aa5398e138</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/15897</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Grafton, R &amp; Connell, D 2008, &apos;Planning for Water Security in the Murray-Darl...</string>
+  </void>
+  <void property="title">
+   <string>Planning for Water Security in the Murray-Darling Basin</string>
+  </void>
+ </object>
+</java>

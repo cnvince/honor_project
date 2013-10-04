@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>Professor Peter Schofield, Executive Director and Chief Executive Officer, Neuroscience Research Australia, gives this lecture entitled: &apos;The Genetics of Bipolar Disorder: Discovery, Prediction and Attitudes&apos;. This video was recorded at The Australian National University on 30 August 2010.Appointed head of Institute in 2004, Professor Schofield graduated from the University of Sydney with the University Medal and was awarded a PhD in genetics from The Australian National University in 1985. He undertook postdoctoral positions in biotechnology in the US and the University of Heidelberg. He was appointed a NHMRC Senior Research Fellow at the Garvan Institute in 1993, becoming head of the Neurobiology Research Program in 1999. His research interests focus on identifying genes that lead to mental illness and to dementia.In 1995 he awarded the Boehringer-Mannheim Medal by Australian Society for Biochemistry and Molecular Biology, and in 1997 the Gottschalk Medal by the Australian Academy of Science viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>c79af5dd-252c-4baf-88c6-aef909752c22</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=zIpWgJSC3Cc</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>Professor Peter Schofield, Executive Director and Chief Executive Officer, Neuroscience Research Australia, gives this lecture entitled: &apos;The Genetics of Bipolar Disorder: Discovery, Prediction and Attitudes&apos;. This video was recorded at The Australian National University on 30 August 2010.Appointed head of Institute in 2004, Professor Schofield graduated from the University of Sydney with the University Medal and was awarded a PhD in genetics from The Australian National University in 1985. He undertook postdoctoral positions in biotechnology in the US and the University of Heidelberg. He was appointed a NHMRC Senior Research Fellow at the Garvan Institute in 1993, becoming head of the Neurobiology Research Program in 1999. His research interests focus on identifying genes that lead to mental illness and to dementia.In 1995 he awarded the Boehringer-Mannheim Medal by Australian Society for Biochemistry and Molecular Biology, and in 1997 the Gottschalk Medal by the Australian Academy of Science</string>
+  </void>
+  <void property="title">
+   <string>Professor Peter Schofield: The Genetics of Bipolar Disorder at ANU</string>
+  </void>
+ </object>
+</java>

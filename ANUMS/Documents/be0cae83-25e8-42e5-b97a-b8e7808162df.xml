@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Richardson, Benjamin; Craig, Donna; Boer, Ben</string>
+  </void>
+  <void property="date">
+   <string>1995</string>
+  </void>
+  <void property="displaySummary">
+   <string>1995 Richardson, Benjamin; Craig, Donna; Boer, Ben</string>
+  </void>
+  <void property="docID">
+   <string>be0cae83-25e8-42e5-b97a-b8e7808162df</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/47281</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Regional agreements for indigenous lands and cultures in Canada : a discussion paper</string>
+  </void>
+ </object>
+</java>

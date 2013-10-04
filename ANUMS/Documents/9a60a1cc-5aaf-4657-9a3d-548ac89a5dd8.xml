@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Welcome to the ANU staff page. Everything you need is here at your fingertips. Follow the links to find out what’s happening on campus, access our IT or HR helpdesks or manage your career development. If you are thinking of joining the ANU</string>
+  </void>
+  <void property="docID">
+   <string>9a60a1cc-5aaf-4657-9a3d-548ac89a5dd8</string>
+  </void>
+  <void property="link">
+   <string>http://www.anu.edu.au/staff/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Welcome to the ANU staff page. Everything you need is here at your fingertips. Follow the links to find out what’s happening on campus, access our IT or HR helpdesks or manage your career development. If you are thinking of joining the ANU</string>
+  </void>
+  <void property="title">
+   <string>Staff - ANU</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Homepage for the Centre for Water Economics, Environment and Policy</string>
+  </void>
+  <void property="docID">
+   <string>33118e81-9b63-4120-8ed6-1ce0bf8fe8c8</string>
+  </void>
+  <void property="link">
+   <string>http://cweep.anu.edu.au/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Homepage for the Centre for Water Economics, Environment and Policy</string>
+  </void>
+  <void property="title">
+   <string>Centre for Water Economics, Environment and Policy - CWEEP - ANU</string>
+  </void>
+ </object>
+</java>

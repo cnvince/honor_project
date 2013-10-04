@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Home The global role of the UN in promoting gender equality. ... The global role of the UN in promoting gender equality. Speaker:. Carolyn Hannan, University of Lund on The Global Role of the UN in Promoting Gender Equality.</string>
+  </void>
+  <void property="docID">
+   <string>220cb1ba-ba0a-428b-a9c9-a87ad9ef8084</string>
+  </void>
+  <void property="link">
+   <string>http://asiapacific02.cap.anu.edu.au/events/global-role-un-promoting-gender-equality</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Home The global role of the UN in promoting gender equality. ... The global role of the UN in promoting gender equality. Speaker:. Carolyn Hannan, University of Lund on The Global Role of the UN in Promoting Gender Equality.</string>
+  </void>
+  <void property="title">
+   <string>The global role of the UN in promoting gender equality - RegNet - ANU</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>The making of urban citizens: social inclusion and division in China&apos;s new ur...</string>
+  </void>
+  <void property="docID">
+   <string>3a868b7a-4277-4209-821f-791985137391</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/1101</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>The making of urban citizens: social inclusion and division in China&apos;s new ur...</string>
+  </void>
+  <void property="title">
+   <string>The making of urban citizens: social inclusion and division in China&apos;s new urban areas</string>
+  </void>
+ </object>
+</java>

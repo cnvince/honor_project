@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Home page of Centre for Climate Economics and Policy</string>
+  </void>
+  <void property="docID">
+   <string>522e0d99-7233-42c1-8f0e-ab50e5a70b88</string>
+  </void>
+  <void property="link">
+   <string>http://ccep.anu.edu.au/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Home page of Centre for Climate Economics and Policy</string>
+  </void>
+  <void property="title">
+   <string>Home - CCEP - ANU</string>
+  </void>
+ </object>
+</java>

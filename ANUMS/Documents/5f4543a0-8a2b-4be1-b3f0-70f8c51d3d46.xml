@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>Dr John Hewson launches &apos;A Short Introduction to Climate Change&apos;, by ANU Emeritus Professor, Tony Eggleton.Professor Eggleton explains how the book takes the science behind climate change and presents it in a way that makes it readily accessible, empowering readers to make up their own mind as to whether or not our planet is warming.He takes the claims and counterclaims of climate change scientists and sceptics alike and tests them against fundamental scientific principles. He uses the integrity of the scientific data as the only true and constant yardstick by which to measure the accuracy of competing arguments.Professor Eggleton is a geologist with more than 40 years experience as a scientist, most recently with the Research School of Earth Sciences in the ANU College of Physical and Mathematical Sciences. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>5f4543a0-8a2b-4be1-b3f0-70f8c51d3d46</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=duBEZr6JQkQ</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>Dr John Hewson launches &apos;A Short Introduction to Climate Change&apos;, by ANU Emeritus Professor, Tony Eggleton.Professor Eggleton explains how the book takes the science behind climate change and presents it in a way that makes it readily accessible, empowering readers to make up their own mind as to whether or not our planet is warming.He takes the claims and counterclaims of climate change scientists and sceptics alike and tests them against fundamental scientific principles. He uses the integrity of the scientific data as the only true and constant yardstick by which to measure the accuracy of competing arguments.Professor Eggleton is a geologist with more than 40 years experience as a scientist, most recently with the Research School of Earth Sciences in the ANU College of Physical and Mathematical Sciences.</string>
+  </void>
+  <void property="title">
+   <string>A Short Introduction to Climate Change: Book launch</string>
+  </void>
+ </object>
+</java>

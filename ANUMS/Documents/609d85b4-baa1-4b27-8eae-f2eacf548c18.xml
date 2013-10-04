@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Schmidt, Brian C., 1966- 
+Albany : State University of New York Press, c1998.</string>
+  </void>
+  <void property="docID">
+   <string>609d85b4-baa1-4b27-8eae-f2eacf548c18</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YBrian+Schmidt&amp;SORT=D/YBrian+Schmidt&amp;SORT=D&amp;SUBKEY=Brian+Schmidt/1%2C23%2C23%2CB/frameset&amp;FF=YBrian+Schmidt&amp;SORT=D&amp;7%2C7%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Schmidt, Brian C., 1966- 
+Albany : State University of New York Press, c1998.</string>
+  </void>
+  <void property="title">
+   <string>The political discourse of anarchy a disciplinary history of international relations</string>
+  </void>
+ </object>
+</java>

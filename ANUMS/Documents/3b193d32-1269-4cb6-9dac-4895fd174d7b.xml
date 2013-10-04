@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>3b193d32-1269-4cb6-9dac-4895fd174d7b</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/367504170552541184</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>Prof Brian Schmidt @cosmicpinot  writes: Australia can ill afford to leave science on the back burner. http://bit.ly/13z5IZp </string>
+  </void>
+ </object>
+</java>

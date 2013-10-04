@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Kuhnen, J 2008, Beyond Metal: contemporary Australian jewellery and holloware...</string>
+  </void>
+  <void property="docID">
+   <string>4738c4b4-e9e1-4a79-b075-9324b757183e</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/40059</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Kuhnen, J 2008, Beyond Metal: contemporary Australian jewellery and holloware...</string>
+  </void>
+  <void property="title">
+   <string>Beyond Metal: contemporary Australian jewellery and holloware</string>
+  </void>
+ </object>
+</java>

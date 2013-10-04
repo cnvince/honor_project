@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Dibb, P 2003, Loud, and carrying a big stick.</string>
+  </void>
+  <void property="docID">
+   <string>7087cd01-1578-47f0-9ee9-82d645c1808f</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/28187</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Dibb, P 2003, Loud, and carrying a big stick.</string>
+  </void>
+  <void property="title">
+   <string>Loud, and carrying a big stick</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,113 @@
+input[type=text] {
+	background: #ffffff
+		url("http://styles.anu.edu.au/_images/input_text_bg.gif") repeat-x;
+	font-size: 1em;
+	padding: 2px 4px 2px 4px; /* top right bottom left */
+	border: 1px solid #666666;
+}
+
+input[type="submit"] {
+	font-size: 1em;
+}
+
+#fb-queryform input,#fb-advanced input {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#query,#fb-advanced #query-advanced {
+	font-size: 1em;
+	padding: 2px 4px 2px 4px; /* top right bottom left */
+	width: 300px;
+}
+
+#fb-queryform label,#fb-advanced label {
+	display: block;
+	font-size: 0.9em;
+	font-style: normal;
+	padding-left: 3px;
+}
+
+#fb-wrapper,#fb-wrapper p,#fb-matching,#fb-queryform,#fb-advanced {
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 1.25em;
+	background: none;
+	font-size: inherit;
+}
+
+#fb-queryform,#fb-advanced,#fb-queryform.fb-initial {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	width: 600px;
+}
+
+#fb-advanced span {
+	width: 190px;
+}
+
+#fb-advanced .fb-sortby {
+	margin: 0px 0px 0px 0px;
+	padding-bottom: 0px;
+}
+
+#fb-advanced input[type="submit"],#fb-advanced-submit {
+	bottom: 0;
+	font-size: inherit;
+	position: absolute;
+	right: 3px;
+	width: 100px;
+}
+
+#fb-queryform input[type="submit"],#fb-queryform-advanced input[type="submit"]
+	{
+	width: 100px;
+}
+
+#fb-results li,#fb-results p {
+	width: 620px;
+}
+
+#fb-matching {
+	margin: 15px 0px 0px 0px;
+	padding: 4px 4px 4px 10px;
+	border: 1px solid #94B0BE;
+	background-color: #F5F7F9;
+}
+
+h3 a {
+	font-family: Arial, Helvetica, sans-serif;
+	letter-spacing: normal;
+	font-size: 0.9em;
+}
+
+p.fb-page-nav {
+	text-align: left;
+}
+.SearchButton {
+	-moz-box-shadow:inset -1px 1px 7px 0px #ffffff;
+	-webkit-box-shadow:inset -1px 1px 7px 0px #ffffff;
+	box-shadow:inset -1px 1px 7px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+	background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+	background-color:#ededed;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	color:#777777;
+	font-family:arial;
+	font-size:12px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #ffffff;
+}.SearchButton:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+	background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+	background-color:#dfdfdf;
+}.SearchButton:active {
+	position:relative;
+	top:1px;
+}

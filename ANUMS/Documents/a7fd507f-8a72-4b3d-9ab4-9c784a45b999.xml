@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Australian Indigenous Collectors and Collections</string>
+  </void>
+  <void property="docID">
+   <string>a7fd507f-8a72-4b3d-9ab4-9c784a45b999</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/419</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Australian Indigenous Collectors and Collections</string>
+  </void>
+  <void property="title">
+   <string>Australian Indigenous Collectors and Collections</string>
+  </void>
+ </object>
+</java>

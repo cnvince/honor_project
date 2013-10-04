@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Wei, Jia</string>
+  </void>
+  <void property="date">
+   <string>1998-04</string>
+  </void>
+  <void property="displaySummary">
+   <string>1998-04 Wei, Jia</string>
+  </void>
+  <void property="docID">
+   <string>c3286049-450c-4610-bb51-e6a7a28a9726</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/9922</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>China&apos;s film industry: crisis or transition?</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>ee7febd0-92c5-4fcc-a2e4-ccc09d387bbc</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/4354540790</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>South Asia Masala: Christopher Snedden gives five reasons why the ISAF may one day walk away from #Afghanistan:  http://bit.ly/XRhox</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Howard Florey. The editor of the ANU Reporter, Simon Couper, invited the National Centre of Biography to contribute a series of columns on subjects in the Australian Dictionary of Biography which ... This is the fourth of the columns appearing in the</string>
+  </void>
+  <void property="docID">
+   <string>2bf67444-a170-4f4a-8c3d-7ee3365ed0b1</string>
+  </void>
+  <void property="link">
+   <string>http://ncb.anu.edu.au/book/export/html/185</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Howard Florey. The editor of the ANU Reporter, Simon Couper, invited the National Centre of Biography to contribute a series of columns on subjects in the Australian Dictionary of Biography which ... This is the fourth of the columns appearing in the</string>
+  </void>
+  <void property="title">
+   <string>Howard Florey</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>International Summer Course on Material Science, Antwerp, 1969 </string>
+  </void>
+  <void property="docID">
+   <string>c96e802c-e0c5-47fd-b50c-c79d5aa9f302</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YMaterial+Science&amp;SORT=D/YMaterial+Science&amp;SORT=D&amp;SUBKEY=Material+Science/1%2C554%2C554%2CB/frameset&amp;FF=YMaterial+Science&amp;SORT=D&amp;7%2C7%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>International Summer Course on Material Science, Antwerp, 1969 </string>
+  </void>
+  <void property="title">
+   <string>Modern diffraction and imaging techniques in material science : proceedings of the International Sum</string>
+  </void>
+ </object>
+</java>

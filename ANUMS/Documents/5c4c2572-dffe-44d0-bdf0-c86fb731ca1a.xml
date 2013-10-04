@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Sturgeon, Graeme, 1936- 
+Roseville : Craftsman House, 1991</string>
+  </void>
+  <void property="docID">
+   <string>5c4c2572-dffe-44d0-bdf0-c86fb731ca1a</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YAustralian+sculpture&amp;SORT=D/YAustralian+sculpture&amp;SORT=D&amp;SUBKEY=Australian+sculpture/1%2C236%2C236%2CB/frameset&amp;FF=YAustralian+sculpture&amp;SORT=D&amp;1%2C1%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Sturgeon, Graeme, 1936- 
+Roseville : Craftsman House, 1991</string>
+  </void>
+  <void property="title">
+   <string>Contemporary Australian sculpture</string>
+  </void>
+ </object>
+</java>

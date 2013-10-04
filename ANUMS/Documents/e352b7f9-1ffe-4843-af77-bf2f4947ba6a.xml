@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Scholars &amp;leaders. From its inception, ANU was built around a group of Australian scholars who had already achieved international distinction, including Sir Mark Oliphant, a leader in radar development and nuclear ... physics; Sir Howard Florey,</string>
+  </void>
+  <void property="docID">
+   <string>e352b7f9-1ffe-4843-af77-bf2f4947ba6a</string>
+  </void>
+  <void property="link">
+   <string>http://about.anu.edu.au/profile/history</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Scholars &amp;leaders. From its inception, ANU was built around a group of Australian scholars who had already achieved international distinction, including Sir Mark Oliphant, a leader in radar development and nuclear ... physics; Sir Howard Florey,</string>
+  </void>
+  <void property="title">
+   <string>History - About ANU - ANU</string>
+  </void>
+ </object>
+</java>

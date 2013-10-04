@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Exploring the Middle Ground: New Histories of Cross-Cultural Encounters in Au...</string>
+  </void>
+  <void property="docID">
+   <string>f0ed910f-a36a-400e-8908-5d45e41cbd0d</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/1418</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Exploring the Middle Ground: New Histories of Cross-Cultural Encounters in Au...</string>
+  </void>
+  <void property="title">
+   <string>Exploring the Middle Ground: New Histories of Cross-Cultural Encounters in Australian Maritime and Land Exploration</string>
+  </void>
+ </object>
+</java>

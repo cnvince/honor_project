@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Investigation of Biological Ion Channels: Theoretical Formulation, Computer S...</string>
+  </void>
+  <void property="docID">
+   <string>4953a0e4-c94f-4dee-8ad7-faa26ec93d69</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/1693</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Investigation of Biological Ion Channels: Theoretical Formulation, Computer S...</string>
+  </void>
+  <void property="title">
+   <string>Investigation of Biological Ion Channels: Theoretical Formulation, Computer Simulation and Experimental Verification</string>
+  </void>
+ </object>
+</java>

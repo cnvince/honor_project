@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Groves, B, Dopita, M &amp; Sutherland, R 2005, &apos;The pan-spectral energy distribut...</string>
+  </void>
+  <void property="docID">
+   <string>72893f29-0cfa-45ce-820e-bcc319407acd</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/37830</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Groves, B, Dopita, M &amp; Sutherland, R 2005, &apos;The pan-spectral energy distribut...</string>
+  </void>
+  <void property="title">
+   <string>The pan-spectral energy distribution of dusty narrow line regions</string>
+  </void>
+ </object>
+</java>

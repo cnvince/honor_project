@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>100d9f21-28a0-42b2-a0d4-5e85d574a641</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/3374274096</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>Will Steffen on ABC PM yesterday discussing the effects of climate change on Australia&apos;s biodiversity:  http://bit.ly/1BAzYw</string>
+  </void>
+ </object>
+</java>

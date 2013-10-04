@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Pittock, James 
+2011.</string>
+  </void>
+  <void property="docID">
+   <string>d2b45c7e-f8c2-4b92-b5c7-ab4c88d753ba</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Yclear+energy&amp;SORT=D/Yclear+energy&amp;SORT=D&amp;SUBKEY=clear+energy/1%2C51%2C51%2CB/frameset&amp;FF=Yclear+energy&amp;SORT=D&amp;8%2C8%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Pittock, James 
+2011.</string>
+  </void>
+  <void property="title">
+   <string>Integrating management of freshwater ecosystems and climate change</string>
+  </void>
+ </object>
+</java>

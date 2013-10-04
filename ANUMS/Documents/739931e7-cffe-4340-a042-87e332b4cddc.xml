@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Mackey, J 2008, Saxessions, John Mackey Quartet, Street Theatre, Canberra, Au...</string>
+  </void>
+  <void property="docID">
+   <string>739931e7-cffe-4340-a042-87e332b4cddc</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/20816</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Mackey, J 2008, Saxessions, John Mackey Quartet, Street Theatre, Canberra, Au...</string>
+  </void>
+  <void property="title">
+   <string>Saxessions, John Mackey Quartet</string>
+  </void>
+ </object>
+</java>

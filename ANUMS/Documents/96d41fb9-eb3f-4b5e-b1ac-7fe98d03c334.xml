@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string> 
+Canberra City, A.C.T. : Murray-Darling Basin Authority, 2009-</string>
+  </void>
+  <void property="docID">
+   <string>96d41fb9-eb3f-4b5e-b1ac-7fe98d03c334</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Ymurray+darling+basin&amp;SORT=D/Ymurray+darling+basin&amp;SORT=D&amp;SUBKEY=murray+darling+basin/1%2C149%2C149%2CB/frameset&amp;FF=Ymurray+darling+basin&amp;SORT=D&amp;6%2C6%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string> 
+Canberra City, A.C.T. : Murray-Darling Basin Authority, 2009-</string>
+  </void>
+  <void property="title">
+   <string>Murray-Darling Basin Authority annual report</string>
+  </void>
+ </object>
+</java>

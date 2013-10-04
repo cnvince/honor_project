@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Asia and the Pacific
+Language In Time And Space (Incl. Historical Linguistics, Dialectology), Lang...</string>
+  </void>
+  <void property="docID">
+   <string>8683255e-94f9-4ee6-9fa6-2b5fa74727fb</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/grimes-ce</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Asia and the Pacific
+Language In Time And Space (Incl. Historical Linguistics, Dialectology), Lang...</string>
+  </void>
+  <void property="title">
+   <string>Dr Charles Grimes</string>
+  </void>
+ </object>
+</java>

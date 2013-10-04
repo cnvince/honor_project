@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Engineering and Computer Science
+Information Retrieval And Web Search, Records And Information Management (Exc...</string>
+  </void>
+  <void property="docID">
+   <string>4a59c8a0-a7da-4c88-984a-c85567236076</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/thomas-pd</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Engineering and Computer Science
+Information Retrieval And Web Search, Records And Information Management (Exc...</string>
+  </void>
+  <void property="title">
+   <string>Dr Paul Thomas</string>
+  </void>
+ </object>
+</java>

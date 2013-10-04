@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Universities have only just begun to tap the potential of big data writes Deputy Vice-Chancellor ( Academic) Marnie Hughes-Warrington. ... Ours is an age of big data. Universities have been at the forefront of this development, showing us how to capture,</string>
+  </void>
+  <void property="docID">
+   <string>75aaeb3e-ac3a-403a-9d57-b45db39e3ea0</string>
+  </void>
+  <void property="link">
+   <string>http://news.anu.edu.au/2013/05/23/unlocking-the-potential-of-big-data/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Universities have only just begun to tap the potential of big data writes Deputy Vice-Chancellor ( Academic) Marnie Hughes-Warrington. ... Ours is an age of big data. Universities have been at the forefront of this development, showing us how to capture,</string>
+  </void>
+  <void property="title">
+   <string>Unlocking the potential of big data - News &amp; events - ANU</string>
+  </void>
+ </object>
+</java>

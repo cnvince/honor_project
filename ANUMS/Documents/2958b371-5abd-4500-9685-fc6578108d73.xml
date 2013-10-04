@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Bhatia, Mukul</string>
+  </void>
+  <void property="date">
+   <string>1981-12</string>
+  </void>
+  <void property="displaySummary">
+   <string>1981-12 Bhatia, Mukul</string>
+  </void>
+  <void property="docID">
+   <string>2958b371-5abd-4500-9685-fc6578108d73</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/8140</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Petrology geochemistry and tectonic setting of some flysch deposits</string>
+  </void>
+ </object>
+</java>

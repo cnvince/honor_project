@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Exposing the anonymous attacker: Detecting identity crimes using real-time re...</string>
+  </void>
+  <void property="docID">
+   <string>e9aff24f-0a5d-4c69-a0d4-94a3fbcbf892</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/2118</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Exposing the anonymous attacker: Detecting identity crimes using real-time re...</string>
+  </void>
+  <void property="title">
+   <string>Exposing the anonymous attacker: Detecting identity crimes using real-time resolution on large dynamic databases</string>
+  </void>
+ </object>
+</java>

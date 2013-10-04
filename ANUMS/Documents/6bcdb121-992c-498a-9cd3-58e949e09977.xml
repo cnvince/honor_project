@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Another year of the Fenner School’s International Dinner has passed, providing students and staff alike, the opportunity to share food and stories, and. ... The Fenner School of Environment and Society at The Australian National University is seeking</string>
+  </void>
+  <void property="docID">
+   <string>6bcdb121-992c-498a-9cd3-58e949e09977</string>
+  </void>
+  <void property="link">
+   <string>http://fennerschool.anu.edu.au/home</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Another year of the Fenner School’s International Dinner has passed, providing students and staff alike, the opportunity to share food and stories, and. ... The Fenner School of Environment and Society at The Australian National University is seeking</string>
+  </void>
+  <void property="title">
+   <string>Fenner School - ANU</string>
+  </void>
+ </object>
+</java>

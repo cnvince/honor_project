@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Parker, Brian; Guenter, Simon; Bedo, Justin</string>
+  </void>
+  <void property="date">
+   <string>-</string>
+  </void>
+  <void property="displaySummary">
+   <string>- Parker, Brian; Guenter, Simon; Bedo, Justin</string>
+  </void>
+  <void property="docID">
+   <string>c9bc8422-285e-496a-840f-67e719952015</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/10440/129</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Stratification bias in low signal microarray studies</string>
+  </void>
+ </object>
+</java>

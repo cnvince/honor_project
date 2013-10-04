@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Gallagher, Richard B. 
+Academic Press [Imprint] Aug. 1995 San Diego :  Elsevier Science &amp; Technology Books</string>
+  </void>
+  <void property="docID">
+   <string>310c27a3-6b98-4cbf-be0d-7202339d662e</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YRolf+Zinkernagel&amp;SORT=D/YRolf+Zinkernagel&amp;SORT=D&amp;SUBKEY=Rolf+Zinkernagel/1%2C3%2C3%2CB/frameset&amp;FF=YRolf+Zinkernagel&amp;SORT=D&amp;1%2C1%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Gallagher, Richard B. 
+Academic Press [Imprint] Aug. 1995 San Diego :  Elsevier Science &amp; Technology Books</string>
+  </void>
+  <void property="title">
+   <string>Immunology The Making of a Modern Science</string>
+  </void>
+ </object>
+</java>

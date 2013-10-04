@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Milthorpe, J &amp; Rendell, A 2005, &apos;Learning to live with errors: a fresh look a...</string>
+  </void>
+  <void property="docID">
+   <string>98530fed-837b-46d6-94fb-e1fbbd3d90d7</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/120</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Milthorpe, J &amp; Rendell, A 2005, &apos;Learning to live with errors: a fresh look a...</string>
+  </void>
+  <void property="title">
+   <string>Learning to live with errors: a fresh look at floating-point computation</string>
+  </void>
+ </object>
+</java>

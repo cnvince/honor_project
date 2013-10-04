@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Saikal, A 2007, &apos;The Afghanistan-Pakistan Border and Afghanistan&apos;s Long-Term ...</string>
+  </void>
+  <void property="docID">
+   <string>d5a94102-5b53-4575-8090-2fa7118e5843</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/45577</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Saikal, A 2007, &apos;The Afghanistan-Pakistan Border and Afghanistan&apos;s Long-Term ...</string>
+  </void>
+  <void property="title">
+   <string>The Afghanistan-Pakistan Border and Afghanistan&apos;s Long-Term Stability</string>
+  </void>
+ </object>
+</java>

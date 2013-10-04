@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Physical and Mathematical Sciences</string>
+  </void>
+  <void property="docID">
+   <string>92d994ac-484a-44c3-b35e-d0450f88c7f4</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/zhou-b</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Physical and Mathematical Sciences</string>
+  </void>
+  <void property="title">
+   <string>Dr Bin Zhou</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Christensen, H, Griffiths, K &amp; Evans, K, eds, 2002, e-Mental Health in Au...</string>
+  </void>
+  <void property="docID">
+   <string>25c1d1f7-c57e-40e2-9c2e-8aed5e7a750c</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/34580</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Christensen, H, Griffiths, K &amp; Evans, K, eds, 2002, e-Mental Health in Au...</string>
+  </void>
+  <void property="title">
+   <string>e-Mental Health in Australia: Implications of the Internet and related technologies for policy</string>
+  </void>
+ </object>
+</java>

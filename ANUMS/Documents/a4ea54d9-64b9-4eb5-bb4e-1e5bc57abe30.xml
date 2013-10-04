@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Phyloinformatics and biodiversity: developing bioinformatic tools for underst...</string>
+  </void>
+  <void property="docID">
+   <string>a4ea54d9-64b9-4eb5-bb4e-1e5bc57abe30</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/915</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Phyloinformatics and biodiversity: developing bioinformatic tools for underst...</string>
+  </void>
+  <void property="title">
+   <string>Phyloinformatics and biodiversity: developing bioinformatic tools for understanding the dynamics of extinction and invasion within species assemblages</string>
+  </void>
+ </object>
+</java>

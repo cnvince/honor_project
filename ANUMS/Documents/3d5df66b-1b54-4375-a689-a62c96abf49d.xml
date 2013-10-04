@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Waddell, Meredith 
+Melbourne : Preston and Northcote Community Hospital, 1996</string>
+  </void>
+  <void property="docID">
+   <string>3d5df66b-1b54-4375-a689-a62c96abf49d</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YPeter+Doherty&amp;SORT=D/YPeter+Doherty&amp;SORT=D&amp;SUBKEY=Peter+Doherty/1%2C13%2C13%2CB/frameset&amp;FF=YPeter+Doherty&amp;SORT=D&amp;5%2C5%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Waddell, Meredith 
+Melbourne : Preston and Northcote Community Hospital, 1996</string>
+  </void>
+  <void property="title">
+   <string>The Australian psychotropic pharmacopoeia</string>
+  </void>
+ </object>
+</java>

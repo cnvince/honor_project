@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Peacock, John A; Cole, Shaun; Norberg, Peder; Price, Ian; Bland-Hawthorn, Joss; Jackson, Carole; Peterson, B.A; Colless, Matthew</string>
+  </void>
+  <void property="date">
+   <string>2001</string>
+  </void>
+  <void property="displaySummary">
+   <string>2001 Peacock, John A; Cole, Shaun; Norberg, Peder; Price, Ian; Bland-Hawthorn, Joss; Jackson, Carole; Peterson, B.A; Colless, Matthew</string>
+  </void>
+  <void property="docID">
+   <string>d2db09ab-79ae-409e-be6f-5b13c45c5cce</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/40003</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>A measurement of the cosmological mass density from clustering in the 2dF Galaxy Redshift Survey</string>
+  </void>
+ </object>
+</java>

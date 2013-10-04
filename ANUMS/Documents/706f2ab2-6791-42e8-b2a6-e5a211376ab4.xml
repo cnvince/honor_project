@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Courses: (1-3 of 39 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Courses: (1-3 of 39 matches)</string>
+  </void>
+  <void property="docID">
+   <string>706f2ab2-6791-42e8-b2a6-e5a211376ab4</string>
+  </void>
+  <void property="link">
+   <string>http://studyat.anu.edu.au/courses/ENVS6203;all.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>ENVS6203 - ENVS6203 Biodiversity and Landscape Ecology</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>McConvell, P &amp; Simpson, J 2012, &apos;Fictive Motion Down Under: The Locative-Alla...</string>
+  </void>
+  <void property="docID">
+   <string>0b6e07ac-0011-4562-8c5c-3805849c386b</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/73889</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>McConvell, P &amp; Simpson, J 2012, &apos;Fictive Motion Down Under: The Locative-Alla...</string>
+  </void>
+  <void property="title">
+   <string>Fictive Motion Down Under: The Locative-Allative Case Alternation in Some Australian Indigenous Languages</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Research School of Computer Science</string>
+  </void>
+  <void property="docID">
+   <string>f8d5272d-f81a-44e1-bf46-0d99f065f394</string>
+  </void>
+  <void property="link">
+   <string>http://cs.anu.edu.au/systems/gpuworkshop2010</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Research School of Computer Science</string>
+  </void>
+  <void property="title">
+   <string>High Performance GPU Computing with NVIDIA, CUDA, and Fermi : A half...</string>
+  </void>
+ </object>
+</java>

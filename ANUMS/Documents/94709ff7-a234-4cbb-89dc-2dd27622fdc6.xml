@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>In June 2012 we were confronted with violence pitting Buddhist Rakhine against Muslim Rohingya. Today, how should we understand this situation?</string>
+  </void>
+  <void property="docID">
+   <string>94709ff7-a234-4cbb-89dc-2dd27622fdc6</string>
+  </void>
+  <void property="link">
+   <string>http://asiapacific.anu.edu.au/newmandala/2012/09/28/sectarian-strife-in-western-myanmar/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>In June 2012 we were confronted with violence pitting Buddhist Rakhine against Muslim Rohingya. Today, how should we understand this situation?</string>
+  </void>
+  <void property="title">
+   <string>Sectarian strife in western Myanmar</string>
+  </void>
+ </object>
+</java>

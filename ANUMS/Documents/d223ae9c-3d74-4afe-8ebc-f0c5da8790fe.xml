@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Asia and the Pacific
+Police Administration, Procedures And Practice, Criminology, Public Policy, P...</string>
+  </void>
+  <void property="docID">
+   <string>d223ae9c-3d74-4afe-8ebc-f0c5da8790fe</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/grabosky-pn</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Asia and the Pacific
+Police Administration, Procedures And Practice, Criminology, Public Policy, P...</string>
+  </void>
+  <void property="title">
+   <string>Professor Peter Grabosky</string>
+  </void>
+ </object>
+</java>

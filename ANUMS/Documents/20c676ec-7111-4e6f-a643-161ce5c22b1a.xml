@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Ryan, Michelle K</string>
+  </void>
+  <void property="date">
+   <string>2003-08</string>
+  </void>
+  <void property="displaySummary">
+   <string>2003-08 Ryan, Michelle K</string>
+  </void>
+  <void property="docID">
+   <string>20c676ec-7111-4e6f-a643-161ce5c22b1a</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/48182</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>A gendered self or a gendered context? A social identity approach to gender differences</string>
+  </void>
+ </object>
+</java>

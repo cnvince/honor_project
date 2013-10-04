@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string> 
+Paris : OECD, c2013.</string>
+  </void>
+  <void property="docID">
+   <string>de75cb7a-8c68-4358-9ffe-66e04391e49b</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YThe+middle+East&amp;SORT=D/YThe+middle+East&amp;SORT=D&amp;SUBKEY=The+middle+East/1%2C4898%2C4898%2CB/frameset&amp;FF=YThe+middle+East&amp;SORT=D&amp;5%2C5%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string> 
+Paris : OECD, c2013.</string>
+  </void>
+  <void property="title">
+   <string>Renewable energies in the Middle East and North Africa policies to support private investment.</string>
+  </void>
+ </object>
+</java>

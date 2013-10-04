@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Michelle Bachelet, Under Secretary-General of the United Nations and Executive Director of UN Women, discusses the status of women worldwide and provides insight into UN Women. She shares what UN women are doing to advance women&apos;s empowerment and</string>
+  </void>
+  <void property="docID">
+   <string>2fbc40f1-218f-48df-b0a4-c15722fa3266</string>
+  </void>
+  <void property="link">
+   <string>http://www.anu.edu.au/vision/videos/6431/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Michelle Bachelet, Under Secretary-General of the United Nations and Executive Director of UN Women, discusses the status of women worldwide and provides insight into UN Women. She shares what UN women are doing to advance women&apos;s empowerment and</string>
+  </void>
+  <void property="title">
+   <string>Michelle Bachelet presents Gender equality: a lived reality? - Vision...</string>
+  </void>
+ </object>
+</java>

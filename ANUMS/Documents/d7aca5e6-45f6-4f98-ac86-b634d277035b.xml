@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Description of page</string>
+  </void>
+  <void property="docID">
+   <string>d7aca5e6-45f6-4f98-ac86-b634d277035b</string>
+  </void>
+  <void property="link">
+   <string>http://philanthropy.anu.edu.au/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Description of page</string>
+  </void>
+  <void property="title">
+   <string>Home - Philanthropy - ANU</string>
+  </void>
+ </object>
+</java>

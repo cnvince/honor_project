@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Australian National University (2009)</string>
+  </void>
+  <void property="docID">
+   <string>e0d8f82c-e0f1-449e-95df-727de10d3063</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/55041</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Australian National University (2009)</string>
+  </void>
+  <void property="title">
+   <string>Implications of climate change for Australiaâ??s World Heritage properties: A preliminary assessment. A report to the Department of Climate Change and the Department of the Environment, Water, Heritage and the Arts by the Fenner School of Environment and Society, the Australian National University.</string>
+  </void>
+ </object>
+</java>

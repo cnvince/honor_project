@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Medicine, Biology and Environment</string>
+  </void>
+  <void property="docID">
+   <string>7f7e2bc8-a4a5-4cc3-91b0-c8c3916de89d</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/bamsey-h</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Medicine, Biology and Environment</string>
+  </void>
+  <void property="title">
+   <string>Professor Howard Bamsey</string>
+  </void>
+ </object>
+</java>

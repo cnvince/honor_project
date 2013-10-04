@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Fusion Energy and the Physics of Burning Plasmas</string>
+  </void>
+  <void property="docID">
+   <string>161e801f-f76c-4135-8cf4-2121d620b925</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/2547</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Fusion Energy and the Physics of Burning Plasmas</string>
+  </void>
+  <void property="title">
+   <string>Fusion Energy and the Physics of Burning Plasmas</string>
+  </void>
+ </object>
+</java>

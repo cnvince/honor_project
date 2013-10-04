@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>With Kim Jong-un threatening to throw his enemies into the &apos;cauldron&apos; and &apos;set fire to the dens of crime&apos;, we try to get inside the leader&apos;s head.Four experts from the ANU College of Asia and the Pacific outline what he&apos;s trying to achieve with all his tough talk and whether North Korea can come back from the brink of war.Story and production by Belinda Cranston.For more insight, analysis and commentary on North Korea visit the ANU College of Asia and the Pacific at http://asiapacific.anu.edu.au viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>b2a3233f-21fe-4c11-8644-e70ac244cc15</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=qj3Qohnf-rY</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>With Kim Jong-un threatening to throw his enemies into the &apos;cauldron&apos; and &apos;set fire to the dens of crime&apos;, we try to get inside the leader&apos;s head.Four experts from the ANU College of Asia and the Pacific outline what he&apos;s trying to achieve with all his tough talk and whether North Korea can come back from the brink of war.Story and production by Belinda Cranston.For more insight, analysis and commentary on North Korea visit the ANU College of Asia and the Pacific at http://asiapacific.anu.edu.au</string>
+  </void>
+  <void property="title">
+   <string>Back from the brink</string>
+  </void>
+ </object>
+</java>

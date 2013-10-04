@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>Nobel Laureate Professor Brian Schmidt and Executive Director of The Australia Institute Dr Richard Denniss, joined by ABC presenter Alex Sloan, discuss how science, politicians and the public can come together to create better policy. Dr Denniss says that the interaction between science and politics raised many issues and that while the ability of scientists to answer fundamental questions is at an all-time high, the level of political debate around science is at an all-time low.Professor Schmidt argues that scientists need to work together to have an impact on policymakers. He says that because science always provides a range of answers, we need to work out the details of our science in scientific forums, and then present a consensus view about what we do and do not know.This debate was filmed on Thursday 20 September 2012 at The Australian National University. It was hosted by the ANU College of Medicine, Biology and Environment and the ANU College of Physical and Mathematical Sciences. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>49bfba20-8e7f-410a-99d1-a7af2851e202</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=WFGiteEeVRE</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>Nobel Laureate Professor Brian Schmidt and Executive Director of The Australia Institute Dr Richard Denniss, joined by ABC presenter Alex Sloan, discuss how science, politicians and the public can come together to create better policy. Dr Denniss says that the interaction between science and politics raised many issues and that while the ability of scientists to answer fundamental questions is at an all-time high, the level of political debate around science is at an all-time low.Professor Schmidt argues that scientists need to work together to have an impact on policymakers. He says that because science always provides a range of answers, we need to work out the details of our science in scientific forums, and then present a consensus view about what we do and do not know.This debate was filmed on Thursday 20 September 2012 at The Australian National University. It was hosted by the ANU College of Medicine, Biology and Environment and the ANU College of Physical and Mathematical Sciences.</string>
+  </void>
+  <void property="title">
+   <string>Science, Politics and the Public: Breaking Down the Barriers</string>
+  </void>
+ </object>
+</java>

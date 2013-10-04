@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Acceptance Environment. Professor Desmond Ball. BEc ( Hons), PhD. Professor, Strategic Defence Studies Centre, School of International, Political Strategic Studies. ... ANU College of Asia and the Pacific. E: desmond.ball@anu.edu.au.</string>
+  </void>
+  <void property="docID">
+   <string>f9aff81b-111b-4dd5-9b46-f2545c59910d</string>
+  </void>
+  <void property="link">
+   <string>http://researchers-acep.anu.edu.au/researchers/ball-dj</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Acceptance Environment. Professor Desmond Ball. BEc ( Hons), PhD. Professor, Strategic Defence Studies Centre, School of International, Political Strategic Studies. ... ANU College of Asia and the Pacific. E: desmond.ball@anu.edu.au.</string>
+  </void>
+  <void property="title">
+   <string>Professor Desmond Ball - Researchers - ANU</string>
+  </void>
+ </object>
+</java>

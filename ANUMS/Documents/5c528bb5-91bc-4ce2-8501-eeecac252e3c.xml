@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Division of Registrar Student Services. Student Administration Services. Student Administration Services ( SAS). . Course Program Proposals. . ... Student Recruitment and International ( SRI).  Research Student Development Centre.</string>
+  </void>
+  <void property="docID">
+   <string>5c528bb5-91bc-4ce2-8501-eeecac252e3c</string>
+  </void>
+  <void property="link">
+   <string>http://www.anu.edu.au/sas/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Division of Registrar Student Services. Student Administration Services. Student Administration Services ( SAS). . Course Program Proposals. . ... Student Recruitment and International ( SRI).  Research Student Development Centre.</string>
+  </void>
+  <void property="title">
+   <string>ANU - Student Administration Services - Student Administration...</string>
+  </void>
+ </object>
+</java>

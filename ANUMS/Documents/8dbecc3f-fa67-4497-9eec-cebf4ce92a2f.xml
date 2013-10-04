@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Encyclopedia of Anti-Revisionism On-Line. Communist Party of Canada ( Marxist-Leninist). Political Report of the Communist Party of Canada ( Marxist-Leninist). Released by the National Executive Committee of the Communist ... Party of Canada (</string>
+  </void>
+  <void property="docID">
+   <string>8dbecc3f-fa67-4497-9eec-cebf4ce92a2f</string>
+  </void>
+  <void property="link">
+   <string>http://marxists.anu.edu.au/history/erol/ca.firstwave/cpcml-2nd/index.htm</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Encyclopedia of Anti-Revisionism On-Line. Communist Party of Canada ( Marxist-Leninist). Political Report of the Communist Party of Canada ( Marxist-Leninist). Released by the National Executive Committee of the Communist ... Party of Canada (</string>
+  </void>
+  <void property="title">
+   <string>Political Report of the Communist Party of Canada (Marxist-Leninist)...</string>
+  </void>
+ </object>
+</java>

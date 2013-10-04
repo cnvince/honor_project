@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Summer Schools in Logic and Learning</string>
+  </void>
+  <void property="docID">
+   <string>1965f982-7522-4c0b-af84-29bc222e5104</string>
+  </void>
+  <void property="link">
+   <string>http://ssll.cecs.anu.edu.au/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Summer Schools in Logic and Learning</string>
+  </void>
+  <void property="title">
+   <string>Home ANU - CECS SSLL -</string>
+  </void>
+ </object>
+</java>

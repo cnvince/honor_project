@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>of Economics), Roy Cameron, Ron Barback, Hugh Hudson, Ron Heiser, John Head, Max Neutze, Ian MacDougall, Keith Sloane, Colin Forster and John Pitchford.</string>
+  </void>
+  <void property="docID">
+   <string>0b43e407-6d2f-4c9b-93c6-4aa8e606be9e</string>
+  </void>
+  <void property="link">
+   <string>http://epress.anu.edu.au/wp-content/uploads/2011/08/ch149.pdf</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>of Economics), Roy Cameron, Ron Barback, Hugh Hudson, Ron Heiser, John Head, Max Neutze, Ian MacDougall, Keith Sloane, Colin Forster and John Pitchford.</string>
+  </void>
+  <void property="title">
+   <string>[PDF]
+          
+          
+          
+          
+          
+            epress.anu.edu.au/wp-content/uploads/2011/08/ch149.pdf</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>50 years ago, in March 1962, Sir Edwin McCarthy took up his position as the first Australian Ambassador to the EU. Since then EU-Australia relations have had their ups and downs but today the relationship is broader, deeper and stronger than ever - but many challenges lie ahead.Every month this year, two or three Ambassadors and/or High Commissioners from EU Member States, together with Australian Ambassadors to Europe and other experts, will gather at the ANUCES to talk about their country and why it joined the EU, their current position and how their country interacts with Australia.  Most of the events will be recorded and broadcast by Radio National&apos;s  &quot;Big Ideas&quot; program, and filmed by the Sky A-Pac Channel.Episode eleven, the final conversation for the year, features H.E. Mr Paul Madden, High Commissioner for the United Kingdom to Australia, H.E. Mr Gian Ludovico de Martino di Montegiordano, Ambassador for Italy to Australia, H.E. Mr David Daly, Ambassador of the European Union to Australia and to New Zealand, and the Hon Richard Marles MP,  Parliamentary Secretary for Foreign Affairs, who together discuss the fifty years of relations between Australia and the EU. Joining them is Mr Paul Barclay from ABC&apos;s Radio National, who moderates the discussion.ANUCES is an initiative involving four ANU Colleges (Arts and Social Sciences, Law, Business and Economics, and Asia and the Pacific) co-funded by the ANU and the European Union. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>7fbc71ca-0136-4c24-9c5f-f68d471fe1f4</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=Lt_UsPXm0h8</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>50 years ago, in March 1962, Sir Edwin McCarthy took up his position as the first Australian Ambassador to the EU. Since then EU-Australia relations have had their ups and downs but today the relationship is broader, deeper and stronger than ever - but many challenges lie ahead.Every month this year, two or three Ambassadors and/or High Commissioners from EU Member States, together with Australian Ambassadors to Europe and other experts, will gather at the ANUCES to talk about their country and why it joined the EU, their current position and how their country interacts with Australia.  Most of the events will be recorded and broadcast by Radio National&apos;s  &quot;Big Ideas&quot; program, and filmed by the Sky A-Pac Channel.Episode eleven, the final conversation for the year, features H.E. Mr Paul Madden, High Commissioner for the United Kingdom to Australia, H.E. Mr Gian Ludovico de Martino di Montegiordano, Ambassador for Italy to Australia, H.E. Mr David Daly, Ambassador of the European Union to Australia and to New Zealand, and the Hon Richard Marles MP,  Parliamentary Secretary for Foreign Affairs, who together discuss the fifty years of relations between Australia and the EU. Joining them is Mr Paul Barclay from ABC&apos;s Radio National, who moderates the discussion.ANUCES is an initiative involving four ANU Colleges (Arts and Social Sciences, Law, Business and Economics, and Asia and the Pacific) co-funded by the ANU and the European Union.</string>
+  </void>
+  <void property="title">
+   <string>Australia and Europe in conversation: 50 years of EU-Australia relations, episode eleven</string>
+  </void>
+ </object>
+</java>

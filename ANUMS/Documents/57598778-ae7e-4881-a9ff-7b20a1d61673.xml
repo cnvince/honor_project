@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Sir John Crawford appointed Director of the RSPacS. Haydon-Allen Building opened by the Governor-General. ... School of General Studies Library Building opened. Sir John Eccles of the JCSMR awarded the Nobel Prize for Physiology or Medicine.</string>
+  </void>
+  <void property="docID">
+   <string>57598778-ae7e-4881-a9ff-7b20a1d61673</string>
+  </void>
+  <void property="link">
+   <string>http://heritage.anu.edu.au/?pid=11</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Sir John Crawford appointed Director of the RSPacS. Haydon-Allen Building opened by the Governor-General. ... School of General Studies Library Building opened. Sir John Eccles of the JCSMR awarded the Nobel Prize for Physiology or Medicine.</string>
+  </void>
+  <void property="title">
+   <string>Timeline of Events - Heritage</string>
+  </void>
+ </object>
+</java>

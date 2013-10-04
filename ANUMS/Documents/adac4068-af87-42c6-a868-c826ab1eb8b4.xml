@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Anthropological Perspectives on Ethnographic Collecting by Australian Colonia...</string>
+  </void>
+  <void property="docID">
+   <string>adac4068-af87-42c6-a868-c826ab1eb8b4</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/9</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Anthropological Perspectives on Ethnographic Collecting by Australian Colonia...</string>
+  </void>
+  <void property="title">
+   <string>Anthropological Perspectives on Ethnographic Collecting by Australian Colonial Administrators in Papua and New Guinea</string>
+  </void>
+ </object>
+</java>

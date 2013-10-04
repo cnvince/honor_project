@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Asia and the Pacific
+Gender Specific Studies, Studies Of Asian Society, Social And Cultural Anthro...</string>
+  </void>
+  <void property="docID">
+   <string>859f7a84-4324-429a-9f76-80a9b19d50b1</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/jacka-t</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Asia and the Pacific
+Gender Specific Studies, Studies Of Asian Society, Social And Cultural Anthro...</string>
+  </void>
+  <void property="title">
+   <string>Dr Tamara Jacka</string>
+  </void>
+ </object>
+</java>

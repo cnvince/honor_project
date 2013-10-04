@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Blackburn, S, Cheng, P &amp; McKinley, K 2004, &apos;Oil and Water? High Performance G...</string>
+  </void>
+  <void property="docID">
+   <string>c5398cca-19d6-4062-be8a-257ec6fe2828</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/3525</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Blackburn, S, Cheng, P &amp; McKinley, K 2004, &apos;Oil and Water? High Performance G...</string>
+  </void>
+  <void property="title">
+   <string>Oil and Water? High Performance Garbage Collection in Javq with MMTk</string>
+  </void>
+ </object>
+</java>

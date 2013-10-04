@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>National Centre for Epidemiology and Population Health. The John Curtin School of Medical Research. ... Email. Abbott. Susan. Ms. ANUMS. 131-Eccles Library. 52551.</string>
+  </void>
+  <void property="docID">
+   <string>c99f8107-e00b-4560-9b1b-e2f74ea622ce</string>
+  </void>
+  <void property="link">
+   <string>http://directory.cmhs.anu.edu.au/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>National Centre for Epidemiology and Population Health. The John Curtin School of Medical Research. ... Email. Abbott. Susan. Ms. ANUMS. 131-Eccles Library. 52551.</string>
+  </void>
+  <void property="title">
+   <string>ANU - CMHS Intranet - CMHS Intranet</string>
+  </void>
+ </object>
+</java>

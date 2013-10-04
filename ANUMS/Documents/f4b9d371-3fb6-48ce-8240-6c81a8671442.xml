@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>f4b9d371-3fb6-48ce-8240-6c81a8671442</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/164516655723061248</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>ANU Vice-Chancellor Ian Young has a new blog - From the VC&apos;s Desk. A new post reflects on the importance of the ERA: http://vcdesk.anu.edu.au/ </string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Logic based, sustainable, autonomous flight. Research at the Australian National University 2013 ( Ben Coughlan). On-board control, energy harvesting &amp;management, navigation and telemetry implemented in programmable logic ( no CPUs). Airframe based</string>
+  </void>
+  <void property="docID">
+   <string>5f25af5e-aef3-494e-911c-974bd063dd24</string>
+  </void>
+  <void property="link">
+   <string>http://cs.anu.edu.au/student/comp4330/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Logic based, sustainable, autonomous flight. Research at the Australian National University 2013 ( Ben Coughlan). On-board control, energy harvesting &amp;management, navigation and telemetry implemented in programmable logic ( no CPUs). Airframe based</string>
+  </void>
+  <void property="title">
+   <string>Real-Time &amp; Embedded Systems</string>
+  </void>
+ </object>
+</java>

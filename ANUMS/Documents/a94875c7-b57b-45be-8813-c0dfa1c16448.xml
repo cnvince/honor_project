@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Fan, D, Hope, A, Smith, P et al 2008, &apos;The Stoichiometry of Photosysem II to ...</string>
+  </void>
+  <void property="docID">
+   <string>a94875c7-b57b-45be-8813-c0dfa1c16448</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/23155</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Fan, D, Hope, A, Smith, P et al 2008, &apos;The Stoichiometry of Photosysem II to ...</string>
+  </void>
+  <void property="title">
+   <string>The Stoichiometry of Photosysem II to Photosysem I in higher plants</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Wheeler, F &amp; Williams, J, 2012, &apos;McTiernan, Sir Edward Aloysius (Eddie) (1892...</string>
+  </void>
+  <void property="docID">
+   <string>c7c4824f-4d3d-4807-a1a2-9dfb5a535eda</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/74609</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Wheeler, F &amp; Williams, J, 2012, &apos;McTiernan, Sir Edward Aloysius (Eddie) (1892...</string>
+  </void>
+  <void property="title">
+   <string>McTiernan, Sir Edward Aloysius (Eddie) (1892ï¿½??1990)**</string>
+  </void>
+ </object>
+</java>

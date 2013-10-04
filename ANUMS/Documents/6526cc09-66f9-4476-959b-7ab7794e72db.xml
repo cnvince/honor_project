@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>life as an elite swimmer Regulars Photo credits: Photos on pp 2, 6 &amp;12 by Stuart Hay; photo of John Roberts on p 5 courtesy of the Australian Marketing Institute p ... Professor John Roberts ANU Professor of Marketing John Roberts has been presented with</string>
+  </void>
+  <void property="docID">
+   <string>6526cc09-66f9-4476-959b-7ab7794e72db</string>
+  </void>
+  <void property="link">
+   <string>http://old.fec.anu.edu.au/magazine/Margin_Spring_2011.pdf</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>life as an elite swimmer Regulars Photo credits: Photos on pp 2, 6 &amp;12 by Stuart Hay; photo of John Roberts on p 5 courtesy of the Australian Marketing Institute p ... Professor John Roberts ANU Professor of Marketing John Roberts has been presented with</string>
+  </void>
+  <void property="title">
+   <string>[PDF]
+          
+          
+          
+          
+          
+            old.fec.anu.edu.au/magazine/Margin_Spring_2011.pdf</string>
+  </void>
+ </object>
+</java>

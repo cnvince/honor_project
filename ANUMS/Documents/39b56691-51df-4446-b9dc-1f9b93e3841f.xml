@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Changing South Korea: Issues of identity and reunification in formulating the Australia-Korea security policy, foreign policy, and wider relationship. ... Citation. Campbell, E 2011, &apos;Changing South Korea: Issues of identity and reunification in</string>
+  </void>
+  <void property="docID">
+   <string>39b56691-51df-4446-b9dc-1f9b93e3841f</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/61956</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Changing South Korea: Issues of identity and reunification in formulating the Australia-Korea security policy, foreign policy, and wider relationship. ... Citation. Campbell, E 2011, &apos;Changing South Korea: Issues of identity and reunification in</string>
+  </void>
+  <void property="title">
+   <string>Changing South Korea: Issue... - Researchers - ANU</string>
+  </void>
+ </object>
+</java>

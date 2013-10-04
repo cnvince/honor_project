@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Mackey, B, Lindenmayer, D, Gill, M et al 2002, Wildlife, fire and future ...</string>
+  </void>
+  <void property="docID">
+   <string>3bfa5389-d32a-45c5-8235-d3eea772f383</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/4085</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Mackey, B, Lindenmayer, D, Gill, M et al 2002, Wildlife, fire and future ...</string>
+  </void>
+  <void property="title">
+   <string>Wildlife, fire and future climate: A Forest Ecosystem Analysis</string>
+  </void>
+ </object>
+</java>

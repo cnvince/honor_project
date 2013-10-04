@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences
+Australian Literature (Excl. Aboriginal And Torres Strait Islander Literature...</string>
+  </void>
+  <void property="docID">
+   <string>4e19bd7e-f6eb-4460-a2c0-8845e03325af</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/lamond-jv</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences
+Australian Literature (Excl. Aboriginal And Torres Strait Islander Literature...</string>
+  </void>
+  <void property="title">
+   <string>Dr Julieanne Lamond</string>
+  </void>
+ </object>
+</java>

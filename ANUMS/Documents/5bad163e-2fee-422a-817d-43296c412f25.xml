@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Assessing collaborative, community-based museum practice and changing culture...</string>
+  </void>
+  <void property="docID">
+   <string>5bad163e-2fee-422a-817d-43296c412f25</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/1051</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Assessing collaborative, community-based museum practice and changing culture...</string>
+  </void>
+  <void property="title">
+   <string>Assessing collaborative, community-based museum practice and changing cultures of citizenship at the National Museum of the American Indian</string>
+  </void>
+ </object>
+</java>

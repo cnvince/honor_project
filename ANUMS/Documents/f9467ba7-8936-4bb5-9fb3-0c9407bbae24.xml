@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Courses: (1-9 of 12 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Courses: (1-9 of 12 matches)</string>
+  </void>
+  <void property="docID">
+   <string>f9467ba7-8936-4bb5-9fb3-0c9407bbae24</string>
+  </void>
+  <void property="link">
+   <string>http://studyat.anu.edu.au/courses/POLS2070;all.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>POLS2070 - POLS2070 Politics in Central Asia</string>
+  </void>
+ </object>
+</java>

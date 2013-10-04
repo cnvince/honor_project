@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Werk,Â J.Â K.; Putman,Â M.Â E.; Meurer,Â G.Â R.; Ryan-Weber,Â E.Â V.; Kehrig,...</string>
+  </void>
+  <void property="docID">
+   <string>327ca2b8-ffe2-4c03-8114-920d17f00d9c</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/51624</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Werk,Â J.Â K.; Putman,Â M.Â E.; Meurer,Â G.Â R.; Ryan-Weber,Â E.Â V.; Kehrig,...</string>
+  </void>
+  <void property="title">
+   <string>Outlying H II Regions in H I-Selected Galaxies</string>
+  </void>
+ </object>
+</java>

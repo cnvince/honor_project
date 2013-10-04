@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>ANU College of Engineering &amp; Computer Science</string>
+  </void>
+  <void property="docID">
+   <string>170b9b9b-e9ca-4e3c-9710-08316acef14e</string>
+  </void>
+  <void property="link">
+   <string>http://cecs.anu.edu.au/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Engineering &amp; Computer Science</string>
+  </void>
+  <void property="title">
+   <string>Home  - CECS - ANU</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Engaging Objects: Indigenous communities, museum collections and the represen...</string>
+  </void>
+  <void property="docID">
+   <string>bee0f05b-d407-4f05-a391-21d89e4826b6</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/2124</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Engaging Objects: Indigenous communities, museum collections and the represen...</string>
+  </void>
+  <void property="title">
+   <string>Engaging Objects: Indigenous communities, museum collections and the representation of Indigenous histories</string>
+  </void>
+ </object>
+</java>

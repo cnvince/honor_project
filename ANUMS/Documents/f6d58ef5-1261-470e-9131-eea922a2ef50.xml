@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>In recent years Australia has taken a leading role in national, regional and international non-proliferation and disarmament, in particular through the Non-Proliferation Treaty review conference in May 2010 and the International Commission on Nuclear Non-Proliferation and Disarmament (ICNND). In this seminar Dr Ramesh Thakur and Dr Rob Floyd address three key themes in the relationship between national security and non-proliferation: the state of international non-proliferation regimes, Australia&apos;s non-proliferation commitments, and consequent regional security issues.Dr Thakur is Professor of International Relations in the Asia--Pacific College of Diplomacy, ANU and Adjunct Professor in the Institute of Ethics, Governance and Law at Griffith University. Educated in India and Canada, he was a Professor of International Relations at the University of Otago in New Zealand and Professor and Head of the Peace Research Centre at the Australian National University. He was a Professor of Political Science at the University of Waterloo (2007--11), Distinguished Fellow of the Centre for International Governance Innovation (2007--10) and Foundation Director of the Balsillie School of International affairs in Waterloo, Ontario.Dr Rob Floyd is the Director General, Australian Safeguards and Non-Proliferation Office (ANSO) in Australia&apos;s Department of Foreign Affairs and Trade. He is a senior career officer in the Commonwealth Government and was most recently Assistant Secretary of Emergency Management and Proliferation Issues, Homeland and Border Security Division within the Department of Prime Minister and Cabinet (PM&amp;C). Dr Floyd has also been the Leader of Secure Australia Program, of CSIRO, and was a research scientist for nearly 20 years. He holds a PhD from Griffith University and a Bachelor of Science (Honors) from the University of New England. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>f6d58ef5-1261-470e-9131-eea922a2ef50</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=8gnCkYDBQbE</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>In recent years Australia has taken a leading role in national, regional and international non-proliferation and disarmament, in particular through the Non-Proliferation Treaty review conference in May 2010 and the International Commission on Nuclear Non-Proliferation and Disarmament (ICNND). In this seminar Dr Ramesh Thakur and Dr Rob Floyd address three key themes in the relationship between national security and non-proliferation: the state of international non-proliferation regimes, Australia&apos;s non-proliferation commitments, and consequent regional security issues.Dr Thakur is Professor of International Relations in the Asia--Pacific College of Diplomacy, ANU and Adjunct Professor in the Institute of Ethics, Governance and Law at Griffith University. Educated in India and Canada, he was a Professor of International Relations at the University of Otago in New Zealand and Professor and Head of the Peace Research Centre at the Australian National University. He was a Professor of Political Science at the University of Waterloo (2007--11), Distinguished Fellow of the Centre for International Governance Innovation (2007--10) and Foundation Director of the Balsillie School of International affairs in Waterloo, Ontario.Dr Rob Floyd is the Director General, Australian Safeguards and Non-Proliferation Office (ANSO) in Australia&apos;s Department of Foreign Affairs and Trade. He is a senior career officer in the Commonwealth Government and was most recently Assistant Secretary of Emergency Management and Proliferation Issues, Homeland and Border Security Division within the Department of Prime Minister and Cabinet (PM&amp;C). Dr Floyd has also been the Leader of Secure Australia Program, of CSIRO, and was a research scientist for nearly 20 years. He holds a PhD from Griffith University and a Bachelor of Science (Honors) from the University of New England.</string>
+  </void>
+  <void property="title">
+   <string>Non-proliferation, disarmament and Australian security</string>
+  </void>
+ </object>
+</java>

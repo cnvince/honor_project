@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Tao Wang&apos;s Homepage at NICTA and ANU</string>
+  </void>
+  <void property="docID">
+   <string>d94531ff-eac8-4af8-9ca4-226442833b0b</string>
+  </void>
+  <void property="link">
+   <string>http://users.cecs.anu.edu.au/~taowang/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Tao Wang&apos;s Homepage at NICTA and ANU</string>
+  </void>
+  <void property="title">
+   <string>Tao Wang - NICTA &amp; ANU</string>
+  </void>
+ </object>
+</java>

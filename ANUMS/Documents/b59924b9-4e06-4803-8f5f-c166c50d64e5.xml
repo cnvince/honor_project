@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Kamal, A H Ahmed</string>
+  </void>
+  <void property="date">
+   <string>1989-01</string>
+  </void>
+  <void property="displaySummary">
+   <string>1989-01 Kamal, A H Ahmed</string>
+  </void>
+  <void property="docID">
+   <string>b59924b9-4e06-4803-8f5f-c166c50d64e5</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/9259</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>The decline of the muslim l,eague and the ascendancy of the bureaucracy in East Pakistan 1947-54</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>b7f1718d-fbdf-4761-acdf-cb0bbc6ce254</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/307372706725240833</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>ANU VC Ian Young discusses the campaign to raise awareness of the critical role universities play in Australia http://bit.ly/ZFNJiQ </string>
+  </void>
+ </object>
+</java>

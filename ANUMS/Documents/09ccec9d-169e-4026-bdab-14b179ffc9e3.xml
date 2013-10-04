@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Courses: (1-6 of 8 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Courses: (1-6 of 8 matches)</string>
+  </void>
+  <void property="docID">
+   <string>09ccec9d-169e-4026-bdab-14b179ffc9e3</string>
+  </void>
+  <void property="link">
+   <string>https://studyat.anu.edu.au/2013/courses/IDEC8021.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>IDEC8021 - IDEC8021 The Chinese Economy</string>
+  </void>
+ </object>
+</java>

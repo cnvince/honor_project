@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>ANU Nobel Laureate Professor Brian Schmidt gives a Vice-Chancellor&apos;s Public Lecture. The talk is titled &apos;The accelerating Universe&apos;.  In 1998 two teams traced back the expansion of the universe over billions of years and discovered th</string>
+  </void>
+  <void property="docID">
+   <string>f26831c3-6057-4df4-85d9-aa0038bc6304</string>
+  </void>
+  <void property="link">
+   <string>http://www.anu.edu.au/vision/videos/6011/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>ANU Nobel Laureate Professor Brian Schmidt gives a Vice-Chancellor&apos;s Public Lecture. The talk is titled &apos;The accelerating Universe&apos;.  In 1998 two teams traced back the expansion of the universe over billions of years and discovered th</string>
+  </void>
+  <void property="title">
+   <string>Brian Schmidt: The accelerating Universe - Vice-Chancellor&apos;s...</string>
+  </void>
+ </object>
+</java>

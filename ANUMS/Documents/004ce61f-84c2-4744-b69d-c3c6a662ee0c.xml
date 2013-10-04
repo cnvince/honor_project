@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Pitsula, James M. (James Michael), 1950- 
+Vancouver : UBC Press, 2013</string>
+  </void>
+  <void property="docID">
+   <string>004ce61f-84c2-4744-b69d-c3c6a662ee0c</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YCanada&amp;SORT=D/YCanada&amp;SORT=D&amp;SUBKEY=Canada/1%2C15385%2C15385%2CB/frameset&amp;FF=YCanada&amp;SORT=D&amp;3%2C3%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Pitsula, James M. (James Michael), 1950- 
+Vancouver : UBC Press, 2013</string>
+  </void>
+  <void property="title">
+   <string>Keeping Canada British The Ku Klux Klan in 1920s Saskatchewan</string>
+  </void>
+ </object>
+</java>

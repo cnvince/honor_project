@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Lockie, S &amp; Carpenter, D 2010, &apos;Agriculture, biodiversity and markets&apos;, in St...</string>
+  </void>
+  <void property="docID">
+   <string>4e4912d4-8a98-48b3-8368-84f36de69d7d</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/53754</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Lockie, S &amp; Carpenter, D 2010, &apos;Agriculture, biodiversity and markets&apos;, in St...</string>
+  </void>
+  <void property="title">
+   <string>Agriculture, biodiversity and markets</string>
+  </void>
+ </object>
+</java>

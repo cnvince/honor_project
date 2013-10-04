@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Maidment, E 2006, &apos;PAMBU, The Island and the Coombs&apos;, in Brij Lal, Allison Le...</string>
+  </void>
+  <void property="docID">
+   <string>96c0f523-1d0c-4da9-b7bb-915f999f95f7</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/16966</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Maidment, E 2006, &apos;PAMBU, The Island and the Coombs&apos;, in Brij Lal, Allison Le...</string>
+  </void>
+  <void property="title">
+   <string>PAMBU, The Island and the Coombs</string>
+  </void>
+ </object>
+</java>

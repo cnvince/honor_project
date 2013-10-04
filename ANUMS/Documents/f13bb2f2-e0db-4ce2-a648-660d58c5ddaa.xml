@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>f13bb2f2-e0db-4ce2-a648-660d58c5ddaa</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/337025260421513220</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>Big data calls for big thinking in higher education says Marnie Hughes-Warrington http://bit.ly/13Gxty8  cc @australian</string>
+  </void>
+ </object>
+</java>

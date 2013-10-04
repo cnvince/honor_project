@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>McConvell, P 2010, &apos;Contact and Indigenous Languages in Australia&apos;, in Raymon...</string>
+  </void>
+  <void property="docID">
+   <string>8646d77c-6563-425a-8033-08fc1e53ba43</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/51193</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>McConvell, P 2010, &apos;Contact and Indigenous Languages in Australia&apos;, in Raymon...</string>
+  </void>
+  <void property="title">
+   <string>Contact and Indigenous Languages in Australia</string>
+  </void>
+ </object>
+</java>

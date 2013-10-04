@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Buchhorn, Markus</string>
+  </void>
+  <void property="date">
+   <string>-</string>
+  </void>
+  <void property="displaySummary">
+   <string>- Buchhorn, Markus</string>
+  </void>
+  <void property="docID">
+   <string>8141e51c-03e1-4498-bf40-344a805e892e</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/47031</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Case Study - Issues Raised by the Research Communities in APAC, ANU and GrangeNet</string>
+  </void>
+ </object>
+</java>

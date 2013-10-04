@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>871ac1c0-29d3-4b9b-8c3b-c52051963619</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/309554593921130496</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>Recent developments in the Middle East are presenting challenges and new opportunities http://bit.ly/XBgbDh </string>
+  </void>
+ </object>
+</java>

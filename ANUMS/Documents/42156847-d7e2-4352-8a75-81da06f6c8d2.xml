@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Asia and the Pacific</string>
+  </void>
+  <void property="docID">
+   <string>42156847-d7e2-4352-8a75-81da06f6c8d2</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/strange-m</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Asia and the Pacific</string>
+  </void>
+  <void property="title">
+   <string>Dr Mark Strange</string>
+  </void>
+ </object>
+</java>

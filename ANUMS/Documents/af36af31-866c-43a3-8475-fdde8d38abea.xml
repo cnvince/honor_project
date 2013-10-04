@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string> 
+New York : Kalmus</string>
+  </void>
+  <void property="docID">
+   <string>af36af31-866c-43a3-8475-fdde8d38abea</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YJohn+Eccles&amp;SORT=D/YJohn+Eccles&amp;SORT=D&amp;SUBKEY=John+Eccles/1%2C55%2C55%2CB/frameset&amp;FF=YJohn+Eccles&amp;SORT=D&amp;8%2C8%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string> 
+New York : Kalmus</string>
+  </void>
+  <void property="title">
+   <string>Henry Purcell and his contemporaries</string>
+  </void>
+ </object>
+</java>

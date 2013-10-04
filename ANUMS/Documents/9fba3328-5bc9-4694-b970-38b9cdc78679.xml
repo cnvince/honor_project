@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Guo, Sujian, 1957- 
+New York : Routledge, 2012.</string>
+  </void>
+  <void property="docID">
+   <string>9fba3328-5bc9-4694-b970-38b9cdc78679</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Ychinese+politics&amp;SORT=D/Ychinese+politics&amp;SORT=D&amp;SUBKEY=chinese+politics/1%2C1600%2C1600%2CB/frameset&amp;FF=Ychinese+politics&amp;SORT=D&amp;2%2C2%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Guo, Sujian, 1957- 
+New York : Routledge, 2012.</string>
+  </void>
+  <void property="title">
+   <string>Chinese politics and government power, ideology and organization</string>
+  </void>
+ </object>
+</java>

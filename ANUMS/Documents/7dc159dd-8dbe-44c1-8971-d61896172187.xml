@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Research School of Computer Science</string>
+  </void>
+  <void property="docID">
+   <string>7dc159dd-8dbe-44c1-8971-d61896172187</string>
+  </void>
+  <void property="link">
+   <string>http://cs.anu.edu.au/user/3946</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Research School of Computer Science</string>
+  </void>
+  <void property="title">
+   <string>Alistair RENDELL  - CS - CECS - ANU</string>
+  </void>
+ </object>
+</java>

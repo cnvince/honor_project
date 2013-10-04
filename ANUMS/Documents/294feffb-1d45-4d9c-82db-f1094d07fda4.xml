@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>ANU Vice-Chancellor Professor Ian Young AO welcomed the announcement. Contribution to public policy through research and training is core to the mission of the national university.</string>
+  </void>
+  <void property="docID">
+   <string>294feffb-1d45-4d9c-82db-f1094d07fda4</string>
+  </void>
+  <void property="link">
+   <string>https://taxpolicy.crawford.anu.edu.au/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>ANU Vice-Chancellor Professor Ian Young AO welcomed the announcement. Contribution to public policy through research and training is core to the mission of the national university.</string>
+  </void>
+  <void property="title">
+   <string>Tax and Transfer Policy Institute - ANU</string>
+  </void>
+ </object>
+</java>

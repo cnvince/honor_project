@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Medicine, Biology and Environment
+Sustainable Agricultural Development, Decision Support And Group Support Syst...</string>
+  </void>
+  <void property="docID">
+   <string>3123c840-7a19-4db5-b29e-0498b2b27a06</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/jakeman-aj</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Medicine, Biology and Environment
+Sustainable Agricultural Development, Decision Support And Group Support Syst...</string>
+  </void>
+  <void property="title">
+   <string>Professor Anthony Jakeman</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>19362f93-806e-4e76-b797-abb61258dc62</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/26982646981</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>Government may breach international law if wetlands not protected in the Murray-Darling Basin Plan: Study http://bit.ly/9uvpDO</string>
+  </void>
+ </object>
+</java>

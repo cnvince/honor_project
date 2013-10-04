@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Evans, N 2005, &apos;Some distinctive characteristics of the vocabulary of Austral...</string>
+  </void>
+  <void property="docID">
+   <string>43be09b7-8df3-4346-87d2-2e36a95c859e</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/24066</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Evans, N 2005, &apos;Some distinctive characteristics of the vocabulary of Austral...</string>
+  </void>
+  <void property="title">
+   <string>Some distinctive characteristics of the vocabulary of Australian languages</string>
+  </void>
+ </object>
+</java>

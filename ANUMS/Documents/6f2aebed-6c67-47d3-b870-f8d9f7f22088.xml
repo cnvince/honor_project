@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>[menu], [term-raw], [title]</string>
+  </void>
+  <void property="docID">
+   <string>6f2aebed-6c67-47d3-b870-f8d9f7f22088</string>
+  </void>
+  <void property="link">
+   <string>http://caepr.anu.edu.au/biblio/author/1091</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>[menu], [term-raw], [title]</string>
+  </void>
+  <void property="title">
+   <string>Centre for Aboriginal Economic Policy Research  - CAEPR - ANU</string>
+  </void>
+ </object>
+</java>

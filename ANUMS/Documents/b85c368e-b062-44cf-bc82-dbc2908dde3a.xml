@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Berger, E, Chary, R, Cowie, L et al 2007, &apos;Hubble Space Telescope and Spitzer...</string>
+  </void>
+  <void property="docID">
+   <string>b85c368e-b062-44cf-bc82-dbc2908dde3a</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/20037</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Berger, E, Chary, R, Cowie, L et al 2007, &apos;Hubble Space Telescope and Spitzer...</string>
+  </void>
+  <void property="title">
+   <string>Hubble Space Telescope and Spitzer Observations of the Afterglow and Host Galaxy of GRB 050904 at z = 6.295</string>
+  </void>
+ </object>
+</java>

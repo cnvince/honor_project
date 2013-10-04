@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences
+Language In Culture And Society (Sociolinguistics), Social And Cultural Anthr...</string>
+  </void>
+  <void property="docID">
+   <string>c1a0c9eb-5d5c-4593-906f-e970d6455a39</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/mcconvell-p</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences
+Language In Culture And Society (Sociolinguistics), Social And Cultural Anthr...</string>
+  </void>
+  <void property="title">
+   <string>Dr Patrick McConvell</string>
+  </void>
+ </object>
+</java>

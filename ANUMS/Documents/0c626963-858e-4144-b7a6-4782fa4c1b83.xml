@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Biodiversity science in the 21st century is undergoing a revolution. Innovative capabilities in evolutionary genomics and advances in bioinformatics and ecological modelling are increasing exponentially. ... The Centre for Biodiversity Analysis ( CBA) is</string>
+  </void>
+  <void property="docID">
+   <string>0c626963-858e-4144-b7a6-4782fa4c1b83</string>
+  </void>
+  <void property="link">
+   <string>http://cba.anu.edu.au/home</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Biodiversity science in the 21st century is undergoing a revolution. Innovative capabilities in evolutionary genomics and advances in bioinformatics and ecological modelling are increasing exponentially. ... The Centre for Biodiversity Analysis ( CBA) is</string>
+  </void>
+  <void property="title">
+   <string>CBA - ANU</string>
+  </void>
+ </object>
+</java>

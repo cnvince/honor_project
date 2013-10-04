@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Geoscience Australia and ABARE, 2010.  Australian Energy Resource Assessment,...</string>
+  </void>
+  <void property="docID">
+   <string>31dc136b-1154-4605-820e-8a7af7196464</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/60260</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Geoscience Australia and ABARE, 2010.  Australian Energy Resource Assessment,...</string>
+  </void>
+  <void property="title">
+   <string>Australian Energy Resource Assessment</string>
+  </void>
+ </object>
+</java>

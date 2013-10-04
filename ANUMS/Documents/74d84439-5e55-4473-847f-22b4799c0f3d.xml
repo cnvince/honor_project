@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Council&apos;s. Linkage Projects. funding scheme ( project number LP0990000), aims at identifying new opportunities for a closer, more constructive trade and business relationship with the European Union ( EU) into the future. ... While the EU is the</string>
+  </void>
+  <void property="docID">
+   <string>74d84439-5e55-4473-847f-22b4799c0f3d</string>
+  </void>
+  <void property="link">
+   <string>http://eutrade.anu.edu.au/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Council&apos;s. Linkage Projects. funding scheme ( project number LP0990000), aims at identifying new opportunities for a closer, more constructive trade and business relationship with the European Union ( EU) into the future. ... While the EU is the</string>
+  </void>
+  <void property="title">
+   <string>Home - Eutrade - ANU</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Wilson, Jeffrey D.</string>
+  </void>
+  <void property="date">
+   <string>-</string>
+  </void>
+  <void property="displaySummary">
+   <string>- Wilson, Jeffrey D.</string>
+  </void>
+  <void property="docID">
+   <string>6ad689e3-cadd-4ffa-a6ff-7e1854a1cb9c</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/8042</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Resource nationalism or resource liberalism? Explaining the Australian approach to Chinese investment in its minerals sector</string>
+  </void>
+ </object>
+</java>

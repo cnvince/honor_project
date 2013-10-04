@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Lindenmayer, D &amp; Gibbons, P, eds, 2012, Biodiversity Monitoring in Austra...</string>
+  </void>
+  <void property="docID">
+   <string>76e678fd-b2a5-45d8-aec8-8891b818af13</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/76245</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Lindenmayer, D &amp; Gibbons, P, eds, 2012, Biodiversity Monitoring in Austra...</string>
+  </void>
+  <void property="title">
+   <string>Biodiversity Monitoring in Australia</string>
+  </void>
+ </object>
+</java>

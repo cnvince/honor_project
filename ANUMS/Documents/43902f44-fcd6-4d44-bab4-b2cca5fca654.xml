@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Ball, Desmond 
+Canberra : Strategic and Defence Studies Centre, 2006</string>
+  </void>
+  <void property="docID">
+   <string>43902f44-fcd6-4d44-bab4-b2cca5fca654</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YDesmond+Ball&amp;SORT=D/YDesmond+Ball&amp;SORT=D&amp;SUBKEY=Desmond+Ball/1%2C118%2C118%2CB/frameset&amp;FF=YDesmond+Ball&amp;SORT=D&amp;6%2C6%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Ball, Desmond 
+Canberra : Strategic and Defence Studies Centre, 2006</string>
+  </void>
+  <void property="title">
+   <string>The probabilities of On the Beach : assessing &apos;Armageddon Scenarios&apos; in the 21st century</string>
+  </void>
+ </object>
+</java>

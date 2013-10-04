@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.MapResult">
+  <void property="acronym">
+   <string>ACI</string>
+  </void>
+  <void property="displaySummary">
+   <string>110   ANU China Institute  ACI</string>
+  </void>
+  <void property="docID">
+   <string>b9d8779c-7d98-48d1-974a-9f6fd696eb4a</string>
+  </void>
+  <void property="link">
+   <string>http://campusmap.anu.edu.au/</string>
+  </void>
+  <void property="number">
+   <string>110  </string>
+  </void>
+  <void property="source">
+   <int>5</int>
+  </void>
+  <void property="summary">
+   <string>ANU China Institute </string>
+  </void>
+  <void property="title">
+   <string>Baldessin Precinct Building  </string>
+  </void>
+ </object>
+</java>

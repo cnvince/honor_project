@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Terada, Takashi</string>
+  </void>
+  <void property="date">
+   <string>2005</string>
+  </void>
+  <void property="displaySummary">
+   <string>2005 Terada, Takashi</string>
+  </void>
+  <void property="docID">
+   <string>20f73bc3-342c-4b10-aaae-6e5201fa7519</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/43051</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>The Japan–Australia partnership in the era of the East Asian community: can they advance together?</string>
+  </void>
+ </object>
+</java>

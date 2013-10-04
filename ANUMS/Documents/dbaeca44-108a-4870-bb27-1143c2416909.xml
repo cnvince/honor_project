@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>dbaeca44-108a-4870-bb27-1143c2416909</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/294215462928130050</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>Looking for an expert to comment on David Cameronâ€™s pledge to hold a referendum on Britainâ€™s future in the EU? http://bit.ly/WVAaIA </string>
+  </void>
+ </object>
+</java>

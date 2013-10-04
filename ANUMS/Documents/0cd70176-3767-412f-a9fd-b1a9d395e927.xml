@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Cai, Jie</string>
+  </void>
+  <void property="date">
+   <string>2011-08</string>
+  </void>
+  <void property="displaySummary">
+   <string>2011-08 Cai, Jie</string>
+  </void>
+  <void property="docID">
+   <string>0cd70176-3767-412f-a9fd-b1a9d395e927</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/8865</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Region-based techniques for modeling and enhancing cluster OpenMP performance</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Holland, Martin</string>
+  </void>
+  <void property="date">
+   <string>2002</string>
+  </void>
+  <void property="displaySummary">
+   <string>2002 Holland, Martin</string>
+  </void>
+  <void property="docID">
+   <string>7728e5b9-593a-47d8-b560-e8d7725f6f17</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/40109</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>When is foreign policy not foreign policy?  Cotonou, CFSP and external relations with the developing world</string>
+  </void>
+ </object>
+</java>

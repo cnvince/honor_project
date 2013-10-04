@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ContactResult">
+  <void property="displaySummary">
+   <string>    Postdoctoral Fellow, Department of Genome Biology, John Curtin School of Medical Research</string>
+  </void>
+  <void property="docID">
+   <string>c538a386-a0b1-402d-93d5-97b119bf3ea6</string>
+  </void>
+  <void property="link">
+   <string>http://www.anu.edu.au/dirs/c5a_search.php?submit=Search&amp;querytext=2</string>
+  </void>
+  <void property="summary">
+   <string>Postdoctoral Fellow, Department of Genome Biology, John Curtin School of Medical Research</string>
+  </void>
+  <void property="title">
+   <string>Dr Stuart Archer</string>
+  </void>
+ </object>
+</java>

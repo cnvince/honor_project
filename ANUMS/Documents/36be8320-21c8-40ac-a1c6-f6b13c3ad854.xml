@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>McNair, Benjamin; Hensher, David; Bennett, Jeff</string>
+  </void>
+  <void property="date">
+   <string>-</string>
+  </void>
+  <void property="displaySummary">
+   <string>- McNair, Benjamin; Hensher, David; Bennett, Jeff</string>
+  </void>
+  <void property="docID">
+   <string>36be8320-21c8-40ac-a1c6-f6b13c3ad854</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/10440/1114</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Modelling heterogeneity in response behaviour towards a sequence of discrete choice questions: a latent class approach</string>
+  </void>
+ </object>
+</java>

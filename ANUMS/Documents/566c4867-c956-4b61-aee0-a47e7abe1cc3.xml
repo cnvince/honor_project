@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>RSPE Event - Brian Schmidt - Type Ia Supernovae, The Accelerating Cosmos, and Dark Energy</string>
+  </void>
+  <void property="docID">
+   <string>566c4867-c956-4b61-aee0-a47e7abe1cc3</string>
+  </void>
+  <void property="link">
+   <string>http://physics.anu.edu.au/events.php?EventID=82</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>RSPE Event - Brian Schmidt - Type Ia Supernovae, The Accelerating Cosmos, and Dark Energy</string>
+  </void>
+  <void property="title">
+   <string>Event - Brian Schmidt - Type Ia Supernovae, The Accelerating Cosmos,...</string>
+  </void>
+ </object>
+</java>

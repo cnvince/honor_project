@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Nandapalan, N, Brent, R, Murray, L et al 2011, &apos;High-Performance Pseudo-Rando...</string>
+  </void>
+  <void property="docID">
+   <string>bae2a151-ec88-4819-8fe9-3255e430300d</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/68730</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Nandapalan, N, Brent, R, Murray, L et al 2011, &apos;High-Performance Pseudo-Rando...</string>
+  </void>
+  <void property="title">
+   <string>High-Performance Pseudo-Random Number Generation on Graphics Processing Units</string>
+  </void>
+ </object>
+</java>

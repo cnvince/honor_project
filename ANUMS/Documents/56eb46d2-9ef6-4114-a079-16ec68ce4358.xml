@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Broadhurst, K., Duffin, M., Taylor, E. and Burrell, A. (2009) Gangs and Schoo...</string>
+  </void>
+  <void property="docID">
+   <string>56eb46d2-9ef6-4114-a079-16ec68ce4358</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/68840</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Broadhurst, K., Duffin, M., Taylor, E. and Burrell, A. (2009) Gangs and Schoo...</string>
+  </void>
+  <void property="title">
+   <string>Gangs and Schools</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Heath, L.C. (2008) Impacts of Climate Change on Australiaï¿½??s World Heritag...</string>
+  </void>
+  <void property="docID">
+   <string>28870cff-a476-4a80-9bd8-ceb49834794a</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/55042</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Heath, L.C. (2008) Impacts of Climate Change on Australiaï¿½??s World Heritag...</string>
+  </void>
+  <void property="title">
+   <string>Impacts of Climate Change on Australia&apos;s World Heritage Properties and their values. Paper commissioned by the Garnaut Climate Change Review. On-line publication.</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>David Arnold, a highly respected international development veteran with years of experience across the Asia-Pacific and the Middle East, has been president of The Asia Foundation since 2011. Mr Arnold discusses the Asia Foundation&apos;s work on governance reform and other development issues in the 17 Asian countries in which the Foundation operates as well as the role of emerging Asian aid donors and the changing international aid architecture.The Asia Foundation is a nonprofit, non-governmental organization committed to the development of a peaceful, prosperous, just, and open Asia-Pacific region. The Foundation supports Asian initiatives to improve governance and law, economic development, women&apos;s empowerment, the environment, and regional cooperation. Drawing on nearly 60 years of experience in Asia, the Foundation collaborates with private and public partners to support leadership and institutional development, exchanges, and policy research. With 17 offices throughout Asia, an office in Washington, DC, and its headquarters in San Francisco, the Foundation addresses these issues on both a country and regional level. In 2011, the Foundation provided more than $97 million in program support and distributed nearly one million books and journals valued at over $41 million. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>43fc220b-cfb8-404a-a64d-72f11ffa1980</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=8h7Z2o0uy8s</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>David Arnold, a highly respected international development veteran with years of experience across the Asia-Pacific and the Middle East, has been president of The Asia Foundation since 2011. Mr Arnold discusses the Asia Foundation&apos;s work on governance reform and other development issues in the 17 Asian countries in which the Foundation operates as well as the role of emerging Asian aid donors and the changing international aid architecture.The Asia Foundation is a nonprofit, non-governmental organization committed to the development of a peaceful, prosperous, just, and open Asia-Pacific region. The Foundation supports Asian initiatives to improve governance and law, economic development, women&apos;s empowerment, the environment, and regional cooperation. Drawing on nearly 60 years of experience in Asia, the Foundation collaborates with private and public partners to support leadership and institutional development, exchanges, and policy research. With 17 offices throughout Asia, an office in Washington, DC, and its headquarters in San Francisco, the Foundation addresses these issues on both a country and regional level. In 2011, the Foundation provided more than $97 million in program support and distributed nearly one million books and journals valued at over $41 million.</string>
+  </void>
+  <void property="title">
+   <string>Asian development in an Asian Century</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>An ACT and Region Annual Australian Heritage Partnership Symposium hosted by Australian ICOMOS, Canberra Archaeological Society, Donald Horne Institute for Cultural Heritage University of Canberra, IPPHA, and the National Trust of ... Garden.</string>
+  </void>
+  <void property="docID">
+   <string>e157558e-1df8-46ff-9d85-d6b43931ea9a</string>
+  </void>
+  <void property="link">
+   <string>http://rsha.anu.edu.au/events/symposium</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>An ACT and Region Annual Australian Heritage Partnership Symposium hosted by Australian ICOMOS, Canberra Archaeological Society, Donald Horne Institute for Cultural Heritage University of Canberra, IPPHA, and the National Trust of ... Garden.</string>
+  </void>
+  <void property="title">
+   <string>Symposium - Research School of Humanities and the Arts - ANU</string>
+  </void>
+ </object>
+</java>

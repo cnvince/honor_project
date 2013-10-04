@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>ANU Union - Live Uni Life</string>
+  </void>
+  <void property="docID">
+   <string>5592a4b1-71ce-47f7-82d4-676d93f4ef13</string>
+  </void>
+  <void property="link">
+   <string>http://www.anuunion.com.au/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>ANU Union - Live Uni Life</string>
+  </void>
+  <void property="title">
+   <string>ANU Union</string>
+  </void>
+ </object>
+</java>

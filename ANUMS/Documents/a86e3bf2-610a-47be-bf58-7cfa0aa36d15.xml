@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Kandun, I, Samaan, G, Harun, S et al 2009, &apos;Chicken Faeces Garden Fertilizer:...</string>
+  </void>
+  <void property="docID">
+   <string>a86e3bf2-610a-47be-bf58-7cfa0aa36d15</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/20782</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Kandun, I, Samaan, G, Harun, S et al 2009, &apos;Chicken Faeces Garden Fertilizer:...</string>
+  </void>
+  <void property="title">
+   <string>Chicken Faeces Garden Fertilizer: Possible Source of Human Avian Influenza H5N1 Infection</string>
+  </void>
+ </object>
+</java>

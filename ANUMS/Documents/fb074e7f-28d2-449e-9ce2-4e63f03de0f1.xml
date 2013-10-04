@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Sturrock, C, Currie, M, Vally, H et al 2007, &apos;Community-based sexual health c...</string>
+  </void>
+  <void property="docID">
+   <string>fb074e7f-28d2-449e-9ce2-4e63f03de0f1</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/45953</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Sturrock, C, Currie, M, Vally, H et al 2007, &apos;Community-based sexual health c...</string>
+  </void>
+  <void property="title">
+   <string>Community-based sexual health care works: a review of the ACT outreach program</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Courses: (1-9 of 12 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Courses: (1-9 of 12 matches)</string>
+  </void>
+  <void property="docID">
+   <string>12dc12e0-2cc4-42f1-9420-855f01b83564</string>
+  </void>
+  <void property="link">
+   <string>https://studyat.anu.edu.au/2013/courses/STST8027.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>STST8027 - STST8027 Insurgency &amp; Counterinsurgency in an Age of Terror</string>
+  </void>
+ </object>
+</java>

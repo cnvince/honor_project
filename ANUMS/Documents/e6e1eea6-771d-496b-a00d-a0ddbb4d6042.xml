@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Economics and Environment Network of the Australian National University</string>
+  </void>
+  <void property="docID">
+   <string>e6e1eea6-771d-496b-a00d-a0ddbb4d6042</string>
+  </void>
+  <void property="link">
+   <string>http://een.anu.edu.au/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Economics and Environment Network of the Australian National University</string>
+  </void>
+  <void property="title">
+   <string>EEN Homepage, ANU</string>
+  </void>
+ </object>
+</java>

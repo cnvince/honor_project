@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Weaving Brian Schmidt s Universe. Valerie Kirk has contained the universe by weaving strands of wool. ... Weaving Brian Schmidt s Universe.</string>
+  </void>
+  <void property="docID">
+   <string>87e0c9c5-a58f-4564-a7af-4b0efcce2988</string>
+  </void>
+  <void property="link">
+   <string>http://rsaa.anu.edu.au/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Weaving Brian Schmidt s Universe. Valerie Kirk has contained the universe by weaving strands of wool. ... Weaving Brian Schmidt s Universe.</string>
+  </void>
+  <void property="title">
+   <string>Home - RSAA - ANU</string>
+  </void>
+ </object>
+</java>

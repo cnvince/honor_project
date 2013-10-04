@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>LibGuides. Data Management. NHMRC Endorsement of Wellcome Policy.</string>
+  </void>
+  <void property="docID">
+   <string>0a52ddd2-1086-45e5-83f1-f43cebf1b9bc</string>
+  </void>
+  <void property="link">
+   <string>http://libguides.anu.edu.au/content.php?pid=372387&amp;sid=3050527</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>LibGuides. Data Management. NHMRC Endorsement of Wellcome Policy.</string>
+  </void>
+  <void property="title">
+   <string>NHMRC Endorsement of Wellcome Policy - Data Management - LibGuides at...</string>
+  </void>
+ </object>
+</java>

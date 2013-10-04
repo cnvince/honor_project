@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>Discussions on the relationship between China and the Middle East in light of recent eventsThe Australia-China Youth Association and the ANU Middle East Learning Community present:China and the Middle EastDiscussions on the relationship between China and the Middle East in light of recent events, featuring:Professor Peter Drysdale (Head of East Asian Bureau of Economic Research, ANU)Professor Amin Saikal (Director of the Centre for Arab &amp; Islamic Studies, ANU)Dr Anthony Burke (Associate Professor, Politics Program, UNSW@ADFA)Speaker/Host: ANU Middle Learning Community / Australia China Youth Assocation (ACYA@ANU)Venue: Dining Hall, Bruce Hall, Daley RoadDate: Wednesday, 30 March 2011Time: 7:30 PM - 9:00 PM viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>6c6ba0db-ea9a-4377-b8a8-4b65bd0c28b2</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=eWlvweR5GI0</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>Discussions on the relationship between China and the Middle East in light of recent eventsThe Australia-China Youth Association and the ANU Middle East Learning Community present:China and the Middle EastDiscussions on the relationship between China and the Middle East in light of recent events, featuring:Professor Peter Drysdale (Head of East Asian Bureau of Economic Research, ANU)Professor Amin Saikal (Director of the Centre for Arab &amp; Islamic Studies, ANU)Dr Anthony Burke (Associate Professor, Politics Program, UNSW@ADFA)Speaker/Host: ANU Middle Learning Community / Australia China Youth Assocation (ACYA@ANU)Venue: Dining Hall, Bruce Hall, Daley RoadDate: Wednesday, 30 March 2011Time: 7:30 PM - 9:00 PM</string>
+  </void>
+  <void property="title">
+   <string>China and the Middle East</string>
+  </void>
+ </object>
+</java>

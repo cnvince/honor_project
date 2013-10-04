@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Osmoregulation in Parasitic Protozoa (externally led by University of New Sou...</string>
+  </void>
+  <void property="docID">
+   <string>d836a9ae-7460-454f-8d19-3677daa7c100</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/2101</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Osmoregulation in Parasitic Protozoa (externally led by University of New Sou...</string>
+  </void>
+  <void property="title">
+   <string>Osmoregulation in Parasitic Protozoa (externally led by University of New South Wales)</string>
+  </void>
+ </object>
+</java>

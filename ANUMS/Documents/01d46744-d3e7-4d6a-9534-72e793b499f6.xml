@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Sargeson, S. (2009) &apos;Full Circle? Rural Land Reforms in Globalizing China&apos;, i...</string>
+  </void>
+  <void property="docID">
+   <string>01d46744-d3e7-4d6a-9534-72e793b499f6</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/54048</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Sargeson, S. (2009) &apos;Full Circle? Rural Land Reforms in Globalizing China&apos;, i...</string>
+  </void>
+  <void property="title">
+   <string>Full Circle? Rural Land Reforms in Globalizing China, in Andrew Kipnis, Luigi Tomba, and Jonathan Unger (eds.), Contemporary Chinese Society and Politics, Vol. 4, London and New York: Routledge, 2009, pp. 73-9.</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Abbasi-Shavazi, Mohammad Jalal; Jones, Gavin W</string>
+  </void>
+  <void property="date">
+   <string>2001</string>
+  </void>
+  <void property="displaySummary">
+   <string>2001 Abbasi-Shavazi, Mohammad Jalal; Jones, Gavin W</string>
+  </void>
+  <void property="docID">
+   <string>dd5a3431-405d-476f-8911-ef7bf1fd813c</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/41456</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Socio-economic and demographic setting of Muslim populations</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Zhang, C, Weber, K &amp; Jin, H 2009, &apos;Effect of atomic H exposure on thermally o...</string>
+  </void>
+  <void property="docID">
+   <string>a9e15e90-89c7-4d72-8a15-05886415a8e1</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/45515</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Zhang, C, Weber, K &amp; Jin, H 2009, &apos;Effect of atomic H exposure on thermally o...</string>
+  </void>
+  <void property="title">
+   <string>Effect of atomic H exposure on thermally oxidized Si/Si02 interfaces</string>
+  </void>
+ </object>
+</java>

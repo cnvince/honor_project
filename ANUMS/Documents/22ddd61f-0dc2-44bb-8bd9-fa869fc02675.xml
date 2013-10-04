@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>This paper examines regional development in northern Quebec, Canada, with a focus on the James Bay Cree, and makes some preliminary comparisons with the Australian Aboriginal people in the Northern Territory. The relationship between economic</string>
+  </void>
+  <void property="docID">
+   <string>22ddd61f-0dc2-44bb-8bd9-fa869fc02675</string>
+  </void>
+  <void property="link">
+   <string>http://caepr.anu.edu.au/Publications/DP/1992DP27.php</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>This paper examines regional development in northern Quebec, Canada, with a focus on the James Bay Cree, and makes some preliminary comparisons with the Australian Aboriginal people in the Northern Territory. The relationship between economic</string>
+  </void>
+  <void property="title">
+   <string>Political spoils or political largesse? Regional development in...</string>
+  </void>
+ </object>
+</java>

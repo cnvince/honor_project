@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Telescope list                           Current facilities                                    ANU 2.3m Telescope                         ANU Skymapper Telescope                         Uppsala Near Earth Object Survey Telescope</string>
+  </void>
+  <void property="docID">
+   <string>d0c8ca0e-2351-4fae-a1ee-05e2974fe18e</string>
+  </void>
+  <void property="link">
+   <string>http://rsaa.anu.edu.au/observatories/siding-spring-observatory/telescopes</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Telescope list                           Current facilities                                    ANU 2.3m Telescope                         ANU Skymapper Telescope                         Uppsala Near Earth Object Survey Telescope</string>
+  </void>
+  <void property="title">
+   <string>Telescopes - RSAA - ANU</string>
+  </void>
+ </object>
+</java>

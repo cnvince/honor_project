@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Vascular Biology (via University of NSW)</string>
+  </void>
+  <void property="docID">
+   <string>d758ecab-d976-4e0c-85d3-065cf28adc68</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/5</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Vascular Biology (via University of NSW)</string>
+  </void>
+  <void property="title">
+   <string>Vascular Biology (via University of NSW)</string>
+  </void>
+ </object>
+</java>

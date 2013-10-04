@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>from the Anglo-Australian Telescope ( at Siding Spring Observatory) and the Blanco Telescope ( at Cerro Tololo Observatory), and should be credited to NASA. ... The galaxy filament was first identified using the Blanco Telescope at Cerro Tololo</string>
+  </void>
+  <void property="docID">
+   <string>d966d075-517b-4200-93f3-5e7f74499987</string>
+  </void>
+  <void property="link">
+   <string>http://www.mso.anu.edu.au/pfrancis/string/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>from the Anglo-Australian Telescope ( at Siding Spring Observatory) and the Blanco Telescope ( at Cerro Tololo Observatory), and should be credited to NASA. ... The galaxy filament was first identified using the Blanco Telescope at Cerro Tololo</string>
+  </void>
+  <void property="title">
+   <string>Giant Galaxy String Defies Models of How Universe Evolved</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Roderick, M. L., F. Sun, and G. D. Farquhar (2011), Drought or climate change...</string>
+  </void>
+  <void property="docID">
+   <string>31f488b0-5430-401d-8bfb-054112737d00</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/62860</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Roderick, M. L., F. Sun, and G. D. Farquhar (2011), Drought or climate change...</string>
+  </void>
+  <void property="title">
+   <string>Drought or climate change? Distinguishing change from variability in observations and climate model projections of rainfall</string>
+  </void>
+ </object>
+</java>

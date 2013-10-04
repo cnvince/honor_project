@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Legge, David; Johansson, Sheila Ryan; HIll, Alan; Kunitz, Stephen J; Levy, Jerrold E; Findley, Sally; Laugharn, Peter; Gueye, Mohamadou; Orubuloye, I. O; Pieris, Indrani; Reddy, P. R; Caldwell, John C; Caldwell, Pat</string>
+  </void>
+  <void property="date">
+   <string>1995</string>
+  </void>
+  <void property="displaySummary">
+   <string>1995 Legge, David; Johansson, Sheila Ryan; HIll, Alan; Kunitz, Stephen J; Levy, Jerrold E; Findley, Sally; Laugharn, Peter; Gueye, Mohamadou; Orubuloye, I. O; Pieris, Indrani; Reddy, P. R; Caldwell, John C; Caldwell, Pat</string>
+  </void>
+  <void property="docID">
+   <string>dcd226e5-b591-4e23-801f-2b2c709cc0e9</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/41210</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Forum: Can health transition research improve health?</string>
+  </void>
+ </object>
+</java>

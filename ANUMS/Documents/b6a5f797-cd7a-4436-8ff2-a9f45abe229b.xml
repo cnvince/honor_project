@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Sounds of Empire: Popular Politics and Music in the Nineteenth Century</string>
+  </void>
+  <void property="docID">
+   <string>b6a5f797-cd7a-4436-8ff2-a9f45abe229b</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/1233</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Sounds of Empire: Popular Politics and Music in the Nineteenth Century</string>
+  </void>
+  <void property="title">
+   <string>Sounds of Empire: Popular Politics and Music in the Nineteenth Century</string>
+  </void>
+ </object>
+</java>

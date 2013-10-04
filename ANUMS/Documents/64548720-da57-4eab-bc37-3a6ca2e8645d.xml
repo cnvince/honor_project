@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Medicine, Biology and Environment
+Conservation And Biodiversity, Population, Ecological And Evolutionary Genetics</string>
+  </void>
+  <void property="docID">
+   <string>64548720-da57-4eab-bc37-3a6ca2e8645d</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/piggott-m</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Medicine, Biology and Environment
+Conservation And Biodiversity, Population, Ecological And Evolutionary Genetics</string>
+  </void>
+  <void property="title">
+   <string>Dr Maxine Piggott</string>
+  </void>
+ </object>
+</java>

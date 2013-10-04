@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>1a7760f5-a953-4555-954b-f55c625cfdbb</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/351499575019847682</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>When giant kangaroos and three metre-tall birds roamed the Australian continent http://bit.ly/128y76t </string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Home »  All subjects » H.C. Coombs Creative Arts Fellowship. ... Coombs Creative Arts Fellowship. The H.C. Coombs Creative Arts Fellowship embraces opportunities for performing, literary and visual artists.</string>
+  </void>
+  <void property="docID">
+   <string>da66dd91-ad5d-4c22-8ea9-e073d3c415ab</string>
+  </void>
+  <void property="link">
+   <string>http://news.anu.edu.au/2009/09/16/hc-coombs-creative-arts-fellowship/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Home »  All subjects » H.C. Coombs Creative Arts Fellowship. ... Coombs Creative Arts Fellowship. The H.C. Coombs Creative Arts Fellowship embraces opportunities for performing, literary and visual artists.</string>
+  </void>
+  <void property="title">
+   <string>H.C. Coombs Creative Arts Fellowship - News &amp; events - ANU</string>
+  </void>
+ </object>
+</java>

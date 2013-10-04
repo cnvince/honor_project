@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>hackers.  Professor Desmond Ball, from the Strategic and Defence Studies Centre in the ANU College of Asia and the Pacific, suggested the theft meant China could bug the building. ... When governments and corporations realise they have been targeted,</string>
+  </void>
+  <void property="docID">
+   <string>08715ff0-693d-4590-accb-f351b899754f</string>
+  </void>
+  <void property="link">
+   <string>http://regnet.anu.edu.au/news/mouse-trap</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>hackers.  Professor Desmond Ball, from the Strategic and Defence Studies Centre in the ANU College of Asia and the Pacific, suggested the theft meant China could bug the building. ... When governments and corporations realise they have been targeted,</string>
+  </void>
+  <void property="title">
+   <string>Mouse trap - RegNet - ANU</string>
+  </void>
+ </object>
+</java>

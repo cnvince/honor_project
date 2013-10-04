@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Fealy, G 2004, &apos;Islamic radicalism in Indonesia: a faltering revival&apos;, in K K...</string>
+  </void>
+  <void property="docID">
+   <string>372b79bb-9747-4e96-a355-ebf3d5d892ec</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/43090</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Fealy, G 2004, &apos;Islamic radicalism in Indonesia: a faltering revival&apos;, in K K...</string>
+  </void>
+  <void property="title">
+   <string>Islamic radicalism in Indonesia: a faltering revival</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Fire in the Belly - The history of the ANU physics research school from 1946 to 1996</string>
+  </void>
+  <void property="docID">
+   <string>b1a62060-8a70-4770-be6a-a788854c910a</string>
+  </void>
+  <void property="link">
+   <string>http://physics.anu.edu.au/fire_in_the_belly/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Fire in the Belly - The history of the ANU physics research school from 1946 to 1996</string>
+  </void>
+  <void property="title">
+   <string>Fire in the Belly - RSPE - ANU</string>
+  </void>
+ </object>
+</java>

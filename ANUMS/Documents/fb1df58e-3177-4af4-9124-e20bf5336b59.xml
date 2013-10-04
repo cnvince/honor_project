@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>NHMRC Defining the determinants of seasonal vitamin D (externally led by Quee...</string>
+  </void>
+  <void property="docID">
+   <string>fb1df58e-3177-4af4-9124-e20bf5336b59</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/2530</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>NHMRC Defining the determinants of seasonal vitamin D (externally led by Quee...</string>
+  </void>
+  <void property="title">
+   <string>NHMRC Defining the determinants of seasonal vitamin D (externally led by Queensland University of Technology)</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>NHMRC Fellowship</string>
+  </void>
+  <void property="docID">
+   <string>c6befad8-4fc8-4f19-b874-6df3a09f7a82</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/426</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>NHMRC Fellowship</string>
+  </void>
+  <void property="title">
+   <string>NHMRC Fellowship</string>
+  </void>
+ </object>
+</java>

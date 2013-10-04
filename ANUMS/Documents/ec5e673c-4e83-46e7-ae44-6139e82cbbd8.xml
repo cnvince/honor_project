@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Microplate Luminometer</string>
+  </void>
+  <void property="docID">
+   <string>ec5e673c-4e83-46e7-ae44-6139e82cbbd8</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/333</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Microplate Luminometer</string>
+  </void>
+  <void property="title">
+   <string>Microplate Luminometer</string>
+  </void>
+ </object>
+</java>

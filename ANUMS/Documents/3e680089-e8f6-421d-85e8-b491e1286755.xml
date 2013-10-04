@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Harsanyi, John C 
+Cambridge [etc.] : Cambridge University Press, 1977</string>
+  </void>
+  <void property="docID">
+   <string>3e680089-e8f6-421d-85e8-b491e1286755</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YJohn+C+Harsanyi&amp;SORT=D/YJohn+C+Harsanyi&amp;SORT=D&amp;SUBKEY=John+C+Harsanyi/1%2C11%2C11%2CB/frameset&amp;FF=YJohn+C+Harsanyi&amp;SORT=D&amp;3%2C3%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Harsanyi, John C 
+Cambridge [etc.] : Cambridge University Press, 1977</string>
+  </void>
+  <void property="title">
+   <string>Rational behavior and bargaining equilibrium in games and social situations</string>
+  </void>
+ </object>
+</java>

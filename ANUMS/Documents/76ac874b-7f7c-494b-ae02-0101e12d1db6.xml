@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Philanthropy and Indigenous people: Enhancing Indigenous education outcomes</string>
+  </void>
+  <void property="docID">
+   <string>76ac874b-7f7c-494b-ae02-0101e12d1db6</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/1337</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Philanthropy and Indigenous people: Enhancing Indigenous education outcomes</string>
+  </void>
+  <void property="title">
+   <string>Philanthropy and Indigenous people: Enhancing Indigenous education outcomes</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ARC Centre of Excellence in Climate System Science (externally led by Univers...</string>
+  </void>
+  <void property="docID">
+   <string>c3d0a161-a59c-4ebc-bb4c-842145339ce4</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/2011</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>ARC Centre of Excellence in Climate System Science (externally led by Univers...</string>
+  </void>
+  <void property="title">
+   <string>ARC Centre of Excellence in Climate System Science (externally led by University of New South Wales)</string>
+  </void>
+ </object>
+</java>

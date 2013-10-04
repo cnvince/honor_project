@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Ahlefeldt, R, Hutchison, W &amp; Sellars, M 2010, &apos;Eu3+ superhyperfine...</string>
+  </void>
+  <void property="docID">
+   <string>d2571f65-9d42-4b1f-9442-ca17124f19ba</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/26134</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Ahlefeldt, R, Hutchison, W &amp; Sellars, M 2010, &apos;Eu3+ superhyperfine...</string>
+  </void>
+  <void property="title">
+   <string>Eu3+ superhyperfine structure due to magnetic dipole-dipole interactions with Nd3+ in Nd3+ : EuCl3 Â· 6H2O</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences
+Public Administration, Public Policy, New Zealand Government And Politics, Au...</string>
+  </void>
+  <void property="docID">
+   <string>a68757e2-de12-4031-b54f-550250c8f603</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/wanna-jj</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences
+Public Administration, Public Policy, New Zealand Government And Politics, Au...</string>
+  </void>
+  <void property="title">
+   <string>Professor Jay (John) Wanna</string>
+  </void>
+ </object>
+</java>

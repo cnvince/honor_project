@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Quantum many-body systems with higher mathematical symmetries</string>
+  </void>
+  <void property="docID">
+   <string>23e3ef32-059e-4aed-aa6a-fede2447d75d</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/1249</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Quantum many-body systems with higher mathematical symmetries</string>
+  </void>
+  <void property="title">
+   <string>Quantum many-body systems with higher mathematical symmetries</string>
+  </void>
+ </object>
+</java>

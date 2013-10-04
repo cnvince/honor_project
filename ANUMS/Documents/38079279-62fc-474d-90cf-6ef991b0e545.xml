@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Mercer, G &amp; Kelly, H 2010, &apos;Was the adult Victorian attack rate for pandemic ...</string>
+  </void>
+  <void property="docID">
+   <string>38079279-62fc-474d-90cf-6ef991b0e545</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/20734</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Mercer, G &amp; Kelly, H 2010, &apos;Was the adult Victorian attack rate for pandemic ...</string>
+  </void>
+  <void property="title">
+   <string>Was the adult Victorian attack rate for pandemic influenza H1N1 2009 lower than expected?</string>
+  </void>
+ </object>
+</java>

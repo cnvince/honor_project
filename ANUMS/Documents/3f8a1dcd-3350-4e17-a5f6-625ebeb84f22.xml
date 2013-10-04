@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Committee for Science and Technology Challenges to U.S. National Security Interests. 
+Washington :  National Academies Press Nov. 2012</string>
+  </void>
+  <void property="docID">
+   <string>3f8a1dcd-3350-4e17-a5f6-625ebeb84f22</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Ybig+data&amp;SORT=D/Ybig+data&amp;SORT=D&amp;SUBKEY=big+data/1%2C72%2C72%2CB/frameset&amp;FF=Ybig+data&amp;SORT=D&amp;4%2C4%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Committee for Science and Technology Challenges to U.S. National Security Interests. 
+Washington :  National Academies Press Nov. 2012</string>
+  </void>
+  <void property="title">
+   <string>Big Data A Workshop Report</string>
+  </void>
+ </object>
+</java>

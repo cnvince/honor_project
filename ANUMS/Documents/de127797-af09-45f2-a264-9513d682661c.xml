@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>He and his Swiss colleague Rolf Zinkernagel shared the 1996 Nobel Prize for Physiology or Medicine for a discovery made at The John Curtin School of Medical Research and the ideas</string>
+  </void>
+  <void property="docID">
+   <string>de127797-af09-45f2-a264-9513d682661c</string>
+  </void>
+  <void property="link">
+   <string>https://dragonlair.anu.edu.au/aggregator?page=2</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>He and his Swiss colleague Rolf Zinkernagel shared the 1996 Nobel Prize for Physiology or Medicine for a discovery made at The John Curtin School of Medical Research and the ideas</string>
+  </void>
+  <void property="title">
+   <string>Feed aggregator | Dragonlair</string>
+  </void>
+ </object>
+</java>
