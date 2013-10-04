@@ -1,0 +1,218 @@
+\appendix
+\lstdefinestyle{customc}{
+  belowcaptionskip=1\baselineskip,
+  breaklines=true,
+  frame=L,
+  xleftmargin=\parindent,
+  language=Java,
+  showstringspaces=false,
+  basicstyle=\footnotesize\ttfamily,
+  keywordstyle=\bfseries\color{green!40!blue},
+  commentstyle=\itshape\color{purple!40!green},
+  identifierstyle=\color{black},
+  stringstyle=\color{black},
+  numbers=left,
+  escapeinside={@}
+}
+\chapter{System Architecture} 
+
+
+\chapter{Code}
+This appendix describes the architecture that we built for the experiment. The entire system was built in two platform as described in chapter 3, the broker together with the document judgement system.
+
+On top level of the broker, we provide a function named \textit{fetchResult}, which takes two parameters, the query and the intended method. The function is the main controller of the broker, which then separate the query to each search engine and get the result pool as shown in List \ref{cd:fr}
+
+\lstset{escapechar=@,style=customc}
+\begin{lstlisting}[caption={Code for getting ranking result},label=cd:fr]
+public ArrayList<Result> fetchResult(String Query, int method) {
+		AdapterFactory factory = new AdapterFactory();
+		ResultTable results = factory.executeQuery(Query);
+		Merger merger = null;
+		switch (method) {
+		// Random Round-Robin
+		case ALGORITHM.SRR:
+			merger = new SimpleRRMerger();
+			break;
+		case ALGORITHM.PRR:
+			merger = new PRRMerger();
+			break;
+		case ALGORITHM.GDS_TS:
+			merger = new GdsMerger(Query, TS);
+			break;
+		case ALGORITHM.GDS_SS:
+			merger = new GdsMerger(Query, SS);
+			break;
+	
+		....		
+		
+		default:
+			break;
+		}
+		return merger.executeMerging(results, factory.ServerTable);
+
+	}
+\end{lstlisting}
+
+The query is set to the \textit{AdapterFactory} in the first place. \textit{AdapterFactory} is a factory of all the adapters for all the search engines. Due to the limitation of bandwidth, we adapted the adapters into a multi-thread environment. Query is sent to the \textit{ParserFactory} first to parse each webpage that is retrieved by the component search engines to DOM Trees. \textit{We also downloaded these pages for later use.} The parsed documents are stored in a hashmap mapped to their original source. And then in the next step, which is the core function of the adapter factory, is to allocate those parsed documents to their own adapters. 
+\lstset{escapechar=@,style=customc}
+\begin{lstlisting}[caption={Code for AdapterFactory},label=cd:af]
+public void allocateAdapters(String query) {
+		this.query=query;
+		query = StringFormat.toURL(query);
+		ParserFactory parserFactory = new ParserFactory(query);
+		parserFactory.initialDocuments();
+		//reset DocumentSet
+		DocumentSet.reset();
+		HashMap<Integer, Document> documents = parserFactory
+				.getDocumentCollection();
+		CountDownLatch countDownLatch = new CountDownLatch(documents.size());
+		for (Map.Entry<Integer, Document> entry : documents.entrySet()) {
+			int server = entry.getKey();
+			Document document=entry.getValue();
+			Thread t=null;
+			switch (server) {
+			case ServerSource.CONTACT:
+				t = new Thread(new ContactAdapter(countDownLatch,document, results, ServerTable,"http://www.anu.edu.au/dirs",server));
+				break;
+			case ServerSource.DSPACE:
+				t = new Thread(new DspaceAdapter(countDownLatch,document,results, ServerTable,"https://digitalcollections.anu.edu.au",server));
+				break;
+			...			
+			
+			default:
+				break;
+			}
+			t.start();
+		}
+		try {
+			countDownLatch.await();
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+	}
+
+\end{lstlisting}
+
+The aim of those adapters is to analyse the result pages, fetch information of each result documents from that page. There already exists some methods to detect search engine interface and get the document entry, however the focus of this thesis is to evaluate the performance of merging algorithms. As an alternative, we used the Xpath to analyse the result pages instead. All the adapters are inherited from the base class \textit{Adapter}, the \textit{Adapter} class implements the Runnable class for the purpose of multi-thread. And the \textit{Adapter} class also has a abstract function named \textit{query}, which analyse the result page and store them into a list of results. List \ref{cd:lca} is an example of the adapter for the anu library catalogue. As we can see, the main purpose of the function is to analyse the result page and parse each document list in the result page, fetch the information of each document and store it in a particular result object.
+\lstset{escapechar=@,style=customc}
+\begin{lstlisting}[caption={Code for the adapter of library catalogue}, label=cd:lca]
+public class LibraryCatalogAdapter extends Adapter {
+
+	public LibraryCatalogAdapter(CountDownLatch countDownLatch,
+			Document document, ResultTable results,
+			HashMap<Integer, Server> serverTable, String hostUrl, int source) {
+		super(countDownLatch, document, results, serverTable, hostUrl, source);
+		// TODO Auto-generated constructor stub
+	}
+
+	public RankList query() {
+		// TODO Auto-generated method stub
+		if (document == null)
+			return null;
+		// get the size of retrieved documents
+		Pattern pattern = Pattern.compile("\\d+\\s+(results|result) found");
+		Node body;
+		Matcher matcher = null;
+		try {
+			body = (Node) xpath.evaluate("//BODY", document,
+					XPathConstants.NODE);
+			matcher = pattern.matcher(body.getTextContent());
+		} catch (XPathExpressionException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
+		int size = 0;
+		while (matcher.find()) {
+			String match = matcher.group();
+			size = Integer.parseInt(match.substring(0, match.indexOf("result"))
+					.trim());
+		}
+		Server server = new Server();
+		server.setServer(source);
+		server.setResult_size(size);
+		sTable.put(source, server);
+		RankList ranklist = new RankList();
+		try {
+			NodeList nodeList = 
+				(NodeList) xpath.evaluate("//TD[@class=\"briefCitRow\"]", document,XPathConstants.NODESET);
+			int length = nodeList.getLength();
+			// no more than 10 results returned
+			int resultsize = 0;
+			for (int i = 0; i < length; i++) {
+				Element ROW = (Element) nodeList.item(i);
+				LibcataResult result = new LibcataResult();
+				Node Title = 
+					(Node) xpath.evaluate(
+						"TABLE//SPAN[@class=\"briefcitTitle\"]/A", ROW,
+						XPathConstants.NODE);
+				if(Title==null)
+					continue;
+				String title = Title.getTextContent().trim();
+				result.setTitle(title);
+				String Link = hostUrl
+						+ ((Element) Title).getAttribute("href").trim();
+				Node Summary = (Node) xpath.evaluate(
+						"TABLE//SPAN[@class=\"briefcitTitle\"]", ROW,
+						XPathConstants.NODE);
+				String textarea = Summary.getTextContent().trim();
+				String summary = textarea.substring(title.length() + 1).trim();
+				if (!DocumentSet.contains(Link)) {
+					result.setLink(Link);
+					result.setSummary(summary);
+					result.setSource(source);
+					result.setDsumary();
+					ranklist.addResult(result);
+					resultsize++;
+				}
+				DocumentSet.AddDocument(Link);
+				if (resultsize >= 10)
+					break;
+			}
+
+		} 
+		catch (XPathExpressionException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return ranklist;
+	}
+}
+\end{lstlisting}
+
+All the result classes are inherited from the base class which is named \textit{Result}(List \ref{cd:result}), common properties are stored in the base class. And we implement the Comparable interface for comparing two results according to their scores.
+\begin{lstlisting}[caption={Code of class Result} label=cd:result]
+package com.results;
+
+import org.w3c.dom.Document;
+
+import com.util.DocumentSet;
+
+public class Result implements Comparable<Result>{
+
+	protected String Title;
+	protected String Link;
+	protected int Source;
+	protected String imgLink="";
+	protected String displaySummary;
+	protected double score;
+	protected String docID;
+	protected int rank;
+
+	.....
+	
+	@Override
+	public int compareTo(Result o) {
+		// TODO Auto-generated method stub
+		if(o.getScore()>this.getScore())
+			return 1;
+		else if(o.getScore()==this.getScore())
+			return 0;
+		else
+			return -1;
+	}
+}
+\end{lstlisting}
+
+The last step in the broker controller is merging the results of different collections. The result tables are passed to the \textit{Merger}, the controller will choose a particular merger according to the method wanted. All the mergers are implemented from the interface \textit{Merger} which defines a function called \textit{executingMerging}, which take the result tables and output the merged list.

@@ -1,0 +1,25 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Typical architecture of information retrieval}}{5}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces A typical architecture of metasearch, the users' requests are fetched by the main component, which is named broker, some query expansion may be executed and the processed query will send to different collections. The collections execute searching on the query and return the retrieval results to the broker }}{7}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Metasearch architectures from \cite {Montague2002}}}{9}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces The architecture of meta-search}}{28}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces The architecture of evaluation system}}{28}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces User Interface of Document judgement system}}{35}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces precision@10}}{38}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Precision at different thresholds}}{40}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Threshold=1}}}{40}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Threshold=2}}}{40}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Threshold=3}}}{40}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Threshold=4}}}{40}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces NDCG@10 of all algorithms}}{41}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces NDCG@10 of Simple Round Robin on 5 runs}}{42}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces NDCG@10 of OPRR with respect to other algorithms}}{43}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces NDCG@10 of OGDS with respect to other algorithms}}{44}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces NDCG@10 of SGDS with respect to other algorithms}}{45}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces 4-fold cross validation}}{46}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

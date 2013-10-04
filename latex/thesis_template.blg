@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis_template.aux
+A level-1 auxiliary file: thanks.aux
+A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: chapter1.aux
+A level-1 auxiliary file: chapter2.aux
+A level-1 auxiliary file: c_experiment.aux
+A level-1 auxiliary file: Result_Analysis.aux
+A level-1 auxiliary file: Conclusion.aux
+A level-1 auxiliary file: Appendices.aux
+The style file: plain.bst
+Database file #1: mybib.bib
+Warning--I didn't find a database entry for "Jacso2004"
+Warning--empty publisher in Callan2000
+Warning--there's a number but no series in Manning2008
+Warning--empty publisher in Manning2008
+Warning--empty journal in Renda2003
+Warning--empty publisher in Voorhees2005
+You've used 35 entries,
+            2118 wiz_defined-function locations,
+            742 strings with 10396 characters,
+and the built_in function-call counts, 12045 in all, are:
+= -- 1233
+> -- 502
+< -- 19
++ -- 196
+- -- 161
+* -- 769
+:= -- 1947
+add.period$ -- 108
+call.type$ -- 35
+change.case$ -- 184
+chr.to.int$ -- 0
+cite$ -- 40
+duplicate$ -- 515
+empty$ -- 905
+format.name$ -- 161
+if$ -- 2579
+int.to.chr$ -- 0
+int.to.str$ -- 35
+missing$ -- 36
+newline$ -- 178
+num.names$ -- 72
+pop$ -- 185
+preamble$ -- 1
+purify$ -- 150
+quote$ -- 0
+skip$ -- 413
+stack$ -- 0
+substring$ -- 752
+swap$ -- 163
+text.length$ -- 19
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 138
+warning$ -- 5
+while$ -- 127
+width$ -- 37
+write$ -- 380
+(There were 6 warnings)

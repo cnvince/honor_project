@@ -1,0 +1,1814 @@
+#LyX file created by tex2lyx 2.0.6
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass article
+\use_default_options false
+\language english
+\language_package none
+\inputencoding auto
+\fontencoding default
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\paperfontsize default
+\spacing single
+\use_hyperref 0
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 0
+\use_mathdots 0
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 0
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+chapter{Literature Review}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+People took years to create information on the Internet, now they have to deal with this huge amount of information. Discovering useful information among the massive amount of resources existing on the Internet has been a hot topic for years, which brought the rise of the field of information retrieval. In early days, companies like Yahoo supplied people with a manually developed directory that classify web sites into different clusters. This is convenient for users to navigate to the website they intend to visit in the time when there are limited numbers of websites existing online. However, as time goes on, such navigation websites are limited by their poor abilities to discover information among the huge amount of websites. Then the more widely used index centralised search engines came into public's eyes. These search engines use crawlers or spiders to crawl pages across the Internet and then index the fetched pages. Companies like Google maintain large amount of data of most of the website online. And they provide very good algorithms to rank all these pages to fit users' requirements. However, this procedure has a disadvantage due to its inability to retrieval information from Deep Web
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Bergman2001"
+
+\end_inset
+
+. Traditional index centralised search engines can crawl pages that already existing on the Internet. But as a matter of fact, most of the sites existing on the Internet nowadays are generated dynamically by fetching data from its background database, these data are deep hidden from the surface web that index centralised searching engines can analysis. The size of deep web is much larger than surface web, as pointed out by Bergman 
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Bergman2001"
+
+\end_inset
+
+, and is still growing rapidly. So these difficulties in digging hidden web information has brought many challenges to the index centralised search engines. 
+\end_layout
+
+\begin_layout Section
+
+Meta-Search
+\end_layout
+
+\begin_layout Standard
+
+An alternative approach is to provide an integrated search engine that can send users' query to different search engines and then return the merged result. This method leaves the searching job to each component search engine, which is always built into the document collection and can retrieval its documents through its internal database. This approach is named distributed search
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Callan2000"
+
+\end_inset
+
+, sometimes named federated search
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Jacso2004"
+
+\end_inset
+
+ or metasearch. A typical meta-search engine grabs users' query request, do some query expansion, which is optional, and then sends the query to different component search engines, finally the engine collection the results returned by all the collections and merging the resulting in a suitable ranking to display to users (Figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:ms"
+
+\end_inset
+
+). 
+\begin_inset Float figure
+placement h!
+wide false
+sideways false
+status open
+
+
+\begin_layout Standard
+
+
+\begin_inset Graphics 
+	filename architecture.jpg
+	width 12cm
+
+\end_inset
+
+ 
+\begin_inset Caption
+
+\begin_layout Standard
+
+A typical architecture of metasearch, the users' requests are fetched by the main component, which is named broker, some query expansion may be executed and the processed query will send to different collections. The collections execute searching on the query and return the retrieval results to the broker 
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:ms"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+People usually separate the meta-search problems into 4 different sub-problems, namely 
+\shape italic
+Resource Description
+\shape default
+, 
+\shape italic
+Resource Selection
+\shape default
+,
+\shape italic
+Query Translation
+\shape default
+,
+\shape italic
+Result Merging
+\shape default
+
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Si2003a"
+
+\end_inset
+
+. The 
+\shape italic
+Resouce Description
+\shape default
+ problem is to determine how to represent a collection, it covers the statistic information and topic information of a query. The 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+text
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+Resource Selection
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+ problem is to select collections with the most possibility to have relevant documents to conduct the search. The 
+\shape italic
+Query Translation
+\shape default
+ problem is to modify the queries for more appropriate searching among different search engines. The final problem 
+\shape italic
+Result Merging
+\shape default
+ is to combine the results returned by different search engine into a unified, well-ranked result list.
+\end_layout
+
+\begin_layout Section
+
+Collection Selection
+\end_layout
+
+\begin_layout Standard
+
+An efficiency issue may arise when the meta-search engine have to search across massive amount of collections. Due to the fact that some collections are mainly focused on one or some particular topics, many of the collections will contain limited number of documents that are relevant to the users' query, or even no documents will return in some extreme cases. And because of the limitation of memory, bandwidth, time and other resources, it would slow down the speed of searching if searches are conducted on all the collections. It would be a good idea to ignore some collections that are likely to be the last ones to have relevant documents with respect to a particular query or topic in semantic aspect. The problems has been defined as collection selection problems and have drawn many attentions by expertsin this area. Early meta-search engines apply manually cluster collections into different themes or topics and then assign query to different clusters according to its topic, it has already been tried to group collection automatically
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Danzig1991"
+
+\end_inset
+
+. Later attempts have been made to treat each collection as a big document and then calculate the similarity between the collection and the query using the bag of words model. In this model, each collection is treated as a big document and other statistic information is stored for later use. A vector space model can be build using the big bag words model, in which all collections as well as queries are built into vectors. Each element into the vector represent the weight of a term to a collection or a query. The weight is often set by the TF-IDF weight which maybe obtained from the cooperative collection statistics or estimation and is used to calculate the similarity of documents or queries. Cosine similarity and Okapi BM25
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Robertson1994"
+
+\end_inset
+
+ are widely used to get the similarity of a collection and a query, which is also regard as the collection score in these algorithms. There are also many algorithms based on the lexicon information of the collection. For example, CORI
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Callan1995,Callan2000"
+
+\end_inset
+
+ is developed based on an information retrieval system named INQUERY
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Callan1992"
+
+\end_inset
+
+, which builds an inference network to search information in a collection. The CORI system calculate the belief of a collection associated to a query and rank them according to the score. Besides all these lexicon based algorithms, documentsurrogate methods
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Si2003,Shokouhi2007,Thomas2009"
+
+\end_inset
+
+ and machine learning approaches 
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Voorhees1995"
+
+\end_inset
+
+have also come into use in this area.
+\end_layout
+
+\begin_layout Section
+
+Result Merging
+\end_layout
+
+\begin_layout Standard
+
+Collection selection problems have been focused on for years and more than 40 algorithms have been developed to solve problem while result merging algorithms have not been paid enough attention. Although collection selection is quite an important factor in meta-search with related to the speed of the system as well as precision of the final result. However, in some cases where the number of collections is not very big, it may be a fact that the collection selection procedure may decrease the efficiency as well as precision since its incomplete searching and complexity in determining if the collection is possible to contain relevant documents. As the results are returned from different sub-components ranked by different algorithms , it becomes another issue how to put them together into an integrated result list. Documents in these results lists are distributed differently and there is limited information about the result document in most cases, which bring much challenge to merge the final result. This problem has been defined as result merging or ranking fusion problems. A formal definition has been given to define ranking fusion problems by 
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Dwork2001"
+
+\end_inset
+
+ and
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Renda2003"
+
+\end_inset
+
+. Given a set of items denoted by 
+\begin_inset Formula $U$
+\end_inset
+
+, 
+\begin_inset Formula $\tau$
+\end_inset
+
+ is an ordered list of the elements in a subset of 
+\begin_inset Formula $U$
+\end_inset
+
+, which is denoted by 
+\begin_inset Formula $S$
+\end_inset
+
+, for example, 
+\begin_inset Formula $\tau$
+\end_inset
+
+=[
+\begin_inset Formula $x_1$
+\end_inset
+
+
+\begin_inset Formula $\geq$
+\end_inset
+
+
+\begin_inset Formula $x_2$
+\end_inset
+
+
+\begin_inset Formula $\geq$
+\end_inset
+
+
+\begin_inset Formula $\cdotp$
+\end_inset
+
+
+\begin_inset Formula $\cdotp$
+\end_inset
+
+
+\begin_inset Formula $\cdotp$
+\end_inset
+
+
+\begin_inset Formula $\geq$
+\end_inset
+
+
+\begin_inset Formula $x_k$
+\end_inset
+
+], where 
+\begin_inset Formula $x_i$
+\end_inset
+
+
+\begin_inset Formula $\in$
+\end_inset
+
+
+\begin_inset Formula $S$
+\end_inset
+
+. If 
+\begin_inset Formula $\tau$
+\end_inset
+
+ contains all the elements of 
+\begin_inset Formula $U$
+\end_inset
+
+, 
+\begin_inset Formula $tau$
+\end_inset
+
+ is said to be a 
+\begin_inset Formula $full list$
+\end_inset
+
+ . However, full lists are not possible in most cases because the searching engines will not return all the items in the database as a limitation of resources. Assume a set of rank lists 
+\begin_inset Formula $R$
+\end_inset
+
+={
+\begin_inset Formula $\tau_1$
+\end_inset
+
+,
+\begin_inset Formula $\tau_2$
+\end_inset
+
+,
+\begin_inset Formula $\tau_3$
+\end_inset
+
+,
+\begin_inset Formula $\cdotp$
+\end_inset
+
+
+\begin_inset Formula $\cdotp$
+\end_inset
+
+
+\begin_inset Formula $\cdotp$
+\end_inset
+
+,
+\begin_inset Formula $\tau_n$
+\end_inset
+
+}, the result merging or rank fusion problem is to find out a new rank list, denoted by 
+\begin_inset Formula $\hat{\tau}$
+\end_inset
+
+, which is the result of a rank fusion method applied to the rank lists in 
+\begin_inset Formula $R$
+\end_inset
+
+. However, there is a danger of regarding result merging problems as ranking fusion problems because it may be hard to say the different rank list are based subsets of different document sets. For example, 
+\begin_inset Formula $\tau_1$
+\end_inset
+
+=[
+\begin_inset Formula $x_1$
+\end_inset
+
+
+\begin_inset Formula $\geq$
+\end_inset
+
+
+\begin_inset Formula $x_2$
+\end_inset
+
+
+\begin_inset Formula $\geq$
+\end_inset
+
+
+\begin_inset Formula $\cdotp\cdotp\cdotp\geq$
+\end_inset
+
+
+\begin_inset Formula $x_k$
+\end_inset
+
+], where 
+\begin_inset Formula $x_1,x_2,x_3,\cdotp\cdotp\cdotp,x_k$
+\end_inset
+
+ is a subset of 
+\begin_inset Formula $U_x$
+\end_inset
+
+,while 
+\begin_inset Formula $\tau_1$
+\end_inset
+
+=[
+\begin_inset Formula $y_1$
+\end_inset
+
+
+\begin_inset Formula $\geq$
+\end_inset
+
+
+\begin_inset Formula $y_2$
+\end_inset
+
+
+\begin_inset Formula $\geq$
+\end_inset
+
+
+\begin_inset Formula $\cdotp\cdotp\cdotp\geq$
+\end_inset
+
+
+\begin_inset Formula $y_k$
+\end_inset
+
+], and 
+\begin_inset Formula $y_1,y_2,y_3,\cdotp\cdotp\cdotp,y_k$
+\end_inset
+
+ is a subset of 
+\begin_inset Formula $U_y$
+\end_inset
+
+. There are many cases and 
+\begin_inset Formula $U_x$
+\end_inset
+
+ disjoint 
+\begin_inset Formula $U_y$
+\end_inset
+
+, which makes the definition hard to express and implement.
+\end_layout
+
+\begin_layout Subsection
+
+Aggregated and Non-aggregated Meta-Search
+\end_layout
+
+\begin_layout Standard
+
+People try to solve the problem from different aspect, some treat it as a data fusion problem, some scientists regard it as a normal index centralised rank problem besides that the document score need to be normalised, others use machine learning approaches to model the problem. However, actually not all these algorithms can fit into all the scenarios that meta-search are built. As a matter of fact, the reason behind this is that there exists different environment of meta-search. According to the information provided, meta-search can dived into cooperative meta-search and uncooperative meta-search
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Shokouhi 2011"
+
+\end_inset
+
+. In cooperative meta-search environment, the statistics information about the collection and the score of each returned document will accessible to meta-search builders, while in uncooperative environment none information is provided expect a search interface. These two types of meta-search may determine to normalise the score based on whether provided score or estimated score. And uncooperative environment is more likely to be the cases where meta-search engines are built. 
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Montague2002"
+
+\end_inset
+
+ classified metasearch into two categories, namely 
+\shape italic
+Internal metasearch
+\shape default
+ and 
+\shape italic
+External Metasearch
+\shape default
+. The Internal metasearch was described as an architecture, in which the metasearch engines fuse the results from each of its sub-engine based on the shared Document Set, while in the contrast, the External metasearch engines fuse the results from its different component search engines based on different collections(Figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:agg"
+
+\end_inset
+
+). 
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+
+\begin_layout Standard
+
+
+\begin_inset Graphics 
+	filename CMS.jpg
+	width 12cm
+
+\end_inset
+
+ 
+\begin_inset Caption
+
+\begin_layout Standard
+
+Metasearch architectures from 
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Montague2002"
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:agg"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+However, This kind of classification is more focused on the architecture itself. And not all of the architecture belong to either of the architecture or some architectures are more likely to have characteristics of both categories. It is more practical to classify metasearch engine according to their purposes instead of their architecture. Meta-search is not always used as a way of digging hidden web from the Internet, some times it is used to optimise the performance of search engines by combing the results of different algorithms on a particular source. In that case, there exists large amount of overlap documents between different result list and therefore many linear combination algorithms and data fusion algorithms can be well fitted. So in the case where the purpose is to optimise the performance of multiple search engine, we name it 
+\shape italic
+Aggregated Meta-Search
+\shape default
+ and 
+\shape italic
+None-aggregated Meta-Search
+\shape default
+ is a meta-search built for the purpose of crawling hidden information from the target server. Actually there is no explicit boundaries between these two types of meta-search engines, for example there may exists many overlap documents between some collections where the purpose of the search is still to dig deep web information. In that case, algorithms are not specific by its definition. The point to point this out is to give a clear image of how the algorithms fit into practise and in what situation can be applied.
+\end_layout
+
+\begin_layout Subsection
+
+General Methods
+\end_layout
+
+\begin_layout Standard
+
+The term 
+\shape italic
+General Mthods
+\shape default
+ refers to algorithms that can be well fitted into the both architecture. These algorithms, may cannot outperform some specific algorithms, which will be talked about in the next section, in the particular environments. The algorithms will be talked about in this section is more likely to be a considerable solution in both types of meta-search engines. 
+\end_layout
+
+\begin_layout Subsubsection
+
+Round-Robin
+\end_layout
+
+\begin_layout Standard
+
+Previous meta-search merge the different lists into a unified one in a simple 
+\shape italic
+Round-Robin
+\shape default
+ manner
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Rasolofo2003"
+
+\end_inset
+
+. The round-robin algorithm is based on the assumption that the number of relevant documents is approximately the same and distributed evenly in all the collections
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Rasolofo2001,Rasolofo2003"
+
+\end_inset
+
+. But the assumption cannot hold in a real world, where the number of relevant documents varies and the distribution is extraordinarily messy. Rasolofo et.al.
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Rasolofo2003"
+
+\end_inset
+
+also proved that the round-robin methods perform various randomly. It's may be a better idea to give weight to different collection to determine the order of collections when doing round-robin, which can make the method more stable. So they added some features to each collection to form a biased round-robin algorithm that different collections have collection scores showing their preference in each round-robin circle
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Rasolofo2003"
+
+\end_inset
+
+ and saw some precision increase. Round-Robin can fitted into both the Aggregated Meta-search and Non-Aggregated Meta-search, although it can not give a perfect result.
+\end_layout
+
+\begin_layout Subsubsection
+
+Raw-Score Algorithms
+\end_layout
+
+\begin_layout Standard
+
+A feasible approach to merge the results is to treat the problem as an index centralised rank problem. In that case, all the documents from different collections are regarded as documents obtained from a big document set which is made up of documents from all the collections. The documents are just ranked according to the documents scores that assigned by their individual search engines. However, because different search engines use different score algorithms according to different criteras, the scores range differently and are always not comparable , so score normalisation is applied to re-arrange the score into a particular range, usually from 0 to 1. For example, 
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Lee1997,Renda2003"
+
+\end_inset
+
+ introduced an algorithm named MinMax to control the range of document score 
+\begin_inset CommandInset ref
+LatexCommand eqref
+reference "eq:Score normalisation"
+
+\end_inset
+
+. The algorithm uses the upper bounds as well as lower bounds of document score in a collection to normalise each document score to the range [0,1]. 
+\begin_inset Formula \begin{equation}
+\label{eq:Score normalisation}
+	w^{\tau}(i)=\frac{s^\tau(i)-min_{j\in\tau}s^\tau(j)}{max_{j\in\tau}s^\tau(j)-min_{j\in\tau}s^\tau(j)}
+\end{equation}
+\end_inset
+
+
+\begin_inset Formula $w^{\tau}(i)$
+\end_inset
+
+ indicates the normalised weight of item 
+\begin_inset Formula $i\in\tau$
+\end_inset
+
+, and the score of an item assigned by 
+\begin_inset Formula $\tau$
+\end_inset
+
+ is denoted by 
+\begin_inset Formula $s^\tau(i)$
+\end_inset
+
+. They also tried to use the rank assigned by the original search algorithm to get a similarity score, they defined the score 
+\shape italic
+Rank_Sim
+\shape default
+ : 
+\begin_inset Formula \begin{equation}
+ \label{eq:rank_sim}
+ 	Rank\_Sim(rank)=1-\frac{rank-1}{num\_of\_retrieved\_docs}
+ \end{equation}
+\end_inset
+
+They conducted an experiment on the original score normalisation and rank similarity approach and found the latter algorithm is worse that the previous one in most cases. Then, 
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Renda2003"
+
+\end_inset
+
+ tried to use 
+\begin_inset Formula $Z-score normalisation$
+\end_inset
+
+ 
+\begin_inset CommandInset ref
+LatexCommand eqref
+reference "eq:z-Score"
+
+\end_inset
+
+ method to normalise the document score. 
+\begin_inset Formula \begin{equation}
+\label{eq:z-Score}
+	 w^{\tau}(i)=\frac{s^\tau(i)-\mu_{s^\tau}}{\sigma_{s^\tau}}
+\end{equation}
+\end_inset
+
+
+\begin_inset Formula $\mu_{s^\tau}$
+\end_inset
+
+ denotes the means of scores and 
+\begin_inset Formula $\sigma_{s^\tau}$
+\end_inset
+
+ is the standard deviation. In most cases, the score of each document is not available to meta-search systems. An alternative way is to estimate the score according to accessible information. 
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Rasolofo2003"
+
+\end_inset
+
+ utilised various document fields to estimate the document score. They generate the document score using a generic document scoring function(Equation 2.3). 
+\begin_inset Formula \begin{equation} w_{ij}=\frac{NQW_i}{\sqrt{L_q^2+LF_i^2}} \end{equation}
+\end_inset
+
+
+\begin_inset Formula $NQW_i$
+\end_inset
+
+ is the number of query words appearing in the processed field of the document i, 
+\begin_inset Formula $L_q$
+\end_inset
+
+ is the length (number of words) of the query, and 
+\begin_inset Formula $LF_i$
+\end_inset
+
+ is the length of the processed field of the document i. Then they use the score as the bases for their two new algorithms, namely SM-XX and RR-XX. The SM-XX algorithm use the estimated document score as the unified document score and merge all the documents in the order of the score. The other algorithm, use the score to re-rank the results in each collection and use the round-robin method to merge the new result lists. The "XX" stands for the document fields such as document title, document summary. Although it shows that the final result of RR-XX is better than original round-robin algorithm, it still leave the distribution of documents in each collection as a problem. In fact normalising the document score is not fair enough to say a document is good enough than others because different collections may have different priorities saying which document is better, this is due to the fact that a collection more focused on a topic may have more weight to judge a document. For example, a user queries some government policy may more likely to intend to get information from a government than to get information from a news website. So, in terms of meta-search merging algorithm, the metasearch system should be a bias decider on different collection both on semantic relationship and the volume of results they returned. Many of the previous algorithms have weighted versions which can improve the efficiency to some degree. Some algorithms use the collection score obtained from the collection selection procedure to schedular a new collection weight, for example,CORI
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Callan2000,Callan1995"
+
+\end_inset
+
+ uses a simple linear combination method to normalise the collection score with the collection score get from the collection selection algorithm
+\begin_inset CommandInset ref
+LatexCommand eqref
+reference "eq:collection_score_normalisation"
+
+\end_inset
+
+, 
+\begin_inset Formula \begin{equation} 
+\label{eq:collection_score_normalisation}
+ 	C'=\frac{C-C_{min}}{C_{max}-C_{min}}
+\end{equation}
+\end_inset
+
+, the normalised score is then used by the raw score based function to estimate the document score by equation 
+\begin_inset CommandInset ref
+LatexCommand eqref
+reference "eq:cori_norm"
+
+\end_inset
+
+: 
+\begin_inset Formula \begin{equation}
+\label{eq:cori_norm}
+	 D'=\frac{D+0.4\times{D}\times{C'}}{1.4}
+\end{equation}
+\end_inset
+
+The algorithm turns out to be very stable and efficient,however due to the fact that it requires a metasearch built on the bases of INQUIRY system, the limitation draws quite many problems in implementation in other environments. As an alternative, Rasolofo et.al. 
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Rasolofo2001"
+
+\end_inset
+
+proposed a new approach to rank the list from different collections names LMS(using result Length to calculate Merging Score). They estimate the collection score by the The algorithm uses the result length, namely the number of documents retrieved by the collection using equation 2.6. 
+\begin_inset Formula $l_i$
+\end_inset
+
+ is the number of documents returned by a collection and K is a constant set to 600 in their paper. 
+\begin_inset Formula $C$
+\end_inset
+
+ is the number of collections. 
+\begin_inset Formula \begin{equation}
+	S_i=\log{1+\frac{l_i\times{K}}{\sum\nolimits_{j=1}^{|C|}l_i}} 
+\end{equation}
+\end_inset
+
+The collection score was then used to generate a collection weight. 
+\begin_inset Formula \begin{equation}
+	w_i=1+[(s_i-\bar{s})/\bar{s}] 
+\end{equation}
+\end_inset
+
+where 
+\begin_inset Formula $s_i$
+\end_inset
+
+ is the 
+\begin_inset Formula $ith$
+\end_inset
+
+ collection score calculated by the previous formula and 
+\begin_inset Formula $\hat{s}$
+\end_inset
+
+ is the mean collection score. This approach is like a simplified version of CORI, which just take the size of relevant documents into account. So more weight will be put on the collections with more result documents. However, the algorithm just takes the document length as the only criteria of collection weight, which can get rid of some collections with limited number of relevant documents but very tie-relevant documents. As we can see from all the raw-score algorithms we talked about, none of them can works well on all scenarios, the score normalised approach ignore the fact that collections are bias in its nature. The generic document function used by 
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Rasolofo2003"
+
+\end_inset
+
+ may not consider that the title or summary information provided is very limited and different collections return different size of summaries and titles, many sites in fact just return first part of the document. CORI is a stable algorithm, however limited by its architecture. And LMS, on the other hand, is not confident to convince that the size of returned document is the only criteria of collection weight. 
+\end_layout
+
+\begin_layout Subsubsection
+
+Machine Learning Approaches
+\end_layout
+
+\begin_layout Standard
+
+Apart from those algorithms based on the original scores or ranks, other algorithms tried to build models to fit the problem and train a model by use training data. One of the algorithms is 
+\shape italic
+SSL
+\shape default
+
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Si2002,Si2003a"
+
+\end_inset
+
+. The 
+\shape italic
+SSL
+\shape default
+ algorithm applies a semi-supervised learning approach to train a regression model. The algorithm combine the merging algorithms with the sampling procedure in collection selection. In the collection selection, people always use sufficient sampling queries to get enough documents that can represent each collection. The sampling documents are not discarded, instead, they build a relatively small centralised sample database. Each time SSL executes a query, it sends the query to both the centralised sample database and the original collection. According the the hypotheses that there exists considerable number of overlap documents between the two documents, then a regression model is built to map the individual score to the global centralised index score. For each overlap document 
+\begin_inset Formula $d_{i,j}$
+\end_inset
+
+, it has a pair of scores from original collection 
+\begin_inset Formula $S_i(d_{i,j})$
+\end_inset
+
+ and 
+\begin_inset Formula $S_C(d_{i,j})$
+\end_inset
+
+ from centralised sample database. The mapping function now becomes 
+\begin_inset Formula $S_C(d_{i,j})=a_i*S_i(d_{i,j})+b_i$
+\end_inset
+
+, and the problem now has focused on training a model to get the most suitable parameters to fit the function and eliminating the error. The error is denoted by 
+\begin_inset Formula $\epsilon=\frac{1}{2}\sum\limits_{j=1}^n(f(a,b,S_i(d_{i,j}))-S_C(d_{i,j}))^2$
+\end_inset
+
+. So the problem becomes 
+\begin_inset Formula $(a_i,b_i)=arg_{a_i,b_i} Min\frac{1}{2}\sum\limits_{j=1}^n(f(a,b,S_i(d_{i,j}))-S_C(d_{i,j}))^2$
+\end_inset
+
+. The regression over all training data can been shown in a matrix representation, which is:
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset Formula $
+\begin{bmatrix}
+       S_i(d_{i,1})& 1           \\[0.3em]
+       S_i(d_{i,2})& 1           \\[0.3em]
+       \cdotp\cdotp\cdotp   &1        \\[0.3em]
+       S_i(d_{i,n})& 1           \\[0.3em]
+     \end{bmatrix}
+     *[a_i b_i]=
+     \begin{bmatrix}
+       S_C(d_{i,1})           \\[0.3em]
+       S_C(d_{i,2})           \\[0.3em]
+       \cdotp\cdotp\cdotp         \\[0.3em]
+       S_C(d_{i,n})           \\[0.3em]
+     \end{bmatrix}
+$
+\end_inset
+
+,
+\end_layout
+
+\begin_layout Standard
+
+notice that 
+\begin_inset Formula $a_i$
+\end_inset
+
+ and 
+\begin_inset Formula $b_i$
+\end_inset
+
+ is the parameters for collection i to transform its score to the global score. Then we use some linear algebra methods to derivation an easier way to get the parameters. Denote 
+\begin_inset Formula $\begin{bmatrix}
+       S_i(d_{i,1})& 1           \\[0.3em]
+       S_i(d_{i,2})& 1           \\[0.3em]
+       \cdotp\cdotp\cdotp   &1        \\[0.3em]
+       S_i(d_{i,n})& 1           \\[0.3em]
+     \end{bmatrix}$
+\end_inset
+
+ as 
+\begin_inset Formula $X$
+\end_inset
+
+, 
+\begin_inset Formula $[a_i,b_i]$
+\end_inset
+
+ as 
+\begin_inset Formula $W$
+\end_inset
+
+ and 
+\begin_inset Formula $Y$
+\end_inset
+
+ is 
+\begin_inset Formula $    \begin{bmatrix}
+       S_C(d_{i,1})           \\[0.3em]
+       S_C(d_{i,2})           \\[0.3em]
+       \cdotp\cdotp\cdotp         \\[0.3em]
+       S_C(d_{i,n})           \\[0.3em]
+     \end{bmatrix}$
+\end_inset
+
+. Then we get 
+\begin_inset Formula $X*W=Y$
+\end_inset
+
+, and so 
+\begin_inset Formula $W=(X^TX)^{-1}(Y^TX)$
+\end_inset
+
+. Still, the algorithm need the original document score form each collection, which makes it difficult to implement in practise.
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Aslam2001"
+
+\end_inset
+
+ proposed an algorithm based on the Bayes's theorem. They built a probabilistic model which is used to estimate the probability of the relevance of a document to a query. Given a document d, 
+\begin_inset Formula $r_i(d)$
+\end_inset
+
+ is the rank assigned by the 
+\begin_inset Formula $ith$
+\end_inset
+
+ collection to a query. So the probabilities of a document is relevant and irrelevant given the ranking 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $r_1$
+\end_inset
+
+,
+\begin_inset Formula $r_2$
+\end_inset
+
+,
+\begin_inset Formula $\cdotp\cdotp\cdotp$
+\end_inset
+
+
+\begin_inset Formula $r_n$
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+ are 
+\begin_inset Formula $P_{irr}=Pr[rel|r_1,r_2,r_3\cdotp\cdotp\cdotp,r_n]$
+\end_inset
+
+ and 
+\begin_inset Formula $P_{irr}=Pr[irr|r_1,r_2,r_3\cdotp\cdotp\cdotp,r_4]$
+\end_inset
+
+. Odds(equation 2.8) of relevance is widely used as a measurement to compute the possibility. 
+\begin_inset Formula \begin{equation} 
+	O_{rel}=P_{rel}/P_{irr} 
+\end{equation}
+\end_inset
+
+By Byes rules, we can get 
+\begin_inset Formula \begin{equation} 
+	\begin{split}
+		P_{rel}=\frac{Pr[r_1,r_2,r_3\cdotp\cdotp\cdotp,r_n|rel]\cdotp{Pr[rel]}}{Pr[r_1,r_2,r_3\cdotp\cdotp\cdotp,r_n]}
+	\\ and\\
+		P_{rel}=\frac{Pr[r_1,r_2,r_3\cdotp\cdotp\cdotp,r_n|irr]\cdotp{Pr[irr]}}{Pr[r_1,r_2,r_3\cdotp\cdotp\cdotp,r_n]}
+	\end{split}
+ \end{equation}
+\end_inset
+
+, so we can compute the odds by 
+\begin_inset Formula \begin{equation}
+	\begin{split}
+		O_rel=\frac{Pr[r_1,r_2,r_3\cdotp\cdotp\cdotp,r_n|rel]\cdotp{Pr[rel]}}{Pr[r_1,r_2,r_3\cdotp\cdotp\cdotp,r_n|irr]\cdotp{Pr[irr]}}\\
+			=\frac{\prod_iPr[r_i|rel]\cdotp{Pr[rel]}}{\prod_iPr[r_i|irr]\cdotp{Pr[irr]}}
+	\end{split} 
+\end{equation}
+\end_inset
+
+taking log on both side and we can get a new formula: 
+\begin_inset Formula \begin{equation}
+	\log{O_{rel}}=\sum\limits_{i}\log{\frac{Pr[r_i]|rel}{Pr[r_i|irr]}}+\log{\frac{Pr[rel]}{Pr[irr]}}
+\end{equation}
+\end_inset
+
+because 
+\begin_inset Formula $\frac{Pr[rel]}{Pr[irr]}$
+\end_inset
+
+ is a common term for a document, which takes the same value so we can drop it and get the final formula 
+\begin_inset Formula \begin{equation}
+	 rel(d)=\sum\limits_i{\log\frac{Pr[r_i(d)|rel]}{Pr[r_i(d)|irr]}}
+\end{equation}
+\end_inset
+
+
+\begin_inset Formula $Pr[r_i(d)|rel]$
+\end_inset
+
+ represent the probability that a relevant document would be ranked at level 
+\begin_inset Formula $r_i$
+\end_inset
+
+ by system i, while the 
+\begin_inset Formula $Pr[r_i(d)|irr]$
+\end_inset
+
+is the probability that an irrelevant document would be ranked at level 
+\begin_inset Formula $r_i$
+\end_inset
+
+ by system i. The model sounds reasonable in theory but hard to implement in reality. In the paper, the author used the trec_eval to calculate these probabilities by human, which definitely cannot be applied to real world scenario. It may be practical to use training data to get these probabilities in real world. But, as the collections keep changes all the time and the training will take a vast mount of time, itÕs hard to guarantee the efficiency and precision. Another example of machine learning approach is done by 
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Voorhees1995"
+
+\end_inset
+
+. They proposed two algorithms in 
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Voorhees1995"
+
+\end_inset
+
+, the first of which is Modeling relevant document distribution. Consider a scenario where meta-search engine is built. For a query 
+\begin_inset Formula $Q$
+\end_inset
+
+, each collection 
+\begin_inset Formula $I$
+\end_inset
+
+ has 
+\begin_inset Formula $n_Q^I$
+\end_inset
+
+ numbers of relevant documents. As each component search engine execute a search on the query 
+\begin_inset Formula $Q$
+\end_inset
+
+, it returns a list of documents ranged by the similarity in a descending order. And there exists a relation between the number of relevant documents and the size of returned documents, denoted by a distribution 
+\begin_inset Formula $F_Q^I(S)$
+\end_inset
+
+, where S is the size of the returned documents and 
+\begin_inset Formula $F$
+\end_inset
+
+ is a function mapping the size of returned documents to the number of relevant documents. For C collections 
+\begin_inset Formula $I_1,I_2,\cdotp\cdotp\cdotp,I_C$
+\end_inset
+
+, the aim of the algorithm is to find retrieved document sizes of each collection, denoted by 
+\begin_inset Formula $\lambda_1,\lambda_2,\cdotp\cdotp\cdotp,\lambda_i$
+\end_inset
+
+ that can maximum the total number of relevant documents, which is 
+\begin_inset Formula $\sum\limits_{i=1}^CF_Q^{I_i}(\lambda_i)$
+\end_inset
+
+, notice that 
+\begin_inset Formula $\sum\limits{i=1}^C{\lambda_i}=N$
+\end_inset
+
+ where 
+\begin_inset Formula $N$
+\end_inset
+
+ is the total number of retrieved documents. In the algorithm, they use training data to build the distribution on past queries. When a query comes, they use k nearest neighbours based on text similarity to get the average relevant document distribution. A maximisation procedure is applied to find the suitable 
+\begin_inset Formula $\lambda_i$
+\end_inset
+
+ for each collection. Then final result is ranked using a so called C-faced die method. The document at rank k is obtained from the top of the collection with the most amount of remaining documents. The document then is removed of the original list. CLUSTERING(To be continued). 
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Renda2003"
+
+\end_inset
+
+:Markov chain(to be continue)
+\end_layout
+
+\begin_layout Subsection
+
+Aggregated-Meta-Search-Specific Methods
+\end_layout
+
+\begin_layout Standard
+
+In the environment of aggregated meta-search, there exists lot of document overlaps among different collections and thus can be regarded as a data fusion problems. There exits many algorithms based on the performances of documents on different collections and use aggregated methods to evaluate its final score. Linear combination methods are typical example of aggregated methods. For example, Fox and Shaw
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Fox1994a"
+
+\end_inset
+
+ developed 6 methods to normalise the overall similarity across all the individual search systems based on SMART by combining the scores across all the collections. 
+\begin_inset Float table
+placement ht
+wide false
+sideways false
+status open
+
+
+\begin_layout Standard
+
+
+\begin_inset Caption
+
+\begin_layout Standard
+
+Comb Algorithms
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% title of Table 
+\backslash
+centering % used for centering table
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Tabular 
+<lyxtabular version="3" rows="8" columns="2">
+<features tabularvalignment="middle" tabularwidth="0pt">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% centered columns (4 columns) 
+\backslash
+hline
+\backslash
+hline %insertsdouble horizontal lines 
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+NameÊÊÊ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+SimilarityÊ
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+[0.5ex] 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% inserts table %heading
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% inserts single horizontal line
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+CombMAX 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+MAX(Individual Similarities)ÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊ 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+ÊÊÊÊÊÊ CombMIN 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+MIN(Individual Similarities)ÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊ 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+ÊÊÊÊÊÊÊ CombSUM
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+SUM(Individual Similarities)ÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊ 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+ÊÊÊÊÊÊÊÊ CombANZ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+Number of Nonzero SimilaritiesÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊ
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+ÊÊÊÊÊÊÊÊ CombMNZ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+SUM(Individual Similarities)* Number of Nonzero Similarities 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+CombMED 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+MED(Individual Similarities)ÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊ 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+[1ex] 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% [1ex] adds vertical space 
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+%inserts single line 
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" usebox="none">
+\begin_inset Text
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "table:nonlin"
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+%is used to refer this table in the text 
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+These 6 algorithms(Table 2.1), uses aggregated methods to re-calculate the score of a document among all the item sets. 
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Vogt1998"
+
+\end_inset
+
+ also proposed a linear combination model named LC Model, the idea is to use linear regression to learn a uniformed weight to represent different weights in different collections. The value of a document is calculated by: 
+\begin_inset Formula \begin{equation}
+ 	\rho(w,x,q)=sin(w)\rho_1(x,q)+cos(w)\rho_2(x,q)
+ \end{equation}
+\end_inset
+
+Apart from the aggregated methods based on the raw score, some algorithms use the rank in different collections to conduct the aggregation methods. For exampe, Borda-fuse
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Aslam2001"
+
+\end_inset
+
+ was a voting procedure popularly used in Election scenario, and was modified to apply to our metasearch systems. In this model, servers are acting as the role of a voter, and each document is just like the ÒcandidateÓ. Each server or retrieval system holds its own preference of ranking on all the documents. And then, the top ranked documents are assigned c points for candidates whose size is c, and c-1 points for the next, etc. Then we sum the score of each document and rank them according to the score. Due to the facts that different server may have different weight on different topics, they assigned weights to each server and then modified the method to a weighted borda-fuse algorithm. This model, works quite well for the system, which has many overlap in the documents. However, in reality, the repositories may vary quite differently. In that case, each document may just appears once in each rank list, which means they may distributed evenly among all the searching systems and has a lot of documents with the same scores. So the model cannot work well in the situation when there is little intersection within documents. And as a fact, their experiments showed that the new algorithm cannot outperform the baseline algorithm, but in most case, can perform better than the best-input system. 
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Renda2003"
+
+\end_inset
+
+ also proved that Borda-fuse algorithm is not competitive with score-based algorithms. Another algorithm using ranks in different collections to get a new rank is named 
+\shape italic
+Condorcet Fusion
+\shape default
+ by 
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Montague2002"
+
+\end_inset
+
+. The algorithm is developed based on a social choice voting model called Condorcet voting algorithm. The condorcet voting algorithm uses the times a candidate defeat others as a criteria to determine the winner instead of the pure position like 
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Aslam2001"
+
+\end_inset
+
+ did in the Borda-fuse algorithm. The algorithm is quite simple:
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset Float algorithm
+wide false
+sideways false
+status open
+
+
+\begin_layout Standard
+
+
+\begin_inset Caption
+
+\begin_layout Standard
+
+Simple Majority Runoff
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "ag:smr>"
+
+\end_inset
+
+ 1: count = 0
+\end_layout
+
+\begin_layout Standard
+
+2: for each of the k search systems Si do
+\end_layout
+
+\begin_layout Standard
+
+3: 
+\begin_inset Formula $ \mspace{5mu}$
+\end_inset
+
+If Si ranks d1 above d2, count++
+\end_layout
+
+\begin_layout Standard
+
+4: 
+\begin_inset Formula $\mspace{5mu}$
+\end_inset
+
+If Si ranks d2 above d1, count
+\begin_inset Formula $--$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+5: If count > 0, rank d1 better than d2
+\end_layout
+
+\begin_layout Standard
+
+6: Else rank d2 better than d1 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset Float algorithm
+wide false
+sideways false
+status open
+
+
+\begin_layout Standard
+
+
+\begin_inset Caption
+
+\begin_layout Standard
+
+Condorcet-fuse
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "ag:cf>"
+
+\end_inset
+
+ 1: Create a list L of all the documents
+\end_layout
+
+\begin_layout Standard
+
+2: Sort(L) using Algorithm 1 as the comparison function
+\end_layout
+
+\begin_layout Standard
+
+3: Output the sorted list of documents 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+And they also tried to use training data to get a sever weight by the average precision of individual search system. 
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Wu2013"
+
+\end_inset
+
+ modified the weighted condorcet fusion algorithms using a linear discriminant analysis(LDA) technology to train the weights.
+\end_layout
+
+\begin_layout Section
+
+Evaluation
+\end_layout
+
+\begin_layout Standard
+
+As a matter of fact, it is a tough task to judge the performance of an information retrieval system. Many meta-searchers have trying to persuade others that their algorithms are better, but none of these algorithms can perform stably in every situation. And others are trying to find good ways to do these judgments on these algorithms. For lots of algorithms developed before, it is a common way to test the performance based on the Test Collection like TREC
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Voorhees2005"
+
+\end_inset
+
+. However, as discussed by 
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Thomas2006"
+
+\end_inset
+
+, the test collection approach is lack of private data and will not evolve as a real data source. Another approach is to judge the performance based on search log like click-through data. This approach is based on the hypothesis that high-ranked documents tend to have more clicks. However, the hypothesis does not always hold in reality. On the other hand, the search log is not easy to achieve in an un-cooperative environment. Other methods like Human experimentation in the lab as well as naturalistic observation are widely used in the practice and they both have their drawbacks. 
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Thomas2006"
+
+\end_inset
+
+ also implemented a tool to evaluate the performance based on embedded comparison and log analysis.
+\end_layout
+
+\begin_layout Standard
+
+ALL:
+\begin_inset CommandInset citation
+LatexCommand cite
+after ""
+key "Callan1992,Callan2000,Renda2003,Thomas2006,Aslam2001,Callan1995,Vogt1998,Rasolofo2003,Dwork2001,Si2003,Thomas2009,Voorhees2005,Rasolofo2001,Voorhees1995,Bergman2001,Jacso2004,DeKretser 1998,Danzig1991,Jones2004,Robertson1994,Shokouhi2007,Fox1994a,Dorn2008,Lee1997,Montague2002,Markov2012,Zhou2012,Hong2012,Shokouhi2009"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

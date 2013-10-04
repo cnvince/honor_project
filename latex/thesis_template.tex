@@ -1,0 +1,74 @@
+\documentclass[twoside,onecolumn,11pt,a4paper]{book}
+\usepackage{anuthesis}
+\usepackage{fancyhdr}
+\usepackage[toc,page]{appendix}
+\usepackage{graphicx}
+\usepackage{cite}
+\usepackage{amsmath}
+\usepackage{algpseudocode}
+\usepackage{algorithm}
+\usepackage{booktabs}
+\usepackage{listings}
+\usepackage{tikz}
+\usepackage{subfigure}
+\usepackage{csvsimple}
+\usepackage{pgfplotstable}
+\usepackage{blindtext}
+\usepackage{tabularx}
+\usepackage{color}
+ \renewcommand{\bottomfraction}{0.7}  
+
+\begin{document}
+
+\pagenumbering{roman}  % first use Roman numerals for page numbers
+
+\begin{titlepage}
+\title{\textbf{Merging algorithms for Meta-Search}\\[2cm]}
+ \author{\textbf{Peng-Fei Li}\\[6cm]
+ \textbf{A thesis submitted for the degree of}\\
+ \textbf{Master with Honours in Computing of} \\
+ \textbf{The Australian National University}\\[1cm]}
+ \date{\textbf{March, 2013}}
+\maketitle
+ \end{titlepage}
+ 
+ \sloppy
+ 
+\chapter*{Declaration}
+\addcontentsline{toc}{chapter}{Declaration}
+
+To be done.
+
+
+\vspace{20mm}  % vertical space
+
+\hspace{80mm}\rule{40mm}{.15mm}\par   % horizontal space, line, start new line
+\hspace{80mm} 
+\hspace{80mm} 
+
+% include statements effectively insert the contents of the named file.
+% They are not necessary, but are useful for organising your work.
+% They always start a  new page.
+
+\include{thanks}  % include the contents of the file thanks.tex
+
+\include{abstract}  % include the file abstract.tex
+
+\tableofcontents
+\listoffigures % makes a list of figures
+%\listoftables  % uncomment this if you have tables
+
+\pagenumbering{arabic} % switch to Arabic numerals for page numbers
+\setcounter{page}{1}  % set page number to 1
+
+\include{chapter1}  % include the file chapter1.tex
+
+\include{chapter2} % include the file chapter2.tex
+\include{c_experiment}
+\include{Result_Analysis}
+\include{Conclusion}
+\include{Appendices}
+\bibliography{mybib}
+\bibliographystyle{plain}
+
+\end{document}
