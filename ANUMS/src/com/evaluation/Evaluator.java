@@ -305,12 +305,14 @@ public class Evaluator {
 			ArrayList<String> downSet = new ArrayList<String>();
 			HashMap<String, Double> aveMap = aveAlgorithm();
 			for (String query : queries) {
-				ScoreMap smap=judgeMap.getScoreMap(query);
+				ScoreMap smap = judgeMap.getScoreMap(query);
 				double ndcg = calNDCGAtK(10, query, method);
 				if (ndcg >= aveMap.get(query)) {
-					upSet.add(query+" "+smap.getAveScore()+" "+smap.getScoreDv());
+					upSet.add(query + " " + smap.getAveScore() + " "
+							+ smap.getScoreDv());
 				} else
-					downSet.add(query+" "+smap.getAveScore()+" "+smap.getScoreDv());
+					downSet.add(query + " " + smap.getAveScore() + " "
+							+ smap.getScoreDv());
 			}
 			for (String query : upSet) {
 				ps.println(query);
@@ -545,7 +547,7 @@ public class Evaluator {
 
 		// configure.fetchDataFromWeb();
 		ArrayList<Integer> algorithms = new ArrayList<Integer>();
-//		 algorithms.add(ALGORITHM.OPRR);
+		// algorithms.add(ALGORITHM.OPRR);
 		algorithms.add(ALGORITHM.GDS_SS);
 		algorithms.add(ALGORITHM.GDS_TS);
 		algorithms.add(ALGORITHM.GDS_TSS);
@@ -557,24 +559,25 @@ public class Evaluator {
 		algorithms.add(ALGORITHM.MW);
 		algorithms.add(ALGORITHM.LOCAL);
 		algorithms.add(ALGORITHM.OGDS);
-//		algorithms.add(ALGORITHM.SGDS);
+		// algorithms.add(ALGORITHM.SGDS);
 		Evaluator evaluator = new Evaluator(algorithms, false);
-		evaluator.drawNDCGAtK(10, "NDCG@10");
-//		 Evaluator evaluator = new Evaluator(algorithms, true);
+		// evaluator.drawNDCGAtK(10, "NDCG@10");
+		// Evaluator evaluator = new Evaluator(algorithms, true);
 		// ArrayList<String>[] groups=QueryUtility.groupQueries(4);
 		// Evaluator evaluator=new Evaluator(algorithms,groups[0],false);
 		// evaluator.drawNDCGAtK(10,"People_NDCG");
 		// evaluator=new Evaluator(algorithms,groups[1],false);
 		// evaluator.drawNDCGAtK(10,"Np_NDCG");
-//		 evaluator.testALLQM();
+		// evaluator.testALLQM();
 		// evaluator.evaNDCG(algorithms);
 		// evaluator.outputNDCG();
 		// evaluator.drawNDCGAtK(10);
-//		 evaluator.precisionAtK(10);
-//		 evaluator.testRR();
+		// evaluator.precisionAtK(10);
+		// evaluator.testRR();
 		// evaluator.RRsingle();
 		// evaluator.CompareMethod(ALGORITHM.LMS,ALGORITHM.GDS_DTSS);
 		// evaluator.CompareMethod(ALGORITHM.SGDS,ALGORITHM.LMS);
+		evaluator.CompareMethod(ALGORITHM.GDS_SS, ALGORITHM.GDS_TS);
 
 	}
 }

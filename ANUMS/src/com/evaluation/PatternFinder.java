@@ -491,7 +491,6 @@ public class PatternFinder {
 	
 	
 	
-	
 	public static void main(String[] args) {
 
 		PatternFinder pf=new PatternFinder();
