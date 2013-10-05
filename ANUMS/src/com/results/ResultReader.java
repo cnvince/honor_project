@@ -17,6 +17,7 @@ import org.xml.sax.SAXException;
 import com.resultpool.RankList;
 import com.resultpool.ResultTable;
 import com.resultpool.Server;
+import com.util.Configure;
 import com.util.FileFinder;
 import com.util.ReadtoObject;
 
@@ -28,7 +29,7 @@ public class ResultReader {
 	public static HashMap<Integer,Server> getServerInfo(String query)
 	{
 		HashMap<Integer, Server> serverinfo=new HashMap<Integer,Server>();
-		String serverPath="server/"+query;
+		String serverPath=Configure.ServerPath+query;
 		ArrayList<File> files=FileFinder.GetAllFiles(serverPath, ".xml", false);
 		for(File file:files)
 		{

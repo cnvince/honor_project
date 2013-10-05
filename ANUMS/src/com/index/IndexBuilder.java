@@ -37,6 +37,7 @@ import org.jsoup.safety.Whitelist;
 import com.resultpool.RankList;
 import com.resultpool.ResultTable;
 import com.results.Result;
+import com.util.Configure;
 
 /**
  * @author user
@@ -73,7 +74,7 @@ public class IndexBuilder {
 			for (Result result : results) {
 				String Title = result.getTitle();
 				String docid = result.getDocID();
-				String docPath = "pages/" + docid + ".html";
+				String docPath = Configure.PagePath + docid + ".html";
 				String sCurrentLine;
 				File file=new File(docPath);
 				String content=null;
