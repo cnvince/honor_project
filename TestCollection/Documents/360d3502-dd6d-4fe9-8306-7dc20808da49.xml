@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Information on student fees including tuition fees for domestic and international students, Commonwealth support, important dates and more.</string>
+  </void>
+  <void property="docID">
+   <string>360d3502-dd6d-4fe9-8306-7dc20808da49</string>
+  </void>
+  <void property="link">
+   <string>http://students.anu.edu.au/fees/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Information on student fees including tuition fees for domestic and international students, Commonwealth support, important dates and more.</string>
+  </void>
+  <void property="title">
+   <string>Fees - Students - ANU</string>
+  </void>
+ </object>
+</java>

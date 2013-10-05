@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Other Pages: (1-3 of 3 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Other Pages: (1-3 of 3 matches)</string>
+  </void>
+  <void property="docID">
+   <string>2abe9d35-01b0-4710-9067-99c21446e136</string>
+  </void>
+  <void property="link">
+   <string>https://studyat.anu.edu.au/2013/interests/undergraduate/73</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>Study at ANU Interest: Physics - Undergraduate</string>
+  </void>
+ </object>
+</java>

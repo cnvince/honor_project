@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Burnet, F. M. (Frank Macfarlane), Sir, 1899-1985 
+Sydney : Australian Broadcasting Commission, 1979</string>
+  </void>
+  <void property="docID">
+   <string>c7b9b4e5-fbf5-4b90-98a9-423b9aeadd05</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YSir+Mark+Oliphant&amp;SORT=D/YSir+Mark+Oliphant&amp;SORT=D&amp;SUBKEY=Sir+Mark+Oliphant/1%2C9%2C9%2CB/frameset&amp;FF=YSir+Mark+Oliphant&amp;SORT=D&amp;3%2C3%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Burnet, F. M. (Frank Macfarlane), Sir, 1899-1985 
+Sydney : Australian Broadcasting Commission, 1979</string>
+  </void>
+  <void property="title">
+   <string>Sir Frank Macfarlane Burnet on ageing &amp; Looking back</string>
+  </void>
+ </object>
+</java>

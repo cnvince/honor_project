@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences
+French Language, Applied Linguistics And Educational Linguistics</string>
+  </void>
+  <void property="docID">
+   <string>b483a594-7cac-4ada-841e-fb38335fc6e3</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/crozet-c</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences
+French Language, Applied Linguistics And Educational Linguistics</string>
+  </void>
+  <void property="title">
+   <string>Dr Chantal Crozet</string>
+  </void>
+ </object>
+</java>

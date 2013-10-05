@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Mietzner, M. 1999. &apos;Nationalism and Islamic Politics: Political Islam in the ...</string>
+  </void>
+  <void property="docID">
+   <string>4a8cda4b-fa46-42f0-b429-0af6c7febf9e</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/57082</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Mietzner, M. 1999. &apos;Nationalism and Islamic Politics: Political Islam in the ...</string>
+  </void>
+  <void property="title">
+   <string>Nationalism and Islamic Politics: Political Islam in the Post-Soeharto Era</string>
+  </void>
+ </object>
+</java>

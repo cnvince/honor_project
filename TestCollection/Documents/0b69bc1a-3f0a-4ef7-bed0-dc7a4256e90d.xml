@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Radical Intellectuals in the 1930s</string>
+  </void>
+  <void property="docID">
+   <string>0b69bc1a-3f0a-4ef7-bed0-dc7a4256e90d</string>
+  </void>
+  <void property="link">
+   <string>http://marxists.anu.edu.au/archive/novack/works/1960/x03.htm</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Radical Intellectuals in the 1930s</string>
+  </void>
+  <void property="title">
+   <string>John Dewey’s Theories of Education</string>
+  </void>
+ </object>
+</java>

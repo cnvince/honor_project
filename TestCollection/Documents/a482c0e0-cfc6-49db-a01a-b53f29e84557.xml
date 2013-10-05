@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Windsor, T, Rodgers, B, Butterworth, P et al 2007, &apos;Retirement and the sense ...</string>
+  </void>
+  <void property="docID">
+   <string>a482c0e0-cfc6-49db-a01a-b53f29e84557</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/16861</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Windsor, T, Rodgers, B, Butterworth, P et al 2007, &apos;Retirement and the sense ...</string>
+  </void>
+  <void property="title">
+   <string>Retirement and the sense of control in young-old adults: the mediating role of engagement in goal-directed activities</string>
+  </void>
+ </object>
+</java>

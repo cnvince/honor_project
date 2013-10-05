@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Medicine, Biology and Environment
+Primary Health Care, Medicine, Nursing And Health Curriculum And Pedagogy, So...</string>
+  </void>
+  <void property="docID">
+   <string>52307ed0-d5f9-47aa-af8a-a7662c12d6c3</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/dwan-k</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Medicine, Biology and Environment
+Primary Health Care, Medicine, Nursing And Health Curriculum And Pedagogy, So...</string>
+  </void>
+  <void property="title">
+   <string>Dr Kathryn Dwan</string>
+  </void>
+ </object>
+</java>

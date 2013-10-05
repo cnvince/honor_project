@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Morton, S, Hoegh-Guldberg, O, Lindenmayer, D et al 2009, &apos;The Big Ecological ...</string>
+  </void>
+  <void property="docID">
+   <string>552d6fa7-eedb-45e8-89d5-724f649a54a7</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/46435</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Morton, S, Hoegh-Guldberg, O, Lindenmayer, D et al 2009, &apos;The Big Ecological ...</string>
+  </void>
+  <void property="title">
+   <string>The Big Ecological Questions Inhibiting Effective Environment Management in Australia</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Peter Strazdins and Prof. Alistair Rendell at ANU. At December 2011, I was awarded Ph.D degree in Computer Science at ANU. ... Jie Cai, Peter Strazdins, Alistair Rendell,&quot;Region-Based Prefetch Techniques for Software Distributed Shared Memory Systems&quot;,</string>
+  </void>
+  <void property="docID">
+   <string>aada079c-9dee-4c82-b6c8-69095118f914</string>
+  </void>
+  <void property="link">
+   <string>http://cs.anu.edu.au/~Jie.Cai/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Peter Strazdins and Prof. Alistair Rendell at ANU. At December 2011, I was awarded Ph.D degree in Computer Science at ANU. ... Jie Cai, Peter Strazdins, Alistair Rendell,&quot;Region-Based Prefetch Techniques for Software Distributed Shared Memory Systems&quot;,</string>
+  </void>
+  <void property="title">
+   <string>Jie Cai&apos;s Home Page -- è¡æ°çäž»é¡µ</string>
+  </void>
+ </object>
+</java>

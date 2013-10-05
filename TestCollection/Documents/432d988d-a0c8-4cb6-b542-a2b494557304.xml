@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Gross, Catherine 
+2010</string>
+  </void>
+  <void property="docID">
+   <string>432d988d-a0c8-4cb6-b542-a2b494557304</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Yfenner+school&amp;SORT=D/Yfenner+school&amp;SORT=D&amp;SUBKEY=fenner+school/1%2C15%2C15%2CB/frameset&amp;FF=Yfenner+school&amp;SORT=D&amp;5%2C5%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Gross, Catherine 
+2010</string>
+  </void>
+  <void property="title">
+   <string>Water under the bridge : fairness and justice in environmental decision-making</string>
+  </void>
+ </object>
+</java>

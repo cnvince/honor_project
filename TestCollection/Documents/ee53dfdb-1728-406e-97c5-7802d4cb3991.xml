@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Peace Building and Responsive Governance in Asia and the Pacific</string>
+  </void>
+  <void property="docID">
+   <string>ee53dfdb-1728-406e-97c5-7802d4cb3991</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/608</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Peace Building and Responsive Governance in Asia and the Pacific</string>
+  </void>
+  <void property="title">
+   <string>Peace Building and Responsive Governance in Asia and the Pacific</string>
+  </void>
+ </object>
+</java>

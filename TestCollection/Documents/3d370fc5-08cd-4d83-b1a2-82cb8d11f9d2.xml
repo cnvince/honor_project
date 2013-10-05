@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>You are here.  E áu le ina ilau a tama ita i: exploring gender equality issues in Sāmoa. ... E áu le ina ilau a tama ita i: exploring gender equality issues in Sāmoa.</string>
+  </void>
+  <void property="docID">
+   <string>3d370fc5-08cd-4d83-b1a2-82cb8d11f9d2</string>
+  </void>
+  <void property="link">
+   <string>http://asiapacific.anu.edu.au/cap-e...ing-gender-equality-issues-s%C4%81moa</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>You are here.  E áu le ina ilau a tama ita i: exploring gender equality issues in Sāmoa. ... E áu le ina ilau a tama ita i: exploring gender equality issues in Sāmoa.</string>
+  </void>
+  <void property="title">
+   <string>E áu le ‘ina’ilau a tama‘ita‘i: exploring gender equality issues in...</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Courses: (1-3 of 2689 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Courses: (1-3 of 2689 matches)</string>
+  </void>
+  <void property="docID">
+   <string>443de0b9-5277-4b87-9263-d72d8ce312cd</string>
+  </void>
+  <void property="link">
+   <string>https://studyat.anu.edu.au/2013/courses/ENGN4511.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>ENGN4511 - ENGN4511 Composite Materials</string>
+  </void>
+ </object>
+</java>

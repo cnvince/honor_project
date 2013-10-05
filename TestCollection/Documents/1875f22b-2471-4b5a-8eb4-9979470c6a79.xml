@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>McAllister, I &amp; Makkai, T 2003, &apos;Antisocial behaviour among young Australians...</string>
+  </void>
+  <void property="docID">
+   <string>1875f22b-2471-4b5a-8eb4-9979470c6a79</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/19179</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>McAllister, I &amp; Makkai, T 2003, &apos;Antisocial behaviour among young Australians...</string>
+  </void>
+  <void property="title">
+   <string>Antisocial behaviour among young Australians while under the influence of illicit drugs</string>
+  </void>
+ </object>
+</java>

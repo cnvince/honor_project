@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Law
+Legal Practice, Lawyering And The Legal Profession</string>
+  </void>
+  <void property="docID">
+   <string>70136406-da2c-4531-b7f5-b91036ad0af5</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/holmes-va</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Law
+Legal Practice, Lawyering And The Legal Profession</string>
+  </void>
+  <void property="title">
+   <string>Ms Vivien Holmes</string>
+  </void>
+ </object>
+</java>

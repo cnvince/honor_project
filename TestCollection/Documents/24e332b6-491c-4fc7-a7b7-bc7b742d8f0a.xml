@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences</string>
+  </void>
+  <void property="docID">
+   <string>24e332b6-491c-4fc7-a7b7-bc7b742d8f0a</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/lupo-n</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences</string>
+  </void>
+  <void property="title">
+   <string>Professor Nicola Lupo</string>
+  </void>
+ </object>
+</java>

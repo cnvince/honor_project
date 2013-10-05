@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Sanders, W</string>
+  </void>
+  <void property="date">
+   <string>2004</string>
+  </void>
+  <void property="displaySummary">
+   <string>2004 Sanders, W</string>
+  </void>
+  <void property="docID">
+   <string>5719fc6d-22ff-46f1-a7b8-1957f92e11f9</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/42708</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Indigenous people in the Alice Springs town camps: the 2001 census data</string>
+  </void>
+ </object>
+</java>

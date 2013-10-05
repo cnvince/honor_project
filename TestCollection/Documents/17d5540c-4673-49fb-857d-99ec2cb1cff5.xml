@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>The WEDGE is an innovative visualisation system aimed at assisting researchers in almost every field to make sense of their data. ... The viewing area is big enough to allow several people to view the data at the same time.</string>
+  </void>
+  <void property="docID">
+   <string>17d5540c-4673-49fb-857d-99ec2cb1cff5</string>
+  </void>
+  <void property="link">
+   <string>http://wedge.anu.edu.au/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>The WEDGE is an innovative visualisation system aimed at assisting researchers in almost every field to make sense of their data. ... The viewing area is big enough to allow several people to view the data at the same time.</string>
+  </void>
+  <void property="title">
+   <string>The WEDGE</string>
+  </void>
+ </object>
+</java>

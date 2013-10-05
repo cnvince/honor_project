@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>An innovative ANU music education program is giving voice to thousands of young students. ... But why does that have to happen to a five-year old child starting an instrument?</string>
+  </void>
+  <void property="docID">
+   <string>bb5bbc53-907a-4621-86bf-b26feab50c02</string>
+  </void>
+  <void property="link">
+   <string>http://news.anu.edu.au/2010/10/29/teaching-in-tune/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>An innovative ANU music education program is giving voice to thousands of young students. ... But why does that have to happen to a five-year old child starting an instrument?</string>
+  </void>
+  <void property="title">
+   <string>Teaching in tune - News &amp; events - ANU</string>
+  </void>
+ </object>
+</java>

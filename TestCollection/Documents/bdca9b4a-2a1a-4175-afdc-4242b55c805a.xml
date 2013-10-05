@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Programs: (1-2 of 2 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Programs: (1-2 of 2 matches)</string>
+  </void>
+  <void property="docID">
+   <string>bdca9b4a-2a1a-4175-afdc-4242b55c805a</string>
+  </void>
+  <void property="link">
+   <string>http://studyat.anu.edu.au/programs/4661HPHB;all.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>Bachelor of Philosophy (Honours)/Bachelor of Science (Honours)/Joint Degree ANU-NUS (4661HPHB)</string>
+  </void>
+ </object>
+</java>

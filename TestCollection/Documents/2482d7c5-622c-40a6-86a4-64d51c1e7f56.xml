@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Producing Biodiversity: a History of Science in Australia&apos;s Desert Lands</string>
+  </void>
+  <void property="docID">
+   <string>2482d7c5-622c-40a6-86a4-64d51c1e7f56</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/2171</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Producing Biodiversity: a History of Science in Australia&apos;s Desert Lands</string>
+  </void>
+  <void property="title">
+   <string>Producing Biodiversity: a History of Science in Australia&apos;s Desert Lands</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Immigration and Citizenship, Queensland Department of Environment and Resource Management, Joint Committee of Public Accounts and Audit, Charities and Not-for-Profit Task Force, National Skills Standards Council, Department of Education,</string>
+  </void>
+  <void property="docID">
+   <string>de8b1cb4-1c75-4cdf-aeca-8debbee05359</string>
+  </void>
+  <void property="link">
+   <string>http://vab.anu.edu.au/cv.pdf</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Immigration and Citizenship, Queensland Department of Environment and Resource Management, Joint Committee of Public Accounts and Audit, Charities and Not-for-Profit Task Force, National Skills Standards Council, Department of Education,</string>
+  </void>
+  <void property="title">
+   <string>[PDF]
+          
+          
+          
+          
+          
+            Microsoft Word - VBcv_3_october.doc</string>
+  </void>
+ </object>
+</java>

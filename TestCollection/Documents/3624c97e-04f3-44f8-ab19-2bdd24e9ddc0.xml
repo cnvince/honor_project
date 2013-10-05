@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Kirk, V 2006, Professor Frank Fenner Tapestry, University House ANU, Canberra...</string>
+  </void>
+  <void property="docID">
+   <string>3624c97e-04f3-44f8-ab19-2bdd24e9ddc0</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/209</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Kirk, V 2006, Professor Frank Fenner Tapestry, University House ANU, Canberra...</string>
+  </void>
+  <void property="title">
+   <string>Professor Frank Fenner Tapestry (the narrative in contemporary tapestry portfolio)</string>
+  </void>
+ </object>
+</java>

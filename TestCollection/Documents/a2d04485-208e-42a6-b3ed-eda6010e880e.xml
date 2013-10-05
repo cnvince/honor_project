@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Maley, W 2012, Afghanistan War, in The World Book Encyclopedia, Vol.I</string>
+  </void>
+  <void property="docID">
+   <string>a2d04485-208e-42a6-b3ed-eda6010e880e</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/75982</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Maley, W 2012, Afghanistan War, in The World Book Encyclopedia, Vol.I</string>
+  </void>
+  <void property="title">
+   <string>Afghanistan War</string>
+  </void>
+ </object>
+</java>

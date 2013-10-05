@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Courses: (1-10 of 14 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Courses: (1-10 of 14 matches)</string>
+  </void>
+  <void property="docID">
+   <string>9d21c060-598f-4436-9a41-dc7537dde23e</string>
+  </void>
+  <void property="link">
+   <string>https://studyat.anu.edu.au/2013/courses/SOCY2053.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>SOCY2053 - SOCY2053 Imagining the Future: The Social Origins of Utopias and Science Fiction</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Roberts, Claire, 1959- 
+London : Reaktion Books, 2013</string>
+  </void>
+  <void property="docID">
+   <string>332ea1b2-65be-4f0a-95b5-cac9c6564504</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YChina&amp;SORT=D/YChina&amp;SORT=D&amp;SUBKEY=China/1%2C32000%2C32000%2CB/frameset&amp;FF=YChina&amp;SORT=D&amp;12%2C12%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Roberts, Claire, 1959- 
+London : Reaktion Books, 2013</string>
+  </void>
+  <void property="title">
+   <string>Photography and China</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>I then spent three years at the Max-Planck Institute for the Physics of Complex Systems where I worked on the theory of entanglement measures and its dynamics in open quantum ... Rev. Lett. Dr. André Ricardo Ribeiro de Carvalho. Department of Quantum</string>
+  </void>
+  <void property="docID">
+   <string>1f6580fe-d0fe-4175-a37b-804bf791b3ac</string>
+  </void>
+  <void property="link">
+   <string>http://qubit.anu.edu.au/~arrc/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>I then spent three years at the Max-Planck Institute for the Physics of Complex Systems where I worked on the theory of entanglement measures and its dynamics in open quantum ... Rev. Lett. Dr. André Ricardo Ribeiro de Carvalho. Department of Quantum</string>
+  </void>
+  <void property="title">
+   <string>Home</string>
+  </void>
+ </object>
+</java>

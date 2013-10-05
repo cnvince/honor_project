@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences
+Archaeological Science, Archaeology Of Asia, Africa And The Americas</string>
+  </void>
+  <void property="docID">
+   <string>c6860b15-646b-4a5c-bd4e-cd32dfb0691d</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/bowdery-de</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences
+Archaeological Science, Archaeology Of Asia, Africa And The Americas</string>
+  </void>
+  <void property="title">
+   <string>Dr Doreen Bowdery</string>
+  </void>
+ </object>
+</java>

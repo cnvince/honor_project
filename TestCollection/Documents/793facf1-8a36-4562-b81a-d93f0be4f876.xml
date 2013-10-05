@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences
+Postcolonial Studies, Cinema Studies, Social And Cultural Anthropology</string>
+  </void>
+  <void property="docID">
+   <string>793facf1-8a36-4562-b81a-d93f0be4f876</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/macdougall-ja</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences
+Postcolonial Studies, Cinema Studies, Social And Cultural Anthropology</string>
+  </void>
+  <void property="title">
+   <string>Ms Judith MacDougall</string>
+  </void>
+ </object>
+</java>

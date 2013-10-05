@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string> 
+[Papua New Guinea : Dept. for Community Development, 2011?]</string>
+  </void>
+  <void property="docID">
+   <string>a3086872-3a43-40eb-9dd0-cf242ff21c78</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Ygender+equality&amp;SORT=D/Ygender+equality&amp;SORT=D&amp;SUBKEY=gender+equality/1%2C382%2C382%2CB/frameset&amp;FF=Ygender+equality&amp;SORT=D&amp;3%2C3%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string> 
+[Papua New Guinea : Dept. for Community Development, 2011?]</string>
+  </void>
+  <void property="title">
+   <string>National policy for women and gender equality 2011-2015</string>
+  </void>
+ </object>
+</java>

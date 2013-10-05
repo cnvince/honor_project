@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>The Lapindo mudfl owdisaster continues to weigh on the government, with no clear strategy apparent.The economy shows stable macroeconomic fundamentals. ... Australia’s national interest on climate change transcends concerns about the. profitability of</string>
+  </void>
+  <void property="docID">
+   <string>d8e4f1f3-6662-4619-8168-35cf2e6227f8</string>
+  </void>
+  <void property="link">
+   <string>http://frankjotzo.weblogs.anu.edu.au/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>The Lapindo mudfl owdisaster continues to weigh on the government, with no clear strategy apparent.The economy shows stable macroeconomic fundamentals. ... Australia’s national interest on climate change transcends concerns about the. profitability of</string>
+  </void>
+  <void property="title">
+   <string>Frank Jotzo&apos;s research and publications</string>
+  </void>
+ </object>
+</java>

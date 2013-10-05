@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Whiteley, R 2004, Arc, Arc, Axia Modern Art, Melbourne Australia.</string>
+  </void>
+  <void property="docID">
+   <string>8682e644-9fd9-4584-98c2-aa0d668e4243</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/83</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Whiteley, R 2004, Arc, Arc, Axia Modern Art, Melbourne Australia.</string>
+  </void>
+  <void property="title">
+   <string>Arc</string>
+  </void>
+ </object>
+</java>

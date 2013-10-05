@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences
+Social And Cultural Anthropology, Culture, Gender, Sexuality, Social Theory, ...</string>
+  </void>
+  <void property="docID">
+   <string>6ace38da-3c26-4c4c-aa34-aca909f967da</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/helliwell-cj</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences
+Social And Cultural Anthropology, Culture, Gender, Sexuality, Social Theory, ...</string>
+  </void>
+  <void property="title">
+   <string>Dr Christine Helliwell</string>
+  </void>
+ </object>
+</java>

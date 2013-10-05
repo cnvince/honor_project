@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string> 
+Canberra : National Health and Medical Research Council], 2000</string>
+  </void>
+  <void property="docID">
+   <string>1fcb094a-073c-4e0f-b5fc-593525187571</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YNHMRC&amp;SORT=D/YNHMRC&amp;SORT=D&amp;SUBKEY=NHMRC/1%2C73%2C73%2CB/frameset&amp;FF=YNHMRC&amp;SORT=D&amp;9%2C9%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string> 
+Canberra : National Health and Medical Research Council], 2000</string>
+  </void>
+  <void property="title">
+   <string>Report of the 1999 workshops on the National Statement on Ethical Conduct in Research Involving Huma</string>
+  </void>
+ </object>
+</java>

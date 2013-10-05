@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>Professor Paul Davies gives this public lecture entitled: The eerie silence: Are we alone in the Universe? on Friday, 18 May 2012  at The Australian National University.Paul Davies is a theoretical physicist, cosmologist, astrobiologist and best-selling author. He is Regents&apos; Professor at Arizona State University, where he directs the Beyond Center for Fundamental Concepts in Science -- a cosmic think tank that tackles the &quot;big questions&quot; of existence, from the origin of the universe to the origin of life and the nature of time.Davies also directs a National Cancer Institute research program that tackles cancer from a physics perspective. Among his research accomplishments, Davies helped explain how black holes radiate energy, what caused the ripples in the cosmic afterglow of the big bang, and why life on Earth may have come from Mars.Davies has written about 30 books, most recently The Eerie Silence: Are We Alone in the Universe? His preoccupation with deep conceptual problems and his fearless championing of bold new ideas earned Davies the epithet of &apos;The Disruptor&apos; in a recent profile in Nature magazine. His many media projects include presenting two six-part series on The Big Questions for Australian television. He has awards from The Royal Society and the UK Institute of Physics, and also received the 1995 Templeton Prize. In 2007 he was named a Member of the Order of Australia in the Queen&apos;s birthday honours list. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>acf0cee5-69dd-442c-bdbb-fa169c84e883</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=z5vPLSj3cNs</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>Professor Paul Davies gives this public lecture entitled: The eerie silence: Are we alone in the Universe? on Friday, 18 May 2012  at The Australian National University.Paul Davies is a theoretical physicist, cosmologist, astrobiologist and best-selling author. He is Regents&apos; Professor at Arizona State University, where he directs the Beyond Center for Fundamental Concepts in Science -- a cosmic think tank that tackles the &quot;big questions&quot; of existence, from the origin of the universe to the origin of life and the nature of time.Davies also directs a National Cancer Institute research program that tackles cancer from a physics perspective. Among his research accomplishments, Davies helped explain how black holes radiate energy, what caused the ripples in the cosmic afterglow of the big bang, and why life on Earth may have come from Mars.Davies has written about 30 books, most recently The Eerie Silence: Are We Alone in the Universe? His preoccupation with deep conceptual problems and his fearless championing of bold new ideas earned Davies the epithet of &apos;The Disruptor&apos; in a recent profile in Nature magazine. His many media projects include presenting two six-part series on The Big Questions for Australian television. He has awards from The Royal Society and the UK Institute of Physics, and also received the 1995 Templeton Prize. In 2007 he was named a Member of the Order of Australia in the Queen&apos;s birthday honours list.</string>
+  </void>
+  <void property="title">
+   <string>Paul Davies - The eerie silence: Are we alone in the Universe?</string>
+  </void>
+ </object>
+</java>

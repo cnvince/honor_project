@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string> viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>5919089e-57b8-4778-b857-9dc7b9700a38</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=SOK-es8NqoM&amp;list=SP6E91F52259844217</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string></string>
+  </void>
+  <void property="title">
+   <string>ANU Reporter</string>
+  </void>
+ </object>
+</java>

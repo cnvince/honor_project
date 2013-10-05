@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>December 2012 Centre for Arab &amp;Islamic Studies ( The Middle East &amp;Central Asia) ANU College of Arts &amp;Social Sciences Change and Continuity in the Middle East and Central Asia Graduate Conference Centre ... for Arab &amp;Islamic Studies ( The Middle East and</string>
+  </void>
+  <void property="docID">
+   <string>1f70704e-2bbe-4479-bad3-93bca8f2e263</string>
+  </void>
+  <void property="link">
+   <string>http://cais.anu.edu.au/sites/default/files/12262%20Middle%20East%20conference%20program_FA%20for%20web.pdf</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>December 2012 Centre for Arab &amp;Islamic Studies ( The Middle East &amp;Central Asia) ANU College of Arts &amp;Social Sciences Change and Continuity in the Middle East and Central Asia Graduate Conference Centre ... for Arab &amp;Islamic Studies ( The Middle East and</string>
+  </void>
+  <void property="title">
+   <string>[PDF]
+          
+          
+          
+          
+          
+            cais.anu.edu.au/sites/default/files/12262%20Middle%20East%20conference...</string>
+  </void>
+ </object>
+</java>

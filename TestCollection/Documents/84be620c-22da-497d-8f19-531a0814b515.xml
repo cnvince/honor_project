@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>ADSRI - The Australian Demographic Social Research Institute. ANU College of Arts and Social Sciences. ... The Caldwell Library is a small library specialising mainly in demographic publications.</string>
+  </void>
+  <void property="docID">
+   <string>84be620c-22da-497d-8f19-531a0814b515</string>
+  </void>
+  <void property="link">
+   <string>http://caldwell.anu.edu.au/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>ADSRI - The Australian Demographic Social Research Institute. ANU College of Arts and Social Sciences. ... The Caldwell Library is a small library specialising mainly in demographic publications.</string>
+  </void>
+  <void property="title">
+   <string>ANU - ADSRI - The Australian Demographic &amp; Social Research...</string>
+  </void>
+ </object>
+</java>

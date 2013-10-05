@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Impact case studies from CSIRO. ... CSIRO s Performance and Evaluation Team recently completed a series of case studies of delivered impact.</string>
+  </void>
+  <void property="docID">
+   <string>4b8d690b-1087-4842-b5cb-7d9dc9ef3251</string>
+  </void>
+  <void property="link">
+   <string>http://impact.weblogs.anu.edu.au/category/csiro/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Impact case studies from CSIRO. ... CSIRO s Performance and Evaluation Team recently completed a series of case studies of delivered impact.</string>
+  </void>
+  <void property="title">
+   <string>Impact case studies from CSIRO - Impact Blog - ANU</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Fenner School of Environment and Society [ 48]. FSES building. This building houses:.  ANU Institute for Environment. ... Fenner School of Environment and Society. •.</string>
+  </void>
+  <void property="docID">
+   <string>4032cb17-bc4e-4da2-b510-cac74fa3f584</string>
+  </void>
+  <void property="link">
+   <string>http://campusmap.anu.edu.au/displaybldg.asp?no=48</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Fenner School of Environment and Society [ 48]. FSES building. This building houses:.  ANU Institute for Environment. ... Fenner School of Environment and Society. •.</string>
+  </void>
+  <void property="title">
+   <string> ANU Campus Map - Display Building</string>
+  </void>
+ </object>
+</java>

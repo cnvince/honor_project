@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Asia and the Pacific
+Islamic Studies, Language In Culture And Society (Sociolinguistics), Other As...</string>
+  </void>
+  <void property="docID">
+   <string>9436af35-0a77-4599-8b90-fd114c25b316</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/mukherjee-wj</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Asia and the Pacific
+Islamic Studies, Language In Culture And Society (Sociolinguistics), Other As...</string>
+  </void>
+  <void property="title">
+   <string>Dr Wendy Mukherjee</string>
+  </void>
+ </object>
+</java>

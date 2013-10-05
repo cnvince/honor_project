@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Asia and the Pacific
+Social And Cultural Anthropology, Islamic Studies, Religion And Society, Stud...</string>
+  </void>
+  <void property="docID">
+   <string>134b9e20-1e9f-4faf-a245-067799f402b8</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/winn-pg</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Asia and the Pacific
+Social And Cultural Anthropology, Islamic Studies, Religion And Society, Stud...</string>
+  </void>
+  <void property="title">
+   <string>Dr Phillip Winn</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Roberts, S, Nielsen, O &amp; Jakeman, J 2008, &apos;Simulation of Tsunami and Flash Fl...</string>
+  </void>
+  <void property="docID">
+   <string>092ccd01-39b5-4fcc-8c7d-7246940b8979</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/42011</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Roberts, S, Nielsen, O &amp; Jakeman, J 2008, &apos;Simulation of Tsunami and Flash Fl...</string>
+  </void>
+  <void property="title">
+   <string>Simulation of Tsunami and Flash Floods</string>
+  </void>
+ </object>
+</java>

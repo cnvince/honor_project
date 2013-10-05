@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Proust, K, Dovers, S, Foran, B et al 2007, Climate, energy and water Accounti...</string>
+  </void>
+  <void property="docID">
+   <string>9310cab5-eb11-4a29-8d7d-e4287d8026b9</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/44558</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Proust, K, Dovers, S, Foran, B et al 2007, Climate, energy and water Accounti...</string>
+  </void>
+  <void property="title">
+   <string>Climate, energy and water Accounting for the links</string>
+  </void>
+ </object>
+</java>

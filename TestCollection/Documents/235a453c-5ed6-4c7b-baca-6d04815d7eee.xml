@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Kramer, Leonie Judith Gibson 
+Melbourne : Oxford University Press, 1979</string>
+  </void>
+  <void property="docID">
+   <string>235a453c-5ed6-4c7b-baca-6d04815d7eee</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YA.+D.+Hope&amp;SORT=D/YA.+D.+Hope&amp;SORT=D&amp;SUBKEY=A.+D.+Hope/1%2C275%2C275%2CB/frameset&amp;FF=YA.+D.+Hope&amp;SORT=D&amp;8%2C8%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Kramer, Leonie Judith Gibson 
+Melbourne : Oxford University Press, 1979</string>
+  </void>
+  <void property="title">
+   <string>A.D. Hope</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Godsi, O, Collins, M &amp; Peskin, U 2010, &apos;Quantum grow - A quantum dynamics sam...</string>
+  </void>
+  <void property="docID">
+   <string>63401dea-70c0-4ace-bbd9-5bbb25767e2c</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/17983</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Godsi, O, Collins, M &amp; Peskin, U 2010, &apos;Quantum grow - A quantum dynamics sam...</string>
+  </void>
+  <void property="title">
+   <string>Quantum grow - A quantum dynamics sampling approach for growing potential energy surfaces and nonadiabatic couplings</string>
+  </void>
+ </object>
+</java>

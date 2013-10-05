@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Nature and Nation: Science, Environment and National Identity in Australia</string>
+  </void>
+  <void property="docID">
+   <string>f97c6e7a-a641-4682-87fe-5fef2dcd19c4</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/1934</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Nature and Nation: Science, Environment and National Identity in Australia</string>
+  </void>
+  <void property="title">
+   <string>Nature and Nation: Science, Environment and National Identity in Australia</string>
+  </void>
+ </object>
+</java>

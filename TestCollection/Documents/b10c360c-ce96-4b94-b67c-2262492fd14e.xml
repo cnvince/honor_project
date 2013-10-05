@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Innovative Financing Mechanisms for Higher Education</string>
+  </void>
+  <void property="docID">
+   <string>b10c360c-ce96-4b94-b67c-2262492fd14e</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/2406</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Innovative Financing Mechanisms for Higher Education</string>
+  </void>
+  <void property="title">
+   <string>Innovative Financing Mechanisms for Higher Education</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Oliphant, Mark, Sir, 1901-2000 
+Bedford Park, S.A. : Flinders University Science Association, [1970]</string>
+  </void>
+  <void property="docID">
+   <string>494997da-5ebf-43f2-af3e-047501b62ce0</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YSir+Mark+Oliphant&amp;SORT=D/YSir+Mark+Oliphant&amp;SORT=D&amp;SUBKEY=Sir+Mark+Oliphant/1%2C9%2C9%2CB/frameset&amp;FF=YSir+Mark+Oliphant&amp;SORT=D&amp;5%2C5%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Oliphant, Mark, Sir, 1901-2000 
+Bedford Park, S.A. : Flinders University Science Association, [1970]</string>
+  </void>
+  <void property="title">
+   <string>Science and the future</string>
+  </void>
+ </object>
+</java>

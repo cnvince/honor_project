@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Robinson, K 2006, &apos;Islamic Influences on Indonesian Feminism&apos;, Social Analysi...</string>
+  </void>
+  <void property="docID">
+   <string>192baeb6-6c61-4982-94d4-07bda442894e</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/27435</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Robinson, K 2006, &apos;Islamic Influences on Indonesian Feminism&apos;, Social Analysi...</string>
+  </void>
+  <void property="title">
+   <string>Islamic Influences on Indonesian Feminism</string>
+  </void>
+ </object>
+</java>

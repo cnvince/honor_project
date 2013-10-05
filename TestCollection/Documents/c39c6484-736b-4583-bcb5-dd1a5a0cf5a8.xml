@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Understanding winds: energy transfer in turbulent rotating fluids</string>
+  </void>
+  <void property="docID">
+   <string>c39c6484-736b-4583-bcb5-dd1a5a0cf5a8</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/2637</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Understanding winds: energy transfer in turbulent rotating fluids</string>
+  </void>
+  <void property="title">
+   <string>Understanding winds: energy transfer in turbulent rotating fluids</string>
+  </void>
+ </object>
+</java>

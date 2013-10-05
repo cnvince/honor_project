@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Michael, C, Howard, J &amp; Blackwell, B 2001, &apos;The MOSS Camera on H-1NF&apos;, Review...</string>
+  </void>
+  <void property="docID">
+   <string>795d8a7b-4d3a-460d-adea-c8b1f05ce84d</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/1980</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Michael, C, Howard, J &amp; Blackwell, B 2001, &apos;The MOSS Camera on H-1NF&apos;, Review...</string>
+  </void>
+  <void property="title">
+   <string>The MOSS Camera on H-1NF</string>
+  </void>
+ </object>
+</java>

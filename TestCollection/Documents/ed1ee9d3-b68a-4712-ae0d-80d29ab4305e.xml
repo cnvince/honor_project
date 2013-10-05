@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Courses: (1-4 of 136 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Courses: (1-4 of 136 matches)</string>
+  </void>
+  <void property="docID">
+   <string>ed1ee9d3-b68a-4712-ae0d-80d29ab4305e</string>
+  </void>
+  <void property="link">
+   <string>http://studyat.anu.edu.au/courses/ENVS3001;all.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>ENVS3001 - ENVS3001 Climate Change Science &amp; Policy in Practice</string>
+  </void>
+ </object>
+</java>

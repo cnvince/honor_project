@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Asia and the Pacific|ANU College of Medicine, Biology and Environment
+Ecosystem Function, Freshwater Ecology, Environmental Management, Ecological ...</string>
+  </void>
+  <void property="docID">
+   <string>3d5da726-7d95-4074-a1dc-093823ebed37</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/pittock-j</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Asia and the Pacific|ANU College of Medicine, Biology and Environment
+Ecosystem Function, Freshwater Ecology, Environmental Management, Ecological ...</string>
+  </void>
+  <void property="title">
+   <string>Dr James Pittock</string>
+  </void>
+ </object>
+</java>

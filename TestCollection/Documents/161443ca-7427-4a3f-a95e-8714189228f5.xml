@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Australia&apos;s First Bill of Rights: Assessing the Impact of the Australian Capi...</string>
+  </void>
+  <void property="docID">
+   <string>161443ca-7427-4a3f-a95e-8714189228f5</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/418</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Australia&apos;s First Bill of Rights: Assessing the Impact of the Australian Capi...</string>
+  </void>
+  <void property="title">
+   <string>Australia&apos;s First Bill of Rights: Assessing the Impact of the Australian Capital Territory&apos;s Human Rights Act</string>
+  </void>
+ </object>
+</java>

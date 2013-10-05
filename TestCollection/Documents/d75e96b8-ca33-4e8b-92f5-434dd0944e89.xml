@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Classifying Australian PhD Theses by ANZSRC Field of Research Codes (external...</string>
+  </void>
+  <void property="docID">
+   <string>d75e96b8-ca33-4e8b-92f5-434dd0944e89</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/1480</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Classifying Australian PhD Theses by ANZSRC Field of Research Codes (external...</string>
+  </void>
+  <void property="title">
+   <string>Classifying Australian PhD Theses by ANZSRC Field of Research Codes (externally led by RMIT)</string>
+  </void>
+ </object>
+</java>

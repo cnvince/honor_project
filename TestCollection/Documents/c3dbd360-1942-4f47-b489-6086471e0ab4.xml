@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Beaulieu, S, Freeman, K, Carignan, C et al 2006, &apos;H I Detection of...</string>
+  </void>
+  <void property="docID">
+   <string>c3dbd360-1942-4f47-b489-6086471e0ab4</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/16576</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Beaulieu, S, Freeman, K, Carignan, C et al 2006, &apos;H I Detection of...</string>
+  </void>
+  <void property="title">
+   <string>H I Detection of Two Dwarf S0 Galaxies in Nearby Groups: ESO 384-016 and NGC 59</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Engineering and Computer Science
+Information Retrieval And Web Search, Computer Human Interaction, Health Info...</string>
+  </void>
+  <void property="docID">
+   <string>af518656-7425-4905-a7f5-ac14d63ceb4b</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/liu-yxxx</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Engineering and Computer Science
+Information Retrieval And Web Search, Computer Human Interaction, Health Info...</string>
+  </void>
+  <void property="title">
+   <string>Dr Ying-Hsang Liu</string>
+  </void>
+ </object>
+</java>

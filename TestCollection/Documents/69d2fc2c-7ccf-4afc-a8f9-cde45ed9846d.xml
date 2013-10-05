@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Engineering and Computer Science|ANU College of Physical and Mathematical Sciences
+Library And Information Studies</string>
+  </void>
+  <void property="docID">
+   <string>69d2fc2c-7ccf-4afc-a8f9-cde45ed9846d</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/bai-s</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Engineering and Computer Science|ANU College of Physical and Mathematical Sciences
+Library And Information Studies</string>
+  </void>
+  <void property="title">
+   <string>Dr Shi Bai</string>
+  </void>
+ </object>
+</java>

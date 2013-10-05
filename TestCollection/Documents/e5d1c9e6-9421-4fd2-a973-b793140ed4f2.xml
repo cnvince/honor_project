@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Conferences ( 2009 Symposium: China&apos;s Rise and Its Impact on Asia, 2008 Islamic Workshop [ March 13-14, 2008] with papers in PDF format: Rafis Abazov - &quot;Everyday Islam in Electoral Process In ... Islam in Pakistan&quot;, Tariq Karim - &quot;Bangladesh: new</string>
+  </void>
+  <void property="docID">
+   <string>e5d1c9e6-9421-4fd2-a973-b793140ed4f2</string>
+  </void>
+  <void property="link">
+   <string>http://coombs.anu.edu.au/WWWVLAsian/database/2008/Monitor2008-128.html</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Conferences ( 2009 Symposium: China&apos;s Rise and Its Impact on Asia, 2008 Islamic Workshop [ March 13-14, 2008] with papers in PDF format: Rafis Abazov - &quot;Everyday Islam in Electoral Process In ... Islam in Pakistan&quot;, Tariq Karim - &quot;Bangladesh: new</string>
+  </void>
+  <void property="title">
+   <string>The Monitor Database -  file 2008-128</string>
+  </void>
+ </object>
+</java>

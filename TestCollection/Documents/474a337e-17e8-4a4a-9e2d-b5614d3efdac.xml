@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Asia and the Pacific</string>
+  </void>
+  <void property="docID">
+   <string>474a337e-17e8-4a4a-9e2d-b5614d3efdac</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/ashar-mh</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Asia and the Pacific</string>
+  </void>
+  <void property="title">
+   <string>Dr Meera Ashar</string>
+  </void>
+ </object>
+</java>

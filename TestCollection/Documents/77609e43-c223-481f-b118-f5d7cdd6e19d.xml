@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>National Rental Affordability Scheme. ... Room internet usage is included in the weekly tariff. It is an easy walk to shops, Union Court, lecture halls, Civic, and the National Botanical Gardens.</string>
+  </void>
+  <void property="docID">
+   <string>77609e43-c223-481f-b118-f5d7cdd6e19d</string>
+  </void>
+  <void property="link">
+   <string>http://accom.anu.edu.au/UAS/223.html</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>National Rental Affordability Scheme. ... Room internet usage is included in the weekly tariff. It is an easy walk to shops, Union Court, lecture halls, Civic, and the National Botanical Gardens.</string>
+  </void>
+  <void property="title">
+   <string>Ursula Hall - University Accommodation - ANU</string>
+  </void>
+ </object>
+</java>

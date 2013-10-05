@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Medicine, Biology and Environment
+Conservation And Biodiversity, Landscape Ecology, Ecological Impacts Of Clima...</string>
+  </void>
+  <void property="docID">
+   <string>9e57dfc7-b785-470b-be34-1a3b5520aa23</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/saunders-dl</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Medicine, Biology and Environment
+Conservation And Biodiversity, Landscape Ecology, Ecological Impacts Of Clima...</string>
+  </void>
+  <void property="title">
+   <string>Dr Debra Saunders</string>
+  </void>
+ </object>
+</java>

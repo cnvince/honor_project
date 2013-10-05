@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>96479f7b-644f-4e44-933b-5548d4a00571</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/257650657211863041</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>Come to the ANU Energy Change Institute Open Day. Climate change is the challenge. Energy change is the key: http://bit.ly/ECIOpenDay </string>
+  </void>
+ </object>
+</java>

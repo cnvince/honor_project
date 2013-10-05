@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Courses: (1-6 of 112 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Courses: (1-6 of 112 matches)</string>
+  </void>
+  <void property="docID">
+   <string>eaa6e356-23d1-4c49-9782-6c5385c584b9</string>
+  </void>
+  <void property="link">
+   <string>https://studyat.anu.edu.au/2013/courses/PAAE8402.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>PAAE8402 - PAAE8402 Issues in Professional and Applied Ethics</string>
+  </void>
+ </object>
+</java>

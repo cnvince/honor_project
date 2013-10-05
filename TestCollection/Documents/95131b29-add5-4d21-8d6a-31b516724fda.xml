@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Schmidt, Steven W. 
+Charlotte : Information Age Pub., c2010.</string>
+  </void>
+  <void property="docID">
+   <string>95131b29-add5-4d21-8d6a-31b516724fda</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YAdult+education&amp;SORT=D/YAdult+education&amp;SORT=D&amp;SUBKEY=Adult+education/1%2C834%2C834%2CB/frameset&amp;FF=YAdult+education&amp;SORT=D&amp;1%2C1%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Schmidt, Steven W. 
+Charlotte : Information Age Pub., c2010.</string>
+  </void>
+  <void property="title">
+   <string>Case studies and activities in adult education and human resource development</string>
+  </void>
+ </object>
+</java>

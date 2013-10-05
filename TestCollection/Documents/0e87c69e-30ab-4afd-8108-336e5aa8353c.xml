@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU Joint Colleges of Science|ANU College of Physical and Mathematical Sciences
+Lasers And Quantum Electronics, Atomic And Molecular Physics, Degenerate Quan...</string>
+  </void>
+  <void property="docID">
+   <string>0e87c69e-30ab-4afd-8108-336e5aa8353c</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/debs-je</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU Joint Colleges of Science|ANU College of Physical and Mathematical Sciences
+Lasers And Quantum Electronics, Atomic And Molecular Physics, Degenerate Quan...</string>
+  </void>
+  <void property="title">
+   <string>Dr John Debs</string>
+  </void>
+ </object>
+</java>

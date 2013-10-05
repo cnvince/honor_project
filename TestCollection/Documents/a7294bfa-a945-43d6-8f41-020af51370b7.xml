@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>The World Wide Web (WWW) has changed how humans interact; for some scholars, we now live in the &apos;Age of the Network&apos;. As online populations grow and the quantity and quality of interactions improve with new technology, social scientists are develop</string>
+  </void>
+  <void property="docID">
+   <string>a7294bfa-a945-43d6-8f41-020af51370b7</string>
+  </void>
+  <void property="link">
+   <string>http://adsri.anu.edu.au/groups/digital</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>The World Wide Web (WWW) has changed how humans interact; for some scholars, we now live in the &apos;Age of the Network&apos;. As online populations grow and the quantity and quality of interactions improve with new technology, social scientists are develop</string>
+  </void>
+  <void property="title">
+   <string>Digital Economy and Society Research Group - Australian Demographic...</string>
+  </void>
+ </object>
+</java>

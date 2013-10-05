@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>7] The district gained direct parliamentary representation in 1843, when the first elections for the New South Wales Legislative Council were held; ( Sir) Terence Murray, who held land at Yarralumla ( now ... There followed a fierce struggle over the</string>
+  </void>
+  <void property="docID">
+   <string>e546332f-f72b-4abf-9b52-e2ca8931e21b</string>
+  </void>
+  <void property="link">
+   <string>http://adb.anu.edu.au/essay/7</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>7] The district gained direct parliamentary representation in 1843, when the first elections for the New South Wales Legislative Council were held; ( Sir) Terence Murray, who held land at Yarralumla ( now ... There followed a fierce struggle over the</string>
+  </void>
+  <void property="title">
+   <string>Essay - A City and its People: Canberra in the ADB - Australian...</string>
+  </void>
+ </object>
+</java>

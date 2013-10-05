@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Courses: (1-2 of 13 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Courses: (1-2 of 13 matches)</string>
+  </void>
+  <void property="docID">
+   <string>14a2c2e3-6521-4536-819e-99640bf29c1b</string>
+  </void>
+  <void property="link">
+   <string>http://studyat.anu.edu.au/courses/LING2016;all.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>LING2016 - LING2016 Language in Indigenous Australia</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.MapResult">
+  <void property="acronym">
+   <string> </string>
+  </void>
+  <void property="displaySummary">
+   <string>83      </string>
+  </void>
+  <void property="docID">
+   <string>cf215a40-4dbd-4473-af11-02691407e93c</string>
+  </void>
+  <void property="link">
+   <string>http://campusmap.anu.edu.au/</string>
+  </void>
+  <void property="number">
+   <string>83  </string>
+  </void>
+  <void property="source">
+   <int>5</int>
+  </void>
+  <void property="summary">
+   <string> </string>
+  </void>
+  <void property="title">
+   <string>Fenner School Field Services  </string>
+  </void>
+ </object>
+</java>

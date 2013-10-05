@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences
+Iberian Languages, Language In Time And Space (Incl. Historical Linguistics, ...</string>
+  </void>
+  <void property="docID">
+   <string>d2073eb2-07a8-4872-b931-90dede84d932</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/mayer-e</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences
+Iberian Languages, Language In Time And Space (Incl. Historical Linguistics, ...</string>
+  </void>
+  <void property="title">
+   <string>Dr Elisabeth Mayer</string>
+  </void>
+ </object>
+</java>

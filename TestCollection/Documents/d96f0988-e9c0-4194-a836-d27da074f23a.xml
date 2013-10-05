@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>How can we ensure there is sufficient food for all? And why does climate change policy sometimes come into conflict with food policy? Professor Tom Kompas, Director of the ANU Crawford School of Public Policy, sheds some light on those questions as</string>
+  </void>
+  <void property="docID">
+   <string>d96f0988-e9c0-4194-a836-d27da074f23a</string>
+  </void>
+  <void property="link">
+   <string>http://www.anu.edu.au/vision/videos/9351/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>How can we ensure there is sufficient food for all? And why does climate change policy sometimes come into conflict with food policy? Professor Tom Kompas, Director of the ANU Crawford School of Public Policy, sheds some light on those questions as</string>
+  </void>
+  <void property="title">
+   <string>Growing solutions, harvesting answers: Tom Kompas discusses the new...</string>
+  </void>
+ </object>
+</java>

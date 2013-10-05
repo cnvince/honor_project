@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Taylor, B &amp; Milner, A 2010, &apos;Track 2: Developments and Prospects&apos;, in Desmond...</string>
+  </void>
+  <void property="docID">
+   <string>468191ed-f942-480b-ab49-15f9a727256d</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/47382</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Taylor, B &amp; Milner, A 2010, &apos;Track 2: Developments and Prospects&apos;, in Desmond...</string>
+  </void>
+  <void property="title">
+   <string>Track 2: Developments and Prospects</string>
+  </void>
+ </object>
+</java>

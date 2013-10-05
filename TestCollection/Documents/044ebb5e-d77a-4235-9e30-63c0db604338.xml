@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>This made the Sydney Botanic Gardens a hub, or a node in a network that participated in moving botanical knowledges around the world. ... Joseph Banks saw the Royal Botanic Gardens, Kew as the botanical metropolis of the world in relation to other</string>
+  </void>
+  <void property="docID">
+   <string>044ebb5e-d77a-4235-9e30-63c0db604338</string>
+  </void>
+  <void property="link">
+   <string>http://epress.anu.edu.au/wp-content/uploads/2011/04/6.pdf</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>This made the Sydney Botanic Gardens a hub, or a node in a network that participated in moving botanical knowledges around the world. ... Joseph Banks saw the Royal Botanic Gardens, Kew as the botanical metropolis of the world in relation to other</string>
+  </void>
+  <void property="title">
+   <string>[PDF]
+          
+          
+          
+          
+          
+            Australian Humanities Review - Issue 49, 2010</string>
+  </void>
+ </object>
+</java>

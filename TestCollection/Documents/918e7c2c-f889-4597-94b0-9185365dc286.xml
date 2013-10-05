@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Business and Economics|ANU College of Arts and Social Sciences
+Natural Resource Management, Sustainable Agricultural Development, Environmen...</string>
+  </void>
+  <void property="docID">
+   <string>918e7c2c-f889-4597-94b0-9185365dc286</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/rahman-mz</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Business and Economics|ANU College of Arts and Social Sciences
+Natural Resource Management, Sustainable Agricultural Development, Environmen...</string>
+  </void>
+  <void property="title">
+   <string>Dr Md Zillur Rahman</string>
+  </void>
+ </object>
+</java>

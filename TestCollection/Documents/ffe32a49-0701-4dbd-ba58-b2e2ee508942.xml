@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Garnaut, R &amp; Song, L 2006, &apos;China&apos;s resources demand at the turning point&apos;, i...</string>
+  </void>
+  <void property="docID">
+   <string>ffe32a49-0701-4dbd-ba58-b2e2ee508942</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/40372</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Garnaut, R &amp; Song, L 2006, &apos;China&apos;s resources demand at the turning point&apos;, i...</string>
+  </void>
+  <void property="title">
+   <string>China&apos;s resources demand at the turning point</string>
+  </void>
+ </object>
+</java>

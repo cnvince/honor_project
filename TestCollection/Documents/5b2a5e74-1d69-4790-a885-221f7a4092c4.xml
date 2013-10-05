@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Wuester, S, Dabrowska-Wuster, B, Scott, S et al 2008, &apos;Quantum-field dynamics...</string>
+  </void>
+  <void property="docID">
+   <string>5b2a5e74-1d69-4790-a885-221f7a4092c4</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/45913</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Wuester, S, Dabrowska-Wuster, B, Scott, S et al 2008, &apos;Quantum-field dynamics...</string>
+  </void>
+  <void property="title">
+   <string>Quantum-field dynamics of expanding and contracting Bose-Einstein condensates</string>
+  </void>
+ </object>
+</java>

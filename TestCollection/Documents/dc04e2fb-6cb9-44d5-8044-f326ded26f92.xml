@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Maley, W 2006, Military Intervention in the Middle East, in Fethi Mansouri (e...</string>
+  </void>
+  <void property="docID">
+   <string>dc04e2fb-6cb9-44d5-8044-f326ded26f92</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/12335</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Maley, W 2006, Military Intervention in the Middle East, in Fethi Mansouri (e...</string>
+  </void>
+  <void property="title">
+   <string>Military Intervention in the Middle East</string>
+  </void>
+ </object>
+</java>

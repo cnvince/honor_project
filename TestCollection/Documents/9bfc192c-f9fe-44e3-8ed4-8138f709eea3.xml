@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Gol, Ayla</string>
+  </void>
+  <void property="date">
+   <string>2003</string>
+  </void>
+  <void property="displaySummary">
+   <string>2003 Gol, Ayla</string>
+  </void>
+  <void property="docID">
+   <string>9bfc192c-f9fe-44e3-8ed4-8138f709eea3</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/42685</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>The requirements of European international society: modernity and nationalism in the Ottoman Empire</string>
+  </void>
+ </object>
+</java>

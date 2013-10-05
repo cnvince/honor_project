@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>PACIFIC MANUSCRIPTS BUREAU Room 4201, Coombs Building College of Asia and the Pacific The Australian National University, Canberra, ACT 0200 Australia Telephone: ( 612) 6125 2521 Fax: ( 612) 6125 0198 E-mail: ... Reels 1-3. ( Available for reference.)</string>
+  </void>
+  <void property="docID">
+   <string>ea211068-8e9b-42a4-9ddd-0228c2013631</string>
+  </void>
+  <void property="link">
+   <string>http://asiapacific.anu.edu.au/pambu/reels/manuscripts/PMB1366.PDF</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>PACIFIC MANUSCRIPTS BUREAU Room 4201, Coombs Building College of Asia and the Pacific The Australian National University, Canberra, ACT 0200 Australia Telephone: ( 612) 6125 2521 Fax: ( 612) 6125 0198 E-mail: ... Reels 1-3. ( Available for reference.)</string>
+  </void>
+  <void property="title">
+   <string>[PDF]
+          
+          
+          
+          
+          
+            Microsoft Word - PMB1366.rtf</string>
+  </void>
+ </object>
+</java>

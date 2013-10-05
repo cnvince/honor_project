@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Courses: (1-3 of 80 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Courses: (1-3 of 80 matches)</string>
+  </void>
+  <void property="docID">
+   <string>c5e87567-fcf7-4d82-b4a2-cbd4cb3b0f15</string>
+  </void>
+  <void property="link">
+   <string>https://studyat.anu.edu.au/2013/courses/MEAS1001.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>MEAS1001 - MEAS1001 Introduction to the Modern Middle East</string>
+  </void>
+ </object>
+</java>

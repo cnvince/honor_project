@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Graduate Research Fields: (1-2 of 5863 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Graduate Research Fields: (1-2 of 5863 matches)</string>
+  </void>
+  <void property="docID">
+   <string>06b4c7ec-879a-4026-b9c5-1c8052c4cb97</string>
+  </void>
+  <void property="link">
+   <string>https://studyat.anu.edu.au/2013/courses/ARTS8104.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>ARTS8104 - ARTS8104 The Craft of Teaching for Tutors and Demonstrators</string>
+  </void>
+ </object>
+</java>

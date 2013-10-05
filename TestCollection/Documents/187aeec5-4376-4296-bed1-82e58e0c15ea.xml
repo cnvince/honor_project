@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>The daughter of an Aboriginal man and a ten pound pom, Alison talks about her own identity and family, which is not defined by black, white, brown, or any colour. She talks about pride where there once wasn&apos;t any. Passionate about the living definition of culture, Alison unpacks the values at the heart of Aboriginal culture and the many languages that are used through storytelling to express them. Connecting this with the broader process of reconciliation, she argues why we need to embrace Aboriginal culture and its values as central to our national identity.Alison Page is an award-winning Aboriginal designer, cultural planner and Manager of the Saltwater Freshwater Arts Alliance on the NSW mid-north coast. For eight years Alison was a regular panellist of the ABC program The New Inventors and in 2011 was appointed a member of the Expert Panel on Constitutional Recognition of Aboriginal and Torres Strait Islander Peoples, which handed its report to the Federal Government in January 2012. The annual ANU Reconciliation Lecture is one of the measures of the University&apos;s Reconciliation Action Plan. Reconciliation Action Plans aim to turn good intentions into real actions and create meaningful relationships and sustainable opportunities for Aboriginal and Torres Strait Islander peoples. This even it presented by the National Centre for Indigenous Studies, ANU College of Law, Reconciliation Australia and the National Film and Sound Archive. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>187aeec5-4376-4296-bed1-82e58e0c15ea</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=LLJzCXJI2mY</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>The daughter of an Aboriginal man and a ten pound pom, Alison talks about her own identity and family, which is not defined by black, white, brown, or any colour. She talks about pride where there once wasn&apos;t any. Passionate about the living definition of culture, Alison unpacks the values at the heart of Aboriginal culture and the many languages that are used through storytelling to express them. Connecting this with the broader process of reconciliation, she argues why we need to embrace Aboriginal culture and its values as central to our national identity.Alison Page is an award-winning Aboriginal designer, cultural planner and Manager of the Saltwater Freshwater Arts Alliance on the NSW mid-north coast. For eight years Alison was a regular panellist of the ABC program The New Inventors and in 2011 was appointed a member of the Expert Panel on Constitutional Recognition of Aboriginal and Torres Strait Islander Peoples, which handed its report to the Federal Government in January 2012. The annual ANU Reconciliation Lecture is one of the measures of the University&apos;s Reconciliation Action Plan. Reconciliation Action Plans aim to turn good intentions into real actions and create meaningful relationships and sustainable opportunities for Aboriginal and Torres Strait Islander peoples. This even it presented by the National Centre for Indigenous Studies, ANU College of Law, Reconciliation Australia and the National Film and Sound Archive.</string>
+  </void>
+  <void property="title">
+   <string>The Annual ANU Reconciliation Lecture 2012: Fifty shades of brown</string>
+  </void>
+ </object>
+</java>

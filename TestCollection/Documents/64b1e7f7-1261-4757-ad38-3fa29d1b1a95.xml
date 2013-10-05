@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Kyoko, Tanaka</string>
+  </void>
+  <void property="date">
+   <string>1972-07</string>
+  </void>
+  <void property="displaySummary">
+   <string>1972-07 Kyoko, Tanaka</string>
+  </void>
+  <void property="docID">
+   <string>64b1e7f7-1261-4757-ad38-3fa29d1b1a95</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/10068</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Mass mobilisation : the Chinese Communist Party and the peasants</string>
+  </void>
+ </object>
+</java>

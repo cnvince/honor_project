@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Macknight, Charles Campbell</string>
+  </void>
+  <void property="date">
+   <string>1969-12</string>
+  </void>
+  <void property="displaySummary">
+   <string>1969-12 Macknight, Charles Campbell</string>
+  </void>
+  <void property="docID">
+   <string>8fcc30ef-aa11-41f6-915f-00fd53e17f1f</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/9068</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>The Macassans : a study of the early trepang industry along the Northern Territory coast</string>
+  </void>
+ </object>
+</java>

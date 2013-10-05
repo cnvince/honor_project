@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>PRE australia/canberra/australian_national_university/sculpture_park, A HREF&quot;https://artserve.anu.edu.au/new/australia/canberra/australian_national_university/sculpture_park&quot;images/a australia/canberra/flora/botanical_gardens, A ... canberra/flora/nationa</string>
+  </void>
+  <void property="docID">
+   <string>373617fe-a87d-4f15-aa7a-c271c0307929</string>
+  </void>
+  <void property="link">
+   <string>http://rubens.anu.edu.au/lists/parks_and_gardens.html</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>PRE australia/canberra/australian_national_university/sculpture_park, A HREF&quot;https://artserve.anu.edu.au/new/australia/canberra/australian_national_university/sculpture_park&quot;images/a australia/canberra/flora/botanical_gardens, A ... canberra/flora/nationa</string>
+  </void>
+  <void property="title">
+   <string>rubens.anu.edu.au/lists/parks_and_gardens.html</string>
+  </void>
+ </object>
+</java>

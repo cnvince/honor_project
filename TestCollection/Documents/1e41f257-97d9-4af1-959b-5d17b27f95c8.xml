@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Courses: (1-5 of 5 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Courses: (1-5 of 5 matches)</string>
+  </void>
+  <void property="docID">
+   <string>1e41f257-97d9-4af1-959b-5d17b27f95c8</string>
+  </void>
+  <void property="link">
+   <string>http://studyat.anu.edu.au/courses/LAWS2274;all.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>LAWS2274 - LAWS2274 Climate Law</string>
+  </void>
+ </object>
+</java>

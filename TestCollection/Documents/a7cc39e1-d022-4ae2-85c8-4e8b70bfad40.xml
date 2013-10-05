@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>The economic, social and environmental determinants of human development and health equity.Three internationally renowned speakers discuss how environmental, political, economic and cultural characteristics of societies shape conditions in which people live, work and age. Inequities in these factors play a major role in producing health inequities in Australia, across the Asia Pacific region and globally. If set up well, economic development, trade, working conditions, urbanisation and health care for example could simultaneously improve development, social inclusion and health, but if done badly these factors can all increase health inequities.Professor Sir Michael Marmot (MBBS, MPH, PhD, FRCP, FFPHM, FMedSci, FBA)Sir Michael Marmot is director of theInternational Institute for Society and Health. In 2000 he was knighted by Her Majesty the Queen for services to Epidemiology and understanding health inequalities. Internationally acclaimed, Sir Michael is president of the British Medical Association and was Chair of the Commission on Social Determinants of Health set up by the World Health Organization.Professor Tony McMichael AOProfessor McMichael is an NHMRC Australia Fellow at ANU. He was Director of the ANU National Centre for Epidemiology and Population Health and has a pioneering international role in the UN&apos;s Intergovernmental Panel on Climate Change. He was made an Officer of the Order of Australia in January 2011.Professor Stephen Howes Professor Howes is Director of the Development Policy Centre, Crawford School of Economics and Government at ANU. Prior to joining the Crawford School, Stephen was Chief Economist at the Australian Agency for International Development. He is currently a member of the Independent Review of Aid Effectiveness established by the Minister of Foreign Affairs.This lecture is being jointly hosted by ANU and Asia Pacific HealthGAENVenue: Hedley Bull Centre, ANUDate: Monday, 4 April 2011 viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>a7cc39e1-d022-4ae2-85c8-4e8b70bfad40</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=Dmn3wn0p44M</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>The economic, social and environmental determinants of human development and health equity.Three internationally renowned speakers discuss how environmental, political, economic and cultural characteristics of societies shape conditions in which people live, work and age. Inequities in these factors play a major role in producing health inequities in Australia, across the Asia Pacific region and globally. If set up well, economic development, trade, working conditions, urbanisation and health care for example could simultaneously improve development, social inclusion and health, but if done badly these factors can all increase health inequities.Professor Sir Michael Marmot (MBBS, MPH, PhD, FRCP, FFPHM, FMedSci, FBA)Sir Michael Marmot is director of theInternational Institute for Society and Health. In 2000 he was knighted by Her Majesty the Queen for services to Epidemiology and understanding health inequalities. Internationally acclaimed, Sir Michael is president of the British Medical Association and was Chair of the Commission on Social Determinants of Health set up by the World Health Organization.Professor Tony McMichael AOProfessor McMichael is an NHMRC Australia Fellow at ANU. He was Director of the ANU National Centre for Epidemiology and Population Health and has a pioneering international role in the UN&apos;s Intergovernmental Panel on Climate Change. He was made an Officer of the Order of Australia in January 2011.Professor Stephen Howes Professor Howes is Director of the Development Policy Centre, Crawford School of Economics and Government at ANU. Prior to joining the Crawford School, Stephen was Chief Economist at the Australian Agency for International Development. He is currently a member of the Independent Review of Aid Effectiveness established by the Minister of Foreign Affairs.This lecture is being jointly hosted by ANU and Asia Pacific HealthGAENVenue: Hedley Bull Centre, ANUDate: Monday, 4 April 2011</string>
+  </void>
+  <void property="title">
+   <string>Professor Sir Michael Marmot in conversation with ANU academics</string>
+  </void>
+ </object>
+</java>

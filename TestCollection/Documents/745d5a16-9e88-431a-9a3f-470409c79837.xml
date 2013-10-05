@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Download FP5 Database @ palaeoworks.anu.edu.au/paltr6.fp5 Compiled by Simon Haberle Department of Archaeology &amp;Natural History, Research School of Pacific &amp;Asian Studies, Coombs Building, Australian National University, ACT 0200, ... Australian National</string>
+  </void>
+  <void property="docID">
+   <string>745d5a16-9e88-431a-9a3f-470409c79837</string>
+  </void>
+  <void property="link">
+   <string>http://palaeoworks.anu.edu.au/paltr06.pdf</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Download FP5 Database @ palaeoworks.anu.edu.au/paltr6.fp5 Compiled by Simon Haberle Department of Archaeology &amp;Natural History, Research School of Pacific &amp;Asian Studies, Coombs Building, Australian National University, ACT 0200, ... Australian National</string>
+  </void>
+  <void property="title">
+   <string>[PDF]
+          
+          
+          
+          
+          
+            text</string>
+  </void>
+ </object>
+</java>

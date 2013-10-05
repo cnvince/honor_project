@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Physical and Mathematical Sciences
+Atomic And Molecular Physics, Lasers And Quantum Electronics, Classical And P...</string>
+  </void>
+  <void property="docID">
+   <string>c87a62f9-caef-43aa-a8ad-2a6aff553556</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/hope-jj</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Physical and Mathematical Sciences
+Atomic And Molecular Physics, Lasers And Quantum Electronics, Classical And P...</string>
+  </void>
+  <void property="title">
+   <string>Mr Joseph Hope</string>
+  </void>
+ </object>
+</java>

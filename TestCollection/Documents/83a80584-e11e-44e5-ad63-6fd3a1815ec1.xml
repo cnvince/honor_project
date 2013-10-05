@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>White, H 2005, Peter Cosgrove will be a hard act to follow.</string>
+  </void>
+  <void property="docID">
+   <string>83a80584-e11e-44e5-ad63-6fd3a1815ec1</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/9935</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>White, H 2005, Peter Cosgrove will be a hard act to follow.</string>
+  </void>
+  <void property="title">
+   <string>Peter Cosgrove will be a hard act to follow</string>
+  </void>
+ </object>
+</java>

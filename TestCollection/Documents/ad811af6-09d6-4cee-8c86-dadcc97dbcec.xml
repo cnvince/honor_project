@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Zetasizer Nano ZS with MPT-2 Multi-Purpose Titrator</string>
+  </void>
+  <void property="docID">
+   <string>ad811af6-09d6-4cee-8c86-dadcc97dbcec</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/757</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Zetasizer Nano ZS with MPT-2 Multi-Purpose Titrator</string>
+  </void>
+  <void property="title">
+   <string>Zetasizer Nano ZS with MPT-2 Multi-Purpose Titrator</string>
+  </void>
+ </object>
+</java>

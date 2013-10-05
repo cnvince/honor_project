@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Cooper, Eugene, 1947- 
+London ; New York : Routledge, c2013</string>
+  </void>
+  <void property="docID">
+   <string>ec700e69-5df5-4523-88f5-5419c26a60b2</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YChina&amp;SORT=D/YChina&amp;SORT=D&amp;SUBKEY=China/1%2C32000%2C32000%2CB/frameset&amp;FF=YChina&amp;SORT=D&amp;5%2C5%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Cooper, Eugene, 1947- 
+London ; New York : Routledge, c2013</string>
+  </void>
+  <void property="title">
+   <string>The market and temple fairs of rural China : red fire</string>
+  </void>
+ </object>
+</java>

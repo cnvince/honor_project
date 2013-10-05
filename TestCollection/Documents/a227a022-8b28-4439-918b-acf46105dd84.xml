@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Wyborn, Lesley; Woodcock, Robert</string>
+  </void>
+  <void property="date">
+   <string>-</string>
+  </void>
+  <void property="displaySummary">
+   <string>- Wyborn, Lesley; Woodcock, Robert</string>
+  </void>
+  <void property="docID">
+   <string>a227a022-8b28-4439-918b-acf46105dd84</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/46899</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Developing an e-Research infrastructure for Australian earth sciences: the NCRIS 5.13 AuScope Grid</string>
+  </void>
+ </object>
+</java>

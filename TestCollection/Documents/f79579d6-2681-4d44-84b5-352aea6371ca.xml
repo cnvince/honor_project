@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Ahmad, Sameena 
+2012</string>
+  </void>
+  <void property="docID">
+   <string>f79579d6-2681-4d44-84b5-352aea6371ca</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Ygender+equality&amp;SORT=D/Ygender+equality&amp;SORT=D&amp;SUBKEY=gender+equality/1%2C382%2C382%2CB/frameset&amp;FF=Ygender+equality&amp;SORT=D&amp;1%2C1%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Ahmad, Sameena 
+2012</string>
+  </void>
+  <void property="title">
+   <string>The demise of provocation in Victoria and the implications for gender equality</string>
+  </void>
+ </object>
+</java>

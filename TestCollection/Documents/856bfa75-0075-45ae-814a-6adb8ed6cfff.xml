@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>the USA one of the greatest benefactor to Bangladesh over a purported insult against Islam must serve as a reminder of the extend of radicalization A country known for perpetual victim ... to Bangladesh over a purported insult against Islam must serve as</string>
+  </void>
+  <void property="docID">
+   <string>856bfa75-0075-45ae-814a-6adb8ed6cfff</string>
+  </void>
+  <void property="link">
+   <string>http://asiapacific.anu.edu.au/newmandala/2012/09/28/sectarian-strife-in-western-myanmar/feed/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>the USA one of the greatest benefactor to Bangladesh over a purported insult against Islam must serve as a reminder of the extend of radicalization A country known for perpetual victim ... to Bangladesh over a purported insult against Islam must serve as</string>
+  </void>
+  <void property="title">
+   <string>Comments on: Sectarian strife in western Myanmar</string>
+  </void>
+ </object>
+</java>

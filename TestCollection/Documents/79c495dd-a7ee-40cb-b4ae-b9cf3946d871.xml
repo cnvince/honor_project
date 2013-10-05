@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Medicine, Biology and Environment|ANU College of Physical and Mathematical Sciences
+Surfacewater Hydrology, Water Resources Engineering, Climate Change Processes...</string>
+  </void>
+  <void property="docID">
+   <string>79c495dd-a7ee-40cb-b4ae-b9cf3946d871</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/sun-f</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Medicine, Biology and Environment|ANU College of Physical and Mathematical Sciences
+Surfacewater Hydrology, Water Resources Engineering, Climate Change Processes...</string>
+  </void>
+  <void property="title">
+   <string>Dr Fubao Sun</string>
+  </void>
+ </object>
+</java>

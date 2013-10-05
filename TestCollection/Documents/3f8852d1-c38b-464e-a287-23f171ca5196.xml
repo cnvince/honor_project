@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Yong, D, Grundahl, F, D&apos;Antona, F et al 2009, &apos;A Large C+N+O Abundance Spread...</string>
+  </void>
+  <void property="docID">
+   <string>3f8852d1-c38b-464e-a287-23f171ca5196</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/38851</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Yong, D, Grundahl, F, D&apos;Antona, F et al 2009, &apos;A Large C+N+O Abundance Spread...</string>
+  </void>
+  <void property="title">
+   <string>A Large C+N+O Abundance Spread in Giant Stars of the Globular Cluster NGC 1851</string>
+  </void>
+ </object>
+</java>

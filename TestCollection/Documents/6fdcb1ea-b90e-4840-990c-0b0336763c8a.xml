@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Pages tagged by &quot;Ian Young&quot;.  Assistant Treasurer launches Institute. ... Vice-Chancellor Professor Ian Young speech at the launch of the National Security Strategy.. ANU Vice-Chancellor Professor Ian Young&apos;s speech at the launch of the National Security</string>
+  </void>
+  <void property="docID">
+   <string>6fdcb1ea-b90e-4840-990c-0b0336763c8a</string>
+  </void>
+  <void property="link">
+   <string>https://crawford.anu.edu.au/tags/355/ian-young</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Pages tagged by &quot;Ian Young&quot;.  Assistant Treasurer launches Institute. ... Vice-Chancellor Professor Ian Young speech at the launch of the National Security Strategy.. ANU Vice-Chancellor Professor Ian Young&apos;s speech at the launch of the National Security</string>
+  </void>
+  <void property="title">
+   <string>Pages tagged by &quot;Ian Young&quot; - Crawford School of Public...</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Acceptance Environment. Regional security cooperation. Citation. Ball, D Taylor, B 2006, &apos;Regional security cooperation&apos;, in Robert Ayson, Desmond Ball ( ed.),. Strategy and Security in the Asia-Pacific. , Allen Unwin, Sydney, pp. ... Professor Desmond</string>
+  </void>
+  <void property="docID">
+   <string>3e139593-6b9f-4193-961f-4923ad719651</string>
+  </void>
+  <void property="link">
+   <string>http://researchers-acep.anu.edu.au/publications/27504</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Acceptance Environment. Regional security cooperation. Citation. Ball, D Taylor, B 2006, &apos;Regional security cooperation&apos;, in Robert Ayson, Desmond Ball ( ed.),. Strategy and Security in the Asia-Pacific. , Allen Unwin, Sydney, pp. ... Professor Desmond</string>
+  </void>
+  <void property="title">
+   <string>Regional security cooperation - Researchers - ANU</string>
+  </void>
+ </object>
+</java>

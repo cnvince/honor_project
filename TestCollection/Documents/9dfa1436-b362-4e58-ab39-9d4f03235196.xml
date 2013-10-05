@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Wallis J 2012, &apos;Pacific Oceania: arc of opportunity?&apos;, CSCAP Regional Securit...</string>
+  </void>
+  <void property="docID">
+   <string>9dfa1436-b362-4e58-ab39-9d4f03235196</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/74526</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Wallis J 2012, &apos;Pacific Oceania: arc of opportunity?&apos;, CSCAP Regional Securit...</string>
+  </void>
+  <void property="title">
+   <string>Pacific Oceania: arc of opportunity?</string>
+  </void>
+ </object>
+</java>

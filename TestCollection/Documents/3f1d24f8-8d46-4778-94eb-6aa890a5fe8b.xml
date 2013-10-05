@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Radlinski, A P; Radlinska, Ewa; Agamalian, M; Wignall, G D; Lindner, P; Randl, O G</string>
+  </void>
+  <void property="date">
+   <string>-</string>
+  </void>
+  <void property="displaySummary">
+   <string>- Radlinski, A P; Radlinska, Ewa; Agamalian, M; Wignall, G D; Lindner, P; Randl, O G</string>
+  </void>
+  <void property="docID">
+   <string>3f1d24f8-8d46-4778-94eb-6aa890a5fe8b</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/10440/867</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Fractal geometry of rocks</string>
+  </void>
+ </object>
+</java>

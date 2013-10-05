@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>You are here.  People. People. Updated: 19 July, 2013/Responsible Officer:  Web Communications Coordinator/Page Contact:  Web Communications Coordinator.</string>
+  </void>
+  <void property="docID">
+   <string>8add8d19-0fd1-4167-809c-e1e38fb7356d</string>
+  </void>
+  <void property="link">
+   <string>http://ips.cap.anu.edu.au/sdsc/people</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>You are here.  People. People. Updated: 19 July, 2013/Responsible Officer:  Web Communications Coordinator/Page Contact:  Web Communications Coordinator.</string>
+  </void>
+  <void property="title">
+   <string>People - IPS - ANU</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Contexts of Collection: a dialogic approach to understanding the making of th...</string>
+  </void>
+  <void property="docID">
+   <string>749f2ddb-8f33-49e8-a2b7-8b4cbcf8cf91</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/924</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Contexts of Collection: a dialogic approach to understanding the making of th...</string>
+  </void>
+  <void property="title">
+   <string>Contexts of Collection: a dialogic approach to understanding the making of the material record of Yolngu cultures</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>List, Christian; Pettit, Philip</string>
+  </void>
+  <void property="date">
+   <string>2000</string>
+  </void>
+  <void property="displaySummary">
+   <string>2000 List, Christian; Pettit, Philip</string>
+  </void>
+  <void property="docID">
+   <string>45927772-9d55-4518-9a1d-4f2466b187fb</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/40564</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Aggregating sets of judgments: an impossibility result</string>
+  </void>
+ </object>
+</java>

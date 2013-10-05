@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Courses: (1-4 of 4 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Courses: (1-4 of 4 matches)</string>
+  </void>
+  <void property="docID">
+   <string>d45d1dd0-18b8-46d5-8d90-4b7d6b0abcfb</string>
+  </void>
+  <void property="link">
+   <string>https://studyat.anu.edu.au/2013/courses/ENGN8601.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>ENGN8601 - ENGN8601 Research Project</string>
+  </void>
+ </object>
+</java>

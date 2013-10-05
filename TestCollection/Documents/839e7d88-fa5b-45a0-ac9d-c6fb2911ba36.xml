@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>839e7d88-fa5b-45a0-ac9d-c6fb2911ba36</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/248609033462894592</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>Professor Brian Schmidt&apos;s speech addressing science and politics at the Science Meets Parliament forum: http://bit.ly/S8uwoa </string>
+  </void>
+ </object>
+</java>

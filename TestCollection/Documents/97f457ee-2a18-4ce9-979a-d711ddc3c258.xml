@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Other Pages: (1-3 of 6 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Other Pages: (1-3 of 6 matches)</string>
+  </void>
+  <void property="docID">
+   <string>97f457ee-2a18-4ce9-979a-d711ddc3c258</string>
+  </void>
+  <void property="link">
+   <string>https://studyat.anu.edu.au/_artshbian.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>Study at ANU Biological Anthropology Honours</string>
+  </void>
+ </object>
+</java>

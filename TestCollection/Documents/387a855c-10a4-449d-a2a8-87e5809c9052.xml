@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>1996 Professor Rolf Zinkernagel and Professor Peter Doherty. Medicine – for revolutionary work in immunology. ... Professors Doherty and Zinkernagel first met and worked together at The John Curtin School of Medical Research.</string>
+  </void>
+  <void property="docID">
+   <string>387a855c-10a4-449d-a2a8-87e5809c9052</string>
+  </void>
+  <void property="link">
+   <string>http://about.anu.edu.au/profile/history/nobel-prize-winners</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>1996 Professor Rolf Zinkernagel and Professor Peter Doherty. Medicine – for revolutionary work in immunology. ... Professors Doherty and Zinkernagel first met and worked together at The John Curtin School of Medical Research.</string>
+  </void>
+  <void property="title">
+   <string>Nobel Prize winners - About ANU - ANU</string>
+  </void>
+ </object>
+</java>

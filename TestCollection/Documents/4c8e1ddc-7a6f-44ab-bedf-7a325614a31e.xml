@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Garnaut, R &amp; Song, L 2004, &apos;Private enterprise in China: development, constra...</string>
+  </void>
+  <void property="docID">
+   <string>4c8e1ddc-7a6f-44ab-bedf-7a325614a31e</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/35943</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Garnaut, R &amp; Song, L 2004, &apos;Private enterprise in China: development, constra...</string>
+  </void>
+  <void property="title">
+   <string>Private enterprise in China: development, constraints and policy implications</string>
+  </void>
+ </object>
+</java>

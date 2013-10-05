@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Osama s liquidation could increase the risk aversion of Islamic extremists and trigger competition for supremacy among them. ... The traditionalists need not clear the Islam-in-danger hurdle because they cannot be portrayed as anti-Islamic.</string>
+  </void>
+  <void property="docID">
+   <string>4e37377d-2db4-478c-9003-2a2d7c3d948c</string>
+  </void>
+  <void property="link">
+   <string>http://asiapacific.anu.edu.au/blogs/southasiamasala/2011/05/13/ten-years-of-the-war-on-terror-a-strategic-reassessment/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Osama s liquidation could increase the risk aversion of Islamic extremists and trigger competition for supremacy among them. ... The traditionalists need not clear the Islam-in-danger hurdle because they cannot be portrayed as anti-Islamic.</string>
+  </void>
+  <void property="title">
+   <string>South Asia Masala » Ten years of the War on Terror: a strategic...</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Roberts, R, Senden, T &amp; Knackstedt, M 2003, &apos;3D Imaging of the Spreading and ...</string>
+  </void>
+  <void property="docID">
+   <string>50fe4232-8941-4271-8be2-58b4eefa01c5</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/28750</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Roberts, R, Senden, T &amp; Knackstedt, M 2003, &apos;3D Imaging of the Spreading and ...</string>
+  </void>
+  <void property="title">
+   <string>3D Imaging of the Spreading and Penetration of Aqueous Liquids into Unsized and Sized Papers</string>
+  </void>
+ </object>
+</java>

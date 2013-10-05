@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Medicine, Biology and Environment</string>
+  </void>
+  <void property="docID">
+   <string>613b9930-4961-4e9c-bf27-afbee3534812</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/galtry-ja</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Medicine, Biology and Environment</string>
+  </void>
+  <void property="title">
+   <string>Dr Judith Galtry</string>
+  </void>
+ </object>
+</java>

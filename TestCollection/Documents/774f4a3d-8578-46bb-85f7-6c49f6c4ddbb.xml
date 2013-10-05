@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>ANU Image Library</string>
+  </void>
+  <void property="docID">
+   <string>774f4a3d-8578-46bb-85f7-6c49f6c4ddbb</string>
+  </void>
+  <void property="link">
+   <string>https://www.anu.edu.au/mo/content/anuimagelibrary/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>ANU Image Library</string>
+  </void>
+  <void property="title">
+   <string>ANU Image Library - Marketing Office - ANU</string>
+  </void>
+ </object>
+</java>

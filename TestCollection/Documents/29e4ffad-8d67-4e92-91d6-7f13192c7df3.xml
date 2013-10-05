@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Courses: (1-8 of 8 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Courses: (1-8 of 8 matches)</string>
+  </void>
+  <void property="docID">
+   <string>29e4ffad-8d67-4e92-91d6-7f13192c7df3</string>
+  </void>
+  <void property="link">
+   <string>https://studyat.anu.edu.au/2013/courses/COMP1130.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>COMP1130 - COMP1130 Introduction to Advanced Computing I</string>
+  </void>
+ </object>
+</java>

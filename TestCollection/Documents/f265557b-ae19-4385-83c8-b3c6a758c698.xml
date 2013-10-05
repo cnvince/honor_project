@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Cameron, Fraser</string>
+  </void>
+  <void property="date">
+   <string>2002</string>
+  </void>
+  <void property="displaySummary">
+   <string>2002 Cameron, Fraser</string>
+  </void>
+  <void property="docID">
+   <string>f265557b-ae19-4385-83c8-b3c6a758c698</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/41659</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>The Euopean Union&apos;s growing international role: closing the capability-expectations gap?</string>
+  </void>
+ </object>
+</java>

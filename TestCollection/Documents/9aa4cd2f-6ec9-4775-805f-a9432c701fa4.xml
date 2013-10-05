@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Library services at the Australian National University (ANU)</string>
+  </void>
+  <void property="docID">
+   <string>9aa4cd2f-6ec9-4775-805f-a9432c701fa4</string>
+  </void>
+  <void property="link">
+   <string>http://anulib.anu.edu.au/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Library services at the Australian National University (ANU)</string>
+  </void>
+  <void property="title">
+   <string>Home page of the ANU Library - ANU Library - Australian National...</string>
+  </void>
+ </object>
+</java>

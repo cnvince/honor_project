@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>US Assistant Secretary Esther Brimmer gives this talk entitled &apos;US commitment to multilateral engagement&apos; at The Australian National University.In her talk, Assistant Secretary Brimmer addresses current US multilateral engagement at the UN and other international organisations. Dr Esther Brimmer was nominated by President Obama to the position of Assistant Secretary of State for International Organizations on March 11, 2009, and was confirmed to that position by the United States Senate on April 2, 2009. In her role as Assistant Secretary, Dr Brimmer leads the Bureau of International Organization Affairs, which strives to advance US interests through international organisations in areas including human rights, peacekeeping, food security, humanitarian relief and climate change.Prior to her appointment, Dr Brimmer was Deputy Director and Director of Research at the Center for Transatlantic Relations at the Paul H. Nitze School of Advanced International Studies (SAIS) at The Johns Hopkins University. There she specialised in transatlantic political and security affairs. She holds M.Phil and D.Phil degrees from Oxford University.Assistant Secretary Brimmer&apos;s lecture was supported by the School of International, Political and Strategic Studies, the Asia Pacific College of Diplomacy and the Embassy of the United States of America. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>6d96e13e-cf40-436f-acb2-3a4e79a26edd</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=tE2S6QIZOgs</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>US Assistant Secretary Esther Brimmer gives this talk entitled &apos;US commitment to multilateral engagement&apos; at The Australian National University.In her talk, Assistant Secretary Brimmer addresses current US multilateral engagement at the UN and other international organisations. Dr Esther Brimmer was nominated by President Obama to the position of Assistant Secretary of State for International Organizations on March 11, 2009, and was confirmed to that position by the United States Senate on April 2, 2009. In her role as Assistant Secretary, Dr Brimmer leads the Bureau of International Organization Affairs, which strives to advance US interests through international organisations in areas including human rights, peacekeeping, food security, humanitarian relief and climate change.Prior to her appointment, Dr Brimmer was Deputy Director and Director of Research at the Center for Transatlantic Relations at the Paul H. Nitze School of Advanced International Studies (SAIS) at The Johns Hopkins University. There she specialised in transatlantic political and security affairs. She holds M.Phil and D.Phil degrees from Oxford University.Assistant Secretary Brimmer&apos;s lecture was supported by the School of International, Political and Strategic Studies, the Asia Pacific College of Diplomacy and the Embassy of the United States of America.</string>
+  </void>
+  <void property="title">
+   <string>Assistant Secretary Esther Brimmer: US commitment to multilateral engagement, at ANU</string>
+  </void>
+ </object>
+</java>

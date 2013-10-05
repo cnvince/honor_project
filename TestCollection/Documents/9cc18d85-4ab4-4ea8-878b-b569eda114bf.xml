@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>The future of international development in Asia and the Pacific conference session two: Dealing with common challenges: Aid and international public goodsThe scale of Asia&apos;s growth over the coming decades will make it the world&apos;s biggest economic zone, increasingly able to address its own poverty challenges. However, Asia and the Pacific are also at the centre of an array of global challengesâ€”most notably the challenge of dangerous climate changeâ€”that pose serious threats to development progress at both the regional and global levels. The region&apos;s emerging economies will need to play a major role to play in meeting these challenges, in partnership with traditional donors. The prospects of the poorest and most vulnerable countries of the region will in large part depend on the success of those joint efforts.Speakers:- Mr Robin Davies, Associate Director, Development Policy Centre, The Australian National University (Chair)- Mr Warren Evans, Senior Adviser, Sustainable Development Network, World Bank- Mr Kazu Sakai, Director General, Strategy and Policy, Asian Development Bank- Professor Graham Brown AM, Director, The Nossal Institute for Global Health, University of Melbourne- Mr Dermot O&apos;Gorman, Chief Executive Officer, WWF-Australia viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>9cc18d85-4ab4-4ea8-878b-b569eda114bf</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=JhY3coH6THM</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>The future of international development in Asia and the Pacific conference session two: Dealing with common challenges: Aid and international public goodsThe scale of Asia&apos;s growth over the coming decades will make it the world&apos;s biggest economic zone, increasingly able to address its own poverty challenges. However, Asia and the Pacific are also at the centre of an array of global challengesâ€”most notably the challenge of dangerous climate changeâ€”that pose serious threats to development progress at both the regional and global levels. The region&apos;s emerging economies will need to play a major role to play in meeting these challenges, in partnership with traditional donors. The prospects of the poorest and most vulnerable countries of the region will in large part depend on the success of those joint efforts.Speakers:- Mr Robin Davies, Associate Director, Development Policy Centre, The Australian National University (Chair)- Mr Warren Evans, Senior Adviser, Sustainable Development Network, World Bank- Mr Kazu Sakai, Director General, Strategy and Policy, Asian Development Bank- Professor Graham Brown AM, Director, The Nossal Institute for Global Health, University of Melbourne- Mr Dermot O&apos;Gorman, Chief Executive Officer, WWF-Australia</string>
+  </void>
+  <void property="title">
+   <string>The future of international development in Asia and the Pacific conference session two: aid</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Felton, A, Fischer, J, Lindenmayer, D et al 2009, &apos;Climate change, conservati...</string>
+  </void>
+  <void property="docID">
+   <string>ae2f73c6-3200-4e02-9265-e65e5cacb7cd</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/18745</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Felton, A, Fischer, J, Lindenmayer, D et al 2009, &apos;Climate change, conservati...</string>
+  </void>
+  <void property="title">
+   <string>Climate change, conservation and management: an assessment of the peer-reviewed scientific journal literature</string>
+  </void>
+ </object>
+</java>

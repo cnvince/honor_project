@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences
+Archaeology Of New Guinea And Pacific Islands (Excl. New Zealand), Archaeolog...</string>
+  </void>
+  <void property="docID">
+   <string>466e2262-9848-4663-8755-aebd9cbc0ade</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/spriggs-mjt</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences
+Archaeology Of New Guinea And Pacific Islands (Excl. New Zealand), Archaeolog...</string>
+  </void>
+  <void property="title">
+   <string>Professor Matthew Spriggs</string>
+  </void>
+ </object>
+</java>

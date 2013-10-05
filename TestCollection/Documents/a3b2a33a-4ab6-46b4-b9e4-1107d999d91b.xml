@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Tag Archives: Canada. ... to exchange perspectives and engage in discussion on Sexualities, Sexual Rights and … Continue reading &amp;rarr;. Posted in ANU PI,  Reports| Tagged Australia,  Canada,  Cook Islands,  Fiji,  France,  Nauru,  New Zealand,  Papua</string>
+  </void>
+  <void property="docID">
+   <string>a3b2a33a-4ab6-46b4-b9e4-1107d999d91b</string>
+  </void>
+  <void property="link">
+   <string>http://pacificinstitute.anu.edu.au/outrigger/tag/canada/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Tag Archives: Canada. ... to exchange perspectives and engage in discussion on Sexualities, Sexual Rights and … Continue reading &amp;rarr;. Posted in ANU PI,  Reports| Tagged Australia,  Canada,  Cook Islands,  Fiji,  France,  Nauru,  New Zealand,  Papua</string>
+  </void>
+  <void property="title">
+   <string>Canada | Outrigger: Blog of the Pacific Institute</string>
+  </void>
+ </object>
+</java>

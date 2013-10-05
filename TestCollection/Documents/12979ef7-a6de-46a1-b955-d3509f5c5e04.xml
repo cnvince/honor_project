@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Williams, C 2006, &apos;Terrorism&apos;, in Robert Ayson, Desmond Ball (ed.), Strat...</string>
+  </void>
+  <void property="docID">
+   <string>12979ef7-a6de-46a1-b955-d3509f5c5e04</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/1197</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Williams, C 2006, &apos;Terrorism&apos;, in Robert Ayson, Desmond Ball (ed.), Strat...</string>
+  </void>
+  <void property="title">
+   <string>Terrorism</string>
+  </void>
+ </object>
+</java>

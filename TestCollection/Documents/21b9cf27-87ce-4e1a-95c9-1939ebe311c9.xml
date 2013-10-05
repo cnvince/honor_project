@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Finkelstein, S, Cohen, S, Windhorst, R et al 2011, &apos;Hubble Space Telescope Im...</string>
+  </void>
+  <void property="docID">
+   <string>21b9cf27-87ce-4e1a-95c9-1939ebe311c9</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/66099</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Finkelstein, S, Cohen, S, Windhorst, R et al 2011, &apos;Hubble Space Telescope Im...</string>
+  </void>
+  <void property="title">
+   <string>Hubble Space Telescope Imaging of LyÎ± Emission at z~ 4.4</string>
+  </void>
+ </object>
+</java>

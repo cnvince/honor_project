@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Indigenous Australians now own over 20 per cent of the continent under a number of different forms of tenure. Much of this Indigenous estate is in relatively intact environmental condition and has high biodiversity value.</string>
+  </void>
+  <void property="docID">
+   <string>41fd16dc-6ee5-488e-b400-754fc691c381</string>
+  </void>
+  <void property="link">
+   <string>http://caepr.anu.edu.au/Publications/topical/2008TI3.php</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Indigenous Australians now own over 20 per cent of the continent under a number of different forms of tenure. Much of this Indigenous estate is in relatively intact environmental condition and has high biodiversity value.</string>
+  </void>
+  <void property="title">
+   <string>Impact of Climate Change on Indigenous Australians: Submission to the...</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>No Image Available. NICTA FAX. Phone:. 6267 6230. Building:. NICTA London Circuit. ... Room:. NICTA Bldg. Groups:. NICTA.</string>
+  </void>
+  <void property="docID">
+   <string>63f15d0a-2ae9-4e7f-922b-a8e3292f0f6c</string>
+  </void>
+  <void property="link">
+   <string>http://people.cecs.anu.edu.au/user/163</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>No Image Available. NICTA FAX. Phone:. 6267 6230. Building:. NICTA London Circuit. ... Room:. NICTA Bldg. Groups:. NICTA.</string>
+  </void>
+  <void property="title">
+   <string>NICTA FAX  - CECS People - ANU</string>
+  </void>
+ </object>
+</java>

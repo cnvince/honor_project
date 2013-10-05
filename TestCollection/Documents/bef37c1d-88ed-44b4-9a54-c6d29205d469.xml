@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Bibbee, Alexandra. 
+[S.l.] : [s.n.], 2012.</string>
+  </void>
+  <void property="docID">
+   <string>bef37c1d-88ed-44b4-9a54-c6d29205d469</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YCanada&amp;SORT=D/YCanada&amp;SORT=D&amp;SUBKEY=Canada/1%2C15385%2C15385%2CB/frameset&amp;FF=YCanada&amp;SORT=D&amp;12%2C12%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Bibbee, Alexandra. 
+[S.l.] : [s.n.], 2012.</string>
+  </void>
+  <void property="title">
+   <string>Unleashing Business Innovation in Canada</string>
+  </void>
+ </object>
+</java>

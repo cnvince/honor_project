@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Asia and the Pacific
+Health Policy, Taxation Law, Public Policy, Police Administration, Procedures...</string>
+  </void>
+  <void property="docID">
+   <string>65961a75-7c6b-4e9f-9e1c-81a0f3807db3</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/braithwaite-jb</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Asia and the Pacific
+Health Policy, Taxation Law, Public Policy, Police Administration, Procedures...</string>
+  </void>
+  <void property="title">
+   <string>Professor John Braithwaite</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>A. D. Hope, by Loui Seselja, 1991. ... It is in the A. D. Hope Building, now housing the new School of Humanities, where a set of lively sketches near the entrance and the colourful portrait by Keith Looby</string>
+  </void>
+  <void property="docID">
+   <string>d6b0ac96-97a1-4818-b937-2674fc7c45cf</string>
+  </void>
+  <void property="link">
+   <string>http://oa.anu.edu.au/obituary/hope-alec-derwent-a-d-503</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>A. D. Hope, by Loui Seselja, 1991. ... It is in the A. D. Hope Building, now housing the new School of Humanities, where a set of lively sketches near the entrance and the colourful portrait by Keith Looby</string>
+  </void>
+  <void property="title">
+   <string>Obituary - Alec Derwent (A. D.) Hope - Obituaries Australia</string>
+  </void>
+ </object>
+</java>

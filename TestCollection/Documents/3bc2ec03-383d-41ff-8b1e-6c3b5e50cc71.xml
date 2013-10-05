@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>3bc2ec03-383d-41ff-8b1e-6c3b5e50cc71</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/366710227820748800</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>What does the humble chicken salad sandwich have to do with climate change? http://bit.ly/14m7nAz </string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>what we have learned from international theory and research to what we observed in the various learning spaces and what Indigenous young people shared with us. ... that can be of value in building or facilitating learning spaces: X Design Principle 1: A</string>
+  </void>
+  <void property="docID">
+   <string>ec7af2c3-c6dd-4c2f-8724-27e12bca2bb9</string>
+  </void>
+  <void property="link">
+   <string>http://epress.anu.edu.au/wp-content/uploads/2012/08/ch041.pdf</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>what we have learned from international theory and research to what we observed in the various learning spaces and what Indigenous young people shared with us. ... that can be of value in building or facilitating learning spaces: X Design Principle 1: A</string>
+  </void>
+  <void property="title">
+   <string>[PDF]
+          
+          
+          
+          
+          
+            epress.anu.edu.au/wp-content/uploads/2012/08/ch041.pdf</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>59bb6fc0-3dab-4987-81b2-16fdebc4a446</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/28667755898</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>ANU congratulates all ARC major grant winners, especially the 105 projects from the University http://bit.ly/bthdfe</string>
+  </void>
+ </object>
+</java>

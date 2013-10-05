@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Ball, Desmond 
+Bangkok : White Lotus Press, c2007</string>
+  </void>
+  <void property="docID">
+   <string>09d58f51-921e-41d1-8d04-9c7392471828</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YDesmond+Ball&amp;SORT=D/YDesmond+Ball&amp;SORT=D&amp;SUBKEY=Desmond+Ball/1%2C118%2C118%2CB/frameset&amp;FF=YDesmond+Ball&amp;SORT=D&amp;4%2C4%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Ball, Desmond 
+Bangkok : White Lotus Press, c2007</string>
+  </void>
+  <void property="title">
+   <string>Militia redux : Or Sor and the revival of paramilitarism in Thailand</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ContactResult">
+  <void property="displaySummary">
+   <string>    National Europe Centre</string>
+  </void>
+  <void property="docID">
+   <string>6d53ec85-6f7c-4651-89ae-76bfdfc2da7a</string>
+  </void>
+  <void property="link">
+   <string>http://www.anu.edu.au/dirs/c5a_search.php?submit=Search&amp;querytext=3</string>
+  </void>
+  <void property="summary">
+   <string>National Europe Centre</string>
+  </void>
+  <void property="title">
+   <string>Centre Administrator, National Europe Centre</string>
+  </void>
+ </object>
+</java>

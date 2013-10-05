@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Saha, L 2006, &apos;Citizenship and Participation in Lifelong Learning&apos;, in Ari An...</string>
+  </void>
+  <void property="docID">
+   <string>5ffde3ff-7211-40d1-af71-bd93a84cfa04</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/23391</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Saha, L 2006, &apos;Citizenship and Participation in Lifelong Learning&apos;, in Ari An...</string>
+  </void>
+  <void property="title">
+   <string>Citizenship and Participation in Lifelong Learning</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Political Activisms. Rural Properties. Stately Homes. O&apos;Doherty, Mary Eva ( 1829– 1910). from. Brisbane Courier. ... There died at her residence at the corner of Thomas and Bayswater roads, Rosalie, on Saturday, Mrs Mary Eva O&apos;Doherty, relict of Dr.</string>
+  </void>
+  <void property="docID">
+   <string>79d547bc-d46a-48f2-9801-42f959979d9d</string>
+  </void>
+  <void property="link">
+   <string>http://oa.anu.edu.au/obituary/odoherty-mary-eva-15193</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Political Activisms. Rural Properties. Stately Homes. O&apos;Doherty, Mary Eva ( 1829– 1910). from. Brisbane Courier. ... There died at her residence at the corner of Thomas and Bayswater roads, Rosalie, on Saturday, Mrs Mary Eva O&apos;Doherty, relict of Dr.</string>
+  </void>
+  <void property="title">
+   <string>Obituary - Mary Eva O&apos;Doherty - Obituaries Australia</string>
+  </void>
+ </object>
+</java>

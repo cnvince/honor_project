@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string> 
+[S.l.] : ACM, 2011.</string>
+  </void>
+  <void property="docID">
+   <string>8ef162d8-8eef-4421-b76f-4e5c94db9ae6</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Ybig+data&amp;SORT=D/Ybig+data&amp;SORT=D&amp;SUBKEY=big+data/1%2C72%2C72%2CB/frameset&amp;FF=Ybig+data&amp;SORT=D&amp;8%2C8%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string> 
+[S.l.] : ACM, 2011.</string>
+  </void>
+  <void property="title">
+   <string>Proceedings of the 1st Workshop on Architectures and Systems for Big Data</string>
+  </void>
+ </object>
+</java>

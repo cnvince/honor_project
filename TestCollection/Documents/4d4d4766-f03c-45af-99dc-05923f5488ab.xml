@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>A guide to international and foreign law research.</string>
+  </void>
+  <void property="docID">
+   <string>4d4d4766-f03c-45af-99dc-05923f5488ab</string>
+  </void>
+  <void property="link">
+   <string>http://libguides.anu.edu.au/content.php?pid=219123&amp;sid=1819851</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>A guide to international and foreign law research.</string>
+  </void>
+  <void property="title">
+   <string>EU/Other Organisations - International &amp; Foreign Law - LibGuides...</string>
+  </void>
+ </object>
+</java>

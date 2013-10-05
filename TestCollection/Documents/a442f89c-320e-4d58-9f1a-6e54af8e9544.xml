@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Asia and the Pacific
+Computational Linguistics, Language In Culture And Society (Sociolinguistics)...</string>
+  </void>
+  <void property="docID">
+   <string>a442f89c-320e-4d58-9f1a-6e54af8e9544</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/arka-iww</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Asia and the Pacific
+Computational Linguistics, Language In Culture And Society (Sociolinguistics)...</string>
+  </void>
+  <void property="title">
+   <string>Dr I Wayan Arka</string>
+  </void>
+ </object>
+</java>

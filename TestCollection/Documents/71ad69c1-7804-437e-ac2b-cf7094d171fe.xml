@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Saikal, A, ed., 2003, Democratization in the Middle East: Experiences, st...</string>
+  </void>
+  <void property="docID">
+   <string>71ad69c1-7804-437e-ac2b-cf7094d171fe</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/2707</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Saikal, A, ed., 2003, Democratization in the Middle East: Experiences, st...</string>
+  </void>
+  <void property="title">
+   <string>Democratization in the Middle East: Experiences, struggles, challenges</string>
+  </void>
+ </object>
+</java>

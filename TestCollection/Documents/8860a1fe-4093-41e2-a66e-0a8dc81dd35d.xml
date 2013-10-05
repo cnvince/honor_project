@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string> 
+[S.l.] : INTECH, 2013.</string>
+  </void>
+  <void property="docID">
+   <string>8860a1fe-4093-41e2-a66e-0a8dc81dd35d</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Yclimate+change&amp;SORT=D/Yclimate+change&amp;SORT=D&amp;SUBKEY=climate+change/1%2C1797%2C1797%2CB/frameset&amp;FF=Yclimate+change&amp;SORT=D&amp;3%2C3%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string> 
+[S.l.] : INTECH, 2013.</string>
+  </void>
+  <void property="title">
+   <string>Climate Change - Realities, Impacts Over Ice Cap, Sea Level and Risks</string>
+  </void>
+ </object>
+</java>

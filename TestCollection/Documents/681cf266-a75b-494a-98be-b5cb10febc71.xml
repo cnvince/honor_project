@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>9700 GeneAmp PCR System Required for Microarray Work</string>
+  </void>
+  <void property="docID">
+   <string>681cf266-a75b-494a-98be-b5cb10febc71</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/970</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>9700 GeneAmp PCR System Required for Microarray Work</string>
+  </void>
+  <void property="title">
+   <string>9700 GeneAmp PCR System Required for Microarray Work</string>
+  </void>
+ </object>
+</java>

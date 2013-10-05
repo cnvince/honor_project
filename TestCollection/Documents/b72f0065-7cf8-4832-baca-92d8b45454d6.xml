@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>Professor Warwick Anderson, CEO, National Health &amp; Medical Research Council, gives this lecture entitled &apos;Translation Research on the Brain: Accelerating the Pathway from Discovery to Healthcare&apos; at The Australian National University on 30 August 2010.The new annual national conference series &quot;Translation Research on the Brain: Accelerating the Pathway from Discovery to Healthcare&quot; at The John Curtin School of Medical Research was held on Monday 30 August 2010. The goal of this conference is to bring together researchers across the full spectrum of neuroscience research from the most fundamental to the most applied in order to facilitate and foster the process of translational science applied to the brain: http://jcsmr.anu.edu.au/conferences/trans/videos.phpProfessor Warwick Anderson is the Chief Executive Officer (CEO) of NHMRC, Australia&apos;s major governmental funding body for health and medical research.Previously, he was Head of School of Biomedical Sciences at Monash University and Deputy Director of the Baker Medical Research Institute, following research fellowships at the University of Sydney and Harvard Medical School.Professor Anderson obtained his PhD from the University of Adelaide, South Australia. His research has focussed on renal mechanisms in the pathogenesis of hypertension, including the roles of renal vascular remodelling and the renin-angiotensin system. He has published over 170 peer review articles.For his contributions to medical research, Professor Anderson was made a Member of the Order of Australia in 2005. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>b72f0065-7cf8-4832-baca-92d8b45454d6</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=6GevWOQPnHU</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>Professor Warwick Anderson, CEO, National Health &amp; Medical Research Council, gives this lecture entitled &apos;Translation Research on the Brain: Accelerating the Pathway from Discovery to Healthcare&apos; at The Australian National University on 30 August 2010.The new annual national conference series &quot;Translation Research on the Brain: Accelerating the Pathway from Discovery to Healthcare&quot; at The John Curtin School of Medical Research was held on Monday 30 August 2010. The goal of this conference is to bring together researchers across the full spectrum of neuroscience research from the most fundamental to the most applied in order to facilitate and foster the process of translational science applied to the brain: http://jcsmr.anu.edu.au/conferences/trans/videos.phpProfessor Warwick Anderson is the Chief Executive Officer (CEO) of NHMRC, Australia&apos;s major governmental funding body for health and medical research.Previously, he was Head of School of Biomedical Sciences at Monash University and Deputy Director of the Baker Medical Research Institute, following research fellowships at the University of Sydney and Harvard Medical School.Professor Anderson obtained his PhD from the University of Adelaide, South Australia. His research has focussed on renal mechanisms in the pathogenesis of hypertension, including the roles of renal vascular remodelling and the renin-angiotensin system. He has published over 170 peer review articles.For his contributions to medical research, Professor Anderson was made a Member of the Order of Australia in 2005.</string>
+  </void>
+  <void property="title">
+   <string>Warwick Anderson: Translation Research on the Brain</string>
+  </void>
+ </object>
+</java>

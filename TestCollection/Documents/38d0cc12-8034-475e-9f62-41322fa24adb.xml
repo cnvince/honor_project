@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Kleinert, S 2001, &apos;Dreaming Inside&apos;, International Forum on Education in ...</string>
+  </void>
+  <void property="docID">
+   <string>38d0cc12-8034-475e-9f62-41322fa24adb</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/7322</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Kleinert, S 2001, &apos;Dreaming Inside&apos;, International Forum on Education in ...</string>
+  </void>
+  <void property="title">
+   <string>Dreaming Inside</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Dale, C, Macpherson, C, Boyce, A et al 2008, &apos;Variable H and O isotopes in To...</string>
+  </void>
+  <void property="docID">
+   <string>8c9e2ef8-9093-48cc-8da2-ed7e3a8aeb21</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/24541</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Dale, C, Macpherson, C, Boyce, A et al 2008, &apos;Variable H and O isotopes in To...</string>
+  </void>
+  <void property="title">
+   <string>Variable H and O isotopes in Tongan basaltic glasses: Source or degassing?</string>
+  </void>
+ </object>
+</java>

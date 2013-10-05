@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>56e61e3b-12cd-4ed5-9dfb-ea3d290f5388</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/363117771279695872</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>We&apos;ve started filming our first MOOC with Paul Francis and Brian Schmidt @cosmicpinot at Mt Stromlo. pic.twitter.com/OfazEFVoUX</string>
+  </void>
+ </object>
+</java>

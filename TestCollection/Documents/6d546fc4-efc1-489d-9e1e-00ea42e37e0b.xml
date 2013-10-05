@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>NHMRC hat-trick for early career researcher. Having just completed his PhD in 2011, early career researcher Phil Batterham celebrates three National Health and.</string>
+  </void>
+  <void property="docID">
+   <string>6d546fc4-efc1-489d-9e1e-00ea42e37e0b</string>
+  </void>
+  <void property="link">
+   <string>http://cmhr.anu.edu.au/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>NHMRC hat-trick for early career researcher. Having just completed his PhD in 2011, early career researcher Phil Batterham celebrates three National Health and.</string>
+  </void>
+  <void property="title">
+   <string>Home - CMHR - ANU</string>
+  </void>
+ </object>
+</java>

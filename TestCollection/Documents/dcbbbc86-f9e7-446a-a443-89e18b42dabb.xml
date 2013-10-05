@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Other Pages: (1-3 of 6 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Other Pages: (1-3 of 6 matches)</string>
+  </void>
+  <void property="docID">
+   <string>dcbbbc86-f9e7-446a-a443-89e18b42dabb</string>
+  </void>
+  <void property="link">
+   <string>https://studyat.anu.edu.au/fees</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>Study at ANU</string>
+  </void>
+ </object>
+</java>

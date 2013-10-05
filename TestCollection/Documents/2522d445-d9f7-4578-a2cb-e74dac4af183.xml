@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Akiyama, M, Xu, C, Liu, Y et al 2002, &apos;Influence of Eu, Dy co-doped strontium...</string>
+  </void>
+  <void property="docID">
+   <string>2522d445-d9f7-4578-a2cb-e74dac4af183</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/17810</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Akiyama, M, Xu, C, Liu, Y et al 2002, &apos;Influence of Eu, Dy co-doped strontium...</string>
+  </void>
+  <void property="title">
+   <string>Influence of Eu, Dy co-doped strontium aluminate composition on mechanoluminescence intensity</string>
+  </void>
+ </object>
+</java>

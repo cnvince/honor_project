@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences
+Sociology Of Education, Comparative And Cross Cultural Education, Urban Socio...</string>
+  </void>
+  <void property="docID">
+   <string>c0806bcc-7992-4b45-ac57-5a0efa7c27cf</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/saha-lj</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences
+Sociology Of Education, Comparative And Cross Cultural Education, Urban Socio...</string>
+  </void>
+  <void property="title">
+   <string>Professor Larry Saha</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Courses: (1-1 of 1 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Courses: (1-1 of 1 matches)</string>
+  </void>
+  <void property="docID">
+   <string>e15b3dc0-4cbd-4284-abee-eea0b18f9e10</string>
+  </void>
+  <void property="link">
+   <string>https://studyat.anu.edu.au/2013/courses/GEND2030.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>GEND2030 - GEND2030 The Politics of Dance/Musicals</string>
+  </void>
+ </object>
+</java>

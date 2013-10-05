@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Medicine, Biology and Environment
+Conservation And Biodiversity, Wildlife And Habitat Management, Humane Animal...</string>
+  </void>
+  <void property="docID">
+   <string>3c347b8a-4a67-45fb-bdfe-7d5923a78634</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/tidemann-cr</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Medicine, Biology and Environment
+Conservation And Biodiversity, Wildlife And Habitat Management, Humane Animal...</string>
+  </void>
+  <void property="title">
+   <string>Dr Christopher Tidemann</string>
+  </void>
+ </object>
+</java>

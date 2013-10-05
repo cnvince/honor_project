@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>You are here.  Child protection in Afghanistan. Child protection in Afghanistan. ... Decades of conflict have eroded the physical and social fabric of Afghanistan, with severe impacts on the lives of children.</string>
+  </void>
+  <void property="docID">
+   <string>a53fbff6-e297-44c7-9ed3-3af45bed0c6c</string>
+  </void>
+  <void property="link">
+   <string>http://asiapacific.anu.edu.au/cap-events/2013-08-15/child-protection-afghanistan</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>You are here.  Child protection in Afghanistan. Child protection in Afghanistan. ... Decades of conflict have eroded the physical and social fabric of Afghanistan, with severe impacts on the lives of children.</string>
+  </void>
+  <void property="title">
+   <string>Child protection in Afghanistan - CAP - ANU</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>Dr Adele Morris, Policy Director, Climate and Energy Economics Project, Brookings Institution gives this lecture entitled &apos;Clean energy technology policy: The economics of why and how&apos; at The Australian National University.This public lecture is presented by the Research School of Economics in partnership with the HC Coombs Policy Forum at the Crawford School at ANU.Adele Morris is a fellow and policy director for Climate and Energy Economics at the Brookings Institution. Her expertise and interests include the economics of policies related to climate change, energy, natural resources, and public finance. She joined Brookings in July 2008 from the Joint Economic Committee (JEC) of the US Congress, where she spent a year as a Senior Economist covering energy and climate issues. Before the JEC, Adele served nine years with the US Treasury Department as its chief natural resource economist, working on climate, energy, agriculture, and radio spectrum issues. On assignment to the US Department of State in 2000, she was the lead US negotiator on land use and forestry issues in the international climate change treaty process. Prior to joining the Treasury, she served as the senior economist for environmental affairs at the President&apos;s Council of Economic Advisers during the development of the Kyoto Protocol. She began her career at the Office of Management and Budget, where she conducted regulatory oversight of agriculture and natural resource agencies. She holds a Ph.D. in Economics from Princeton University, an M.S. in Mathematics from the University of Utah, and a B.A. from Rice University. This event is supported by the Australian National Institute of Public Policy with funding from the Australian Government under the &apos;Enhancing Public Policy Initiative&apos;. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>dedde584-c37b-49e0-b208-389f793a97b6</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=p-OWBD94ShM</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>Dr Adele Morris, Policy Director, Climate and Energy Economics Project, Brookings Institution gives this lecture entitled &apos;Clean energy technology policy: The economics of why and how&apos; at The Australian National University.This public lecture is presented by the Research School of Economics in partnership with the HC Coombs Policy Forum at the Crawford School at ANU.Adele Morris is a fellow and policy director for Climate and Energy Economics at the Brookings Institution. Her expertise and interests include the economics of policies related to climate change, energy, natural resources, and public finance. She joined Brookings in July 2008 from the Joint Economic Committee (JEC) of the US Congress, where she spent a year as a Senior Economist covering energy and climate issues. Before the JEC, Adele served nine years with the US Treasury Department as its chief natural resource economist, working on climate, energy, agriculture, and radio spectrum issues. On assignment to the US Department of State in 2000, she was the lead US negotiator on land use and forestry issues in the international climate change treaty process. Prior to joining the Treasury, she served as the senior economist for environmental affairs at the President&apos;s Council of Economic Advisers during the development of the Kyoto Protocol. She began her career at the Office of Management and Budget, where she conducted regulatory oversight of agriculture and natural resource agencies. She holds a Ph.D. in Economics from Princeton University, an M.S. in Mathematics from the University of Utah, and a B.A. from Rice University. This event is supported by the Australian National Institute of Public Policy with funding from the Australian Government under the &apos;Enhancing Public Policy Initiative&apos;.</string>
+  </void>
+  <void property="title">
+   <string>Clean energy technology policy: The economics of why and how - Dr Adele Morris</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Griffiths, K 2002, &apos;e-Mental health quality: Global perspectives&apos;, in Commonw...</string>
+  </void>
+  <void property="docID">
+   <string>dc7dd119-5e63-45b0-a42f-ba5695e43979</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/34596</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Griffiths, K 2002, &apos;e-Mental health quality: Global perspectives&apos;, in Commonw...</string>
+  </void>
+  <void property="title">
+   <string>e-Mental health quality: Global perspectives</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Young, G 2005, &apos;An articulated phyllolepid fish (Placodermi) from the Devonia...</string>
+  </void>
+  <void property="docID">
+   <string>ad0d1838-39ba-4af7-9638-64d400d68d77</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/437</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Young, G 2005, &apos;An articulated phyllolepid fish (Placodermi) from the Devonia...</string>
+  </void>
+  <void property="title">
+   <string>An articulated phyllolepid fish (Placodermi) from the Devonian of central Australia: implications for non-marine connections with the Old Red Sandstone continent</string>
+  </void>
+ </object>
+</java>

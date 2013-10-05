@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Ramakrishna, Kumar. 
+Westport, Conn. : Praeger Security International, 2009.</string>
+  </void>
+  <void property="docID">
+   <string>5d6b2f6d-0617-4b0a-af35-3cd604eafee9</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Yislamic+radicalization&amp;SORT=D/Yislamic+radicalization&amp;SORT=D&amp;SUBKEY=islamic+radicalization/1%2C10%2C10%2CB/frameset&amp;FF=Yislamic+radicalization&amp;SORT=D&amp;7%2C7%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Ramakrishna, Kumar. 
+Westport, Conn. : Praeger Security International, 2009.</string>
+  </void>
+  <void property="title">
+   <string>Radical pathways understanding Muslim radicalization in Indonesia</string>
+  </void>
+ </object>
+</java>

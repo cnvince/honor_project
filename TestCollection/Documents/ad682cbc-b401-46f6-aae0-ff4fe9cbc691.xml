@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Medicine, Biology and Environment
+Sensory Processes, Perception And Performance, Psychology, Sensory Systems</string>
+  </void>
+  <void property="docID">
+   <string>ad682cbc-b401-46f6-aae0-ff4fe9cbc691</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/apthorp-d</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Medicine, Biology and Environment
+Sensory Processes, Perception And Performance, Psychology, Sensory Systems</string>
+  </void>
+  <void property="title">
+   <string>Dr Deborah Apthorp</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Tip: use double quotes to search for a phrase. Tip: lists of awards, schools, organisations etc. ... Browse People:. Browse Lists:. Awards. Clubs. Educational Institutions ( Higher). Educational Institutions ( School). Events. Groups. Inventions. Legacies</string>
+  </void>
+  <void property="docID">
+   <string>5638aef2-27b6-4542-bb06-8db2945b6694</string>
+  </void>
+  <void property="link">
+   <string>http://oa.anu.edu.au/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Tip: use double quotes to search for a phrase. Tip: lists of awards, schools, organisations etc. ... Browse People:. Browse Lists:. Awards. Clubs. Educational Institutions ( Higher). Educational Institutions ( School). Events. Groups. Inventions. Legacies</string>
+  </void>
+  <void property="title">
+   <string>OA Home - Obituaries Australia</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Courses: (1-3 of 39 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Courses: (1-3 of 39 matches)</string>
+  </void>
+  <void property="docID">
+   <string>452c7c88-5ec6-4f2e-aa35-83bf4b17eea5</string>
+  </void>
+  <void property="link">
+   <string>https://studyat.anu.edu.au/2013/courses/ENVS6024.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>ENVS6024 - ENVS6024 Biodiversity Conservation</string>
+  </void>
+ </object>
+</java>

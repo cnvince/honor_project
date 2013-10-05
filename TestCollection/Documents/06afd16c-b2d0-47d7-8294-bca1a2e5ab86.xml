@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Pimentel, Marcio; Hollanda, Maria; Armstrong, Richard</string>
+  </void>
+  <void property="date">
+   <string>-</string>
+  </void>
+  <void property="displaySummary">
+   <string>- Pimentel, Marcio; Hollanda, Maria; Armstrong, Richard</string>
+  </void>
+  <void property="docID">
+   <string>06afd16c-b2d0-47d7-8294-bca1a2e5ab86</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/10440/45</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Shrimp U-Pb age and Sr-Nd isotopes of the Morro do Baú mafic intrusion: implications for the evolution of the Arenópolis volcano-sedimentary sequence, Goiás Magmatic Arc</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Maley, W 2009, Afghanistan&apos;s 2009 Elections, Afghanistan Info, no.65...</string>
+  </void>
+  <void property="docID">
+   <string>f01f1009-ce4f-41d1-8029-922efa3b8464</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/72089</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Maley, W 2009, Afghanistan&apos;s 2009 Elections, Afghanistan Info, no.65...</string>
+  </void>
+  <void property="title">
+   <string>Afghanistan&apos;s 2009 Elections</string>
+  </void>
+ </object>
+</java>

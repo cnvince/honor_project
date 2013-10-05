@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>You are here.  Contemporary China Centre. Contemporary China Centre. The Contemporary China Centre was set up in 1970 at The Australian National University as a research facility concerned with scholarly social ... In 2010, the Centre merged with the</string>
+  </void>
+  <void property="docID">
+   <string>52514d69-7375-4fe4-b713-812b7c2a93fd</string>
+  </void>
+  <void property="link">
+   <string>http://ips.cap.anu.edu.au/psc/ccc</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>You are here.  Contemporary China Centre. Contemporary China Centre. The Contemporary China Centre was set up in 1970 at The Australian National University as a research facility concerned with scholarly social ... In 2010, the Centre merged with the</string>
+  </void>
+  <void property="title">
+   <string>Contemporary China Centre - IPS - ANU</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>McGregor, P, Bicknell, G, Dopita, M et al 2003, &apos;Radio-Excess IRAS Galaxies: ...</string>
+  </void>
+  <void property="docID">
+   <string>cbc72373-83e7-4879-8ad1-8686c20b695b</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/3189</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>McGregor, P, Bicknell, G, Dopita, M et al 2003, &apos;Radio-Excess IRAS Galaxies: ...</string>
+  </void>
+  <void property="title">
+   <string>Radio-Excess IRAS Galaxies: Low Power CSS/GPS sources?</string>
+  </void>
+ </object>
+</java>

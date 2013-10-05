@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Keller, S, Schmidt, B, Bessell, M et al 2007, &apos;The SkyMapper Telescope and Th...</string>
+  </void>
+  <void property="docID">
+   <string>75f43938-a87c-4da5-869e-18324d54f241</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/51019</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Keller, S, Schmidt, B, Bessell, M et al 2007, &apos;The SkyMapper Telescope and Th...</string>
+  </void>
+  <void property="title">
+   <string>The SkyMapper Telescope and The Southern Sky Survey</string>
+  </void>
+ </object>
+</java>

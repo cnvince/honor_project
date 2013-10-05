@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Protecting the Australian chickpea industry through knowledge of the current ...</string>
+  </void>
+  <void property="docID">
+   <string>d6da34a0-6d04-4a57-82b8-7ccbb94cc255</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/1308</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Protecting the Australian chickpea industry through knowledge of the current ...</string>
+  </void>
+  <void property="title">
+   <string>Protecting the Australian chickpea industry through knowledge of the current Ascochyta rabei fungal population and risk to resistance breeding strategies (externally led by University of Melb)</string>
+  </void>
+ </object>
+</java>

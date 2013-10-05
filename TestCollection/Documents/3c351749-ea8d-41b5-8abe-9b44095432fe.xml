@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>-</string>
+  </void>
+  <void property="date">
+   <string>Between 1897 and 1902</string>
+  </void>
+  <void property="displaySummary">
+   <string>Between 1897 and 1902 -</string>
+  </void>
+  <void property="docID">
+   <string>3c351749-ea8d-41b5-8abe-9b44095432fe</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/111</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Museum and Public Library, Perth, Western Australia</string>
+  </void>
+ </object>
+</java>

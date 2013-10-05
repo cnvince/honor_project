@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>The Archaeology of Sulawesi: A Strategic Island for Understanding Modern Huma...</string>
+  </void>
+  <void property="docID">
+   <string>5b86443c-fb42-46ad-b9bb-ac0ce34ce732</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/1403</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>The Archaeology of Sulawesi: A Strategic Island for Understanding Modern Huma...</string>
+  </void>
+  <void property="title">
+   <string>The Archaeology of Sulawesi: A Strategic Island for Understanding Modern Human Colonization and Interactions Across our Region</string>
+  </void>
+ </object>
+</java>

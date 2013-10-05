@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Ball, D &amp; Taylor, B 2006, &apos;Regional security cooperation&apos;, in Robert Ayson, D...</string>
+  </void>
+  <void property="docID">
+   <string>01e87e6e-c4cf-471b-8fda-0b39d9ea9fc8</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/27504</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Ball, D &amp; Taylor, B 2006, &apos;Regional security cooperation&apos;, in Robert Ayson, D...</string>
+  </void>
+  <void property="title">
+   <string>Regional security cooperation</string>
+  </void>
+ </object>
+</java>

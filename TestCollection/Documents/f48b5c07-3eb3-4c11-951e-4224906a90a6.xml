@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Digital Collections</string>
+  </void>
+  <void property="docID">
+   <string>f48b5c07-3eb3-4c11-951e-4224906a90a6</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/7489</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Digital Collections</string>
+  </void>
+  <void property="title">
+   <string>ANU - Digital Collections: L to R: Pro-Chancellor, Dr H C Coombs, The...</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Keller, N, Arculus, R, Hermann, J et al 2008, &apos;Submarine back-arc lava with a...</string>
+  </void>
+  <void property="docID">
+   <string>630dc3cf-36fa-4f58-9af6-792091c19598</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/50035</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Keller, N, Arculus, R, Hermann, J et al 2008, &apos;Submarine back-arc lava with a...</string>
+  </void>
+  <void property="title">
+   <string>Submarine back-arc lava with arc signature: Fonualei spreading center, northeast Lau Basin, Tonga</string>
+  </void>
+ </object>
+</java>

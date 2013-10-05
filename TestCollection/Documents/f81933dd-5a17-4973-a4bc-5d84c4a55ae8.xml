@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Supersymmetric Quantum Field Theory, Topology and Duality (externally led by ...</string>
+  </void>
+  <void property="docID">
+   <string>f81933dd-5a17-4973-a4bc-5d84c4a55ae8</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/1473</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Supersymmetric Quantum Field Theory, Topology and Duality (externally led by ...</string>
+  </void>
+  <void property="title">
+   <string>Supersymmetric Quantum Field Theory, Topology and Duality (externally led by University of Adelaide)</string>
+  </void>
+ </object>
+</java>

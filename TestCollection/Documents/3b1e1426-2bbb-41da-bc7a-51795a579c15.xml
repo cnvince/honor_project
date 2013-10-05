@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Efforts to dismantle terrorist networks largely target Islamic schools in Pakistan, which are purported to breed and harbor terrorists. ... The analysis challenges the assumption that secularizing Islamic education and building the secular state-funded</string>
+  </void>
+  <void property="docID">
+   <string>3b1e1426-2bbb-41da-bc7a-51795a579c15</string>
+  </void>
+  <void property="link">
+   <string>https://crawford.anu.edu.au/degrees/pogo/discussion_papers/PDP06-10.pdf</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Efforts to dismantle terrorist networks largely target Islamic schools in Pakistan, which are purported to breed and harbor terrorists. ... The analysis challenges the assumption that secularizing Islamic education and building the secular state-funded</string>
+  </void>
+  <void property="title">
+   <string>[PDF]
+          
+          
+          
+          
+          
+            Microsoft Word - PDP06-10a.doc</string>
+  </void>
+ </object>
+</java>

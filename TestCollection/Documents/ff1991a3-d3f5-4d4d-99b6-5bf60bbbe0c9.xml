@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>The ANU Data Mining and Matching Research Group in the College of Engineering and Computer Science (CECS), at The Australian National University (ANU).</string>
+  </void>
+  <void property="docID">
+   <string>ff1991a3-d3f5-4d4d-99b6-5bf60bbbe0c9</string>
+  </void>
+  <void property="link">
+   <string>http://dmm.anu.edu.au/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>The ANU Data Mining and Matching Research Group in the College of Engineering and Computer Science (CECS), at The Australian National University (ANU).</string>
+  </void>
+  <void property="title">
+   <string>Data Mining and Matching Research Projects - DMM - ANU</string>
+  </void>
+ </object>
+</java>

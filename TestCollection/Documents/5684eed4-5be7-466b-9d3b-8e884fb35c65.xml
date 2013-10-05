@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>GrÃ¼n, R, Eggins, S, Aubert, M et al 2010, &apos;ESR and U-series analyses of faun...</string>
+  </void>
+  <void property="docID">
+   <string>5684eed4-5be7-466b-9d3b-8e884fb35c65</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/52463</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>GrÃ¼n, R, Eggins, S, Aubert, M et al 2010, &apos;ESR and U-series analyses of faun...</string>
+  </void>
+  <void property="title">
+   <string>ESR and U-series analyses of faunal material from Cuddie Springs, NSW, Australia: implications for the timing of the extinction of the Australian megafauna</string>
+  </void>
+ </object>
+</java>

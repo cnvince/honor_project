@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Blank, JiÅ™Ã­ 
+[Dordrecht, Netherlands] : Springer ; [Melville, N.Y.] : AIP Press, c2008</string>
+  </void>
+  <void property="docID">
+   <string>443d49f8-d178-4b46-a253-72e1fedeac04</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Yquantum+physics&amp;SORT=D/Yquantum+physics&amp;SORT=D&amp;SUBKEY=quantum+physics/1%2C1782%2C1782%2CB/frameset&amp;FF=Yquantum+physics&amp;SORT=D&amp;5%2C5%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Blank, JiÅ™Ã­ 
+[Dordrecht, Netherlands] : Springer ; [Melville, N.Y.] : AIP Press, c2008</string>
+  </void>
+  <void property="title">
+   <string>Hilbert space operators in quantum physics</string>
+  </void>
+ </object>
+</java>

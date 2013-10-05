@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>ANU Experts Guide</string>
+  </void>
+  <void property="docID">
+   <string>042df2c8-7604-41c3-8137-8ae59d4fa617</string>
+  </void>
+  <void property="link">
+   <string>http://experts.anu.edu.au/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>ANU Experts Guide</string>
+  </void>
+  <void property="title">
+   <string>ANU Experts Guide</string>
+  </void>
+ </object>
+</java>

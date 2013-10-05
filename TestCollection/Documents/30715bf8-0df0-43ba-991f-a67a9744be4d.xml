@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Rawluk, A, Curtis, A, Sharp, E , Ross, A, et al 2012, &apos;Managed aquifer rechar...</string>
+  </void>
+  <void property="docID">
+   <string>30715bf8-0df0-43ba-991f-a67a9744be4d</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/73169</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Rawluk, A, Curtis, A, Sharp, E , Ross, A, et al 2012, &apos;Managed aquifer rechar...</string>
+  </void>
+  <void property="title">
+   <string>Managed aquifer recharge in farming landscapes using large floods: an opportunity to improve outcomes for the Murray-Darling Basin?</string>
+  </void>
+ </object>
+</java>

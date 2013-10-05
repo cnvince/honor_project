@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>6f79673c-71e2-4053-8422-b662eea2e2b5</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/346874813220012033</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>Putting a human face on the violence in Afghanistan. Unsafe Haven showing now at School of Art Foyer Gallery http://bit.ly/19LoFP9 </string>
+  </void>
+ </object>
+</java>

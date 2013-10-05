@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>7c1c70b1-7b0b-4864-b0fa-be1080dce944</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/339176447165988864</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>How can we be secure without America and prosperous without China? A day will come when Australia must choose http://bit.ly/17iQHRM  @smh</string>
+  </void>
+ </object>
+</java>

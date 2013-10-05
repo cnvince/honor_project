@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Negotiation Support Systems for Groundwater Management in Small Islands</string>
+  </void>
+  <void property="docID">
+   <string>92885ef7-61cd-4d2c-ac53-bf7ee2f6578a</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/1967</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Negotiation Support Systems for Groundwater Management in Small Islands</string>
+  </void>
+  <void property="title">
+   <string>Negotiation Support Systems for Groundwater Management in Small Islands</string>
+  </void>
+ </object>
+</java>

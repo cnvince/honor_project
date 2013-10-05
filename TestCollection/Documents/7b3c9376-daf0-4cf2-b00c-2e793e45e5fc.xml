@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Putting sexual selection in a life-history context: what is meant by genetic ...</string>
+  </void>
+  <void property="docID">
+   <string>7b3c9376-daf0-4cf2-b00c-2e793e45e5fc</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/42</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Putting sexual selection in a life-history context: what is meant by genetic ...</string>
+  </void>
+  <void property="title">
+   <string>Putting sexual selection in a life-history context: what is meant by genetic quality?</string>
+  </void>
+ </object>
+</java>

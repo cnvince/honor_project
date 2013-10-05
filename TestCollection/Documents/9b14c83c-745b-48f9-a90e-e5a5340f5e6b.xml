@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>9b14c83c-745b-48f9-a90e-e5a5340f5e6b</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/248228368447836160</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>Public Lecture: Dr David Molden discusses the benefits and costs of climate change to the Himalayan region: http://bit.ly/QYkDs8 </string>
+  </void>
+ </object>
+</java>

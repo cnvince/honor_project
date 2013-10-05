@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>It&apos;s the United States&apos; longest-running war and has been called Australia&apos;s second Vietnam. Three military experts - John Blaxland, Paul Lushenko and Daniel Marston - offer their insights on the war in Afghanistan, why Australia joined in and what the future may hold for the war-torn state.This video accompanies a feature in the Spring 2012 edition of ANU Reporter, the quarterly magazine of The Australian National University.To read the article go to: http://news.anu.edu.au/?p=16471To view an online version of the magazine: http://issuu.com/anureporter/docs/anu_reporter_spring12 viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>490d7207-b5aa-421b-9b1f-e7f28e3ec610</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=v-XdSn6k750</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>It&apos;s the United States&apos; longest-running war and has been called Australia&apos;s second Vietnam. Three military experts - John Blaxland, Paul Lushenko and Daniel Marston - offer their insights on the war in Afghanistan, why Australia joined in and what the future may hold for the war-torn state.This video accompanies a feature in the Spring 2012 edition of ANU Reporter, the quarterly magazine of The Australian National University.To read the article go to: http://news.anu.edu.au/?p=16471To view an online version of the magazine: http://issuu.com/anureporter/docs/anu_reporter_spring12</string>
+  </void>
+  <void property="title">
+   <string>Afghanistan panel discussion - John Blaxland, Paul Lushenko and Daniel Marston</string>
+  </void>
+ </object>
+</java>

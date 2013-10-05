@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Reaching the Superheavy Elements : a New Approach with a Novel Ultra-sensitiv...</string>
+  </void>
+  <void property="docID">
+   <string>bd76895e-eb96-4324-a394-9b53698fc1e7</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/621</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Reaching the Superheavy Elements : a New Approach with a Novel Ultra-sensitiv...</string>
+  </void>
+  <void property="title">
+   <string>Reaching the Superheavy Elements : a New Approach with a Novel Ultra-sensitive Detector Array</string>
+  </void>
+ </object>
+</java>

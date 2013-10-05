@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Butler, L &amp; Biglia, B 2001, Analysing the Journal Output of NHMRC Research Gr...</string>
+  </void>
+  <void property="docID">
+   <string>0315ab3f-6b0c-4c8f-86b4-0907921b2d0f</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/33080</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Butler, L &amp; Biglia, B 2001, Analysing the Journal Output of NHMRC Research Gr...</string>
+  </void>
+  <void property="title">
+   <string>Analysing the Journal Output of NHMRC Research Grants Scheme</string>
+  </void>
+ </object>
+</java>

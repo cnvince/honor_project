@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>High levels of antibodies passed on to children by their mothers may help with the effectiveness of childhood vaccines, says Laureate Professor Rolf Zinkernagel.</string>
+  </void>
+  <void property="docID">
+   <string>4ca012d2-6bfd-41e7-8c76-f87d1f91c5bd</string>
+  </void>
+  <void property="link">
+   <string>http://news.anu.edu.au/category/by-subject/page/19/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>High levels of antibodies passed on to children by their mothers may help with the effectiveness of childhood vaccines, says Laureate Professor Rolf Zinkernagel.</string>
+  </void>
+  <void property="title">
+   <string>Tuckwell Scholarship attracts Australia’s brightest - News &amp;...</string>
+  </void>
+ </object>
+</java>

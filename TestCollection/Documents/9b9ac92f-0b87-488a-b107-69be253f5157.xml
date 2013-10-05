@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>A cross-national study of the relative impact of an oral component on PhD exa...</string>
+  </void>
+  <void property="docID">
+   <string>9b9ac92f-0b87-488a-b107-69be253f5157</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/2140</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>A cross-national study of the relative impact of an oral component on PhD exa...</string>
+  </void>
+  <void property="title">
+   <string>A cross-national study of the relative impact of an oral component on PhD examination quality, language and practice (externally led by University of Newcastle)</string>
+  </void>
+ </object>
+</java>

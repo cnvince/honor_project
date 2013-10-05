@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Light islands in a sea of dark rainforest: Human influence on fire, climate a...</string>
+  </void>
+  <void property="docID">
+   <string>e7349b83-0a60-4ef5-9c1a-c8cf2b1fa53b</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/1099</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Light islands in a sea of dark rainforest: Human influence on fire, climate a...</string>
+  </void>
+  <void property="title">
+   <string>Light islands in a sea of dark rainforest: Human influence on fire, climate and biodiversity in the Australian tropics</string>
+  </void>
+ </object>
+</java>

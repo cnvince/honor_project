@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Mulerikkal, J &amp; Strazdins, P 2011, &apos;An SOA Approach to High Performance Scien...</string>
+  </void>
+  <void property="docID">
+   <string>f9a4e169-ea6a-4215-8324-10489d23bc57</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/68722</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Mulerikkal, J &amp; Strazdins, P 2011, &apos;An SOA Approach to High Performance Scien...</string>
+  </void>
+  <void property="title">
+   <string>An SOA Approach to High Performance Scientific Computing: Early Experiences</string>
+  </void>
+ </object>
+</java>

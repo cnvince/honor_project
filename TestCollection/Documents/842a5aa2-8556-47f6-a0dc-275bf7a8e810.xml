@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>McConvell, P, Simpson, J &amp; Caffery, J 2010, &apos;Maintaining Languages, Maintaini...</string>
+  </void>
+  <void property="docID">
+   <string>842a5aa2-8556-47f6-a0dc-275bf7a8e810</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/51191</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>McConvell, P, Simpson, J &amp; Caffery, J 2010, &apos;Maintaining Languages, Maintaini...</string>
+  </void>
+  <void property="title">
+   <string>Maintaining Languages, Maintaining Identities: What Bilingual Education Offers</string>
+  </void>
+ </object>
+</java>

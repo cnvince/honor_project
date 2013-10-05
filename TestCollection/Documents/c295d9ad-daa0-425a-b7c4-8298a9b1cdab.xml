@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Burrow, C, Jones, A &amp; Young, G 2005, &apos;X-ray microtomography of 410 million-ye...</string>
+  </void>
+  <void property="docID">
+   <string>c295d9ad-daa0-425a-b7c4-8298a9b1cdab</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/453</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Burrow, C, Jones, A &amp; Young, G 2005, &apos;X-ray microtomography of 410 million-ye...</string>
+  </void>
+  <void property="title">
+   <string>X-ray microtomography of 410 million-year-old optic capsules from placoderm fishes</string>
+  </void>
+ </object>
+</java>

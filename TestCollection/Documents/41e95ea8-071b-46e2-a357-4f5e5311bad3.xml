@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.MapResult">
+  <void property="acronym">
+   <string> </string>
+  </void>
+  <void property="displaySummary">
+   <string>127      </string>
+  </void>
+  <void property="docID">
+   <string>41e95ea8-071b-46e2-a357-4f5e5311bad3</string>
+  </void>
+  <void property="link">
+   <string>http://campusmap.anu.edu.au/</string>
+  </void>
+  <void property="number">
+   <string>127  </string>
+  </void>
+  <void property="source">
+   <int>5</int>
+  </void>
+  <void property="summary">
+   <string> </string>
+  </void>
+  <void property="title">
+   <string>Centre for Arab and Islamic Studies — The Middle East and Central Asia  </string>
+  </void>
+ </object>
+</java>

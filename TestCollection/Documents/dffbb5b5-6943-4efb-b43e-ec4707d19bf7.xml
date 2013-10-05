@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Brian Schmidt » Brian Schmidt. ... Professor Brian Scdmidt. Photo by Belinda Pratten. 111027: ANU. Nobel prize winner, astrophysicist Brian Schmidt.</string>
+  </void>
+  <void property="docID">
+   <string>dffbb5b5-6943-4efb-b43e-ec4707d19bf7</string>
+  </void>
+  <void property="link">
+   <string>http://news.anu.edu.au/?attachment_id=4061</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Brian Schmidt » Brian Schmidt. ... Professor Brian Scdmidt. Photo by Belinda Pratten. 111027: ANU. Nobel prize winner, astrophysicist Brian Schmidt.</string>
+  </void>
+  <void property="title">
+   <string>Brian Schmidt - News &amp; events - ANU</string>
+  </void>
+ </object>
+</java>

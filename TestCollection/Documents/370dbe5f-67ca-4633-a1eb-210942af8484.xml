@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>One of the most important consequences of globalisation in the world today is increasing economic inequality within and between nations. Globalisation does not simply increase economic inequality: it also modifies the pattern of social stratification and the game of status competition. What happens, however, when social mobility system becomes globalised?Professor Hagen Koos talk examines the changing pattern of social mobility in South Korea as aconsequence of globalisation. Koo will focus on the rise of a cosmopolitan strategy of social mobility, the core of which involves sending children overseas for early English education and foreign degrees as well as for other cosmopolitan cultural aptitudes. Professor Koo will argue that cosmopolitanism in South Korea, as in many other societies, does not simply represent a cultural orientation but a new strategy of class reproduction employed by affluent segments of the middle class in this age of globalisation.Hagen Koo is Professor of Sociology at the University of Hawaii at Manoa, US and journal editor of Korean Studies. Born in Seoul Korea, he received his BA in Korea and PhD from Northwestern University. Professor Koo has published extensively on the political economy of East Asian development and the industrial transformation of South Korea. His books include the award-winning Korean Workers: The Culture and Politics of Class Formation and State and Society in Contemporary Korea. Currently, he is writing a book on the changing nature of class inequality in a globalised Korea, focusing on the disintegration of the middle class. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>370dbe5f-67ca-4633-a1eb-210942af8484</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=8G4nteMnw7U</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>One of the most important consequences of globalisation in the world today is increasing economic inequality within and between nations. Globalisation does not simply increase economic inequality: it also modifies the pattern of social stratification and the game of status competition. What happens, however, when social mobility system becomes globalised?Professor Hagen Koos talk examines the changing pattern of social mobility in South Korea as aconsequence of globalisation. Koo will focus on the rise of a cosmopolitan strategy of social mobility, the core of which involves sending children overseas for early English education and foreign degrees as well as for other cosmopolitan cultural aptitudes. Professor Koo will argue that cosmopolitanism in South Korea, as in many other societies, does not simply represent a cultural orientation but a new strategy of class reproduction employed by affluent segments of the middle class in this age of globalisation.Hagen Koo is Professor of Sociology at the University of Hawaii at Manoa, US and journal editor of Korean Studies. Born in Seoul Korea, he received his BA in Korea and PhD from Northwestern University. Professor Koo has published extensively on the political economy of East Asian development and the industrial transformation of South Korea. His books include the award-winning Korean Workers: The Culture and Politics of Class Formation and State and Society in Contemporary Korea. Currently, he is writing a book on the changing nature of class inequality in a globalised Korea, focusing on the disintegration of the middle class.</string>
+  </void>
+  <void property="title">
+   <string>Social mobility in the globalised South Korea - Professor Hagen Koo. ANU, March 2010</string>
+  </void>
+ </object>
+</java>

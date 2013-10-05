@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Colless, Matthew; Hewett, Paul</string>
+  </void>
+  <void property="date">
+   <string>1987</string>
+  </void>
+  <void property="displaySummary">
+   <string>1987 Colless, Matthew; Hewett, Paul</string>
+  </void>
+  <void property="docID">
+   <string>c4b318ea-8faf-47fb-b644-b7b018b965bb</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/40051</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>The dynamics of rich clusters - I. Velocity data</string>
+  </void>
+ </object>
+</java>

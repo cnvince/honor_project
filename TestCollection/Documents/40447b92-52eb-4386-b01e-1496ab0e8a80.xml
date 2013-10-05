@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string> 
+Leiden ; Boston : Brill, 2012</string>
+  </void>
+  <void property="docID">
+   <string>40447b92-52eb-4386-b01e-1496ab0e8a80</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YThe+middle+East&amp;SORT=D/YThe+middle+East&amp;SORT=D&amp;SUBKEY=The+middle+East/1%2C4898%2C4898%2CB/frameset&amp;FF=YThe+middle+East&amp;SORT=D&amp;7%2C7%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string> 
+Leiden ; Boston : Brill, 2012</string>
+  </void>
+  <void property="title">
+   <string>Religious minorities in the Middle East : domination, self-empowerment, accommodation</string>
+  </void>
+ </object>
+</java>

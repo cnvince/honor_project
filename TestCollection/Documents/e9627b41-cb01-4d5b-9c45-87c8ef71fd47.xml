@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Connell, Daniel 
+Annandale, N.S.W. : Federation Press, 2007</string>
+  </void>
+  <void property="docID">
+   <string>e9627b41-cb01-4d5b-9c45-87c8ef71fd47</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Ymurray+darling+basin&amp;SORT=D/Ymurray+darling+basin&amp;SORT=D&amp;SUBKEY=murray+darling+basin/1%2C149%2C149%2CB/frameset&amp;FF=Ymurray+darling+basin&amp;SORT=D&amp;10%2C10%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Connell, Daniel 
+Annandale, N.S.W. : Federation Press, 2007</string>
+  </void>
+  <void property="title">
+   <string>Water politics in the Murray-Darling Basin</string>
+  </void>
+ </object>
+</java>

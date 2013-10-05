@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Workforce Participation, Mental Health and Well Being in Older Adulthood</string>
+  </void>
+  <void property="docID">
+   <string>6c4a9479-de95-4620-9cff-6de2755e3ebe</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/564</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Workforce Participation, Mental Health and Well Being in Older Adulthood</string>
+  </void>
+  <void property="title">
+   <string>Workforce Participation, Mental Health and Well Being in Older Adulthood</string>
+  </void>
+ </object>
+</java>

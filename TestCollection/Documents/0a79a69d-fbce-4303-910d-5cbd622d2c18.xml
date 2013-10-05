@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Changes in payments, family dynamics and wellbeing following major child supp...</string>
+  </void>
+  <void property="docID">
+   <string>0a79a69d-fbce-4303-910d-5cbd622d2c18</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/1153</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Changes in payments, family dynamics and wellbeing following major child supp...</string>
+  </void>
+  <void property="title">
+   <string>Changes in payments, family dynamics and wellbeing following major child support reform: a longitudinal investigation of behavioural and attitudinal responses</string>
+  </void>
+ </object>
+</java>

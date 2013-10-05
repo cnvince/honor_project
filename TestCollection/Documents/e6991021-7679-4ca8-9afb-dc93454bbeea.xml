@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>The death penalty is employed for a wide variety of crimes in China, and the country today executes more people than the rest of the world combined. Public opinion surveys from the 1990s showed near total support for its use. Some claim such opinions are deeply rooted in &apos;Chinese culture&apos;. However, in this lecture the presenter will claim that this represents a misconception of Chinese culture and that capital punishment has more to do with politics. Opinions in China regarding the death penalty have changed dramatically over the last decade as they have in the rest of the world.Dr Borge Bakken is Director of the Criminology Masters Programme at the Department of Sociology, the University of Hong Kong. He has written extensively on crime, control, deviance and cultural norms in China. Among his books are The Exemplary Society: Human Improvement, Social Control, and the Dangers of Modernity in China (Oxford University Press, 2000) and Crime, Punishment and Policing in China (Rowman &amp; Littlefield, 2007). He is currently working on a book on punitive norms with the working title The Punitive Society.Recorded on Wednesday, 1 December 2010. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>e6991021-7679-4ca8-9afb-dc93454bbeea</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=D6dC7Zcv198</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>The death penalty is employed for a wide variety of crimes in China, and the country today executes more people than the rest of the world combined. Public opinion surveys from the 1990s showed near total support for its use. Some claim such opinions are deeply rooted in &apos;Chinese culture&apos;. However, in this lecture the presenter will claim that this represents a misconception of Chinese culture and that capital punishment has more to do with politics. Opinions in China regarding the death penalty have changed dramatically over the last decade as they have in the rest of the world.Dr Borge Bakken is Director of the Criminology Masters Programme at the Department of Sociology, the University of Hong Kong. He has written extensively on crime, control, deviance and cultural norms in China. Among his books are The Exemplary Society: Human Improvement, Social Control, and the Dangers of Modernity in China (Oxford University Press, 2000) and Crime, Punishment and Policing in China (Rowman &amp; Littlefield, 2007). He is currently working on a book on punitive norms with the working title The Punitive Society.Recorded on Wednesday, 1 December 2010.</string>
+  </void>
+  <void property="title">
+   <string>The norms of death: Capital punishment in China</string>
+  </void>
+ </object>
+</java>

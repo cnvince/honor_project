@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Biddle, Nicholas Grahame; Hunter, Boyd; Schwab, Robert G.</string>
+  </void>
+  <void property="date">
+   <string>2004</string>
+  </void>
+  <void property="displaySummary">
+   <string>2004 Biddle, Nicholas Grahame; Hunter, Boyd; Schwab, Robert G.</string>
+  </void>
+  <void property="docID">
+   <string>29acca70-2866-4213-a62c-476402c2c699</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/42678</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Mapping Indigenous education participation</string>
+  </void>
+ </object>
+</java>

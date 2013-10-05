@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences
+Globalisation And Culture, Music Performance, Art Theory And Criticism, Compu...</string>
+  </void>
+  <void property="docID">
+   <string>fc2780dd-947f-4d09-9e20-763f3123ab9c</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/riddell-am</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences
+Globalisation And Culture, Music Performance, Art Theory And Criticism, Compu...</string>
+  </void>
+  <void property="title">
+   <string>Dr Alistair Riddell</string>
+  </void>
+ </object>
+</java>

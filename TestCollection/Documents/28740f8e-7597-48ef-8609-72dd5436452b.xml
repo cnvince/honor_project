@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>28740f8e-7597-48ef-8609-72dd5436452b</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/366759239747768320</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>Is farmed chicken or backyard grown chicken better for climate change? http://bit.ly/14m7nAz </string>
+  </void>
+ </object>
+</java>

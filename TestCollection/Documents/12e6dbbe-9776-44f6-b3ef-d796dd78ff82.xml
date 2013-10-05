@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Engineering and Computer Science
+Database Management, Analysis Of Algorithms And Complexity, Computer System S...</string>
+  </void>
+  <void property="docID">
+   <string>12e6dbbe-9776-44f6-b3ef-d796dd78ff82</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/blackburn-sm</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Engineering and Computer Science
+Database Management, Analysis Of Algorithms And Complexity, Computer System S...</string>
+  </void>
+  <void property="title">
+   <string>Dr Stephen Blackburn</string>
+  </void>
+ </object>
+</java>

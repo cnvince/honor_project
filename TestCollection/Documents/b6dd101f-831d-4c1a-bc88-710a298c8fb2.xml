@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Bordia, S, Hobman, E, Restubog, S et al 2010, &apos;Advisor-Student Relationship i...</string>
+  </void>
+  <void property="docID">
+   <string>b6dd101f-831d-4c1a-bc88-710a298c8fb2</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/14953</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Bordia, S, Hobman, E, Restubog, S et al 2010, &apos;Advisor-Student Relationship i...</string>
+  </void>
+  <void property="title">
+   <string>Advisor-Student Relationship in Business Education Project Collaborations: A Psychological Contract Perspective</string>
+  </void>
+ </object>
+</java>

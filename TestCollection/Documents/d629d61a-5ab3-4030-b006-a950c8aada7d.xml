@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences
+Migration, Population Trends And Policies, Pacific Peoples Health, Econometri...</string>
+  </void>
+  <void property="docID">
+   <string>d629d61a-5ab3-4030-b006-a950c8aada7d</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/biddle-ng</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences
+Migration, Population Trends And Policies, Pacific Peoples Health, Econometri...</string>
+  </void>
+  <void property="title">
+   <string>Dr Nicholas Biddle</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Fealy, G 2001, &apos;Islamic Politics: A Rising or Declining Force?&apos;, in Damien Ki...</string>
+  </void>
+  <void property="docID">
+   <string>2eef4ab3-8fda-43a9-a87a-befff3ec064d</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/30547</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Fealy, G 2001, &apos;Islamic Politics: A Rising or Declining Force?&apos;, in Damien Ki...</string>
+  </void>
+  <void property="title">
+   <string>Islamic Politics: A Rising or Declining Force?</string>
+  </void>
+ </object>
+</java>

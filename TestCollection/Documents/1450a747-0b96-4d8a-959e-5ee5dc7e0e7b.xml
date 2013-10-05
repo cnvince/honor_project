@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Harsanyi, John C 
+Dordrecht, Holland : D. Reidel, 1982</string>
+  </void>
+  <void property="docID">
+   <string>1450a747-0b96-4d8a-959e-5ee5dc7e0e7b</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YJohn+C+Harsanyi&amp;SORT=D/YJohn+C+Harsanyi&amp;SORT=D&amp;SUBKEY=John+C+Harsanyi/1%2C11%2C11%2CB/frameset&amp;FF=YJohn+C+Harsanyi&amp;SORT=D&amp;2%2C2%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Harsanyi, John C 
+Dordrecht, Holland : D. Reidel, 1982</string>
+  </void>
+  <void property="title">
+   <string>Papers in game theory</string>
+  </void>
+ </object>
+</java>

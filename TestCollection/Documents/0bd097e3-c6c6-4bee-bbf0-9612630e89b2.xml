@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Mechanisms by which chromatin modulates gene expression</string>
+  </void>
+  <void property="docID">
+   <string>0bd097e3-c6c6-4bee-bbf0-9612630e89b2</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/13</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Mechanisms by which chromatin modulates gene expression</string>
+  </void>
+  <void property="title">
+   <string>Mechanisms by which chromatin modulates gene expression</string>
+  </void>
+ </object>
+</java>

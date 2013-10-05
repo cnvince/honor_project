@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Garcia, M, Robalo, M, Dias, A et al 2002, &apos;Synthesis and Nonlinear Optical Pr...</string>
+  </void>
+  <void property="docID">
+   <string>afc9d5bb-56d5-4a46-8515-b8b4386e9588</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/2700</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Garcia, M, Robalo, M, Dias, A et al 2002, &apos;Synthesis and Nonlinear Optical Pr...</string>
+  </void>
+  <void property="title">
+   <string>Synthesis and Nonlinear Optical Properties of n5-Monocyclopentadienyliron(II) Acetylide Derivatives. X-ray Crystal Structures of [Fe(Î·5-C5H5)(DPPE)(p-C C6H4NO2)] and [Fe(n</string>
+  </void>
+ </object>
+</java>

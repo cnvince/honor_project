@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Anstey, KJ, Cherbuin, N, Eramudugolla, R et al 2013, &apos;Characterizing Mild Cog...</string>
+  </void>
+  <void property="docID">
+   <string>5b545d79-ae50-4e8a-860f-c9d3236bc5b6</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/74728</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Anstey, KJ, Cherbuin, N, Eramudugolla, R et al 2013, &apos;Characterizing Mild Cog...</string>
+  </void>
+  <void property="title">
+   <string>Characterizing Mild Cognitive Disorders in the young-old over 8 years: Prevalence, estimated incidence, stability of diagnosis, and impact on IADLs</string>
+  </void>
+ </object>
+</java>

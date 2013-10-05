@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Ravichandra, C. P 
+1983</string>
+  </void>
+  <void property="docID">
+   <string>eca242ae-4419-4f5d-8015-f554df0195d2</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YA.+D.+Hope&amp;SORT=D/YA.+D.+Hope&amp;SORT=D&amp;SUBKEY=A.+D.+Hope/1%2C275%2C275%2CB/frameset&amp;FF=YA.+D.+Hope&amp;SORT=D&amp;6%2C6%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Ravichandra, C. P 
+1983</string>
+  </void>
+  <void property="title">
+   <string>The poetry of A. D. Hope  : a study of his contemporary concerns in Australian poetry</string>
+  </void>
+ </object>
+</java>

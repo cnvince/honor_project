@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Chapman, B &amp; Sinning (forthcoming, 2013), Student loan reforms for German hig...</string>
+  </void>
+  <void property="docID">
+   <string>ad4f9b4f-4f2f-476c-a4ec-f6f6a17c12b3</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/64607</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Chapman, B &amp; Sinning (forthcoming, 2013), Student loan reforms for German hig...</string>
+  </void>
+  <void property="title">
+   <string>Student loan reforms for German higher education: Financing tuition fees</string>
+  </void>
+ </object>
+</java>

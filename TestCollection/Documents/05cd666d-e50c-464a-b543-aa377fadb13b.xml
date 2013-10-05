@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Doering, D, Dennis, G, Robins, N et al 2009, &apos;Pulsed pumping of a Bose-Einste...</string>
+  </void>
+  <void property="docID">
+   <string>05cd666d-e50c-464a-b543-aa377fadb13b</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/42062</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Doering, D, Dennis, G, Robins, N et al 2009, &apos;Pulsed pumping of a Bose-Einste...</string>
+  </void>
+  <void property="title">
+   <string>Pulsed pumping of a Bose-Einstein condensate</string>
+  </void>
+ </object>
+</java>

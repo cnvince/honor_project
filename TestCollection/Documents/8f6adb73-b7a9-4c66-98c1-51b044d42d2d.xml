@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>The ANU China Institute of the ANU College of Asia and the Pacific combines the research and teaching talents of the academics of The Australian National Unversity to bring greater focus to our collective activities and to highlight the work of the</string>
+  </void>
+  <void property="docID">
+   <string>8f6adb73-b7a9-4c66-98c1-51b044d42d2d</string>
+  </void>
+  <void property="link">
+   <string>http://chinainstitute.anu.edu.au/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>The ANU China Institute of the ANU College of Asia and the Pacific combines the research and teaching talents of the academics of The Australian National Unversity to bring greater focus to our collective activities and to highlight the work of the</string>
+  </void>
+  <void property="title">
+   <string>Home - ANU China Institute - ANU</string>
+  </void>
+ </object>
+</java>

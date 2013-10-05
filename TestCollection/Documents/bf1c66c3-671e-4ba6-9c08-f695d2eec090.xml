@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>The Indian Roots of Modern Chinese Thought</string>
+  </void>
+  <void property="docID">
+   <string>bf1c66c3-671e-4ba6-9c08-f695d2eec090</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/1102</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>The Indian Roots of Modern Chinese Thought</string>
+  </void>
+  <void property="title">
+   <string>The Indian Roots of Modern Chinese Thought</string>
+  </void>
+ </object>
+</java>

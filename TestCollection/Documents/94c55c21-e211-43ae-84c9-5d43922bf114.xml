@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Garnaut, R, Jotzo, F &amp; Howes, S 2008, &apos;China&apos;s rapid emissions growth and glo...</string>
+  </void>
+  <void property="docID">
+   <string>94c55c21-e211-43ae-84c9-5d43922bf114</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/41733</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Garnaut, R, Jotzo, F &amp; Howes, S 2008, &apos;China&apos;s rapid emissions growth and glo...</string>
+  </void>
+  <void property="title">
+   <string>China&apos;s rapid emissions growth and global climate change policy</string>
+  </void>
+ </object>
+</java>

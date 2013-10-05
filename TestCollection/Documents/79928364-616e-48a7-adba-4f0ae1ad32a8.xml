@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Medicine, Biology and Environment
+Natural Resource Management, Recreation, Leisure And Tourism Geography, Envir...</string>
+  </void>
+  <void property="docID">
+   <string>79928364-616e-48a7-adba-4f0ae1ad32a8</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/lazarow-ns</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Medicine, Biology and Environment
+Natural Resource Management, Recreation, Leisure And Tourism Geography, Envir...</string>
+  </void>
+  <void property="title">
+   <string>Dr Neil Lazarow</string>
+  </void>
+ </object>
+</java>

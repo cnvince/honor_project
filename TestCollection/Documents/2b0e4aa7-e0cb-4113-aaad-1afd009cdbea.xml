@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Evans, D, Searles, D, Reid, J et al 2010, &apos;Fluctuation Theorems and the found...</string>
+  </void>
+  <void property="docID">
+   <string>2b0e4aa7-e0cb-4113-aaad-1afd009cdbea</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/59372</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Evans, D, Searles, D, Reid, J et al 2010, &apos;Fluctuation Theorems and the found...</string>
+  </void>
+  <void property="title">
+   <string>Fluctuation Theorems and the foundations of statistical mechanics</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Kassab, Elizabeth Suzanne 
+New York : Columbia University Press, c2010</string>
+  </void>
+  <void property="docID">
+   <string>2fcf5dd0-e36a-4572-a9d1-1f72d7839f89</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Yislamic+radicalization&amp;SORT=D/Yislamic+radicalization&amp;SORT=D&amp;SUBKEY=islamic+radicalization/1%2C10%2C10%2CB/frameset&amp;FF=Yislamic+radicalization&amp;SORT=D&amp;3%2C3%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Kassab, Elizabeth Suzanne 
+New York : Columbia University Press, c2010</string>
+  </void>
+  <void property="title">
+   <string>Contemporary Arab thought : cultural critique in comparative perspective</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Westra, Everhardus Antonius Metske</string>
+  </void>
+  <void property="date">
+   <string>-</string>
+  </void>
+  <void property="displaySummary">
+   <string>- Westra, Everhardus Antonius Metske</string>
+  </void>
+  <void property="docID">
+   <string>19eeb2be-e40f-41cb-b1b1-5bc8d95f20ce</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/49404</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>A wide field narrowband survey for star forming galaxies at different epochs</string>
+  </void>
+ </object>
+</java>

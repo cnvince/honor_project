@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Grimes, C 2009, Indigenous Languages in Education: What the research actu...</string>
+  </void>
+  <void property="docID">
+   <string>0f5e44df-f759-4d00-9884-35d26b84a2e9</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/49586</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Grimes, C 2009, Indigenous Languages in Education: What the research actu...</string>
+  </void>
+  <void property="title">
+   <string>Indigenous Languages in Education: What the research actually shows</string>
+  </void>
+ </object>
+</java>

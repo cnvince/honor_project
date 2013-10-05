@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Lam, Willy Wo-Lap. 
+Armonk, N.Y. : M.E. Sharpe, c2006.</string>
+  </void>
+  <void property="docID">
+   <string>b085d24d-1ac7-4caf-9a5c-7ae35417ab55</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Ychinese+politics&amp;SORT=D/Ychinese+politics&amp;SORT=D&amp;SUBKEY=chinese+politics/1%2C1600%2C1600%2CB/frameset&amp;FF=Ychinese+politics&amp;SORT=D&amp;6%2C6%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Lam, Willy Wo-Lap. 
+Armonk, N.Y. : M.E. Sharpe, c2006.</string>
+  </void>
+  <void property="title">
+   <string>Chinese politics in the Hu Jintao era new leaders, new challenges</string>
+  </void>
+ </object>
+</java>

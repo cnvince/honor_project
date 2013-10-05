@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Ackrill, R &amp; Kay, A 2011, &apos;EU Biofuels Sustainability Standards and Certifica...</string>
+  </void>
+  <void property="docID">
+   <string>15b21745-c164-4bc7-a2e0-8620cc1f7f54</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/66896</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Ackrill, R &amp; Kay, A 2011, &apos;EU Biofuels Sustainability Standards and Certifica...</string>
+  </void>
+  <void property="title">
+   <string>EU Biofuels Sustainability Standards and Certification Systems - How To Seek WTO-Compatibility</string>
+  </void>
+ </object>
+</java>

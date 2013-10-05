@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Maley, W 2008, Pakistan-Afghanistan Relations after Musharraf, Afghanista...</string>
+  </void>
+  <void property="docID">
+   <string>d8ef25d3-0be6-4460-9fda-872812f19928</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/72083</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Maley, W 2008, Pakistan-Afghanistan Relations after Musharraf, Afghanista...</string>
+  </void>
+  <void property="title">
+   <string>Pakistan-Afghanistan Relations after Musharraf</string>
+  </void>
+ </object>
+</java>

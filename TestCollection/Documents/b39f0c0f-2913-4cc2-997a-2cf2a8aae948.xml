@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string> viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>b39f0c0f-2913-4cc2-997a-2cf2a8aae948</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=CkeWR0K_7S0&amp;list=PLD6297361BDB14B9F</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string></string>
+  </void>
+  <void property="title">
+   <string>The University</string>
+  </void>
+ </object>
+</java>

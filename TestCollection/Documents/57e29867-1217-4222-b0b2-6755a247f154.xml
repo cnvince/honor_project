@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Cameron, F. and Shen, W. (2012) &apos;EU Member States&apos; Bilateral Relations with C...</string>
+  </void>
+  <void property="docID">
+   <string>57e29867-1217-4222-b0b2-6755a247f154</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/81683</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Cameron, F. and Shen, W. (2012) &apos;EU Member States&apos; Bilateral Relations with C...</string>
+  </void>
+  <void property="title">
+   <string>EU Member States&apos; Bilateral Relations with China</string>
+  </void>
+ </object>
+</java>

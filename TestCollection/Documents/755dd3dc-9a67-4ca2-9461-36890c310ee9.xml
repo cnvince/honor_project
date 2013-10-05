@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Physical and Mathematical Sciences|ANU College of Medicine, Biology and Environment
+Quantum Information, Computation And Communication, Electronic And Magnetic P...</string>
+  </void>
+  <void property="docID">
+   <string>755dd3dc-9a67-4ca2-9461-36890c310ee9</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/ahlefeldt-rl</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Physical and Mathematical Sciences|ANU College of Medicine, Biology and Environment
+Quantum Information, Computation And Communication, Electronic And Magnetic P...</string>
+  </void>
+  <void property="title">
+   <string>Miss Rose Ahlefeldt</string>
+  </void>
+ </object>
+</java>

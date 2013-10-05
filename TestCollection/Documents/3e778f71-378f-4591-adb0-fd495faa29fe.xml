@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>A Microscope for Molecular Reactions</string>
+  </void>
+  <void property="docID">
+   <string>3e778f71-378f-4591-adb0-fd495faa29fe</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/52</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>A Microscope for Molecular Reactions</string>
+  </void>
+  <void property="title">
+   <string>A Microscope for Molecular Reactions</string>
+  </void>
+ </object>
+</java>

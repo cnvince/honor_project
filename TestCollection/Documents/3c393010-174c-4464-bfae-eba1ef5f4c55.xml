@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>Professor Bill Gammage of ANU Humanities Research Centre discusses his work detailed in his book &apos;The Biggest Estate on Earth&apos;. This video was recorded at The Australian National University in December 2011. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>3c393010-174c-4464-bfae-eba1ef5f4c55</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=Sko-YDIULKY</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>Professor Bill Gammage of ANU Humanities Research Centre discusses his work detailed in his book &apos;The Biggest Estate on Earth&apos;. This video was recorded at The Australian National University in December 2011.</string>
+  </void>
+  <void property="title">
+   <string>Bill Gammage discusses &apos;The Biggest Estate on Earth&apos;</string>
+  </void>
+ </object>
+</java>

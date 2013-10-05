@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences
+Aboriginal And Torres Strait Islander Policy, Public Policy, Australian Gover...</string>
+  </void>
+  <void property="docID">
+   <string>61852d55-2cff-4992-98c6-c5937fe64954</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/sanders-wg</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences
+Aboriginal And Torres Strait Islander Policy, Public Policy, Australian Gover...</string>
+  </void>
+  <void property="title">
+   <string>Dr William Sanders</string>
+  </void>
+ </object>
+</java>

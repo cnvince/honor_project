@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Ball, D &amp; Guan, K 2010, &apos;Introduction: Assessing Track 2 in the Asia-Pacific ...</string>
+  </void>
+  <void property="docID">
+   <string>f6cc47fe-93c1-4853-8bc0-b2fe50017a5c</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/21795</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Ball, D &amp; Guan, K 2010, &apos;Introduction: Assessing Track 2 in the Asia-Pacific ...</string>
+  </void>
+  <void property="title">
+   <string>Introduction: Assessing Track 2 in the Asia-Pacific Region</string>
+  </void>
+ </object>
+</java>

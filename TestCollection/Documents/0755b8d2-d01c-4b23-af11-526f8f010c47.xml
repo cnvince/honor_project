@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Majors: (1-3 of 8 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Majors: (1-3 of 8 matches)</string>
+  </void>
+  <void property="docID">
+   <string>0755b8d2-d01c-4b23-af11-526f8f010c47</string>
+  </void>
+  <void property="link">
+   <string>http://studyat.anu.edu.au/majors/ASPP-MAJ;all.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>Asia-Pacific Politics Major (ASPP-MAJ)</string>
+  </void>
+ </object>
+</java>

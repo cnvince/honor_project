@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>-</string>
+  </void>
+  <void property="date">
+   <string>2002-10-24</string>
+  </void>
+  <void property="displaySummary">
+   <string>2002-10-24 -</string>
+  </void>
+  <void property="docID">
+   <string>86071de6-115a-4fba-81c8-18184a88ff4a</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/43452</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>British Legation - Main Gate</string>
+  </void>
+ </object>
+</java>

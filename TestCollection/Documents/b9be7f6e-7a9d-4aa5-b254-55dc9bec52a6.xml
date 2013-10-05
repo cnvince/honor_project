@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>Professor Andrew MacIntyre, Dean of the ANU College of Asia and the Pacific, discusses the exceptional nature of the US legal system with world-renowned socio-legal expert Professor Robert A Kagan. The two examine the influence of conservative politics on American justice, the nature of adversarial legalism and the rise of constitutionalism where the courts become a battleground for political action.Professor Robert A Kagan is Professor Emeritus of Political Science and Law at the University of California, Berkeley. He holds a JD from Columbia Law School (1962) and a Ph.D. from Yale University (1974). He began teaching political science at Berkeley in 1974, and in 1988 also joined the faculty of the Boalt Hall School of Law. From 1993 to 2004, with an interval in 2001, he was Director of Berkeley&apos;s Center for the Study of Law and Society. He has been a visiting professor or scholar at Oxford University, Harvard University, NYU Law School, Ohio State University, the Netherlands Institute for Advanced Study, the Russell Sage Foundation, and the Center for Advanced Study in Behavioral Sciences.Professor Kagan is a fellow of the American Academy of Arts and Sciences. In July, 2006, he received the Law and Society Association&apos;s Harry Kalven Prize for distinguished sociolegal scholarship, and in 2012, he was accorded a Lifetime Achievement Award by the Law Courts section of the American Political Science Association. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>b9be7f6e-7a9d-4aa5-b254-55dc9bec52a6</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=nrsg3V_dxho</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>Professor Andrew MacIntyre, Dean of the ANU College of Asia and the Pacific, discusses the exceptional nature of the US legal system with world-renowned socio-legal expert Professor Robert A Kagan. The two examine the influence of conservative politics on American justice, the nature of adversarial legalism and the rise of constitutionalism where the courts become a battleground for political action.Professor Robert A Kagan is Professor Emeritus of Political Science and Law at the University of California, Berkeley. He holds a JD from Columbia Law School (1962) and a Ph.D. from Yale University (1974). He began teaching political science at Berkeley in 1974, and in 1988 also joined the faculty of the Boalt Hall School of Law. From 1993 to 2004, with an interval in 2001, he was Director of Berkeley&apos;s Center for the Study of Law and Society. He has been a visiting professor or scholar at Oxford University, Harvard University, NYU Law School, Ohio State University, the Netherlands Institute for Advanced Study, the Russell Sage Foundation, and the Center for Advanced Study in Behavioral Sciences.Professor Kagan is a fellow of the American Academy of Arts and Sciences. In July, 2006, he received the Law and Society Association&apos;s Harry Kalven Prize for distinguished sociolegal scholarship, and in 2012, he was accorded a Lifetime Achievement Award by the Law Courts section of the American Political Science Association.</string>
+  </void>
+  <void property="title">
+   <string>In Conversation: Professor Emeritus Robert A. Kagan</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Courses: (1-5 of 30 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Courses: (1-5 of 30 matches)</string>
+  </void>
+  <void property="docID">
+   <string>fca40907-7eb7-425a-a37b-a94b89fd780c</string>
+  </void>
+  <void property="link">
+   <string>http://studyat.anu.edu.au/courses/ENVS3041;all.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>ENVS3041 - ENVS3041 Managing Forested Landscapes</string>
+  </void>
+ </object>
+</java>

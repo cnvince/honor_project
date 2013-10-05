@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>Deputy Vice-Chancellor (Academic) Professor Marnie Hughes-Warrington and Head of the ANU School of Music Professor Adrian Walter give this press conference on May 3 2012 regarding the proposed changes to the ANU School of Music Bachelor of Music program.Under the proposed new model students can, for the first time, receive academic credit for contributions to musical activities in Canberra and beyond. ANU will also build on the already significant technological advances that connect students with master classes, other students and innovations at world-class music schools, across Australia and overseas. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>1c48ef6e-970d-4b2e-bef0-dd9075b3cf28</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=5SdKWoEYQZU</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>Deputy Vice-Chancellor (Academic) Professor Marnie Hughes-Warrington and Head of the ANU School of Music Professor Adrian Walter give this press conference on May 3 2012 regarding the proposed changes to the ANU School of Music Bachelor of Music program.Under the proposed new model students can, for the first time, receive academic credit for contributions to musical activities in Canberra and beyond. ANU will also build on the already significant technological advances that connect students with master classes, other students and innovations at world-class music schools, across Australia and overseas.</string>
+  </void>
+  <void property="title">
+   <string>Marnie Hughes-Warrington and Adrian Walter press conference: Bachelor of Music changes</string>
+  </void>
+ </object>
+</java>

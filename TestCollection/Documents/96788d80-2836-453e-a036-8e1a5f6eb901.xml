@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>2013 HC Coombs Creative Arts Fellow unveils sculpture. 2013 H.C. Coombs Creative Arts Fellow, Chris Drury unveiled his sculpture that will decay and grow over time at the ANU International ... 2013 HC Coombs Creative Arts Fellow unveils project.</string>
+  </void>
+  <void property="docID">
+   <string>96788d80-2836-453e-a036-8e1a5f6eb901</string>
+  </void>
+  <void property="link">
+   <string>http://rsha.anu.edu.au/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>2013 HC Coombs Creative Arts Fellow unveils sculpture. 2013 H.C. Coombs Creative Arts Fellow, Chris Drury unveiled his sculpture that will decay and grow over time at the ANU International ... 2013 HC Coombs Creative Arts Fellow unveils project.</string>
+  </void>
+  <void property="title">
+   <string>Research School of Humanities and the Arts - Research School of...</string>
+  </void>
+ </object>
+</java>

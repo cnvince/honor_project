@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.MapResult">
+  <void property="acronym">
+   <string> </string>
+  </void>
+  <void property="displaySummary">
+   <string>65      </string>
+  </void>
+  <void property="docID">
+   <string>826b4072-2f3e-4188-ba4c-b946e3def845</string>
+  </void>
+  <void property="link">
+   <string>http://campusmap.anu.edu.au/</string>
+  </void>
+  <void property="number">
+   <string>65  </string>
+  </void>
+  <void property="source">
+   <int>5</int>
+  </void>
+  <void property="summary">
+   <string> </string>
+  </void>
+  <void property="title">
+   <string>20 Balmain Crescent  </string>
+  </void>
+ </object>
+</java>

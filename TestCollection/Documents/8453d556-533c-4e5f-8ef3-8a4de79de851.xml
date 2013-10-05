@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Physical and Mathematical Sciences
+Classical And Physical Optics, Quantum Information, Computation And Communica...</string>
+  </void>
+  <void property="docID">
+   <string>8453d556-533c-4e5f-8ef3-8a4de79de851</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/lam-pk</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Physical and Mathematical Sciences
+Classical And Physical Optics, Quantum Information, Computation And Communica...</string>
+  </void>
+  <void property="title">
+   <string>Professor Ping Koy Lam</string>
+  </void>
+ </object>
+</java>

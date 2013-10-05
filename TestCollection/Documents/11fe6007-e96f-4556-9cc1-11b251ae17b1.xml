@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Winn, P 2001, &apos;Graves, groves and gardens: place and identity - Central Maluk...</string>
+  </void>
+  <void property="docID">
+   <string>11fe6007-e96f-4556-9cc1-11b251ae17b1</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/34059</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Winn, P 2001, &apos;Graves, groves and gardens: place and identity - Central Maluk...</string>
+  </void>
+  <void property="title">
+   <string>Graves, groves and gardens: place and identity - Central Maluku, Indonesia</string>
+  </void>
+ </object>
+</java>

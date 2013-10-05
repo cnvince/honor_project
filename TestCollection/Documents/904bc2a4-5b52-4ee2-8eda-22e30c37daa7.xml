@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Laugesen, A 2006,&apos;Finding &quot;Another Great World&quot;: Australian Soldiers and Wart...</string>
+  </void>
+  <void property="docID">
+   <string>904bc2a4-5b52-4ee2-8eda-22e30c37daa7</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/60133</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Laugesen, A 2006,&apos;Finding &quot;Another Great World&quot;: Australian Soldiers and Wart...</string>
+  </void>
+  <void property="title">
+   <string>Laugesen, A 2006,&apos;Finding &quot;Another Great World&quot;: Australian Soldiers and Wartime Libraries&apos;, Library Quarterly Vol. 76, No. 4, October 2006, pp. 420-437 (special edition &apos;Retrieving Readers: the Library Experience&apos;).</string>
+  </void>
+ </object>
+</java>

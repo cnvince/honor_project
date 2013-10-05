@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>A multidisciplinary research program to assess limiting factors and predict i...</string>
+  </void>
+  <void property="docID">
+   <string>9d461f2c-b253-409f-bfd1-0c1209129224</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/1140</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>A multidisciplinary research program to assess limiting factors and predict i...</string>
+  </void>
+  <void property="title">
+   <string>A multidisciplinary research program to assess limiting factors and predict impacts of climate change for endangered Australian orchids</string>
+  </void>
+ </object>
+</java>

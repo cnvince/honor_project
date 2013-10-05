@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Lewis, Sinclair. 
+[S.l.] : [s.n.], 2010.</string>
+  </void>
+  <void property="docID">
+   <string>b7fd1acc-87c3-4a51-9b67-2bcc04e0866e</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YARC&amp;SORT=D/YARC&amp;SORT=D&amp;SUBKEY=ARC/1%2C510%2C510%2CB/frameset&amp;FF=YARC&amp;SORT=D&amp;9%2C9%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Lewis, Sinclair. 
+[S.l.] : [s.n.], 2010.</string>
+  </void>
+  <void property="title">
+   <string>Moths in the Arc Light</string>
+  </void>
+ </object>
+</java>

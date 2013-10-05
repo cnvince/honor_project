@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>ASIA2034 Modern Chinese Fictions: Identity Politics in China Now. ... Unit Value. 6 units. Course Description. This course introduces students to the most important Chinese fiction works of the twentieth century.</string>
+  </void>
+  <void property="docID">
+   <string>2d66e042-5323-4141-9198-9877f6a803c7</string>
+  </void>
+  <void property="link">
+   <string>https://studyat.anu.edu.au/2012/courses/ASIA2034;details.html</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>ASIA2034 Modern Chinese Fictions: Identity Politics in China Now. ... Unit Value. 6 units. Course Description. This course introduces students to the most important Chinese fiction works of the twentieth century.</string>
+  </void>
+  <void property="title">
+   <string>Study at ANU ASIA2034 Modern Chinese Fictions: Identity Politics in...</string>
+  </void>
+ </object>
+</java>

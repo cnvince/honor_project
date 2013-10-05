@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Spear, R.H</string>
+  </void>
+  <void property="date">
+   <string>1997</string>
+  </void>
+  <void property="displaySummary">
+   <string>1997 Spear, R.H</string>
+  </void>
+  <void property="docID">
+   <string>9bf29b85-a79f-4b8b-ae89-899757492679</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/41542</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Professional doctorates: a discussion paper</string>
+  </void>
+ </object>
+</java>

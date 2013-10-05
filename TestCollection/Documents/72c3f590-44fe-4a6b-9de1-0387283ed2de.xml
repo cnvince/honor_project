@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>Professor Hugh White of The Australian National University&apos;s College of Asia &amp; the Pacific discusses the issues raised in his new book, The China Choice: Why America Should Share Power.In this ground-breaking work, Professor White considers the options for the Asian century. As China, the world&apos;s fastest-growing major economy, ascends, America has three choices: it can compete, share power or concede leadership in Asia. The choice is significant for America&apos;s future.White controversially argues that America&apos;s best option is to share power with China and relinquish its supremacy. As these two behemoths face off across the Pacific, the choice America makes will also have an enormous impact on Australia. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>72c3f590-44fe-4a6b-9de1-0387283ed2de</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=hkMO5djLPTk</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>Professor Hugh White of The Australian National University&apos;s College of Asia &amp; the Pacific discusses the issues raised in his new book, The China Choice: Why America Should Share Power.In this ground-breaking work, Professor White considers the options for the Asian century. As China, the world&apos;s fastest-growing major economy, ascends, America has three choices: it can compete, share power or concede leadership in Asia. The choice is significant for America&apos;s future.White controversially argues that America&apos;s best option is to share power with China and relinquish its supremacy. As these two behemoths face off across the Pacific, the choice America makes will also have an enormous impact on Australia.</string>
+  </void>
+  <void property="title">
+   <string>Hugh White on The China Choice: Why America Should Share Power</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Siding Spring Survey</string>
+  </void>
+  <void property="docID">
+   <string>6f85bf61-36db-4733-bb99-ffb9fc12f880</string>
+  </void>
+  <void property="link">
+   <string>http://www.mso.anu.edu.au/~rmn/equip.htm</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Siding Spring Survey</string>
+  </void>
+  <void property="title">
+   <string>Siding Spring Survey Equipment</string>
+  </void>
+ </object>
+</java>

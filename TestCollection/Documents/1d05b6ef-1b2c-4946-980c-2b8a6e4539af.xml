@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string> 
+Oxford, OX, UK ; New York, N.Y : [Published by] B. Blackwell for the Social Philosophy and Policy Center, Bowling Green State University, 1985</string>
+  </void>
+  <void property="docID">
+   <string>1d05b6ef-1b2c-4946-980c-2b8a6e4539af</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YJohn+C+Harsanyi&amp;SORT=D/YJohn+C+Harsanyi&amp;SORT=D&amp;SUBKEY=John+C+Harsanyi/1%2C11%2C11%2CB/frameset&amp;FF=YJohn+C+Harsanyi&amp;SORT=D&amp;6%2C6%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string> 
+Oxford, OX, UK ; New York, N.Y : [Published by] B. Blackwell for the Social Philosophy and Policy Center, Bowling Green State University, 1985</string>
+  </void>
+  <void property="title">
+   <string>Ethics and economics</string>
+  </void>
+ </object>
+</java>

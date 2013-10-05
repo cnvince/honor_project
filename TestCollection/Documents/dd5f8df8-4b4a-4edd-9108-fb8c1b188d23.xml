@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Dates: 27-28 August 2012   Venue: Sir Roland Wilson Building, ANU  Program - Conference Report</string>
+  </void>
+  <void property="docID">
+   <string>dd5f8df8-4b4a-4edd-9108-fb8c1b188d23</string>
+  </void>
+  <void property="link">
+   <string>http://hrc.anu.edu.au/ClimateChange</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Dates: 27-28 August 2012   Venue: Sir Roland Wilson Building, ANU  Program - Conference Report</string>
+  </void>
+  <void property="title">
+   <string>The Cultural History of Climate Change - Humanities Research Centre -...</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Physics. The ANU Centre for Gravitational Physics is located within the Department of Quantum Science. ... The group also has links with the ANU Quantum Optics Group.. The Centre for Gravitational Physics. Research Areas. Squeezed Light. Digital</string>
+  </void>
+  <void property="docID">
+   <string>0dba3f5f-75e5-4059-a41a-a6e34e406863</string>
+  </void>
+  <void property="link">
+   <string>http://cgp.anu.edu.au/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Physics. The ANU Centre for Gravitational Physics is located within the Department of Quantum Science. ... The group also has links with the ANU Quantum Optics Group.. The Centre for Gravitational Physics. Research Areas. Squeezed Light. Digital</string>
+  </void>
+  <void property="title">
+   <string>Home - Centre for Gravitational Physics - ANU</string>
+  </void>
+ </object>
+</java>

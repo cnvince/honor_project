@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Physical and Mathematical Sciences
+Compound Semiconductors, Condensed Matter Physics, Photonics And Electro Opti...</string>
+  </void>
+  <void property="docID">
+   <string>0200fd99-324a-4e86-b4c1-58f10cfcdcfc</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/tan-hh</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Physical and Mathematical Sciences
+Compound Semiconductors, Condensed Matter Physics, Photonics And Electro Opti...</string>
+  </void>
+  <void property="title">
+   <string>Dr H. Hoe Tan</string>
+  </void>
+ </object>
+</java>

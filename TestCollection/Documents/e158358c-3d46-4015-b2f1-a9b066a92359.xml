@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>search. search. Search News events. News &amp;events.  Events &amp;public lectures. For journalists. For staff &amp;students.  Strategic Communications &amp;Public Affairs ( SCAPA).  Storytelling, writing and media.  How to write on behalf of ANU.  Video and photo</string>
+  </void>
+  <void property="docID">
+   <string>e158358c-3d46-4015-b2f1-a9b066a92359</string>
+  </void>
+  <void property="link">
+   <string>http://news.anu.edu.au/2011/12/01/a-nobel-endeavour/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>search. search. Search News events. News &amp;events.  Events &amp;public lectures. For journalists. For staff &amp;students.  Strategic Communications &amp;Public Affairs ( SCAPA).  Storytelling, writing and media.  How to write on behalf of ANU.  Video and photo</string>
+  </void>
+  <void property="title">
+   <string>A Nobel endeavour - News &amp; events - ANU</string>
+  </void>
+ </object>
+</java>

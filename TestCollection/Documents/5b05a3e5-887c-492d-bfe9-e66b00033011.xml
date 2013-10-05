@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Acceptance Environment. Professor Brian Schmidt. ANU College of Physical and Mathematical Sciences. ... E: Brian.Schmidt@anu.edu.au.</string>
+  </void>
+  <void property="docID">
+   <string>5b05a3e5-887c-492d-bfe9-e66b00033011</string>
+  </void>
+  <void property="link">
+   <string>http://researchers-acep.anu.edu.au/researchers/schmidt-bp</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Acceptance Environment. Professor Brian Schmidt. ANU College of Physical and Mathematical Sciences. ... E: Brian.Schmidt@anu.edu.au.</string>
+  </void>
+  <void property="title">
+   <string>Professor Brian Schmidt - Researchers - ANU</string>
+  </void>
+ </object>
+</java>

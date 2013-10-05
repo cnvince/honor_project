@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Bongiorno, F 2009, &apos;Sir Richard Bourke&apos;, in David Clune and Ken Turner, eds, ...</string>
+  </void>
+  <void property="docID">
+   <string>60f17319-e3dd-4ded-acdf-4acc6710797c</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/62172</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Bongiorno, F 2009, &apos;Sir Richard Bourke&apos;, in David Clune and Ken Turner, eds, ...</string>
+  </void>
+  <void property="title">
+   <string>Sir Richard Bourke</string>
+  </void>
+ </object>
+</java>

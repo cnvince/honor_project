@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ARC Centre of Excellence for Policing and Security (externally led by Griffit...</string>
+  </void>
+  <void property="docID">
+   <string>0f783e0c-2cc1-4f9b-9507-a366de6b7c8d</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/880</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>ARC Centre of Excellence for Policing and Security (externally led by Griffit...</string>
+  </void>
+  <void property="title">
+   <string>ARC Centre of Excellence for Policing and Security (externally led by Griffith University)</string>
+  </void>
+ </object>
+</java>

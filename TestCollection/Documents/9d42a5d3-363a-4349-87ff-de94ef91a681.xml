@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Wallis J 2012, &apos;Security in the Pacific Arc&apos;, guest edited special volume of ...</string>
+  </void>
+  <void property="docID">
+   <string>9d42a5d3-363a-4349-87ff-de94ef91a681</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/74527</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Wallis J 2012, &apos;Security in the Pacific Arc&apos;, guest edited special volume of ...</string>
+  </void>
+  <void property="title">
+   <string>Security in the Pacific Arc</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Research School of Physics and Engineering people listing (RSPE)</string>
+  </void>
+  <void property="docID">
+   <string>df583eab-66de-4ae4-bd98-bcc4d18c0256</string>
+  </void>
+  <void property="link">
+   <string>http://physics.anu.edu.au/people/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Research School of Physics and Engineering people listing (RSPE)</string>
+  </void>
+  <void property="title">
+   <string>RSPE staff, students and visitors - RSPE - ANU</string>
+  </void>
+ </object>
+</java>

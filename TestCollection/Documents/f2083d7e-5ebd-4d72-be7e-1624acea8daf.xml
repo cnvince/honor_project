@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>John Reid, Rod Lamberts and Carolyn Young from The Australian National University discuss the Engaging Visions project, which took artists into rural communities in the Murray Darling basin. The project saw the artists working with the local communities to develop artworks which highlighted environmental concerns in those communities. The resulting artwork was displayed in the communities they were produced in. A free pdf book of the artwork produced is available at the Engaging Visions website.The three-year Engaging Visions project is an initiative of ANU and the Murray Darling Basin Authority. Since 2007, project leaders and a range of artists have engaged with communities in St George (Queensland), Tumut (NSW), Renmark (South Australia) and Benalla (Victoria). People from those towns have opened their doors, farm gates and minds, giving artists and researchers insights into how they are balancing environmentally sustainable water practices and broader environmental needs. The artists have translated these insights into different media including photography, painting and sculpture. These works have been shown at a series of exhibitions in the communities and many purchased back by the communities they depict. For more information see:http://engagingvisions.com.auhttp://cpas.anu.edu.au/engagingvisions/WIN TV news footage courtesy WIN TV Riverland. With thanks to Jessica Stanley. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>f2083d7e-5ebd-4d72-be7e-1624acea8daf</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=g2oqpTlo6FE</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>John Reid, Rod Lamberts and Carolyn Young from The Australian National University discuss the Engaging Visions project, which took artists into rural communities in the Murray Darling basin. The project saw the artists working with the local communities to develop artworks which highlighted environmental concerns in those communities. The resulting artwork was displayed in the communities they were produced in. A free pdf book of the artwork produced is available at the Engaging Visions website.The three-year Engaging Visions project is an initiative of ANU and the Murray Darling Basin Authority. Since 2007, project leaders and a range of artists have engaged with communities in St George (Queensland), Tumut (NSW), Renmark (South Australia) and Benalla (Victoria). People from those towns have opened their doors, farm gates and minds, giving artists and researchers insights into how they are balancing environmentally sustainable water practices and broader environmental needs. The artists have translated these insights into different media including photography, painting and sculpture. These works have been shown at a series of exhibitions in the communities and many purchased back by the communities they depict. For more information see:http://engagingvisions.com.auhttp://cpas.anu.edu.au/engagingvisions/WIN TV news footage courtesy WIN TV Riverland. With thanks to Jessica Stanley.</string>
+  </void>
+  <void property="title">
+   <string>Engaging Visions - Artists and rural Aussies engage on the environment</string>
+  </void>
+ </object>
+</java>

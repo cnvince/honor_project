@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>The ANU China Institute provides a wide range of research and educational resources including language (modern and classical), linguistics, translation literature (traditional and modern), history, philosophy and religion, gender and culture,</string>
+  </void>
+  <void property="docID">
+   <string>583d2880-fdf4-46ca-9d4e-63a5d8751d49</string>
+  </void>
+  <void property="link">
+   <string>http://chl.anu.edu.au/regions/china/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>The ANU China Institute provides a wide range of research and educational resources including language (modern and classical), linguistics, translation literature (traditional and modern), history, philosophy and religion, gender and culture,</string>
+  </void>
+  <void property="title">
+   <string>China - CHL - ANU</string>
+  </void>
+ </object>
+</java>

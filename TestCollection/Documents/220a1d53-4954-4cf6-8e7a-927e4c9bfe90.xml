@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>[menu], [term-raw], [title]</string>
+  </void>
+  <void property="docID">
+   <string>220a1d53-4954-4cf6-8e7a-927e4c9bfe90</string>
+  </void>
+  <void property="link">
+   <string>http://caepr.anu.edu.au/others/educationfutures/Report142-1277184623.php</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>[menu], [term-raw], [title]</string>
+  </void>
+  <void property="title">
+   <string>Research Summary: Indigenous people in the Murray-Darling Basin: A...</string>
+  </void>
+ </object>
+</java>

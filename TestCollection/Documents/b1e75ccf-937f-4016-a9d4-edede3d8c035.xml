@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>Former US Ambassador to Afghanistan, Karl Eikenberry discusses current counter-insurgency and state building efforts in Afghanistan, in a talk at The Australian National University. In this talk he examines the challenges international civilian and military actors face in the troubled state and assesses whether Afghan forces will be ready to take on responsibility for the nation&apos;s security by 2014.  Karl Eikenberry served as US Ambassador to Afghanistan from May 2009 until July 2011, during which time he led the civilian surge directed by President Obama to reverse insurgent momentum and set the conditions for transition to full Afghan sovereignty. Before this he was the commander of the US-led coalition forces in Afghanistan between 2005 and 2007.During his 35-year career with the US Army, he has served in various policy and political-military positions, including as Deputy Chairman of the North Atlantic Treaty Organization (NATO) Military Committee in Brussels, Director for Strategic Planning and Policy for US Pacific Command at Camp Smith, Hawaii and US Security Coordinator and Chief of the Office of Military Cooperation in Kabul, Afghanistan. He is now the Payne Distinguished Lecturer at the Freeman Spogli Institute for International Studies at Stanford University. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>b1e75ccf-937f-4016-a9d4-edede3d8c035</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=NkZ-oczhFCc</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>Former US Ambassador to Afghanistan, Karl Eikenberry discusses current counter-insurgency and state building efforts in Afghanistan, in a talk at The Australian National University. In this talk he examines the challenges international civilian and military actors face in the troubled state and assesses whether Afghan forces will be ready to take on responsibility for the nation&apos;s security by 2014.  Karl Eikenberry served as US Ambassador to Afghanistan from May 2009 until July 2011, during which time he led the civilian surge directed by President Obama to reverse insurgent momentum and set the conditions for transition to full Afghan sovereignty. Before this he was the commander of the US-led coalition forces in Afghanistan between 2005 and 2007.During his 35-year career with the US Army, he has served in various policy and political-military positions, including as Deputy Chairman of the North Atlantic Treaty Organization (NATO) Military Committee in Brussels, Director for Strategic Planning and Policy for US Pacific Command at Camp Smith, Hawaii and US Security Coordinator and Chief of the Office of Military Cooperation in Kabul, Afghanistan. He is now the Payne Distinguished Lecturer at the Freeman Spogli Institute for International Studies at Stanford University.</string>
+  </void>
+  <void property="title">
+   <string>Karl Eikenberry: Counter-insurgency and state-building efforts in Afghanistan</string>
+  </void>
+ </object>
+</java>

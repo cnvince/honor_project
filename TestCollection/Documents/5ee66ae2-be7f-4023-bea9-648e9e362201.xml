@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Triptych: Mais Mais Wright Wright. ... 15. May. 2008. Judith Wright: Conversations. Until 22 June 2008 . Judith Wright is a former dancer with the Australian Ballet who has for the last 20 years practised as a visual</string>
+  </void>
+  <void property="docID">
+   <string>5ee66ae2-be7f-4023-bea9-648e9e362201</string>
+  </void>
+  <void property="link">
+   <string>http://dhg.anu.edu.au/events/judith-wright-conversations/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Triptych: Mais Mais Wright Wright. ... 15. May. 2008. Judith Wright: Conversations. Until 22 June 2008 . Judith Wright is a former dancer with the Australian Ballet who has for the last 20 years practised as a visual</string>
+  </void>
+  <void property="title">
+   <string>Judith Wright: Conversations - Drill Hall Gallery - ANU</string>
+  </void>
+ </object>
+</java>

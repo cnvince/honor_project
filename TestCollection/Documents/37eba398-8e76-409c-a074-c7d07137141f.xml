@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Lu, H, Mokkapati, S, Fu, L et al 2012, &apos;Plasmonic quantum dot solar cells for...</string>
+  </void>
+  <void property="docID">
+   <string>37eba398-8e76-409c-a074-c7d07137141f</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/68400</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Lu, H, Mokkapati, S, Fu, L et al 2012, &apos;Plasmonic quantum dot solar cells for...</string>
+  </void>
+  <void property="title">
+   <string>Plasmonic quantum dot solar cells for enhanced infrared response</string>
+  </void>
+ </object>
+</java>

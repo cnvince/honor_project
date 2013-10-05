@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Wang, J, Shannon, M &amp; Young, I 2006, &apos;A role for Ets1, synergizing with AP-1 ...</string>
+  </void>
+  <void property="docID">
+   <string>f4edc654-781f-44ce-8ebb-b9ecef867a09</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/27129</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Wang, J, Shannon, M &amp; Young, I 2006, &apos;A role for Ets1, synergizing with AP-1 ...</string>
+  </void>
+  <void property="title">
+   <string>A role for Ets1, synergizing with AP-1 and GATA-3 in the regulation of IL-5 transcription in mouse Th2 lymphocytes</string>
+  </void>
+ </object>
+</java>

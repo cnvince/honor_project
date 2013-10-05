@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ContactResult">
+  <void property="displaySummary">
+   <string>    Earth Physics, Research School of Earth Sciences</string>
+  </void>
+  <void property="docID">
+   <string>97f18a6f-9926-4098-ba1f-bdc20d00883c</string>
+  </void>
+  <void property="link">
+   <string>http://www.anu.edu.au/dirs/c5a_search.php?submit=Search&amp;querytext=4</string>
+  </void>
+  <void property="summary">
+   <string>Earth Physics, Research School of Earth Sciences</string>
+  </void>
+  <void property="title">
+   <string>Mr Armando Arcidiaco</string>
+  </void>
+ </object>
+</java>

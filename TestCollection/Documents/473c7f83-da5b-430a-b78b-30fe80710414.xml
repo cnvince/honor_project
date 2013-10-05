@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Asia and the Pacific|ANU College of Law
+International Law (Excl. International Trade Law), Law And Society, Legal The...</string>
+  </void>
+  <void property="docID">
+   <string>473c7f83-da5b-430a-b78b-30fe80710414</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/charlesworth-hcm</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Asia and the Pacific|ANU College of Law
+International Law (Excl. International Trade Law), Law And Society, Legal The...</string>
+  </void>
+  <void property="title">
+   <string>Professor Hilary Charlesworth</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string> 
+[Canberra : ACT Health, 2011</string>
+  </void>
+  <void property="docID">
+   <string>708badff-ddfd-47eb-8b89-a8f43daac9d7</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YACT+Health&amp;SORT=D/YACT+Health&amp;SORT=D&amp;SUBKEY=ACT+Health/1%2C713%2C713%2CB/frameset&amp;FF=YACT+Health&amp;SORT=D&amp;1%2C1%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string> 
+[Canberra : ACT Health, 2011</string>
+  </void>
+  <void property="title">
+   <string>ACT health self-assessment report for the periodic review 21-24 February 2011</string>
+  </void>
+ </object>
+</java>

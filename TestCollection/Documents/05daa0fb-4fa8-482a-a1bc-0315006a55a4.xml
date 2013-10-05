@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Home page channel</string>
+  </void>
+  <void property="docID">
+   <string>05daa0fb-4fa8-482a-a1bc-0315006a55a4</string>
+  </void>
+  <void property="link">
+   <string>http://jcsmr.anu.edu.au/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Home page channel</string>
+  </void>
+  <void property="title">
+   <string>The John Curtin School of Medical Research - JCSMR - ANU</string>
+  </void>
+ </object>
+</java>

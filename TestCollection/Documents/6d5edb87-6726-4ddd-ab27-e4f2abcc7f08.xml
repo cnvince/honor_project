@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Sustainable Futures through Understanding Past Human Responses to Environment...</string>
+  </void>
+  <void property="docID">
+   <string>6d5edb87-6726-4ddd-ab27-e4f2abcc7f08</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/2316</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Sustainable Futures through Understanding Past Human Responses to Environment...</string>
+  </void>
+  <void property="title">
+   <string>Sustainable Futures through Understanding Past Human Responses to Environmental Change</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Baumgartner, Joanne</string>
+  </void>
+  <void property="date">
+   <string>2003</string>
+  </void>
+  <void property="displaySummary">
+   <string>2003 Baumgartner, Joanne</string>
+  </void>
+  <void property="docID">
+   <string>7c02e6b7-d9d3-490d-9a17-138c240f8c19</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/41109</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Using the human rights system to protect and preserve indigenous language use</string>
+  </void>
+ </object>
+</java>

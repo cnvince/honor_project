@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Johnston, M, Gal, M, Chen, Z et al 1999, &apos;Interdiffused quantum well infrared...</string>
+  </void>
+  <void property="docID">
+   <string>60b9470f-e574-4659-a2ba-c4778f0faefa</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/7659</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Johnston, M, Gal, M, Chen, Z et al 1999, &apos;Interdiffused quantum well infrared...</string>
+  </void>
+  <void property="title">
+   <string>Interdiffused quantum well infrared photodetector tuning for colour sensitive arrays</string>
+  </void>
+ </object>
+</java>

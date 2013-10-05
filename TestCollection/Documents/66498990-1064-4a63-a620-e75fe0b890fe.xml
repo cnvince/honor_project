@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Lee, Alex, C. 
+2008</string>
+  </void>
+  <void property="docID">
+   <string>66498990-1064-4a63-a620-e75fe0b890fe</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Yfenner+school&amp;SORT=D/Yfenner+school&amp;SORT=D&amp;SUBKEY=fenner+school/1%2C15%2C15%2CB/frameset&amp;FF=Yfenner+school&amp;SORT=D&amp;9%2C9%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Lee, Alex, C. 
+2008</string>
+  </void>
+  <void property="title">
+   <string>Utilising airborne scanning laser (LiDAR) to improve the assessment of Australian native forest stru</string>
+  </void>
+ </object>
+</java>

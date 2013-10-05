@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Tsifakis, D, Rendell, A &amp; Strazdins, P 2004, &apos;Cache Oblivious Matrix Transpos...</string>
+  </void>
+  <void property="docID">
+   <string>ca2998ba-48b2-4edb-b70e-a5c823c03eb2</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/36751</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Tsifakis, D, Rendell, A &amp; Strazdins, P 2004, &apos;Cache Oblivious Matrix Transpos...</string>
+  </void>
+  <void property="title">
+   <string>Cache Oblivious Matrix Transposition: Simulation and Experiment</string>
+  </void>
+ </object>
+</java>

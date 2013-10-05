@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Asia and the Pacific
+International Relations</string>
+  </void>
+  <void property="docID">
+   <string>c0c2c60a-e84b-40da-990e-1b9fd1f679ea</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/hall-ci</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Asia and the Pacific
+International Relations</string>
+  </void>
+  <void property="title">
+   <string>Dr Ian Hall</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>IEEE Electrical Insulation Society Staff. 
+[S.l.] : [s.n.], 2012.</string>
+  </void>
+  <void property="docID">
+   <string>3b2afcf0-df43-4c25-b882-c58936a9ae4b</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YHigh+performance+computing&amp;SORT=D/YHigh+performance+computing&amp;SORT=D&amp;SUBKEY=High+performance+computing/1%2C393%2C393%2CB/frameset&amp;FF=YHigh+performance+computing&amp;SORT=D&amp;10%2C10%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>IEEE Electrical Insulation Society Staff. 
+[S.l.] : [s.n.], 2012.</string>
+  </void>
+  <void property="title">
+   <string>High Performance Computing, Networking, Storage and Analysis (SC), 2012 International Conference for</string>
+  </void>
+ </object>
+</java>

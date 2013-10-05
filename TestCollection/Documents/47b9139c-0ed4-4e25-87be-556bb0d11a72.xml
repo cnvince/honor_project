@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Kral, I &amp; Falk, I 2004, What is all that learning for?: Indigenous adult Engl...</string>
+  </void>
+  <void property="docID">
+   <string>47b9139c-0ed4-4e25-87be-556bb0d11a72</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/11742</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Kral, I &amp; Falk, I 2004, What is all that learning for?: Indigenous adult Engl...</string>
+  </void>
+  <void property="title">
+   <string>What is all that learning for?: Indigenous adult English literacy practices, training, community capacity and health</string>
+  </void>
+ </object>
+</java>

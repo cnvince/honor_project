@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Engineering and Computer Science
+Computer System Security, Programming Languages, Performance Evaluation; Test...</string>
+  </void>
+  <void property="docID">
+   <string>7c9a6b77-6d3d-4497-b436-90f0ea11af68</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/frampton-dj</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Engineering and Computer Science
+Computer System Security, Programming Languages, Performance Evaluation; Test...</string>
+  </void>
+  <void property="title">
+   <string>Dr Daniel Frampton</string>
+  </void>
+ </object>
+</java>

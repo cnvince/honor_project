@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>3bb0ccca-52e7-448b-acfc-3d2c0cc9d2d3</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/313799911806210048</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>Find out how Brian Schmidt lost a bet that resulted in him having to fly his old Harvard roommate Sean Carroll to Oz http://bit.ly/14mCblk </string>
+  </void>
+ </object>
+</java>

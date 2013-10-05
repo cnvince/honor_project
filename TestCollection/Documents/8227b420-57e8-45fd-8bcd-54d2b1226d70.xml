@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Medicine, Biology and Environment
+Environmental And Occupational Health And Safety, Environmental Sciences Not ...</string>
+  </void>
+  <void property="docID">
+   <string>8227b420-57e8-45fd-8bcd-54d2b1226d70</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/hanna-e-l-g</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Medicine, Biology and Environment
+Environmental And Occupational Health And Safety, Environmental Sciences Not ...</string>
+  </void>
+  <void property="title">
+   <string>Dr Elizabeth G (Liz) Hanna</string>
+  </void>
+ </object>
+</java>

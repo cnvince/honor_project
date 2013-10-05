@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Quantum Simulations with Dilute Gas Bose Einstein Condensates</string>
+  </void>
+  <void property="docID">
+   <string>570aa17b-b23c-401f-9728-0008715a6123</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/795</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Quantum Simulations with Dilute Gas Bose Einstein Condensates</string>
+  </void>
+  <void property="title">
+   <string>Quantum Simulations with Dilute Gas Bose Einstein Condensates</string>
+  </void>
+ </object>
+</java>

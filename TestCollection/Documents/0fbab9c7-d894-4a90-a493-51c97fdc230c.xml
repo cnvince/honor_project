@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>The Australian Art Orchestra (AAO) together with Indigenous performers from Arnhem Land were  the recipients of the 2010 HC Coombs Creative Arts Fellowship at The  Australian National University. The Fellowship, awarded each year by the Research</string>
+  </void>
+  <void property="docID">
+   <string>0fbab9c7-d894-4a90-a493-51c97fdc230c</string>
+  </void>
+  <void property="link">
+   <string>http://music.anu.edu.au/news/concert-photos-crossing-roper-bar</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>The Australian Art Orchestra (AAO) together with Indigenous performers from Arnhem Land were  the recipients of the 2010 HC Coombs Creative Arts Fellowship at The  Australian National University. The Fellowship, awarded each year by the Research</string>
+  </void>
+  <void property="title">
+   <string>H.C. Coombs Creative Arts Fellowship 2010 - School of Music - ANU</string>
+  </void>
+ </object>
+</java>

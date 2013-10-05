@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>b6d9db60-9cae-42ee-ae14-c4754dca354f</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/286628790694711297</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>Video: Prof Amin Saikal discusses his new book &apos;American Democracy Promotion in the Middle East: From Bush to Obama&apos; http://bit.ly/VC5T1K </string>
+  </void>
+ </object>
+</java>

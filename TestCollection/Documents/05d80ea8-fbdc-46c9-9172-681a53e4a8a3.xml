@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Photographer: Australian News and Information Bureau, Department of the Interior</string>
+  </void>
+  <void property="date">
+   <string>30 Jan 1958</string>
+  </void>
+  <void property="displaySummary">
+   <string>30 Jan 1958 Photographer: Australian News and Information Bureau, Department of the Interior</string>
+  </void>
+  <void property="docID">
+   <string>05d80ea8-fbdc-46c9-9172-681a53e4a8a3</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/10282</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Sir Earle Page, Chancellor of the University of New England (and Prime Minister, 1939) and Lord Bruce at University House</string>
+  </void>
+ </object>
+</java>

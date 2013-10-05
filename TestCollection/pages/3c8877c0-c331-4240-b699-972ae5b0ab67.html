@@ -1,0 +1,496 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+
+<title>Fault-tolerant Data Services for High Performance Computing on Clouds  - CECS - ANU</title>
+
+<meta name="DC.title" content="Fault-tolerant Data Services for High Performance Computing on Clouds  - CECS - ANU" />
+<meta name="DC.identifier" scheme="URI" content="cecs.anu.edu.au" />
+<meta name="DC.description" content="ANU College of Engineering &amp; Computer Science" />
+<meta name="DC.subject" content="research, teaching, graduate, undergraduate, computer science, engineering, information technology, solar, australia, australian national university, ANU, canberra, ACT, Service-oriented architecture, high performance computing, cloud computing, data fabrics" />
+<!--dateupdated-->
+<meta name="DC.date.modified" scheme="ISO8601" content="2012-09-05" />
+<meta name="DC.date.review" scheme="ISO8601" content="2013-09-05" />
+<!--end dateupdated-->
+<meta name="DC.creator" content="" />
+<meta name="DC.creator.email" content="webmaster@cecs.anu.edu.au" />
+<meta name="description" content="ANU College of Engineering &amp; Computer Science" />
+<meta name="subject" content="research, teaching, graduate, undergraduate, computer science, engineering, information technology, solar, australia, australian national university, ANU, canberra, ACT, Service-oriented architecture, high performance computing, cloud computing, data fabrics" />
+<meta name="keywords" content="research, teaching, graduate, undergraduate, computer science, engineering, information technology, solar, australia, australian national university, ANU, canberra, ACT, Service-oriented architecture, high performance computing, cloud computing, data fabrics" />
+<meta name="google-site-verification" content="SoybgErk78TWknyuuzot_ry9TYxSwtSaHUnrcHEMV6I" />
+
+<!--RSS-->
+<link rel='alternate' type='application/rss+xml' title='RSS' href='/rss/' />
+<!--END RSS-->
+
+<!--http://cecs.anu.edu.au--> <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="template" content="ANU-W1-3" />
+<meta name="ANU.GMS" content="4.6_20130812" />
+<meta name="ANU.inc_from" content="styles.anu.edu.au" />
+<meta name="dcterms.publisher" content="The Australian National University" />
+<meta name="dcterms.publisher" content="webmaster@anu.edu.au" />
+<meta name="dcterms.rights" content="http://legaloffice.weblogs.anu.edu.au/content/copyright/" />
+<meta property="og:image"  content="http://styles.anu.edu.au/_anu/4/images/logos/anu_logo_fb_350.png" />
+<link href="http://styles.anu.edu.au/_anu/3/images/logos/anu.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="http://styles.anu.edu.au/_anu/images/icons/web/anu-app-57.png" rel="apple-touch-icon"/>
+<link href="http://styles.anu.edu.au/_anu/3/style/anu-common.css" rel="stylesheet" type="text/css" media="screen"/>
+<link href="http://styles.anu.edu.au/_anu/3/style/anu-content.css" rel="stylesheet" type="text/css" media="screen"/>
+<link href="http://styles.anu.edu.au/_anu/3/style/anu-menu.css" rel="stylesheet" type="text/css" media="screen"/>
+<link href="http://styles.anu.edu.au/_anu/3/style/anu-college.css" rel="stylesheet" type="text/css" media="screen"/>
+<link href="http://styles.anu.edu.au/_anu/3/style/anu-features.css" rel="stylesheet" type="text/css" media="screen"/>
+<link href="http://styles.anu.edu.au/_anu/3/style/anu-grid.css" rel="stylesheet" type="text/css" media="screen"/>
+<link href="http://styles.anu.edu.au/_anu/3/style/anu-forms.css" rel="stylesheet" type="text/css" media="screen"/>
+<link href="http://styles.anu.edu.au/_anu/3/style/anu-cecs.css" rel="stylesheet" type="text/css" media="screen"/>
+<link href="http://styles.anu.edu.au/_anu/3/style/anu-colours.css" rel="stylesheet" type="text/css" media="screen"/>
+<link href="http://styles.anu.edu.au/_anu/3/style/anu-print.css" rel="stylesheet" type="text/css" media="print"/>
+<link href="http://styles.anu.edu.au/_anu/3/style/anu-handheld.css" rel="stylesheet" type="text/css" media="handheld" />
+<!-- jq -->
+<script src="http://styles.anu.edu.au/_anu/3/scripts/jquery.js" type="text/javascript"></script>
+<script type="text/javascript"> var $anujq = jQuery.noConflict(); </script>
+<script src="http://styles.anu.edu.au/_anu/3/scripts/jquery.hoverIntent.js" type="text/javascript"></script>
+<script src="http://styles.anu.edu.au/_anu/3/scripts/anu-common.js" type="text/javascript"></script>
+<!-- ejq -->
+<!--[if IE]><link href="http://styles.anu.edu.au/_anu/3/style/anu-ie.css" rel="stylesheet" type="text/css" media="screen"/><![endif]-->
+<!--[if gt IE 7]><link href="http://styles.anu.edu.au/_anu/3/style/anu-ie-gt7.css" rel="stylesheet" type="text/css" media="screen"/><![endif]-->
+
+
+<link href="http://cecs.anu.edu.au/styles/2009/style.ANU2009.css"  rel="StyleSheet" type="text/css" />
+
+<!--[if lt IE 7]>    <link href="http://cecs.anu.edu.au/styles/postnuke_style/styleIEfix.css" rel="stylesheet" type="text/css" /> <![endif]-->
+
+<!--extra_headers-->
+
+
+<script type="text/javascript">
+<!--
+function writeit(data,extratag) {
+  var idx=0, n=data[data.length-1];
+  var fields=0, i;
+  for (i=0; i<data.length; i++) { if (data[i]==n) { fields++; } }
+  if (fields>1) { document.write('<a href="'); }
+  while( data[idx]!=n ) { document.write('&#'+(data[idx++]^n)+';'); }
+  idx++;
+  if (fields>2) {
+    document.write('" title="');
+    while( data[idx]!=n ) { document.write('&#'+(data[idx++]^n)+';'); }
+    idx++;
+  }
+  if (fields>1) {
+    document.write('">');
+    if (extratag != "") {
+       document.write('<' + extratag + '>');
+    }
+    
+    while( data[idx]!=n ) { document.write('&#'+(data[idx++]^n)+';'); }
+    idx++;
+    if (extratag != "") {
+    document.write('<\/' + extratag + '>');
+    }
+    
+    
+    document.write('<\/a>');
+  }
+}
+//-->
+</script>
+
+
+</head>
+<body>
+
+
+<!-- noindex -->
+<div id="skipnavholder"><a id="skipnav" href="#content">Skip navigation</a></div>
+<div id="print-hdr">
+	<div class="left"><img src="http://styles.anu.edu.au/_anu/3/images/logos/anu_logo_print.png" alt="The Australian National University" height="40" width="115" /></div>
+<div class="right"><div class="bnr-line-2 bnr-2linetop6">ANU College of</div>
+        <div class="bnr-line-1 bnr-collegeof lnk-cecs bnr-2line">Engineering &amp; Computer Science</div>
+	</div>
+	<div class="blockline"></div>
+</div>
+<div id="explore-wrap">
+	<div id="explore">
+		<div id="explore-hdr">
+			<ul>
+				<li id="explore-li-1" ><a href="http://www.anu.edu.au/about/explore.php">EXPLORE ANU <em>&raquo;</em></a>
+					<ul class="explore-hdr-drop explore-hdr-jqshow">
+						<li class="noprint">&nbsp;</li>
+						<li><a href="http://www.anu.edu.au/index.html">Home</a></li>
+						<li><a href="http://students.anu.edu.au/">Students</a></li>
+						<li><a href="http://www.anu.edu.au/research/">Research</a></li>
+						<li><a href="http://www.anu.edu.au/education/">Education</a></li>
+						<li><a href="http://about.anu.edu.au/">About ANU</a></li>
+						<li class="padbottom2"><a href="http://www.anu.edu.au/staff/">Staff</a></li>
+						<li><a href="http://students.anu.edu.au/think/">Future students</a></li>
+						<li><a href="http://innovation.anu.edu.au/">Business<span class="small"> &amp; </span>government</a></li>
+						<li><a href="http://news.anu.edu.au/for-journalists/">Journalists &amp; media</a></li>
+						<li><a href="http://anulib.anu.edu.au">Library</a></li>
+						<li><a href="https://alumniandfriends.anu.edu.au">Alumni</a></li>
+						<li><a href="http://philanthropy.anu.edu.au/">Giving to ANU</a></li>
+						<li><a href="http://reconciliation.anu.edu.au/">Reconciliation</a></li>
+						<li class="padbottom2"><a href="http://hr.anu.edu.au/employment-at-anu/job-opportunities">Job opportunities</a></li>
+						<li class="noprint">&nbsp;</li>
+						<li class="noprint">&nbsp;</li>
+					</ul>
+					<ul class="explore-hdr-drop-right explore-hdr-jqshow">
+						<li class="noprint">&nbsp;</li>
+						<li><a href="http://cass.anu.edu.au" class="h-cass"><em>ANU College of</em><br/>
+						Arts &amp; Social Sciences</a></li>
+						<li><a href="http://asiapacific.anu.edu.au/" class="h-cap"><em>ANU College of</em><br/>
+						Asia &amp; the Pacific</a></li>
+						<li><a href="http://cbe.anu.edu.au/" class="h-cbe"><em>ANU College of</em><br/>
+						Business &amp; Economics</a></li>
+						<li><a href="http://cecs.anu.edu.au/" class="h-cecs"><em>ANU College of</em><br/>
+						Engineering &amp; Computer Science</a></li>
+						<li><a href="http://law.anu.edu.au/" class="h-cl"><em>ANU College of</em><br/>
+						Law</a></li>
+						<li><a href="http://cmbe-cpms.anu.edu.au/" class="h-cmbe"><em>ANU College of</em><br/>
+						Medicine, Biology &amp; Environment</a></li>
+						<li><a href="http://cmbe-cpms.anu.edu.au/" class="h-cps"><em>ANU College of</em><br/>
+						Physical &amp; Mathematical Sciences</a></li>
+						<li><a href="http://publicpolicy.anu.edu.au/" class="h-uni">Public policy</a></li>
+						<li><a href="http://nsc.anu.edu.au/" class="h-uni">National Security College</a></li>	
+						<li><a href="http://about.anu.edu.au/governance-structure/university-structure/academic-structure/"><small>&raquo; more academic areas</small></a></li>
+					</ul>
+				</li>
+				<li  id="explore-li-2"><a href="http://www.anu.edu.au/a-z/">A-Z INDEX <em>&raquo;</em></a>
+					<ul class="explore-hdr-drop azdrop  explore-hdr-az-jqshow">
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=a">A</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=b">B</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=c">C</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=d">D</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=e">E</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=f">F</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=g">G</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=h">H</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=i">I</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=j">J</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=k">K</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=l">L</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=m">M</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=n">N</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=o">O</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=p">P</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=q">Q</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=r">R</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=s">S</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=t">T</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=u">U</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=v">V</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=w">W</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=x">X</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=y">Y</a></li>
+<li class="boxlink az"><a href="http://www.anu.edu.au/a-z/?l=z">Z</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+		<div id="srch-hdr">
+			<form action="http://www.anu.edu.au/search.php" method="get" id="SearchForm">
+				<div>
+				<input type="hidden" name="submit" value="Search"/>
+				<input type="hidden" name="url" value=""/>
+				<label for="qt"><span class="nodisplay">Search query</span></label><input class="txt" name="querytext" id="qt" type="text" size="30" value="Search ANU..." onfocus="javascript:clearInput(this);" onblur="javascript:defaultInput(this);" />
+				<input class="rdo" type="radio" id="stype1" name="stype" value="ANU Web" checked="checked" /> <label for="stype1">Web</label>
+				<input class="rdo" type="radio" id="stype2" name="stype" value="Staff Directory" /> <label for="stype2">Contacts</label>
+				<input class="rdo" type="radio" id="stype3" name="stype" value="Campus Map" /> <label for="stype3">Map</label>
+				<label for="search1"><span class="nodisplay">Search button</span></label><span class="txt-white"><input class="s-btn" id="search1" type="image" alt="GO" src="http://styles.anu.edu.au/_anu/3/images/buttons/btn-search.gif" onclick="return checkInput('qt','You must enter search terms');" onmouseover="javascript:this.src='http://styles.anu.edu.au/_anu/3/images/buttons/btn-search-over.gif'" onmouseout="javascript:this.src='http://styles.anu.edu.au/_anu/3/images/buttons/btn-search.gif'"/></span>
+				</div> 
+			</form>
+		</div>
+	</div>
+</div>
+<div id="bnr-wrap">
+	<div id="bnr">
+		<div id="bnr-left">
+
+<a href="http://www.anu.edu.au/" class="anu-logo-png"><img class="text-white" src="http://styles.anu.edu.au/_anu/3/images/logos/anu_logo_small.png" onmouseover="this.src='http://styles.anu.edu.au/_anu/3/images/logos/anu_logo_small_over.png';" onmouseout="this.src='http://styles.anu.edu.au/_anu/3/images/logos/anu_logo_small.png'" alt="The Australian National University" /></a>
+
+</div>
+		<div id="bnr-right">
+<div class="bnr-line-2 bnr-2linetop6"><a href="http://cecs.anu.edu.au">ANU College of</a></div>
+<div class="bnr-line-1 bnr-collegeof lnk-cecs bnr-2line"><h1><a href="http://cecs.anu.edu.au">Engineering &amp; Computer Science</a></h1></div>
+
+
+		</div>
+	</div>
+	<div id="bnr-underline"></div>
+</div>
+<!--<div id="skipnavtarget"><a id="main-content" class="skip" tabindex="32767"></a></div>-->
+
+
+<!-- endnoindex --> 
+
+<div id="body-wrap">
+	<div id="body">
+
+
+
+<!--SPECIAL HEADER-->
+
+<!--noindex--> <!-- stops ANU search from treating the menu as content-->
+<div id="menu">
+<div class="narrow">
+
+<!--ANU SEARCH BOX-->
+
+ 
+            <div class='search-box'>
+            <p>Search CECS</p>
+            <form action='/search' method='post'>
+            <div>
+            <label for='query'><span class='nodisplay'>Search query</span></label>
+                <input class='search-query' id='query' name='query' size='15' type='text' value='' />
+                <label for='local-search'><span class='nodisplay'>Search</span></label>
+                    <input class='search-button' id='local-search' title='Search' type='submit' value='GO' /><br/>
+                    <a href='/search'>Advanced search</a>
+                    </div>
+                    </form>
+                    </div>   
+                    <!-- BEGIN SITE TREE --><div class='menu-flat menu-main'>
+<p>CECS</p>
+<ul id='nav-1'>
+<li><a href='/'>Home</a></li>
+<li><a href='/about_us'>About us</a>
+<ul><li><a href='/about_us/find_us'>Find us</a></li>
+<li><a href='/about_us/governance'>Governance</a></li>
+<li><a href='/about_us/leadership  '>Leadership & people</a></li>
+<li><a href='/about_us/commitments  '>College commitments</a></li>
+</ul></li><li><a href='/future_students'>Future students</a>
+<ul><li><a href='/future_students/undergraduate'>Undergraduate</a>
+<ul><li><a href='/future_students/undergraduate/rdprograms'>R&amp;D programs</a></li>
+<li><a href='/future_students/computing'>Computing programs</a></li>
+<li><a href='/future_students/engineering'>Engineering programs</a></li>
+<li><a href='/future_students/undergraduate/applications'>Application procedures</a></li>
+<li><a href='/future_students/advanced_standing'>Advanced standing</a></li>
+<li><a href='/future_students/undergraduate/prerequisites'>Pre-requisites</a></li>
+<li><a href='/future_students/undergraduate/scholarships'>Scholarships</a></li>
+<li><a href='/future_students/student_ambassadors'>Student ambassadors</a></li>
+<li><a href='/future_students/undergraduate/otherinfo'>What's around</a></li>
+</ul></li><li><a href='/future_students/graduate'>Graduate coursework</a>
+<ul><li><a href='/future_students/graduate/coursework/computing'>Computing programs</a></li>
+<li><a href='/future_students/graduate/coursework/engineering'>Engineering programs</a></li>
+<li><a href='/future_students/graduate/coursework/prerequisites'>Admission and application</a></li>
+<li><a href='/future_students/graduate/coursework/scholarships'>Scholarships</a></li>
+<li><a href='/future_students/undergraduate/otherinfo'>What's around?</a></li>
+</ul></li><li><a href='/future_students/graduate/research'>Graduate research</a></li>
+<li><a href='/future_students/summer'>Summer programs</a></li>
+<li><a href='/professionaldevelopment'>Professional development</a></li>
+<li><a href='/projects'>Student projects</a></li>
+<li><a href='/future_students/recruitment'>Outreach &amp; recruitment</a></li>
+<li><a href='http://www.anu.edu.au/contact/'>Enquire</a></li>
+</ul></li><li><a href='/current_students'>Current students</a>
+<ul><li><a href='/current_students/undergraduate'>Undergraduate</a></li>
+<li><a href='/current_students/graduates'>Graduate coursework</a></li>
+<li><a href='/current_students/graduates/research'>Graduate research</a></li>
+<li><a href='/projects'>Student projects</a></li>
+<li><a href='/current_students/exchange'>Student exchange</a></li>
+<li><a href='http://drss.anu.edu.au/isa/global_summer_program/index.php'>2013 IARU Global Summer Program</a></li>
+</ul></li><li><a href='/research/groups'>Research</a>
+<ul><li><a href='/industry'>Research and industry</a></li>
+<li><a href='/research/development'>Research development</a></li>
+</ul></li><li><a href='/news'>News &amp; events</a>
+<ul><li><a href='/posters'>Poster day 2012</a></li>
+<li><a href='/rssfeeds'>RSS feeds</a></li>
+<li><a href='/seminars'>Seminars</a></li>
+<li><a href='/future_students/summer'>Summer programs</a></li>
+</ul></li><li><a href='/donations'>Giving to the College</a></li>
+<li><a href='/alumni'>Alumni</a></li>
+<li><a href='/contact'>Contact us</a></li>
+<li><a href='/staff'>Information for staff</a>
+<ul><li><a href='https://cecs.anu.edu.au/login'>Login</a></li>
+<li><a href='/staff/executivesupport/governance/cecs_advisory_forum'>Advisory Forum</a></li>
+<li><a href='/staff/executivesupport'>Governance</a></li>
+<li><a href='/about_us/adminorg'>Administrative leadership</a></li>
+<li><a href='/staff'>Administrative areas</a>
+<ul><li><a href='/staff/technical_services'>Technical Services</a></li>
+<li><a href='/ed_dev'>Educational development</a>
+<ul><li><a href='http://hubsandspokes.cecs.anu.edu.au/'> Hubs &amp; Spokes</a></li>
+</ul></li><li><a href='/staff/finance'>Finance</a></li>
+<li><a href='/staff/hr'>Human resources</a></li>
+<li><a href='/staff/it'>IT support</a></li>
+<li><a href='/staff/mkt'>Marketing</a></li>
+<li><a href='/research/development'>Research development</a></li>
+<li><a href='/staff/sa'>Schools administration</a></li>
+<li><a href='/staff/ss'>Student services</a></li>
+</ul></li><li><a href='/staff/planning'>CECS planning documents</a></li>
+<li><a href='/staff/cecspolicies'>CECS policies &amp; procedures</a></li>
+<li><a href='/staff/reportdocs'>CECS reports &amp; discussion documents</a></li>
+<li><a href='/staff/workinggroups'>CECS working groups</a></li>
+<li><a href='/staff/forms'>Forms and templates</a></li>
+<li><a href='/staff/ohs'>OHS</a></li>
+<li><a href='/staff/reconciliation_action'>Reconciliation action</a></li>
+<li><a href='/staff/awards/teachingexcellence'>Staff awards</a></li>
+</ul></li></ul></div>
+
+<div class='menu-flat menu-grey'>
+<p>Related sites</p>
+<ul id='nav-2'>
+<li><a href='http://people.cecs.anu.edu.au'>CECS People</a></li>
+<li><a href='http://cs.anu.edu.au'> Research School of Computer Science</a></li>
+<li><a href='http://eng.anu.edu.au/'>Research School of Engineering</a></li>
+<li><a href='/joint'>Joint Education Ventures</a></li>
+<li><a href='http://www.nicta.com.au'>NICTA</a></li>
+</ul></div>
+
+   <!-- END SITE TREE --><!-- END NAVIGATION -->
+
+</div>
+</div>
+
+<!--endnoindex-->
+<script type="text/javascript" src="http://styles.anu.edu.au/_anu/3/scripts/anu-menu.js"></script>
+<div id="content">		
+<!-- BEGIN DOCUMENT CONTENT =================================================-->
+
+<!--80--><div class='doublewide'><!--auto inserted
+		div-->
+
+<p><script type="text/javascript">
+<!--
+function showGroup(showname, detailsname) {
+   var showdiv = document.getElementById(showname);
+      var detailsdiv = document.getElementById(detailsname);
+
+   if (showdiv != null && detailsdiv != null) {
+
+      if (detailsdiv.style.display == "none") {
+           detailsdiv.style.display = "block";
+           showdiv.innerHTML = "Hide Projects...";
+      } else {
+           detailsdiv.style.display = "none";
+           showdiv.innerHTML = "Show Projects...";
+      }
+   }
+}
+
+-->
+</script>
+<h1>Student research opportunities</h1><h2>Fault-tolerant Data Services for High Performance Computing on Clouds</h2>
+        <h3>Project Code: CECS_631</h3>
+        
+        
+        <p>This project is available at the following levels:<br/> <em>Honours</em>, <em>Masters</em>, <em>PhD</em></p>
+            <h3> Keywords:</h3>
+            <p>Service-oriented architecture, high performance computing, cloud computing, data fabrics
+            
+        </p>
+        <h3>Supervisor:</h3>
+        Dr Peter Strazdins<br /><br/>
+        <h3> Outline:</h3>
+        <p>The Service-oriented Architecture approach has been successfully applied to large-scale grid applications (which are `embarrassingly parallel'), such as in computational finance. The `embarrassingly parallel' nature of these applications is exploited, yielding a friendly parallel programming paradigm which is naturally fault-tolerant and efficient under (dynamically) heterogeneous processing conditions. The <a href="http://cs.anu.edu.au/~Peter.Strazdins/projects/HPNumSOA/">HPNumSOA</a> project at ANU has extended this approach to general parallel applications through the use of a `data service' (see the paper in the links below). However, the desired goal of (efficiently supported) fault-tolerance in this data service has not yet been addressed in this work. 
+<br>
+<br></p><h3>Goals of this project</h3>
+            <p>This project will investigate approaches to introduce fault-tolerance in such an extended SOA framework, under the constraints of memory scalability and minimal impact on performance. Particular issues of when such a framework is implemented on a public cloud, such as data transfer time and variability in latency, will also be investigated.</p>
+            
+            <h3>Requirements/Prerequisites</h3>
+            <p>An Honours degree in Computer Science or equivalent.</p>
+            
+            <h3>Student Gain</h3>
+            <p>This project is an extension on an existing project with Platform (TM) Computing, with opportunities to continue the collaboration. An Internship with Platform Computing (Beijing or Toronto) may be offered. There will also be access to a moderate-sized scientific cloud infrastructure through the adjoining NCI National Facility. </p>
+            
+            <h3>Background Literature</h3>
+           <p>See the links below.</p>
+            
+            <h3>Links</h3>
+            <a href='http://cs.anu.edu.au/~Peter.Strazdins/projects/HPNumSOA/'>HPNumSOA project</a><br><a href='http://cs.anu.edu.au/~Peter.Strazdins/papers/SOAapprochHPC10.pdf'>An SOA Approach to HPC (HiPC'10 paper)</a><br>
+        <br/><h3><strong>Contact:</strong></h3>
+        <div class='w-narrow' style='float:left;'><a href='/user/3757'><img height='110px' style='border:0' src='http://people.cecs.anu.edu.au/photos/3757.jpg' 
+                alt='Peter Strazdins' title='Peter Strazdins' /></a>
+                <br/><a href='/user/3757'>
+            <b>Dr Peter Strazdins</b></a></div><br /><br />
+
+<!--auto inserted /div--></div>
+<!-- END DOCUMENT CONTENT ===================================================-->
+</div>
+
+<!-- noindex --> 
+<div id="update-wrap">
+    <div id="update-details">		
+                <p class="sml-hdr">
+                        Updated:&nbsp;&nbsp;<strong>5 September 2012</strong> <!--wasupdate--><span class="hpad">/</span><!--/wasupdate-->
+                        Responsible Officer:&nbsp;&nbsp;<span id='noscript-1'>JavaScript must be enabled to display this email address.</span>
+
+<script type='text/javascript'>
+<!--
+ var nos = document.getElementById('noscript-1');
+    nos.parentNode.removeChild(nos);
+    
+    var data=new Array (
+    622,610,618,623,631,620,569,615,
+    614,610,621,579,608,614,608,624,
+    557,610,621,630,557,614,615,630,
+    557,610,630,515,583,614,610,621,
+    559,547,576,582,576,592,515
+  ); 
+  writeit (data, 'strong');    
+//-->
+</script>
+
+<span class="hpad">/</span> 
+                        Page Contact:&nbsp;&nbsp;<span id='noscript-2'>JavaScript must be enabled to display this email address.</span>
+
+<script type='text/javascript'>
+<!--
+ var nos = document.getElementById('noscript-2');
+    nos.parentNode.removeChild(nos);
+    
+    var data=new Array (
+    632,628,636,633,609,634,559,610,
+    624,631,632,628,614,609,624,615,
+    597,630,624,630,614,571,628,635,
+    608,571,624,625,608,571,628,608,
+    554,614,608,631,639,624,630,609,
+    552,598,634,632,632,624,635,609,
+    565,634,635,565,565,568,565,598,
+    592,598,582,565,568,565,596,603,
+    576,565,610,624,631,571,565,576,
+    583,601,565,570,613,615,634,639,
+    624,630,609,614,570,613,636,625,
+    570,549,549,549,549,549,549,549,
+    547,550,548,565,568,565,628,608,
+    609,637,634,615,565,533,598,592,
+    598,582,565,578,624,631,632,628,
+    614,609,624,615,533
+  ); 
+  writeit (data, 'strong');    
+//-->
+</script>
+
+
+				</p> 
+			</div>
+		</div>
+<!-- endnoindex --> 	
+
+<!--ANU FOOTER INCLUDE -->
+	</div>
+</div>
+
+<!-- noindex -->
+<div id="footer-wrap">
+	<div id="anu-footer">
+		<div id="anu-detail">
+			<ul>
+				<li><a href="http://www.anu.edu.au/contact/">Contact ANU</a></li>
+				<li><a href="http://campusmap.anu.edu.au/">Campus Map</a></li>
+				<li><a href="http://legaloffice.weblogs.anu.edu.au/content/copyright/">Copyright</a></li>
+				<li><a href="http://legaloffice.weblogs.anu.edu.au/content/copyright/#disclaimer">Disclaimer</a></li>
+				<li><a href="http://legaloffice.weblogs.anu.edu.au/content/copyright/#privacy">Privacy</a></li>
+				<li><a href="http://foi.anu.edu.au/">Freedom of Information</a></li>
+			</ul>
+		</div>
+		<div id="anu-address">
+			<p>+61 2 6125 5111<br/>
+			The Australian National University, Canberra<br/>
+			CRICOS Provider : 00120C<br/>
+			ABN : 52 234 063 906</p>
+		</div>
+        <div id="anu-groups"><div class="anu-ftr-go8 hpad vpad"><a href="http://www.go8.edu.au/"><img class="text-white" src="http://styles.anu.edu.au/_anu/3/images/logos/GroupOf8.gif" alt="Group of Eight Member" /></a></div><div class="anu-ftr-iaru hpad vpad"><a href="http://drss.anu.edu.au/isa/alliances.php"><img class="text-white" src="http://styles.anu.edu.au/_anu/3/images/logos/iaru.gif" alt="IARU" /></a></div></div>	</div>
+</div>
+<!-- endnoindex --> 
+
+
+
+</body>
+</html>

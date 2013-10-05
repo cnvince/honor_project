@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Cai, J, Rendell, A, Strazdins, P et al 2008, &apos;Performance Models for Cluster-...</string>
+  </void>
+  <void property="docID">
+   <string>71410f38-25d7-4973-9b7f-ec6429767a63</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/39425</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Cai, J, Rendell, A, Strazdins, P et al 2008, &apos;Performance Models for Cluster-...</string>
+  </void>
+  <void property="title">
+   <string>Performance Models for Cluster-Enabled OpenMP Implementations</string>
+  </void>
+ </object>
+</java>

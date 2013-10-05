@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Dutton, Michael Robert 
+Durham : Duke University Press, c2005</string>
+  </void>
+  <void property="docID">
+   <string>8db7b750-4beb-4c5b-a1b5-3652cbd0bdba</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Ychinese+politics&amp;SORT=D/Ychinese+politics&amp;SORT=D&amp;SUBKEY=chinese+politics/1%2C1600%2C1600%2CB/frameset&amp;FF=Ychinese+politics&amp;SORT=D&amp;7%2C7%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Dutton, Michael Robert 
+Durham : Duke University Press, c2005</string>
+  </void>
+  <void property="title">
+   <string>Policing Chinese politics : a history</string>
+  </void>
+ </object>
+</java>

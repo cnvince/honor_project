@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>The Hon Don Polye, PNG Minister for Treasury, speaks at the PNG Budget Forum 2013. The National Budget Forum was jointly organised by PNG&apos;s National Research Institute (NRI) and the Development Policy Centre in the ANU Crawford School of Public Policy.The one-day forum on Thursday 7 February brought together experts from the centre with government representatives, to discuss the country&apos;s 2013 budget which sees a large increase in devolved funding to PNG&apos;s provinces, districts and local governments.You can read more about the event here: http://publicpolicy.anu.edu.au/content/png-budget-under-m... viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>c0a60b29-91be-49f5-96f9-97a6719ac6ad</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=ABdd4EJakbQ</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>The Hon Don Polye, PNG Minister for Treasury, speaks at the PNG Budget Forum 2013. The National Budget Forum was jointly organised by PNG&apos;s National Research Institute (NRI) and the Development Policy Centre in the ANU Crawford School of Public Policy.The one-day forum on Thursday 7 February brought together experts from the centre with government representatives, to discuss the country&apos;s 2013 budget which sees a large increase in devolved funding to PNG&apos;s provinces, districts and local governments.You can read more about the event here: http://publicpolicy.anu.edu.au/content/png-budget-under-m...</string>
+  </void>
+  <void property="title">
+   <string>PNG Budget Forum 2013: Hon Don Polye, PNG Minister for Treasury</string>
+  </void>
+ </object>
+</java>

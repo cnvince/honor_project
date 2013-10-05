@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Pijper, Guillaume Frederic, 1892 or 3- </string>
+  </void>
+  <void property="docID">
+   <string>bc771cc4-f8df-4350-88ff-e141433da40e</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YANU+Library&amp;SORT=D/YANU+Library&amp;SORT=D&amp;SUBKEY=ANU+Library/1%2C37%2C37%2CB/frameset&amp;FF=YANU+Library&amp;SORT=D&amp;10%2C10%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Pijper, Guillaume Frederic, 1892 or 3- </string>
+  </void>
+  <void property="title">
+   <string>The minaret in Java.</string>
+  </void>
+ </object>
+</java>

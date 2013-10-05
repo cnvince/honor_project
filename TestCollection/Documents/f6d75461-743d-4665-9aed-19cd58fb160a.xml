@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string> 
+Amsterdam : North Holland Pub Co, 1978</string>
+  </void>
+  <void property="docID">
+   <string>f6d75461-743d-4665-9aed-19cd58fb160a</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YMaterial+Science&amp;SORT=D/YMaterial+Science&amp;SORT=D&amp;SUBKEY=Material+Science/1%2C554%2C554%2CB/frameset&amp;FF=YMaterial+Science&amp;SORT=D&amp;5%2C5%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string> 
+Amsterdam : North Holland Pub Co, 1978</string>
+  </void>
+  <void property="title">
+   <string>Diffraction and imaging techniques in material science</string>
+  </void>
+ </object>
+</java>

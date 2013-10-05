@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Programs: (1-4 of 12 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Programs: (1-4 of 12 matches)</string>
+  </void>
+  <void property="docID">
+   <string>085f9b65-a473-4279-8e6c-b82990f5c7bc</string>
+  </void>
+  <void property="link">
+   <string>http://studyat.anu.edu.au/programs/3125XBVA;all.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>Bachelor of Visual Arts (3125XBVA)</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Improving plant productivity and human health using next generation biotechno...</string>
+  </void>
+  <void property="docID">
+   <string>22cc33bc-586b-4652-be46-3a0b7f5c0d89</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/2569</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Improving plant productivity and human health using next generation biotechno...</string>
+  </void>
+  <void property="title">
+   <string>Improving plant productivity and human health using next generation biotechnology approaches</string>
+  </void>
+ </object>
+</java>

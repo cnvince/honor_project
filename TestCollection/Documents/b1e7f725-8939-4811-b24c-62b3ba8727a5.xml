@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Medicine, Biology and Environment
+Environmental Impact Assessment, Environmental Management, Environmental Moni...</string>
+  </void>
+  <void property="docID">
+   <string>b1e7f725-8939-4811-b24c-62b3ba8727a5</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/khan-ni</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Medicine, Biology and Environment
+Environmental Impact Assessment, Environmental Management, Environmental Moni...</string>
+  </void>
+  <void property="title">
+   <string>Dr Nasreen Islam Khan</string>
+  </void>
+ </object>
+</java>

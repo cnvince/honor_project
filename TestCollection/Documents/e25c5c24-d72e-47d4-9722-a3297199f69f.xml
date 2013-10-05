@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Medicine, Biology and Environment
+Surfacewater Hydrology, Natural Resource Management, Environmental Marine Bio...</string>
+  </void>
+  <void property="docID">
+   <string>e25c5c24-d72e-47d4-9722-a3297199f69f</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/ivkovic-km</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Medicine, Biology and Environment
+Surfacewater Hydrology, Natural Resource Management, Environmental Marine Bio...</string>
+  </void>
+  <void property="title">
+   <string>Dr Karen Ivkovic</string>
+  </void>
+ </object>
+</java>

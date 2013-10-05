@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>UN Women Executive Director Michelle Bachelet addressed more than 900 people about Gender Equality and Women s Rights. ... UN Women was created in 2010 to advance gender equality and women s empowerment.</string>
+  </void>
+  <void property="docID">
+   <string>d456ecb5-ff5d-46e0-9c4e-c14ae1b74f40</string>
+  </void>
+  <void property="link">
+   <string>http://genderinstitute.anu.edu.au/gender-equality-lived-reality</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>UN Women Executive Director Michelle Bachelet addressed more than 900 people about Gender Equality and Women s Rights. ... UN Women was created in 2010 to advance gender equality and women s empowerment.</string>
+  </void>
+  <void property="title">
+   <string>Gender equality: a lived reality? - ANU Gender Institute - ANU</string>
+  </void>
+ </object>
+</java>

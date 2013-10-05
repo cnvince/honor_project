@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>The Age-Friendly Cities (AFC) movement championed by the World Health Organisation offers a promising way ahead for improving the wellbeing of older people. The AFC approach normalises ageing experiences and recognises that quality urban environments can enable independence and participation by older people in their communities. Canberra is designated as an age friendly city. Yet how well does Canberra measure up to the ideals of the World Health Organisation? Have the legacies of Canberra as a planned city been realised to the benefit of older as well as younger people? What is the evidence on the successes and failures of our built environment and what are the challenges and achievable directions for the future? Who are the winners and losers?Hal Kendig is a sociologist and gerontologist who trained as an urban planner and worked in the 1980s in the ANU Urban Research Unit. He is a Chief Investigator on the ARC Centre of Excellence in Population Ageing Research (CEPAR). He has recently returned to the ANU from the University of Sydney where he led the ARC/NHMRC Research Network in Ageing Well and the Ageing, Work, and Health Research Unit in the Faculty of Health Sciences. He has written widely on health, social, and environmental aspects of ageing.Commentators:Barbara Squires is Head, Research and Advocacy for IRT (a community based provider of housing and care for older people) and former President of the Australian Association of Gerontology.Kevin Vassarotti is a member of the ACT Council on Ageing Policy Council as well as a number of other advisory and professional bodies on Ageing. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>535911e2-cb56-4e8a-999e-1762a0a3f0e6</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=2Kgwy4jH3sU</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>The Age-Friendly Cities (AFC) movement championed by the World Health Organisation offers a promising way ahead for improving the wellbeing of older people. The AFC approach normalises ageing experiences and recognises that quality urban environments can enable independence and participation by older people in their communities. Canberra is designated as an age friendly city. Yet how well does Canberra measure up to the ideals of the World Health Organisation? Have the legacies of Canberra as a planned city been realised to the benefit of older as well as younger people? What is the evidence on the successes and failures of our built environment and what are the challenges and achievable directions for the future? Who are the winners and losers?Hal Kendig is a sociologist and gerontologist who trained as an urban planner and worked in the 1980s in the ANU Urban Research Unit. He is a Chief Investigator on the ARC Centre of Excellence in Population Ageing Research (CEPAR). He has recently returned to the ANU from the University of Sydney where he led the ARC/NHMRC Research Network in Ageing Well and the Ageing, Work, and Health Research Unit in the Faculty of Health Sciences. He has written widely on health, social, and environmental aspects of ageing.Commentators:Barbara Squires is Head, Research and Advocacy for IRT (a community based provider of housing and care for older people) and former President of the Australian Association of Gerontology.Kevin Vassarotti is a member of the ACT Council on Ageing Policy Council as well as a number of other advisory and professional bodies on Ageing.</string>
+  </void>
+  <void property="title">
+   <string>Canberra as an age-friendly city? New thinking and policy directions</string>
+  </void>
+ </object>
+</java>

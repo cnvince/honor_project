@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>Michelle Bachelet, Under Secretary-General of the United Nations and Executive Director of UN Women, discusses the status of women worldwide and provides insight into UN Women. She shares what UN women are doing to advance women&apos;s empowerment and gender equality, and its priorities to advance women&apos;s leadership, economic empowerment and to end violence against women.In 2006, Ms Bachelet was the first woman elected President of the Republic of Chile. She held this office for four years, serving her full term and a popular leader. In 2011, the United Nations Secretary General appointed her to lead the newly created United Nations Entity for Gender Equality and the Empowerment of Women, UN Women. This lecture will be the only public event during Ms Bachelet&apos;s brief visit to Australia.Starting its operations in January 2011, UN Women&apos;s mandate is to accelerate global promotion of gender equality and the empowerment of women. Over many decades, the United Nations has made significant progress in advancing gender equality, yet gender inequalities remain deeply entrenched in every society. Women lack access to decent work and face occupational segregation and gender wage gaps. They are too often denied access to basic education and health care. Women in all parts of the world suffer violence and discrimination. They are under represented in political and economic decision-making processes. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>d5091bfc-b1a7-4948-8868-76877ef7de90</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=ZVI_SjqXNWc</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>Michelle Bachelet, Under Secretary-General of the United Nations and Executive Director of UN Women, discusses the status of women worldwide and provides insight into UN Women. She shares what UN women are doing to advance women&apos;s empowerment and gender equality, and its priorities to advance women&apos;s leadership, economic empowerment and to end violence against women.In 2006, Ms Bachelet was the first woman elected President of the Republic of Chile. She held this office for four years, serving her full term and a popular leader. In 2011, the United Nations Secretary General appointed her to lead the newly created United Nations Entity for Gender Equality and the Empowerment of Women, UN Women. This lecture will be the only public event during Ms Bachelet&apos;s brief visit to Australia.Starting its operations in January 2011, UN Women&apos;s mandate is to accelerate global promotion of gender equality and the empowerment of women. Over many decades, the United Nations has made significant progress in advancing gender equality, yet gender inequalities remain deeply entrenched in every society. Women lack access to decent work and face occupational segregation and gender wage gaps. They are too often denied access to basic education and health care. Women in all parts of the world suffer violence and discrimination. They are under represented in political and economic decision-making processes.</string>
+  </void>
+  <void property="title">
+   <string>Michelle Bachelet presents Gender equality: a lived reality?</string>
+  </void>
+ </object>
+</java>

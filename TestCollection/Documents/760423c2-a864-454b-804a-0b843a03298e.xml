@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Asia and the Pacific</string>
+  </void>
+  <void property="docID">
+   <string>760423c2-a864-454b-804a-0b843a03298e</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/unger-jm</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Asia and the Pacific</string>
+  </void>
+  <void property="title">
+   <string>Professor Jonathan Unger</string>
+  </void>
+ </object>
+</java>

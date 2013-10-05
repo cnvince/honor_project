@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences
+Sociology, Human Geography, Anthropology, Environmental Science And Managemen...</string>
+  </void>
+  <void property="docID">
+   <string>e4c8a72a-fd6c-47a2-888b-3e9dd9e611fd</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/tilzey-rm</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences
+Sociology, Human Geography, Anthropology, Environmental Science And Managemen...</string>
+  </void>
+  <void property="title">
+   <string>Dr Mark Tilzey</string>
+  </void>
+ </object>
+</java>

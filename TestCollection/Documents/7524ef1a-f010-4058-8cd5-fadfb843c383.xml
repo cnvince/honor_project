@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string></string>
+  </void>
+  <void property="docID">
+   <string>7524ef1a-f010-4058-8cd5-fadfb843c383</string>
+  </void>
+  <void property="link">
+   <string>http://cci.anu.edu.au/researchers/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string></string>
+  </void>
+  <void property="title">
+   <string>ANU Climate Change Research  - Climate Change Institute - ANU</string>
+  </void>
+ </object>
+</java>

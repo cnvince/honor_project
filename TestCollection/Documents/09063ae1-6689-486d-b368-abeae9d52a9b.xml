@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>High-energy  electron  scattering of surfaces: new spectroscopies and new phy...</string>
+  </void>
+  <void property="docID">
+   <string>09063ae1-6689-486d-b368-abeae9d52a9b</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/1282</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>High-energy  electron  scattering of surfaces: new spectroscopies and new phy...</string>
+  </void>
+  <void property="title">
+   <string>High-energy electron scattering of surfaces: new spectroscopies and new physics</string>
+  </void>
+ </object>
+</java>

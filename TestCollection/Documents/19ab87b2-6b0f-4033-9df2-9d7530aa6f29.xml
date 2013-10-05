@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Its Chief Investigators are Dr Alistair Rendell ( ANU) and Dr Peter Strazdins ( ANU). Its Partner Investigators are Dr Michael Frisch ( Gaussian), Dr Gary Trucks ( Gaussian), Dr Ilya Sharapov ( Sun Microsystem, Sunnyvale ... Mr Andrew Over, APAI - PhD (</string>
+  </void>
+  <void property="docID">
+   <string>19ab87b2-6b0f-4033-9df2-9d7530aa6f29</string>
+  </void>
+  <void property="link">
+   <string>http://ccnuma.anu.edu.au/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Its Chief Investigators are Dr Alistair Rendell ( ANU) and Dr Peter Strazdins ( ANU). Its Partner Investigators are Dr Michael Frisch ( Gaussian), Dr Gary Trucks ( Gaussian), Dr Ilya Sharapov ( Sun Microsystem, Sunnyvale ... Mr Andrew Over, APAI - PhD (</string>
+  </void>
+  <void property="title">
+   <string>The CC-NUMA Project</string>
+  </void>
+ </object>
+</java>

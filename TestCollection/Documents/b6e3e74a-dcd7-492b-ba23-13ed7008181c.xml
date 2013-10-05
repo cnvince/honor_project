@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>ANU College of Engineering &amp; Computer Science</string>
+  </void>
+  <void property="docID">
+   <string>b6e3e74a-dcd7-492b-ba23-13ed7008181c</string>
+  </void>
+  <void property="link">
+   <string>http://cecs.anu.edu.au/seminars/more/SID/544</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Engineering &amp; Computer Science</string>
+  </void>
+  <void property="title">
+   <string>Seminar Details: Dr. Jochen Trumpf and  Dr. Alistair Rendell...</string>
+  </void>
+ </object>
+</java>

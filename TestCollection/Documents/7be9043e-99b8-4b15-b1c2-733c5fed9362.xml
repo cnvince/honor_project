@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>China Channels ( 19). « « « 1 CCTV-1. ... abc • afghanistan • anu • australia • belgium • china • cuba • dubai • france • germany • greece • hd • hungary • india • indonesia • iran • iraq • italy • japan • korea</string>
+  </void>
+  <void property="docID">
+   <string>7be9043e-99b8-4b15-b1c2-733c5fed9362</string>
+  </void>
+  <void property="link">
+   <string>http://tv.anu.edu.au/channels/?tag=china</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>China Channels ( 19). « « « 1 CCTV-1. ... abc • afghanistan • anu • australia • belgium • china • cuba • dubai • france • germany • greece • hd • hungary • india • indonesia • iran • iraq • italy • japan • korea</string>
+  </void>
+  <void property="title">
+   <string>ANUTV - Campus Network</string>
+  </void>
+ </object>
+</java>

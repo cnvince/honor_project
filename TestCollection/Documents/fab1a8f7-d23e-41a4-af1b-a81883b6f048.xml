@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Organisation for Economic Co-operation and Development Staff. 
+Washington :  Organization for Economic Cooperation &amp; Development March 2012</string>
+  </void>
+  <void property="docID">
+   <string>fab1a8f7-d23e-41a4-af1b-a81883b6f048</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YThe+middle+East&amp;SORT=D/YThe+middle+East&amp;SORT=D&amp;SUBKEY=The+middle+East/1%2C4898%2C4898%2CB/frameset&amp;FF=YThe+middle+East&amp;SORT=D&amp;11%2C11%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Organisation for Economic Co-operation and Development Staff. 
+Washington :  Organization for Economic Cooperation &amp; Development March 2012</string>
+  </void>
+  <void property="title">
+   <string>Towards new arrangements for state ownership in the Middle East and North Africa</string>
+  </void>
+ </object>
+</java>

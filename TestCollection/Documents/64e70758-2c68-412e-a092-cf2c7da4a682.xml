@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>March 2006: Solar Thermal Group trough mirrors featured at launch of CSIRO s National Solar Energy Centre http://www.det.csiro.au/science/r_h/nsec.htm. ... Solar Thermal Group Ships 130m2 of trough concentrator mirror modules to the CSIRO Energy Centre</string>
+  </void>
+  <void property="docID">
+   <string>64e70758-2c68-412e-a092-cf2c7da4a682</string>
+  </void>
+  <void property="link">
+   <string>http://solar-thermal.anu.edu.au/category/csiro/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>March 2006: Solar Thermal Group trough mirrors featured at launch of CSIRO s National Solar Energy Centre http://www.det.csiro.au/science/r_h/nsec.htm. ... Solar Thermal Group Ships 130m2 of trough concentrator mirror modules to the CSIRO Energy Centre</string>
+  </void>
+  <void property="title">
+   <string>ANU mirrors feature at new CSIRO Solar Energy Centre - Solar Thermal...</string>
+  </void>
+ </object>
+</java>

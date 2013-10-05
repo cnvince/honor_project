@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Strong, Michael A; Warren, Kenneth S; Sethapongkul, Supamas</string>
+  </void>
+  <void property="date">
+   <string>1992</string>
+  </void>
+  <void property="displaySummary">
+   <string>1992 Strong, Michael A; Warren, Kenneth S; Sethapongkul, Supamas</string>
+  </void>
+  <void property="docID">
+   <string>5bdbaaaa-73ba-40c3-a089-22e12d48fb76</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/41202</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Forum: Adult mortality</string>
+  </void>
+ </object>
+</java>

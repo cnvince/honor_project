@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Asia and the Pacific
+Australian Government And Politics, International Relations, Migration, Polit...</string>
+  </void>
+  <void property="docID">
+   <string>2feb036e-b096-414b-b44c-fde2cf5196ae</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/maley-wl</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Asia and the Pacific
+Australian Government And Politics, International Relations, Migration, Polit...</string>
+  </void>
+  <void property="title">
+   <string>Professor William Maley</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Hung, H 2011, &apos;Peter Bellwod jiao shou fang tan lu [An interview with Profess...</string>
+  </void>
+  <void property="docID">
+   <string>084d59b5-68a0-4e69-af1a-8003ee2b5c02</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/69751</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Hung, H 2011, &apos;Peter Bellwod jiao shou fang tan lu [An interview with Profess...</string>
+  </void>
+  <void property="title">
+   <string>Peter Bellwod jiao shou fang tan lu [An interview with Professor Peter Bellwood]</string>
+  </void>
+ </object>
+</java>

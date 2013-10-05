@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Strazdins, P, Alexander, R &amp; Barr, D 2006, &apos;Performance enhancement of SMP cl...</string>
+  </void>
+  <void property="docID">
+   <string>ac926ac5-fe25-416b-a46f-42d057dc32f5</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/44217</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Strazdins, P, Alexander, R &amp; Barr, D 2006, &apos;Performance enhancement of SMP cl...</string>
+  </void>
+  <void property="title">
+   <string>Performance enhancement of SMP clusters with multiple network interfaces using virtualization</string>
+  </void>
+ </object>
+</java>

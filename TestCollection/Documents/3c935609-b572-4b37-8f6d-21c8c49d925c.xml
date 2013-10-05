@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Jiang, Qiang 
+2011.</string>
+  </void>
+  <void property="docID">
+   <string>3c935609-b572-4b37-8f6d-21c8c49d925c</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Ymurray+darling+basin&amp;SORT=D/Ymurray+darling+basin&amp;SORT=D&amp;SUBKEY=murray+darling+basin/1%2C149%2C149%2CB/frameset&amp;FF=Ymurray+darling+basin&amp;SORT=D&amp;2%2C2%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Jiang, Qiang 
+2011.</string>
+  </void>
+  <void property="title">
+   <string>Three essays on water modelling and management in the Murray-Darling Basin, Australia</string>
+  </void>
+ </object>
+</java>

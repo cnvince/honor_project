@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Offered By:. ANU Joint Colleges of Science. Academic Contact:. Areas of Interest:. Description:. This minor equips students to meet the challenges associated with biodiversity conservation and management and conservation biology. ... Relevant courses</string>
+  </void>
+  <void property="docID">
+   <string>717d637c-3715-4fd7-96ac-13227e2c1348</string>
+  </void>
+  <void property="link">
+   <string>https://studyat.anu.edu.au/minors/BCAM-MIN;overview.html</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Offered By:. ANU Joint Colleges of Science. Academic Contact:. Areas of Interest:. Description:. This minor equips students to meet the challenges associated with biodiversity conservation and management and conservation biology. ... Relevant courses</string>
+  </void>
+  <void property="title">
+   <string>Study at ANU Biodiversity Conservation and Management Minor</string>
+  </void>
+ </object>
+</java>

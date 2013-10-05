@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>The ANU School of Music&apos;s exciting new online initiative, Streaming Sounds, was launched at a live performance in Llewellyn Hall on Sunday 16th August at 3 pm. Titled Clarinet.Ballistix, this free concert was streamed live on the Internet using the latest video and audio technology. Following the performance there was a Q&amp;A forum, open to web viewers, and a linked interactive blog for discussions across audiences in Australia and beyond. Go to http://music.anu.edu.au/streaming-sounds to access the full archived performance and blog-site.In this video, Alan Vivian, David Pereira and Alan Hicks introduce themselves. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>fd159f01-fa49-4eab-9e1e-85f3c7843eb3</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=RNWZ_UqX1uE</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>The ANU School of Music&apos;s exciting new online initiative, Streaming Sounds, was launched at a live performance in Llewellyn Hall on Sunday 16th August at 3 pm. Titled Clarinet.Ballistix, this free concert was streamed live on the Internet using the latest video and audio technology. Following the performance there was a Q&amp;A forum, open to web viewers, and a linked interactive blog for discussions across audiences in Australia and beyond. Go to http://music.anu.edu.au/streaming-sounds to access the full archived performance and blog-site.In this video, Alan Vivian, David Pereira and Alan Hicks introduce themselves.</string>
+  </void>
+  <void property="title">
+   <string>Clarinet. Ballistix interview 1, ANU School of Music</string>
+  </void>
+ </object>
+</java>

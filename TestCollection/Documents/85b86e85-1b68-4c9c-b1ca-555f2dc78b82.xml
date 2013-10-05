@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Europe’s long colonial history has led to many kinds of special relations to former colonies and dependencies of the EU member states. One particular type is the so-called &apos;OCT arrangement&apos;; i.e. the unique legal status of the EU’s twen</string>
+  </void>
+  <void property="docID">
+   <string>85b86e85-1b68-4c9c-b1ca-555f2dc78b82</string>
+  </void>
+  <void property="link">
+   <string>http://languages.anu.edu.au/node/1066</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Europe’s long colonial history has led to many kinds of special relations to former colonies and dependencies of the EU member states. One particular type is the so-called &apos;OCT arrangement&apos;; i.e. the unique legal status of the EU’s twen</string>
+  </void>
+  <void property="title">
+   <string>New Caledonia: negotiating postcolonial identities in the shadow of...</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences
+Aboriginal And Torres Strait Islander Languages, Linguistic Structures (Incl....</string>
+  </void>
+  <void property="docID">
+   <string>e09848e1-4937-4f27-bc28-9e75f36818e6</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/koch-hj</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences
+Aboriginal And Torres Strait Islander Languages, Linguistic Structures (Incl....</string>
+  </void>
+  <void property="title">
+   <string>Dr Harold Koch</string>
+  </void>
+ </object>
+</java>

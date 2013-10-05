@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Medicine, Biology and Environment
+Freshwater Ecology, Environmental Impact Assessment, Sedimentology, Global Ch...</string>
+  </void>
+  <void property="docID">
+   <string>81fe14de-d49c-44b3-bab0-b03673f137b3</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/wasson-rjx</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Medicine, Biology and Environment
+Freshwater Ecology, Environmental Impact Assessment, Sedimentology, Global Ch...</string>
+  </void>
+  <void property="title">
+   <string>Professor Robert Wasson</string>
+  </void>
+ </object>
+</java>

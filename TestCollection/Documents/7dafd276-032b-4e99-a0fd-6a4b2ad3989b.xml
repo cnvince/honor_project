@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Home » Murray-Darling Basin. Murray-Darling Basin. ... When: 11.45am-1.30pm, Friday, 27 May . Where: The National Press Club, Canberra .  Economic and social profiles and impact assessments for the Murray-Darling Basin Plan.</string>
+  </void>
+  <void property="docID">
+   <string>7dafd276-032b-4e99-a0fd-6a4b2ad3989b</string>
+  </void>
+  <void property="link">
+   <string>http://www.nirra.anu.edu.au/category/tags/murray-darling-basin</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Home » Murray-Darling Basin. Murray-Darling Basin. ... When: 11.45am-1.30pm, Friday, 27 May . Where: The National Press Club, Canberra .  Economic and social profiles and impact assessments for the Murray-Darling Basin Plan.</string>
+  </void>
+  <void property="title">
+   <string>Murray-Darling Basin - National Institute for Rural and Regional...</string>
+  </void>
+ </object>
+</java>

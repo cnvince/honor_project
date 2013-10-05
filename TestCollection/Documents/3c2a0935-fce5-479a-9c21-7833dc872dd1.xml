@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Wright, Judith, 1915-2000 
+Sydney : Angus &amp; Robertson, 1994</string>
+  </void>
+  <void property="docID">
+   <string>3c2a0935-fce5-479a-9c21-7833dc872dd1</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YJudith+Wright&amp;SORT=D/YJudith+Wright&amp;SORT=D&amp;SUBKEY=Judith+Wright/1%2C123%2C123%2CB/frameset&amp;FF=YJudith+Wright&amp;SORT=D&amp;4%2C4%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Wright, Judith, 1915-2000 
+Sydney : Angus &amp; Robertson, 1994</string>
+  </void>
+  <void property="title">
+   <string>Judith Wright, collected poems, 1942-1985</string>
+  </void>
+ </object>
+</java>

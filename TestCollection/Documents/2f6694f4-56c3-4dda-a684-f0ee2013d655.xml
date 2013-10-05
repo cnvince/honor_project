@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>D&apos;Souza, Anna. 
+[S.l.] : [s.n.], 2012.</string>
+  </void>
+  <void property="docID">
+   <string>2f6694f4-56c3-4dda-a684-f0ee2013d655</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Yafghanistan&amp;SORT=D/Yafghanistan&amp;SORT=D&amp;SUBKEY=afghanistan/1%2C1147%2C1147%2CB/frameset&amp;FF=Yafghanistan&amp;SORT=D&amp;7%2C7%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>D&apos;Souza, Anna. 
+[S.l.] : [s.n.], 2012.</string>
+  </void>
+  <void property="title">
+   <string>Food Security and Wheat Prices in Afghanistan A Distribution-Sensitive Analysis of Household-Level I</string>
+  </void>
+ </object>
+</java>

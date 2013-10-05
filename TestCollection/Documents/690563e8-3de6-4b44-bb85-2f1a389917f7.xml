@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>International School of Electron Microscopy, Erice, Italy, 1970 </string>
+  </void>
+  <void property="docID">
+   <string>690563e8-3de6-4b44-bb85-2f1a389917f7</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YMaterial+Science&amp;SORT=D/YMaterial+Science&amp;SORT=D&amp;SUBKEY=Material+Science/1%2C554%2C554%2CB/frameset&amp;FF=YMaterial+Science&amp;SORT=D&amp;6%2C6%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>International School of Electron Microscopy, Erice, Italy, 1970 </string>
+  </void>
+  <void property="title">
+   <string>Electron microscopy in material science, ed.</string>
+  </void>
+ </object>
+</java>

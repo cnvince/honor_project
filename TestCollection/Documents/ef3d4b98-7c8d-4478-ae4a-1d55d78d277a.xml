@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Strazdins, P 2001, &apos;High Performance Linear Systems Solution on a Beowulf Clu...</string>
+  </void>
+  <void property="docID">
+   <string>ef3d4b98-7c8d-4478-ae4a-1d55d78d277a</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/15738</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Strazdins, P 2001, &apos;High Performance Linear Systems Solution on a Beowulf Clu...</string>
+  </void>
+  <void property="title">
+   <string>High Performance Linear Systems Solution on a Beowulf Cluster</string>
+  </void>
+ </object>
+</java>

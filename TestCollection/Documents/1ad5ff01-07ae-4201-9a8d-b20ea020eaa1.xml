@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Law</string>
+  </void>
+  <void property="docID">
+   <string>1ad5ff01-07ae-4201-9a8d-b20ea020eaa1</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/mason-ac-kbe-a</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Law</string>
+  </void>
+  <void property="title">
+   <string>Sir Anthony Mason AC KBE</string>
+  </void>
+ </object>
+</java>

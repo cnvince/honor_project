@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences
+Fine Arts (Incl. Sculpture And Painting), Art Theory</string>
+  </void>
+  <void property="docID">
+   <string>54f57af1-98b4-40d8-b090-21fa45b8ae96</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/bull-gj</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences
+Fine Arts (Incl. Sculpture And Painting), Art Theory</string>
+  </void>
+  <void property="title">
+   <string>Mr Gordon Bull</string>
+  </void>
+ </object>
+</java>

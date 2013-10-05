@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Sequence to Sequence: Rigorous Statistical and Mathematical Analysis of Biolo...</string>
+  </void>
+  <void property="docID">
+   <string>01b84e75-d6a1-4d22-b3bb-bc5685a03686</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/465</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Sequence to Sequence: Rigorous Statistical and Mathematical Analysis of Biolo...</string>
+  </void>
+  <void property="title">
+   <string>Sequence to Sequence: Rigorous Statistical and Mathematical Analysis of Biological Sequence Data</string>
+  </void>
+ </object>
+</java>

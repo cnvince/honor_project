@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Hooker, V &amp; Saikal, A, eds, 2004, Islamic Perspectives on the new Millenn...</string>
+  </void>
+  <void property="docID">
+   <string>fb25729d-6d8a-4b26-bcce-d413e8a31512</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/16541</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Hooker, V &amp; Saikal, A, eds, 2004, Islamic Perspectives on the new Millenn...</string>
+  </void>
+  <void property="title">
+   <string>Islamic Perspectives on the new Millennium</string>
+  </void>
+ </object>
+</java>

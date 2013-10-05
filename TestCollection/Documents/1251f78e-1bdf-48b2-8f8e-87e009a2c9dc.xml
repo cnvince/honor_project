@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Jones, BT 2010, &apos;The Republicanism of Sir Robert Menzies&apos;, Australian Politic...</string>
+  </void>
+  <void property="docID">
+   <string>1251f78e-1bdf-48b2-8f8e-87e009a2c9dc</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/74346</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Jones, BT 2010, &apos;The Republicanism of Sir Robert Menzies&apos;, Australian Politic...</string>
+  </void>
+  <void property="title">
+   <string>The Republicanism of Sir Robert Menzies.</string>
+  </void>
+ </object>
+</java>

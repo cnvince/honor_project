@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Asia and the Pacific
+Government And Politics Of Asia And The Pacific, Social Theory, Gender Specif...</string>
+  </void>
+  <void property="docID">
+   <string>2950f43a-5897-45f6-83fb-52dab308dffd</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/kipnis-ab</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Asia and the Pacific
+Government And Politics Of Asia And The Pacific, Social Theory, Gender Specif...</string>
+  </void>
+  <void property="title">
+   <string>Professor Andrew Kipnis</string>
+  </void>
+ </object>
+</java>

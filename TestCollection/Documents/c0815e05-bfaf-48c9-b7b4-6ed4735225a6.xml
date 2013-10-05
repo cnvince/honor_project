@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Enterprise bargaining update. The University has received correspondence from the NTEU advising that the union intends to return to the enterprise bargaining process. Academic Promotions information sessions. Are you thinking about applying for a</string>
+  </void>
+  <void property="docID">
+   <string>c0815e05-bfaf-48c9-b7b4-6ed4735225a6</string>
+  </void>
+  <void property="link">
+   <string>http://hr.anu.edu.au/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Enterprise bargaining update. The University has received correspondence from the NTEU advising that the union intends to return to the enterprise bargaining process. Academic Promotions information sessions. Are you thinking about applying for a</string>
+  </void>
+  <void property="title">
+   <string>Home - Human Resources - ANU</string>
+  </void>
+ </object>
+</java>

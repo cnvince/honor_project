@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Courses: (1-2 of 4 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Courses: (1-2 of 4 matches)</string>
+  </void>
+  <void property="docID">
+   <string>a12c0de3-99e0-4db4-8ae6-cb0ed3e3ceb4</string>
+  </void>
+  <void property="link">
+   <string>http://studyat.anu.edu.au/courses/COMP6464;all.html</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>COMP6464 - COMP6464 High Performance Scientific Computing</string>
+  </void>
+ </object>
+</java>

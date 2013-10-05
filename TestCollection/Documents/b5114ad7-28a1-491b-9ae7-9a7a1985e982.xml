@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>b5114ad7-28a1-491b-9ae7-9a7a1985e982</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/366789892082106368</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>@oz_f @TomMcIlroy Hi Oz, you can get the ANUPOLL here: http://bit.ly/ANUPOLL2013 </string>
+  </void>
+ </object>
+</java>

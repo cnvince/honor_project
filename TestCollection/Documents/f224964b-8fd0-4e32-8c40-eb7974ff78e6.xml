@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Schellart, W, Lister, G &amp; Jessell, m 2002, &apos;Analogue modeling of arc and back...</string>
+  </void>
+  <void property="docID">
+   <string>f224964b-8fd0-4e32-8c40-eb7974ff78e6</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/50000</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Schellart, W, Lister, G &amp; Jessell, m 2002, &apos;Analogue modeling of arc and back...</string>
+  </void>
+  <void property="title">
+   <string>Analogue modeling of arc and backarc deformation in the New Hebrides Arc and North Fiji Basin</string>
+  </void>
+ </object>
+</java>

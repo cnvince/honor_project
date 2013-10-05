@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Physical and Mathematical Sciences</string>
+  </void>
+  <void property="docID">
+   <string>df73917c-60b9-4df5-9877-43eb463c8f3c</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/love-jd</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Physical and Mathematical Sciences</string>
+  </void>
+  <void property="title">
+   <string>Professor John Love</string>
+  </void>
+ </object>
+</java>

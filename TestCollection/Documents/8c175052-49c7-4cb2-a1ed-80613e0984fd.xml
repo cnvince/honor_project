@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>8c175052-49c7-4cb2-a1ed-80613e0984fd</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/5089002110</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>Afghanistan faces a looming confrontation in the north of the country, writes Amin Saikal on East Asia Forum: http://cl.gs/sH9hTa</string>
+  </void>
+ </object>
+</java>

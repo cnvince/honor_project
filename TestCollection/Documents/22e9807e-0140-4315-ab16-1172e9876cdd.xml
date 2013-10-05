@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Grishin, A 2000, &apos;John Firth-Smith&apos;, in &lt;&gt; (ed.), &lt;&gt;</string>
+  </void>
+  <void property="docID">
+   <string>22e9807e-0140-4315-ab16-1172e9876cdd</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/5113</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Grishin, A 2000, &apos;John Firth-Smith&apos;, in &lt;&gt; (ed.), &lt;&gt;</string>
+  </void>
+  <void property="title">
+   <string>John Firth-Smith</string>
+  </void>
+ </object>
+</java>

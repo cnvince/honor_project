@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Drysdale, Peter; Findlay, Christopher</string>
+  </void>
+  <void property="date">
+   <string>2006</string>
+  </void>
+  <void property="displaySummary">
+   <string>2006 Drysdale, Peter; Findlay, Christopher</string>
+  </void>
+  <void property="docID">
+   <string>17f61544-8eec-4519-a02d-3abb85b6a455</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/44457</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>US and EU trade policies and East Asia</string>
+  </void>
+ </object>
+</java>

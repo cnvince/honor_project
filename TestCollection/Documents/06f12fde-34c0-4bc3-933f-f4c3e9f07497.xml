@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>of US Imperialism, Pakistan and the Saudis involving corrupt alliances, support of the Taliban and the promotion of Islamic fundamentalism are the subject of Ahmed Rashid’s new book which is ... The weapons were supplied by the Americans, the money by</string>
+  </void>
+  <void property="docID">
+   <string>06f12fde-34c0-4bc3-933f-f4c3e9f07497</string>
+  </void>
+  <void property="link">
+   <string>http://marxists.anu.edu.au/history/etol/writers/hadden/2008/xx/chaos.html</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>of US Imperialism, Pakistan and the Saudis involving corrupt alliances, support of the Taliban and the promotion of Islamic fundamentalism are the subject of Ahmed Rashid’s new book which is ... The weapons were supplied by the Americans, the money by</string>
+  </void>
+  <void property="title">
+   <string>Peter Hadden: Descent into Chaos (Winter 2008)</string>
+  </void>
+ </object>
+</java>

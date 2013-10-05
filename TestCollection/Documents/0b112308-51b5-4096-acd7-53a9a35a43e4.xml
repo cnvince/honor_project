@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ContactResult">
+  <void property="displaySummary">
+   <string>    Faculty of Arts</string>
+  </void>
+  <void property="docID">
+   <string>0b112308-51b5-4096-acd7-53a9a35a43e4</string>
+  </void>
+  <void property="link">
+   <string>http://www.anu.edu.au/dirs/c5a_search.php?submit=Search&amp;querytext=1</string>
+  </void>
+  <void property="summary">
+   <string>Faculty of Arts</string>
+  </void>
+  <void property="title">
+   <string>Fax - Student Administration, Faculty of Arts</string>
+  </void>
+ </object>
+</java>

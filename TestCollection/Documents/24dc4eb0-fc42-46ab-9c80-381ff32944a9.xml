@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Photographer: not known</string>
+  </void>
+  <void property="date">
+   <string>circa 1948</string>
+  </void>
+  <void property="displaySummary">
+   <string>circa 1948 Photographer: not known</string>
+  </void>
+  <void property="docID">
+   <string>24dc4eb0-fc42-46ab-9c80-381ff32944a9</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/48648</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Professor H Burton</string>
+  </void>
+ </object>
+</java>

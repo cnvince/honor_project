@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Allen, M, Groves, B, Dopita, M et al 2008, &apos;The MAPPINGS III Library of Fast ...</string>
+  </void>
+  <void property="docID">
+   <string>c72b2367-49b8-4e99-818b-d961d8199c7a</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/20074</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Allen, M, Groves, B, Dopita, M et al 2008, &apos;The MAPPINGS III Library of Fast ...</string>
+  </void>
+  <void property="title">
+   <string>The MAPPINGS III Library of Fast Radiative Shock Models</string>
+  </void>
+ </object>
+</java>

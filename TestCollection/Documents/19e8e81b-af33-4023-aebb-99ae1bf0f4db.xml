@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences
+International Relations, Comparative Government And Politics, Political Scien...</string>
+  </void>
+  <void property="docID">
+   <string>19e8e81b-af33-4023-aebb-99ae1bf0f4db</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/burges-sw</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences
+International Relations, Comparative Government And Politics, Political Scien...</string>
+  </void>
+  <void property="title">
+   <string>Dr Sean Burges</string>
+  </void>
+ </object>
+</java>

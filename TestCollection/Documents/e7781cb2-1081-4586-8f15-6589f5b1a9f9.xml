@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>The pH of the Digestive Vacuole in the Malaria Parasite</string>
+  </void>
+  <void property="docID">
+   <string>e7781cb2-1081-4586-8f15-6589f5b1a9f9</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/1889</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>The pH of the Digestive Vacuole in the Malaria Parasite</string>
+  </void>
+  <void property="title">
+   <string>The pH of the Digestive Vacuole in the Malaria Parasite</string>
+  </void>
+ </object>
+</java>

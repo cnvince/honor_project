@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Barton, G 2001, &apos;Sir Albert Howard and the Forestry Roots of the Organic Farm...</string>
+  </void>
+  <void property="docID">
+   <string>1f1ea3ca-86bb-4e9e-907e-2ca2810ac11e</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/21551</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Barton, G 2001, &apos;Sir Albert Howard and the Forestry Roots of the Organic Farm...</string>
+  </void>
+  <void property="title">
+   <string>Sir Albert Howard and the Forestry Roots of the Organic Farming Movement</string>
+  </void>
+ </object>
+</java>

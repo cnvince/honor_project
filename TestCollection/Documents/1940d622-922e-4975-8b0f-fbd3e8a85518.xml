@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Heasley, J, Janes, K, Zinn, R et al 2000, &apos;Hubble Space Telescope Photometry ...</string>
+  </void>
+  <void property="docID">
+   <string>1940d622-922e-4975-8b0f-fbd3e8a85518</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/30274</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Heasley, J, Janes, K, Zinn, R et al 2000, &apos;Hubble Space Telescope Photometry ...</string>
+  </void>
+  <void property="title">
+   <string>Hubble Space Telescope Photometry of the Metal-rich Globular Clusters NGHC 6624 and NGC 6637</string>
+  </void>
+ </object>
+</java>

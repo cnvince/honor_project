@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string> 
+Abingdon, Oxon ; New York : Earthscan, 2012</string>
+  </void>
+  <void property="docID">
+   <string>d151a453-a62b-49a2-8d47-dcbacf37dc59</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Yclimate+change&amp;SORT=D/Yclimate+change&amp;SORT=D&amp;SUBKEY=climate+change/1%2C1797%2C1797%2CB/frameset&amp;FF=Yclimate+change&amp;SORT=D&amp;7%2C7%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string> 
+Abingdon, Oxon ; New York : Earthscan, 2012</string>
+  </void>
+  <void property="title">
+   <string>Handbook of climate change and India : development, politics, and governance</string>
+  </void>
+ </object>
+</java>

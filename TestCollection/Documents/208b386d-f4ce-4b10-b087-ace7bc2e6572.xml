@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Reducing Indigenous incarceration using Justice Reinvestment: an exploratory ...</string>
+  </void>
+  <void property="docID">
+   <string>208b386d-f4ce-4b10-b087-ace7bc2e6572</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/2817</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Reducing Indigenous incarceration using Justice Reinvestment: an exploratory ...</string>
+  </void>
+  <void property="title">
+   <string>Reducing Indigenous incarceration using Justice Reinvestment: an exploratory case study</string>
+  </void>
+ </object>
+</java>

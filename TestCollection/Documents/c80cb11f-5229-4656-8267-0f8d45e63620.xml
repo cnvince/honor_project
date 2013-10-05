@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>c80cb11f-5229-4656-8267-0f8d45e63620</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/257621448238190593</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>Public Lecture: Dr Stephen FitzGerald explains why Australia needs to upgrade its political relationship with China: http://bit.ly/Ch-Au </string>
+  </void>
+ </object>
+</java>

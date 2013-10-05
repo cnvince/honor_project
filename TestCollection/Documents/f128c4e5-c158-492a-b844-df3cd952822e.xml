@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences
+Public Health And Health Services, Sociology</string>
+  </void>
+  <void property="docID">
+   <string>f128c4e5-c158-492a-b844-df3cd952822e</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/carroll-ac</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences
+Public Health And Health Services, Sociology</string>
+  </void>
+  <void property="title">
+   <string>Dr Annie Carroll</string>
+  </void>
+ </object>
+</java>

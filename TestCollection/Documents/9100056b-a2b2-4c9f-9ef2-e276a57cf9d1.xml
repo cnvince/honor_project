@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Kingsley, Danny</string>
+  </void>
+  <void property="date">
+   <string>1995</string>
+  </void>
+  <void property="displaySummary">
+   <string>1995 Kingsley, Danny</string>
+  </void>
+  <void property="docID">
+   <string>9100056b-a2b2-4c9f-9ef2-e276a57cf9d1</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/10440/1023</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>Science online? A contextual analysis of the debate on electronic journals in science communication</string>
+  </void>
+ </object>
+</java>

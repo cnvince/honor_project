@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Tyers, R, Golley, J, Bain, I et al 2006, &apos;China&apos;s Economic Growth and its Rea...</string>
+  </void>
+  <void property="docID">
+   <string>c1fb1e71-10e0-4a9d-bb01-f9e7bd34d230</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/24398</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Tyers, R, Golley, J, Bain, I et al 2006, &apos;China&apos;s Economic Growth and its Rea...</string>
+  </void>
+  <void property="title">
+   <string>China&apos;s Economic Growth and its Real Exchange Rate</string>
+  </void>
+ </object>
+</java>

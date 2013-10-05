@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>hosted by … Continue reading &amp;rarr;. Posted in News,  Reports| Tagged Australia,  EU,  France,  Pacific Islands| Leave a comment. ... EuropeAid has issued a call for proposals for ‘Supporting culture as a vector of democracy and economic growth under</string>
+  </void>
+  <void property="docID">
+   <string>2dc75d39-50c8-4bfc-9c7a-2a75f42773a0</string>
+  </void>
+  <void property="link">
+   <string>http://pacificinstitute.anu.edu.au/outrigger/tag/eu/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>hosted by … Continue reading &amp;rarr;. Posted in News,  Reports| Tagged Australia,  EU,  France,  Pacific Islands| Leave a comment. ... EuropeAid has issued a call for proposals for ‘Supporting culture as a vector of democracy and economic growth under</string>
+  </void>
+  <void property="title">
+   <string>EU | Outrigger: Blog of the Pacific Institute</string>
+  </void>
+ </object>
+</java>

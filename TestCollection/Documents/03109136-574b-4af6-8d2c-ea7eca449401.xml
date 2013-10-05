@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string> 
+ 
+Carlton, Vic : Melbourne University Press, 1954</string>
+  </void>
+  <void property="docID">
+   <string>03109136-574b-4af6-8d2c-ea7eca449401</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YSir+Howard+Florey&amp;SORT=D/YSir+Howard+Florey&amp;SORT=D&amp;SUBKEY=Sir+Howard+Florey/1%2C4%2C4%2CB/frameset&amp;FF=YSir+Howard+Florey&amp;SORT=D&amp;1%2C1%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string> 
+ 
+Carlton, Vic : Melbourne University Press, 1954</string>
+  </void>
+  <void property="title">
+   <string>Lectures on general pathology : delivered at the Sir William Dunn school of pathology University of</string>
+  </void>
+ </object>
+</java>

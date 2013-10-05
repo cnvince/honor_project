@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Physical and Mathematical Sciences
+Quantum Optics, Quantum Information, Computation And Communication, Quantum P...</string>
+  </void>
+  <void property="docID">
+   <string>16f66d2e-bbce-4f4c-9bfe-7ba9f62234f0</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/bernu-j</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Physical and Mathematical Sciences
+Quantum Optics, Quantum Information, Computation And Communication, Quantum P...</string>
+  </void>
+  <void property="title">
+   <string>Dr Julien Bernu</string>
+  </void>
+ </object>
+</java>

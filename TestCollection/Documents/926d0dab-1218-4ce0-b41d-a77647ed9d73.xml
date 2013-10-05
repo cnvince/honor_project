@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Law
+Legal Practice, Lawyering And The Legal Profession, Higher Education, Law And...</string>
+  </void>
+  <void property="docID">
+   <string>926d0dab-1218-4ce0-b41d-a77647ed9d73</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/thornton-mr</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Law
+Legal Practice, Lawyering And The Legal Profession, Higher Education, Law And...</string>
+  </void>
+  <void property="title">
+   <string>Ms Margaret Thornton</string>
+  </void>
+ </object>
+</java>

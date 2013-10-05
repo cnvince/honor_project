@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>History | Guidelines | Previous Fellows     2013 H.C. Coombs Creative Arts Fellowship  UK Environmental Artist, Chris Drury, has won the prestigious HC Coombs Creative Arts Fellowship taking up residence at ANU from April, hosted by the Humanities</string>
+  </void>
+  <void property="docID">
+   <string>73188a88-5cb9-4c46-849d-40d3e5fee1ca</string>
+  </void>
+  <void property="link">
+   <string>http://rsha.anu.edu.au/coombs/guidelines</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>History | Guidelines | Previous Fellows     2013 H.C. Coombs Creative Arts Fellowship  UK Environmental Artist, Chris Drury, has won the prestigious HC Coombs Creative Arts Fellowship taking up residence at ANU from April, hosted by the Humanities</string>
+  </void>
+  <void property="title">
+   <string>The H.C. Coombs Creative Arts Fellowship - Research School of...</string>
+  </void>
+ </object>
+</java>

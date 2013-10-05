@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Turner, C &amp; Williams, D, eds, 2007, Thresholds of Tolerance, Austral...</string>
+  </void>
+  <void property="docID">
+   <string>3bb59163-b094-46e4-bfa0-abe7f175ebc4</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/12575</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Turner, C &amp; Williams, D, eds, 2007, Thresholds of Tolerance, Austral...</string>
+  </void>
+  <void property="title">
+   <string>Thresholds of Tolerance</string>
+  </void>
+ </object>
+</java>

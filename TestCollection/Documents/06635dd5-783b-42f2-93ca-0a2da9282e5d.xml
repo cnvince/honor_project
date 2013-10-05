@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ContactResult">
+  <void property="displaySummary">
+   <string>    ANU Archives Program,</string>
+  </void>
+  <void property="docID">
+   <string>06635dd5-783b-42f2-93ca-0a2da9282e5d</string>
+  </void>
+  <void property="link">
+   <string>http://www.anu.edu.au/dirs/c5a_search.php?submit=Search&amp;querytext=8</string>
+  </void>
+  <void property="summary">
+   <string>ANU Archives Program,</string>
+  </void>
+  <void property="title">
+   <string>Enquiries, Noel Butlin Archives Centre</string>
+  </void>
+ </object>
+</java>

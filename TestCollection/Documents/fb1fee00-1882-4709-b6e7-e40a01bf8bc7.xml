@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Manderson, D 2012, &apos;Between the Nihilism of the Young and the Positivism of t...</string>
+  </void>
+  <void property="docID">
+   <string>fb1fee00-1882-4709-b6e7-e40a01bf8bc7</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/67732</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Manderson, D 2012, &apos;Between the Nihilism of the Young and the Positivism of t...</string>
+  </void>
+  <void property="title">
+   <string>Between the Nihilism of the Young and the Positivism of the Old - Justice and the Novel in D.H. Lawrence</string>
+  </void>
+ </object>
+</java>

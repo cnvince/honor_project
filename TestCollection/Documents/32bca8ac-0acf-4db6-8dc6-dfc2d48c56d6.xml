@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences</string>
+  </void>
+  <void property="docID">
+   <string>32bca8ac-0acf-4db6-8dc6-dfc2d48c56d6</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/kalandyk-gallagher-ja</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences</string>
+  </void>
+  <void property="title">
+   <string>Dr Jolanta Kalandyk-Gallagher</string>
+  </void>
+ </object>
+</java>

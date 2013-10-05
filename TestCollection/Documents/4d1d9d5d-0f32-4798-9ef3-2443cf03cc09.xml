@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Agenda, Volume 9, Number 2, 2002, pages 121-134 Mathematicians as Great Economists: John Forbes Nash, Jr. ... Matthew J. Ryan S ylvia Nasar s recent book, A Beautiful Mind, and a film of the same title about the life of John Nash have piqued public</string>
+  </void>
+  <void property="docID">
+   <string>4d1d9d5d-0f32-4798-9ef3-2443cf03cc09</string>
+  </void>
+  <void property="link">
+   <string>http://epress.anu.edu.au/wp-content/uploads/2011/06/9-2-A-3.pdf</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Agenda, Volume 9, Number 2, 2002, pages 121-134 Mathematicians as Great Economists: John Forbes Nash, Jr. ... Matthew J. Ryan S ylvia Nasar s recent book, A Beautiful Mind, and a film of the same title about the life of John Nash have piqued public</string>
+  </void>
+  <void property="title">
+   <string>[PDF]
+          
+          
+          
+          
+          
+            Mathematicians as Great Economists:  John Forbes Nash, Jr</string>
+  </void>
+ </object>
+</java>

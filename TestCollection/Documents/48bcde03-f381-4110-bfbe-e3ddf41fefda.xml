@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>Tim Johnson&apos;s range of imagery and styles in his painting include the art of Central Australia and Asia and anything from early Buddhist iconography to Ufos. His use of dots, fields of colour, layers of appropriated imagery, abstract and conceptual annotations from western tradition and imagery from almost any available source, create the effect of a visual space that exists in the imagination and at the same time connects to places and ideas.This lecture is part of the 2013 ANU School of Art Forum. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>48bcde03-f381-4110-bfbe-e3ddf41fefda</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=9E0X3IjIW-0</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>Tim Johnson&apos;s range of imagery and styles in his painting include the art of Central Australia and Asia and anything from early Buddhist iconography to Ufos. His use of dots, fields of colour, layers of appropriated imagery, abstract and conceptual annotations from western tradition and imagery from almost any available source, create the effect of a visual space that exists in the imagination and at the same time connects to places and ideas.This lecture is part of the 2013 ANU School of Art Forum.</string>
+  </void>
+  <void property="title">
+   <string>ANU Art Forum: Tim Johnson</string>
+  </void>
+ </object>
+</java>

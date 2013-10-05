@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>ANU College of Engineering &amp; Computer Science</string>
+  </void>
+  <void property="docID">
+   <string>357898fe-1a3e-42ac-9f77-5906118f21e7</string>
+  </void>
+  <void property="link">
+   <string>http://cecs.anu.edu.au/seminars/more/SID/338</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Engineering &amp; Computer Science</string>
+  </void>
+  <void property="title">
+   <string>Seminar Details: Various members of NICTA Groups from Sydney and...</string>
+  </void>
+ </object>
+</java>

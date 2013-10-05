@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Altman, J 2005, &apos;From Mumeka to Basel: John Mawurndjuls artistic odyssey&apos;, in...</string>
+  </void>
+  <void property="docID">
+   <string>b29ac24b-c623-4289-b3ce-6dbc6ddfceb7</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/965</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Altman, J 2005, &apos;From Mumeka to Basel: John Mawurndjuls artistic odyssey&apos;, in...</string>
+  </void>
+  <void property="title">
+   <string>From Mumeka to Basel: John Mawurndjuls artistic odyssey</string>
+  </void>
+ </object>
+</java>

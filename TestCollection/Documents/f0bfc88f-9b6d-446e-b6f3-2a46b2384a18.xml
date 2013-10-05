@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Asia and the Pacific|ANU College of Arts and Social Sciences
+Government And Politics Of Asia And The Pacific</string>
+  </void>
+  <void property="docID">
+   <string>f0bfc88f-9b6d-446e-b6f3-2a46b2384a18</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/tang-b</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Asia and the Pacific|ANU College of Arts and Social Sciences
+Government And Politics Of Asia And The Pacific</string>
+  </void>
+  <void property="title">
+   <string>Dr Beibei Tang</string>
+  </void>
+ </object>
+</java>

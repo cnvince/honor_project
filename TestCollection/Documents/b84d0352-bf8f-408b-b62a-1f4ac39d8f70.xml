@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Fulham, C 2010, John Fries Memorial Prize, Sydney</string>
+  </void>
+  <void property="docID">
+   <string>b84d0352-bf8f-408b-b62a-1f4ac39d8f70</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/63654</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Fulham, C 2010, John Fries Memorial Prize, Sydney</string>
+  </void>
+  <void property="title">
+   <string>John Fries Memorial Prize</string>
+  </void>
+ </object>
+</java>

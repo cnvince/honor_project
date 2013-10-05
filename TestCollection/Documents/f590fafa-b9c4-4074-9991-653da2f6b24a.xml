@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Batchelor, M, Foerster, A, Guan, X et al 2008, &apos;The quantum inverse scatterin...</string>
+  </void>
+  <void property="docID">
+   <string>f590fafa-b9c4-4074-9991-653da2f6b24a</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/41246</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Batchelor, M, Foerster, A, Guan, X et al 2008, &apos;The quantum inverse scatterin...</string>
+  </void>
+  <void property="title">
+   <string>The quantum inverse scattering method with anyonic grading</string>
+  </void>
+ </object>
+</java>

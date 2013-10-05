@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Dowding, Keith 2011, &apos;Complex Equality (Walzer)&apos;, in Keith Dowding (ed.),</string>
+  </void>
+  <void property="docID">
+   <string>8b685aed-ab49-4211-bfe7-4fa766ac398f</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/68671</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Dowding, Keith 2011, &apos;Complex Equality (Walzer)&apos;, in Keith Dowding (ed.),</string>
+  </void>
+  <void property="title">
+   <string>Complex Equality (Walzer)</string>
+  </void>
+ </object>
+</java>

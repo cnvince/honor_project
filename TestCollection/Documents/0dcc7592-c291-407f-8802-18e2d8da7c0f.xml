@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Effectively harnessing such a diverse range of disciplines presents significant research challenges, as does understanding the interdependencies and interactions of landscapes, water and the ecological systems and biodiversity they support.</string>
+  </void>
+  <void property="docID">
+   <string>0dcc7592-c291-407f-8802-18e2d8da7c0f</string>
+  </void>
+  <void property="link">
+   <string>http://fennerschool.anu.edu.au/research</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Effectively harnessing such a diverse range of disciplines presents significant research challenges, as does understanding the interdependencies and interactions of landscapes, water and the ecological systems and biodiversity they support.</string>
+  </void>
+  <void property="title">
+   <string>Research - Fenner School - ANU</string>
+  </void>
+ </object>
+</java>

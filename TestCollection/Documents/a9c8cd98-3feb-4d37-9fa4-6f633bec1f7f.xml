@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Political Activisms. Rural Properties. Stately Homes. Abbott, Francis ( 1834– 1903). Yesterday afternoon there passed away from among us Francis Abbott, superintendent of the Tasmanian Botanical Gardens. ... Mr. Abbott had been connected for over 50</string>
+  </void>
+  <void property="docID">
+   <string>a9c8cd98-3feb-4d37-9fa4-6f633bec1f7f</string>
+  </void>
+  <void property="link">
+   <string>http://oa.anu.edu.au/obituary/abbott-francis-1445</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Political Activisms. Rural Properties. Stately Homes. Abbott, Francis ( 1834– 1903). Yesterday afternoon there passed away from among us Francis Abbott, superintendent of the Tasmanian Botanical Gardens. ... Mr. Abbott had been connected for over 50</string>
+  </void>
+  <void property="title">
+   <string>Obituary - Francis Abbott - Obituaries Australia</string>
+  </void>
+ </object>
+</java>

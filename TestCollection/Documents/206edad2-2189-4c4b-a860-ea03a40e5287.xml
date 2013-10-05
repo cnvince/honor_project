@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>ScienceWise Article: An out of this world experience for young astronomers</string>
+  </void>
+  <void property="docID">
+   <string>206edad2-2189-4c4b-a860-ea03a40e5287</string>
+  </void>
+  <void property="link">
+   <string>http://sciencewise.anu.edu.au/articles/Seeing%20Stars</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>ScienceWise Article: An out of this world experience for young astronomers</string>
+  </void>
+  <void property="title">
+   <string>Seeing Stars - ScienceWise - ANU</string>
+  </void>
+ </object>
+</java>

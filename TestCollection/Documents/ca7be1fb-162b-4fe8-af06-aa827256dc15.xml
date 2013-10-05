@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Hinde, D, Dasgupta, M, Diaz-Torres, A et al 2010, &apos;Quantum coherence and deco...</string>
+  </void>
+  <void property="docID">
+   <string>ca7be1fb-162b-4fe8-af06-aa827256dc15</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/17174</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Hinde, D, Dasgupta, M, Diaz-Torres, A et al 2010, &apos;Quantum coherence and deco...</string>
+  </void>
+  <void property="title">
+   <string>Quantum coherence and decoherence in low energy nuclear collisions: from superposition to irreversibility</string>
+  </void>
+ </object>
+</java>

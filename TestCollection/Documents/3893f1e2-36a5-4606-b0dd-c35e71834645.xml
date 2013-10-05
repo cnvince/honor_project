@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.DSpaceResult">
+  <void property="author">
+   <string>Chapman, Bruce; Watson, Louise; Wheelahan, Leesa</string>
+  </void>
+  <void property="date">
+   <string>2001</string>
+  </void>
+  <void property="displaySummary">
+   <string>2001 Chapman, Bruce; Watson, Louise; Wheelahan, Leesa</string>
+  </void>
+  <void property="docID">
+   <string>3893f1e2-36a5-4606-b0dd-c35e71834645</string>
+  </void>
+  <void property="link">
+   <string>https://digitalcollections.anu.edu.au/handle/1885/40690</string>
+  </void>
+  <void property="source">
+   <int>7</int>
+  </void>
+  <void property="title">
+   <string>From silos to seamlessness: towards a cross-sectoral funding model for post-compulsory education and training</string>
+  </void>
+ </object>
+</java>

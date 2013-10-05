@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Physical and Mathematical Sciences
+Hydrogeology, Soil Chemistry (Excl. Carbon Sequestration Science), Surfacewat...</string>
+  </void>
+  <void property="docID">
+   <string>436d11ad-d335-48ce-832e-2cd2b56cfc6f</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/mcphail-dc</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Physical and Mathematical Sciences
+Hydrogeology, Soil Chemistry (Excl. Carbon Sequestration Science), Surfacewat...</string>
+  </void>
+  <void property="title">
+   <string>Dr D.C. &quot;Bear&quot; McPhail</string>
+  </void>
+ </object>
+</java>

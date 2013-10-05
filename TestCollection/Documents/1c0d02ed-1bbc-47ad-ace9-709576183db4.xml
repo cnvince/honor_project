@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Hu, L, Deeney, J, Nolan, C et al 2005, &apos;Regulation of lipolytic activity by l...</string>
+  </void>
+  <void property="docID">
+   <string>1c0d02ed-1bbc-47ad-ace9-709576183db4</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/37936</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Hu, L, Deeney, J, Nolan, C et al 2005, &apos;Regulation of lipolytic activity by l...</string>
+  </void>
+  <void property="title">
+   <string>Regulation of lipolytic activity by long-chain acyl-coenzyme A in islets and adipocytes</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.StudyAtResult">
+  <void property="category">
+   <string>Other Pages: (1-4 of 9 matches)</string>
+  </void>
+  <void property="displaySummary">
+   <string>Other Pages: (1-4 of 9 matches)</string>
+  </void>
+  <void property="docID">
+   <string>78fb6ec8-cd69-4c31-bb85-114c4dd8b2c6</string>
+  </void>
+  <void property="link">
+   <string>https://studyat.anu.edu.au/2013/site_map_all_for_year</string>
+  </void>
+  <void property="source">
+   <int>2</int>
+  </void>
+  <void property="title">
+   <string>Study at ANU</string>
+  </void>
+ </object>
+</java>

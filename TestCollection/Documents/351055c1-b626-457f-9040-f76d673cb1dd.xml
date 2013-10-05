@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Fan, D, Nie, Q, Hope, A et al 2007, &apos;Quantification of cyclic electron flow a...</string>
+  </void>
+  <void property="docID">
+   <string>351055c1-b626-457f-9040-f76d673cb1dd</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/23019</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Fan, D, Nie, Q, Hope, A et al 2007, &apos;Quantification of cyclic electron flow a...</string>
+  </void>
+  <void property="title">
+   <string>Quantification of cyclic electron flow around Photosystem I in spinach leaves during photosynthetic induction</string>
+  </void>
+ </object>
+</java>

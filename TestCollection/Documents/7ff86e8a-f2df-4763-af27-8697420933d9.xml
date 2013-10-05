@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Kim, H &amp; Lew, S 2011, &apos;Industrial Warriors: South Korea&apos;s Skilled Workers, 19...</string>
+  </void>
+  <void property="docID">
+   <string>7ff86e8a-f2df-4763-af27-8697420933d9</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/62911</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Kim, H &amp; Lew, S 2011, &apos;Industrial Warriors: South Korea&apos;s Skilled Workers, 19...</string>
+  </void>
+  <void property="title">
+   <string>Industrial Warriors: South Korea&apos;s Skilled Workers, 1973-1987</string>
+  </void>
+ </object>
+</java>

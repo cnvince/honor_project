@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Le Jeune, FranÃ§oise, 1967- 
+Lewiston, NY : Edwin Mellen Press, c2013.</string>
+  </void>
+  <void property="docID">
+   <string>8364ff5f-08e0-43e2-9e2d-69248decb840</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YCanada&amp;SORT=D/YCanada&amp;SORT=D&amp;SUBKEY=Canada/1%2C15385%2C15385%2CB/frameset&amp;FF=YCanada&amp;SORT=D&amp;4%2C4%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Le Jeune, FranÃ§oise, 1967- 
+Lewiston, NY : Edwin Mellen Press, c2013.</string>
+  </void>
+  <void property="title">
+   <string>How Canada is described in the writings of nineteenth-century Canadian women the feminine experience</string>
+  </void>
+ </object>
+</java>

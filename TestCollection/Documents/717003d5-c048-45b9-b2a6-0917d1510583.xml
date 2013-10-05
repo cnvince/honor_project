@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>[menu], [term-raw], [title]</string>
+  </void>
+  <void property="docID">
+   <string>717003d5-c048-45b9-b2a6-0917d1510583</string>
+  </void>
+  <void property="link">
+   <string>http://caepr.anu.edu.au/node/3983</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>[menu], [term-raw], [title]</string>
+  </void>
+  <void property="title">
+   <string>Research Summary: What is all that learning for? Indigenous adult...</string>
+  </void>
+ </object>
+</java>

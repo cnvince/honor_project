@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Rea, Mark Stanley, 1950- 
+Bellingham, Wash. (1000 20th St. Bellingham WA 98225-6705 USA) : SPIE, 2013.</string>
+  </void>
+  <void property="docID">
+   <string>e8aadb5d-644a-4abf-8415-d065bdfaebca</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/Yclear+energy&amp;SORT=D/Yclear+energy&amp;SORT=D&amp;SUBKEY=clear+energy/1%2C51%2C51%2CB/frameset&amp;FF=Yclear+energy&amp;SORT=D&amp;1%2C1%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Rea, Mark Stanley, 1950- 
+Bellingham, Wash. (1000 20th St. Bellingham WA 98225-6705 USA) : SPIE, 2013.</string>
+  </void>
+  <void property="title">
+   <string>Value metrics for better lighting</string>
+  </void>
+ </object>
+</java>

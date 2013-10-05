@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Source Birth Control Choice Subcommittee ( Burnett p. 160) Education Subcommittee ( Burnett p. ... on the Adult Minimum Wage in State Awards Submission to the State Industrial Commission Concerning the Trade and Labour Council s Application for Paid</string>
+  </void>
+  <void property="docID">
+   <string>977ea93f-abdd-4f55-a71e-dff462361672</string>
+  </void>
+  <void property="link">
+   <string>http://wel.anu.edu.au/WA_Subs.pdf</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Source Birth Control Choice Subcommittee ( Burnett p. 160) Education Subcommittee ( Burnett p. ... on the Adult Minimum Wage in State Awards Submission to the State Industrial Commission Concerning the Trade and Labour Council s Application for Paid</string>
+  </void>
+  <void property="title">
+   <string>[PDF]
+          
+          
+          
+          
+          
+            WA Subs 17 June 10</string>
+  </void>
+ </object>
+</java>

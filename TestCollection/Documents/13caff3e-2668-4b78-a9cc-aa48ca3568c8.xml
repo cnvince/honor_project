@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>13caff3e-2668-4b78-a9cc-aa48ca3568c8</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/332043076812017664</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>Nobel Laureate Prof Brian Schmidt addresses ANU alumni and corporate friends at this very special event #innovation pic.twitter.com/O9SQXHDeXZ</string>
+  </void>
+ </object>
+</java>

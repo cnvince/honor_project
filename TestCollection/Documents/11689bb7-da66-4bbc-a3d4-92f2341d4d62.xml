@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Blaxland, J, 2013, &apos;Pinning colours to the mast&apos; with Alex Sloan on ABC Radio...</string>
+  </void>
+  <void property="docID">
+   <string>11689bb7-da66-4bbc-a3d4-92f2341d4d62</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/80093</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Blaxland, J, 2013, &apos;Pinning colours to the mast&apos; with Alex Sloan on ABC Radio...</string>
+  </void>
+  <void property="title">
+   <string>&apos;John Blaxland on pinning colours to the mast&apos; with Alex Sloan on ABC Radio 666, 20 May 2013 http://soundcloud.com/john-blaxland/dr-john-blaxland-pinning</string>
+  </void>
+ </object>
+</java>

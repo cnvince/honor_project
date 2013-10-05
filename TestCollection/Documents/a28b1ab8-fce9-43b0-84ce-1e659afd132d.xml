@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ContactResult">
+  <void property="address">
+   <string> Strategic &amp; Defence Studies CentreResearch School of Pacific &amp; Asian StudiesBuilding 9,   H.C.Coombs BldThe Australian National UniversityACT 0200 Australia</string>
+  </void>
+  <void property="displaySummary">
+   <string> 59922  (6125 9922) desmond.ball@anu.edu.au  Strategic &amp; Defence Studies CentreResearch School of Pacific &amp; Asian StudiesBuilding 9,   H.C.Coombs BldThe Australian National UniversityACT 0200 Australia </string>
+  </void>
+  <void property="docID">
+   <string>a28b1ab8-fce9-43b0-84ce-1e659afd132d</string>
+  </void>
+  <void property="email">
+   <string>desmond.ball@anu.edu.au</string>
+  </void>
+  <void property="link">
+   <string>http://www.anu.edu.au/dirs/search.php?stype=Staff+Directory&amp;querytext=Desmond+Ball</string>
+  </void>
+  <void property="phone">
+   <string>59922  (6125 9922)</string>
+  </void>
+  <void property="title">
+   <string>Prof Desmond Ball</string>
+  </void>
+ </object>
+</java>

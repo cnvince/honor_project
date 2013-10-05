@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Fogarty, W. and Kral, I. Submission no. 20, in Our Land Our Languages: Language Learning in Indigenous Communities, House of Representatives Standing Committee on Aboriginal and Torres Strait Islander Affairs Report on the inquiry into language</string>
+  </void>
+  <void property="docID">
+   <string>045c4ed4-57e1-4532-8680-b970e9087661</string>
+  </void>
+  <void property="link">
+   <string>http://caepr.anu.edu.au/Submission-n...-Learning-Indigenous-Communities.php</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Fogarty, W. and Kral, I. Submission no. 20, in Our Land Our Languages: Language Learning in Indigenous Communities, House of Representatives Standing Committee on Aboriginal and Torres Strait Islander Affairs Report on the inquiry into language</string>
+  </void>
+  <void property="title">
+   <string>Submission no. 20, in Our Land Our Languages: Language Learning in...</string>
+  </void>
+ </object>
+</java>

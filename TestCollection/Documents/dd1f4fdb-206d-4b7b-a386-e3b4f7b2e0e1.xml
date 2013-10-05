@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Kong, Qingjiang. 
+Singapore ; Hackensack, NJ : World Scientific, c2012.</string>
+  </void>
+  <void property="docID">
+   <string>dd1f4fdb-206d-4b7b-a386-e3b4f7b2e0e1</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YEU&amp;SORT=D/YEU&amp;SORT=D&amp;SUBKEY=EU/1%2C1122%2C1122%2CB/frameset&amp;FF=YEU&amp;SORT=D&amp;9%2C9%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Kong, Qingjiang. 
+Singapore ; Hackensack, NJ : World Scientific, c2012.</string>
+  </void>
+  <void property="title">
+   <string>China-EU trade disputes and their management</string>
+  </void>
+ </object>
+</java>

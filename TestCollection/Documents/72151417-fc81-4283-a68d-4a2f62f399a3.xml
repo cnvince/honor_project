@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>About ANU. Search site. search. Search About ANU. Search query. Search. Our University.  Functions accommodation.  Parenting rooms childcare.  Chancellors Vice-Chancellors.  Coat of arms, motto &amp;mace.  2010 finances ( consolidated).  Abridged</string>
+  </void>
+  <void property="docID">
+   <string>72151417-fc81-4283-a68d-4a2f62f399a3</string>
+  </void>
+  <void property="link">
+   <string>http://about.anu.edu.au/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>About ANU. Search site. search. Search About ANU. Search query. Search. Our University.  Functions accommodation.  Parenting rooms childcare.  Chancellors Vice-Chancellors.  Coat of arms, motto &amp;mace.  2010 finances ( consolidated).  Abridged</string>
+  </void>
+  <void property="title">
+   <string>Home - About ANU - ANU</string>
+  </void>
+ </object>
+</java>

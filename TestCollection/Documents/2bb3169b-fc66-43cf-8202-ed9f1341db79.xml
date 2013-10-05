@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Arts and Social Sciences
+Australian Government And Politics, Australian History (Excl. Aboriginal And ...</string>
+  </void>
+  <void property="docID">
+   <string>2bb3169b-fc66-43cf-8202-ed9f1341db79</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/pickering-pa</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Arts and Social Sciences
+Australian Government And Politics, Australian History (Excl. Aboriginal And ...</string>
+  </void>
+  <void property="title">
+   <string>Professor Paul Pickering</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Osborne, M 2005, &apos;An approach to parameter estimation and model selection in ...</string>
+  </void>
+  <void property="docID">
+   <string>70d8b4d1-d3e3-4b6e-a2b5-01fe562b146d</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/35438</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Osborne, M 2005, &apos;An approach to parameter estimation and model selection in ...</string>
+  </void>
+  <void property="title">
+   <string>An approach to parameter estimation and model selection in differential equations</string>
+  </void>
+ </object>
+</java>

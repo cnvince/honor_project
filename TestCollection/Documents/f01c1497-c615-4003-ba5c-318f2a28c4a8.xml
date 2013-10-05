@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.LibcataResult">
+  <void property="displaySummary">
+   <string>Bessell, Michael, 1942- 
+San Francisco : Astronomical Society of the Pacific, 2009</string>
+  </void>
+  <void property="docID">
+   <string>f01c1497-c615-4003-ba5c-318f2a28c4a8</string>
+  </void>
+  <void property="link">
+   <string>http://library.anu.edu.au/search~S8?/YBrian+Schmidt&amp;SORT=D/YBrian+Schmidt&amp;SORT=D&amp;SUBKEY=Brian+Schmidt/1%2C23%2C23%2CB/frameset&amp;FF=YBrian+Schmidt&amp;SORT=D&amp;2%2C2%2C</string>
+  </void>
+  <void property="source">
+   <int>1</int>
+  </void>
+  <void property="summary">
+   <string>Bessell, Michael, 1942- 
+San Francisco : Astronomical Society of the Pacific, 2009</string>
+  </void>
+  <void property="title">
+   <string>SkyMapper and the Southern Sky Survey : a valuable resource for stellar astrophysics</string>
+  </void>
+ </object>
+</java>

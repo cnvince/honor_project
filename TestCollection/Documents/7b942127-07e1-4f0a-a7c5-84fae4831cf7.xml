@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Nicol, M, Henadeera, D &amp; Butler, L 2007, &apos;NHMRC Grant Applications: A compari...</string>
+  </void>
+  <void property="docID">
+   <string>7b942127-07e1-4f0a-a7c5-84fae4831cf7</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/25547</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Nicol, M, Henadeera, D &amp; Butler, L 2007, &apos;NHMRC Grant Applications: A compari...</string>
+  </void>
+  <void property="title">
+   <string>NHMRC Grant Applications: A comparison of &quot;track record&quot; scores allocated by grant assessors with bibliometric analysis of publications</string>
+  </void>
+ </object>
+</java>

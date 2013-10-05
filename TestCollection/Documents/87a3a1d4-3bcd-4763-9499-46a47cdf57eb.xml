@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Brookfield, S, Kalliath, T &amp; Laiken, M 2006, &apos;Exploring the connections betwe...</string>
+  </void>
+  <void property="docID">
+   <string>87a3a1d4-3bcd-4763-9499-46a47cdf57eb</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/publications/41911</string>
+  </void>
+  <void property="source">
+   <int>9</int>
+  </void>
+  <void property="summary">
+   <string>Brookfield, S, Kalliath, T &amp; Laiken, M 2006, &apos;Exploring the connections betwe...</string>
+  </void>
+  <void property="title">
+   <string>Exploring the connections between adult and management education</string>
+  </void>
+ </object>
+</java>

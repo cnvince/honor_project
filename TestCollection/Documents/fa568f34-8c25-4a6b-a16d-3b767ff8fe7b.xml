@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Advancing Medical Image Analysis through High Performance Heterogeneous Compu...</string>
+  </void>
+  <void property="docID">
+   <string>fa568f34-8c25-4a6b-a16d-3b767ff8fe7b</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/1331</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Advancing Medical Image Analysis through High Performance Heterogeneous Compu...</string>
+  </void>
+  <void property="title">
+   <string>Advancing Medical Image Analysis through High Performance Heterogeneous Computing, Numerical Simulation, and Novel Human Computer Interfaces</string>
+  </void>
+ </object>
+</java>

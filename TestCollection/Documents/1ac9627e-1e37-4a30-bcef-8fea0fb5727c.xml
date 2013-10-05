@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>Boulais. Peter. Finance Manager. JAG. 36-L102. 54513.</string>
+  </void>
+  <void property="docID">
+   <string>1ac9627e-1e37-4a30-bcef-8fea0fb5727c</string>
+  </void>
+  <void property="link">
+   <string>http://directory.cmhs.anu.edu.au/</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>Boulais. Peter. Finance Manager. JAG. 36-L102. 54513.</string>
+  </void>
+  <void property="title">
+   <string>ANU - CMHS Intranet - CMHS Intranet</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>The Languages of Southern New Guinea, an unexplored Linguistic Hotspot</string>
+  </void>
+  <void property="docID">
+   <string>0fd6ba69-973c-47bc-9c1c-91693a6ed2d0</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/1393</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>The Languages of Southern New Guinea, an unexplored Linguistic Hotspot</string>
+  </void>
+  <void property="title">
+   <string>The Languages of Southern New Guinea, an unexplored Linguistic Hotspot</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Physical and Mathematical Sciences
+Classical And Physical Optics, Quantum Optics, Lasers And Quantum Electronics...</string>
+  </void>
+  <void property="docID">
+   <string>7d9d79ee-0e8c-4a23-ace7-b8de466e7b02</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/shaddock-da</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Physical and Mathematical Sciences
+Classical And Physical Optics, Quantum Optics, Lasers And Quantum Electronics...</string>
+  </void>
+  <void property="title">
+   <string>Professor Daniel Shaddock</string>
+  </void>
+ </object>
+</java>

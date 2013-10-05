@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.YoutubeResult">
+  <void property="displaySummary">
+   <string>This is the ninth session of Asia Pacific Week 2011, recorded on Thursday 14 July 2011 - The Australian National University. The session, Antagonism despite Alignment? Simulating crisis over Takeshima/Dokdo features Dr Brendan Taylor, Admiral Chris Barrie AC, Professor William Tow &amp; participants of APW2011.This session introduces Asia Pacific Week participants to a war-game simulation exercise. War gaming is a methodology that has been employed for several decades at the highest levels of government and in the corporate world. The Strategic and Defence Studies Centre periodically runs wargame exercises as a teaching tool in the classroom. In this wargame, Asia Pacific Week participants were invited to play the role of senior policymakers as they respond to a major strategic crisis between Japan and South Korea over the disputed Dokdo/Takeshima islands. Such a crisis could have significant ramifications for Asia&apos;s security order. Japan and South Korea are both American allies. Who would Washington choose? China is the leading trading partner of Japan and South Korea, but its relations with both countries have historically been troubled also. Would Beijing get involved? Could it afford not to? And would other players in the region such as North Korea and Taiwan try to take advantage of the crisis to advance their own precarious positions? Last but not least, what, if anything, would such a crisis mean for Australia? The ANU Asia Pacific Week is a four-day showcase of the Australian National University&apos;s work on Asia and the Pacific. It is an ANU student-driven initiative that brings together leading regional experts and a 100 of the world&apos;s top university students from around the world to engage in a series of academic and networking events focused on the Asia Pacific region. viewcount:0 Time:null</string>
+  </void>
+  <void property="docID">
+   <string>c000206f-22c3-4cb6-9b25-0a613f9d446a</string>
+  </void>
+  <void property="link">
+   <string>http://www.youtube.com/watch?v=B5JkCynSN-g</string>
+  </void>
+  <void property="source">
+   <int>4</int>
+  </void>
+  <void property="summary">
+   <string>This is the ninth session of Asia Pacific Week 2011, recorded on Thursday 14 July 2011 - The Australian National University. The session, Antagonism despite Alignment? Simulating crisis over Takeshima/Dokdo features Dr Brendan Taylor, Admiral Chris Barrie AC, Professor William Tow &amp; participants of APW2011.This session introduces Asia Pacific Week participants to a war-game simulation exercise. War gaming is a methodology that has been employed for several decades at the highest levels of government and in the corporate world. The Strategic and Defence Studies Centre periodically runs wargame exercises as a teaching tool in the classroom. In this wargame, Asia Pacific Week participants were invited to play the role of senior policymakers as they respond to a major strategic crisis between Japan and South Korea over the disputed Dokdo/Takeshima islands. Such a crisis could have significant ramifications for Asia&apos;s security order. Japan and South Korea are both American allies. Who would Washington choose? China is the leading trading partner of Japan and South Korea, but its relations with both countries have historically been troubled also. Would Beijing get involved? Could it afford not to? And would other players in the region such as North Korea and Taiwan try to take advantage of the crisis to advance their own precarious positions? Last but not least, what, if anything, would such a crisis mean for Australia? The ANU Asia Pacific Week is a four-day showcase of the Australian National University&apos;s work on Asia and the Pacific. It is an ANU student-driven initiative that brings together leading regional experts and a 100 of the world&apos;s top university students from around the world to engage in a series of academic and networking events focused on the Asia Pacific region.</string>
+  </void>
+  <void property="title">
+   <string>APW2011 War-game simulation: Antagonism despite Alignment? Simulating crisis over Takeshima/Dokdo</string>
+  </void>
+ </object>
+</java>

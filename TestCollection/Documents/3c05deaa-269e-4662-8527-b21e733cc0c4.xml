@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.TwitterResult">
+  <void property="docID">
+   <string>3c05deaa-269e-4662-8527-b21e733cc0c4</string>
+  </void>
+  <void property="link">
+   <string>https://twitter.com/ANUmedia/status/349382144847642625</string>
+  </void>
+  <void property="source">
+   <int>6</int>
+  </void>
+  <void property="title">
+   <string>Professor Hugh White on why the West should stay away from the Middle East http://bit.ly/16vClJO , via @theage</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.WebResult">
+  <void property="displaySummary">
+   <string>The Australian National University is unique among its contemporaries as the only Australian university established by an Act of Federal Parliament, in 1946.</string>
+  </void>
+  <void property="docID">
+   <string>653c77e0-a573-4873-880c-0728effb7c17</string>
+  </void>
+  <void property="link">
+   <string>http://www.anu.edu.au/about/history.php</string>
+  </void>
+  <void property="source">
+   <int>3</int>
+  </void>
+  <void property="summary">
+   <string>The Australian National University is unique among its contemporaries as the only Australian university established by an Act of Federal Parliament, in 1946.</string>
+  </void>
+  <void property="title">
+   <string>University history - About ANU - ANU</string>
+  </void>
+ </object>
+</java>

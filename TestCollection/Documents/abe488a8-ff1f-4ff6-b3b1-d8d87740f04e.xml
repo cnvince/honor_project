@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>ANU College of Engineering and Computer Science
+Environmental Science And Management, Renewable Power And Energy Systems Engi...</string>
+  </void>
+  <void property="docID">
+   <string>abe488a8-ff1f-4ff6-b3b1-d8d87740f04e</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/researchers/grant-ne</string>
+  </void>
+  <void property="source">
+   <int>8</int>
+  </void>
+  <void property="summary">
+   <string>ANU College of Engineering and Computer Science
+Environmental Science And Management, Renewable Power And Energy Systems Engi...</string>
+  </void>
+  <void property="title">
+   <string>Dr Nicholas Grant</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_10" class="java.beans.XMLDecoder">
+ <object class="com.results.ResearcherResult">
+  <void property="displaySummary">
+   <string>Localised Instabilities in Magnetically Confined Plasmas Heated By Radio Waves</string>
+  </void>
+  <void property="docID">
+   <string>f0135960-4f13-4619-95d0-ca18218a6298</string>
+  </void>
+  <void property="link">
+   <string>https://researchers.anu.edu.au/projects/76</string>
+  </void>
+  <void property="source">
+   <int>10</int>
+  </void>
+  <void property="summary">
+   <string>Localised Instabilities in Magnetically Confined Plasmas Heated By Radio Waves</string>
+  </void>
+  <void property="title">
+   <string>Localised Instabilities in Magnetically Confined Plasmas Heated By Radio Waves</string>
+  </void>
+ </object>
+</java>
